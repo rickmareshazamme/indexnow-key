@@ -94,6 +94,34 @@ def get_published_sites() -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# Duda API — get site pages
+# ---------------------------------------------------------------------------
+
+
+def get_site_pages(site_name: str, domain: str) -> list[str]:
+    """Get all page URLs for a Duda site."""
+    auth = "Basic " + base64.b64encode(f"{DUDA_USER}:{DUDA_PASS}".encode()).decode()
+    try:
+        resp = requests.get(
+            f"{DUDA_API}/api/sites/multiscreen/site/{site_name}/pages",
+            headers={"Authorization": auth},
+            timeout=30,
+        )
+        if resp.status_code != 200:
+            return []
+        pages = resp.json()
+        urls = []
+        for page in pages:
+            path = page.get("page_path", "")
+            if path and not page.get("seo", {}).get("no_index", False):
+                url = f"https://{domain}/{path}" if path != "home" else f"https://{domain}/"
+                urls.append(url)
+        return urls
+    except Exception:
+        return []
+
+
+# ---------------------------------------------------------------------------
 # Shazamme API — get jobs for a site
 # ---------------------------------------------------------------------------
 
@@ -141,16 +169,8 @@ def submit_to_indexnow(urls: list[str], domain: str) -> bool:
         return False
 
 
-def ping_google_sitemap(domain: str) -> bool:
-    try:
-        resp = requests.get(
-            "https://www.google.com/ping",
-            params={"sitemap": f"https://{domain}/sitemap.xml"},
-            timeout=30,
-        )
-        return resp.status_code == 200
-    except Exception:
-        return False
+
+
 
 
 # ---------------------------------------------------------------------------
@@ -180,18 +200,24 @@ def run(dry_run: bool = False, full: bool = False, site_filter: str = None):
 
     total_new = 0
     total_submitted = 0
-    sites_with_new_jobs = 0
+    sites_with_new_content = 0
 
     for i, site in enumerate(sites, 1):
         site_name = site["site_name"]
+        domain = site.get("site_domain", site.get("site_default_domain", ""))
+        if not domain:
+            continue
+
+        new_urls = []
+
+        # Get site pages
+        page_urls = get_site_pages(site_name, domain)
+        for url in page_urls:
+            if url not in submitted:
+                new_urls.append(url)
 
         # Get jobs for this site
         jobs = get_jobs(site_name)
-        if not jobs:
-            continue
-
-        # Find new job URLs not yet submitted
-        new_urls = []
         for job in jobs:
             job_data = job.get("data", job)
             url = job_data.get("jobURL")
@@ -201,20 +227,19 @@ def run(dry_run: bool = False, full: bool = False, site_filter: str = None):
         if not new_urls:
             continue
 
-        # Get domain from first URL
-        from urllib.parse import urlparse
-        domain = urlparse(new_urls[0]).netloc
-
         total_new += len(new_urls)
-        sites_with_new_jobs += 1
+        sites_with_new_content += 1
 
-        print(f"  [{i}/{len(sites)}] {site_name} ({domain}): {len(new_urls)} new jobs")
+        job_count = sum(1 for u in new_urls if "/job-details/" in u)
+        page_count = len(new_urls) - job_count
+
+        print(f"  [{i}/{len(sites)}] {site_name} ({domain}): {page_count} pages, {job_count} jobs")
 
         if dry_run:
-            for url in new_urls[:3]:
+            for url in new_urls[:5]:
                 print(f"    WOULD SUBMIT: {url}")
-            if len(new_urls) > 3:
-                print(f"    ... and {len(new_urls) - 3} more")
+            if len(new_urls) > 5:
+                print(f"    ... and {len(new_urls) - 5} more")
             continue
 
         # Submit to IndexNow
@@ -227,10 +252,6 @@ def run(dry_run: bool = False, full: bool = False, site_filter: str = None):
         else:
             print(f"    IndexNow: FAILED")
 
-        # Ping Google sitemap
-        google_ok = ping_google_sitemap(domain)
-        print(f"    Google sitemap ping: {'OK' if google_ok else 'FAILED'}")
-
         # Rate limit between sites
         time.sleep(0.5)
 
@@ -240,8 +261,8 @@ def run(dry_run: bool = False, full: bool = False, site_filter: str = None):
         save_state(state)
 
     print(f"\n{'DRY RUN ' if dry_run else ''}Summary:")
-    print(f"  Sites with new jobs: {sites_with_new_jobs}")
-    print(f"  New job URLs found: {total_new}")
+    print(f"  Sites with new content: {sites_with_new_content}")
+    print(f"  New URLs found: {total_new}")
     print(f"  URLs submitted: {total_submitted if not dry_run else 'N/A (dry run)'}")
     print(f"  Total URLs tracked: {len(submitted)}")
 
