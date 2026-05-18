@@ -1,0 +1,26 @@
+name: Index New Jobs
+
+on:
+  schedule:
+    - cron: '7,22,37,52 * * * *'  # Every 15 minutes
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run IndexNow cron
+        run: python indexnow_cron.py
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+          DUDA_API_USER: ${{ secrets.DUDA_API_USER }}
+          DUDA_API_PASS: ${{ secrets.DUDA_API_PASS }}
