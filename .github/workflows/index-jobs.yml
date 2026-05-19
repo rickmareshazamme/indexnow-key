@@ -1,9 +1,12 @@
-name: Index New Jobs
+name: Index & Feed Jobs
 
 on:
   schedule:
     - cron: '7,22,37,52 * * * *'  # Every 15 minutes
-  workflow_dispatch: # Manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   index:
@@ -30,3 +33,30 @@ jobs:
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
           DUDA_API_USER: ${{ secrets.DUDA_API_USER }}
           DUDA_API_PASS: ${{ secrets.DUDA_API_PASS }}
+
+  feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate job feeds
+        run: python generate_feeds.py --out public
+        env:
+          DUDA_API_USER: ${{ secrets.DUDA_API_USER }}
+          DUDA_API_PASS: ${{ secrets.DUDA_API_PASS }}
+
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
+          force_orphan: true
+          commit_message: "feeds: update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
