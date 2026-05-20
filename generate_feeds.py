@@ -6,7 +6,7 @@ Jooble, Talent.com, PostJobFree, ZipRecruiter, Monster, and most aggregators).
 
 Outputs:
     feeds/<duda_site_id>.xml   — per-site feed
-    feeds/all.xml              — combined feed of all live jobs
+    feeds/feeds.txt            — newline-delimited list of every feed URL
     feeds/index.html           — human-readable index of every feed URL
 
 Usage:
@@ -188,7 +188,7 @@ def write_feed(path: str, jobs_xml: list[str]) -> None:
         f.write(xml)
 
 
-def write_index(path: str, entries: list[dict]) -> None:
+def write_index(path: str, entries: list[dict], base_url: str) -> None:
     rows = "\n".join(
         f'      <tr><td>{html.escape(e["name"])}</td>'
         f'<td>{html.escape(e["domain"])}</td>'
@@ -196,6 +196,7 @@ def write_index(path: str, entries: list[dict]) -> None:
         f'<td><a href="{html.escape(e["site_id"])}.xml">{html.escape(e["site_id"])}.xml</a></td></tr>'
         for e in entries
     )
+    total_jobs = sum(e["jobs"] for e in entries)
     page = f"""<!doctype html>
 <html><head><meta charset="utf-8"><title>Shazamme Job Feeds</title>
 <style>body{{font-family:system-ui,sans-serif;max-width:1000px;margin:2em auto;padding:0 1em}}
@@ -203,8 +204,8 @@ table{{border-collapse:collapse;width:100%}}td,th{{border-bottom:1px solid #ddd;
 code{{background:#f4f4f4;padding:.1em .3em;border-radius:3px}}</style>
 </head><body>
 <h1>Shazamme Job Feeds</h1>
-<p>Indeed/HR-XML compatible feeds for {len(entries)} live sites. Updated every 15 minutes.</p>
-<p>Combined feed: <a href="all.xml">all.xml</a></p>
+<p>Indeed/HR-XML compatible feeds for {len(entries)} live sites, {total_jobs:,} total jobs. Updated every 15 minutes.</p>
+<p>All feed URLs (one per line): <a href="feeds.txt">feeds.txt</a></p>
 <table><thead><tr><th>Site</th><th>Domain</th><th>Jobs</th><th>Feed</th></tr></thead>
 <tbody>
 {rows}
@@ -215,7 +216,13 @@ code{{background:#f4f4f4;padding:.1em .3em;border-radius:3px}}</style>
         f.write(page)
 
 
-def run(out_dir: str, site_filter: str | None = None) -> None:
+def write_feed_list(path: str, entries: list[dict], base_url: str) -> None:
+    with open(path, "w") as f:
+        for e in entries:
+            f.write(f"{base_url.rstrip('/')}/{e['site_id']}.xml\n")
+
+
+def run(out_dir: str, site_filter: str | None = None, base_url: str = "") -> None:
     os.makedirs(out_dir, exist_ok=True)
 
     if site_filter:
@@ -226,7 +233,7 @@ def run(out_dir: str, site_filter: str | None = None) -> None:
         print(f"Found {len(sites)} published sites")
 
     entries = []
-    all_jobs_xml = []
+    total_jobs = 0
 
     for i, site in enumerate(sites, 1):
         site_id = site["site_name"]
@@ -242,7 +249,7 @@ def run(out_dir: str, site_filter: str | None = None) -> None:
 
         feed_path = os.path.join(out_dir, f"{site_id}.xml")
         write_feed(feed_path, jobs_xml)
-        all_jobs_xml.extend(jobs_xml)
+        total_jobs += len(jobs_xml)
         entries.append({
             "site_id": site_id,
             "name": site.get("site_business_info", {}).get("business_name") or domain or site_id,
@@ -252,19 +259,24 @@ def run(out_dir: str, site_filter: str | None = None) -> None:
         print(f"  [{i}/{len(sites)}] {site_id} ({domain}): {len(jobs_xml)} jobs")
         time.sleep(0.2)
 
-    if all_jobs_xml and not site_filter:
-        write_feed(os.path.join(out_dir, "all.xml"), all_jobs_xml)
-        write_index(os.path.join(out_dir, "index.html"), entries)
+    if entries and not site_filter:
+        write_index(os.path.join(out_dir, "index.html"), entries, base_url)
+        write_feed_list(os.path.join(out_dir, "feeds.txt"), entries, base_url)
 
-    print(f"\nGenerated {len(entries)} feeds, {len(all_jobs_xml)} total jobs → {out_dir}/")
+    print(f"\nGenerated {len(entries)} feeds, {total_jobs} total jobs → {out_dir}/")
 
 
 def main():
     parser = argparse.ArgumentParser(description="Generate XML job feeds")
     parser.add_argument("--out", default="feeds", help="Output directory (default: feeds)")
     parser.add_argument("--site", help="Single Duda site ID")
+    parser.add_argument(
+        "--base-url",
+        default="https://rickmareshazamme.github.io/indexnow-key",
+        help="Public URL where feeds will be served (used in feeds.txt)",
+    )
     args = parser.parse_args()
-    run(args.out, args.site)
+    run(args.out, args.site, args.base_url)
 
 
 if __name__ == "__main__":

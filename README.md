@@ -20,9 +20,9 @@ Per-site feed URL pattern:
 https://rickmareshazamme.github.io/indexnow-key/<duda_site_id>.xml
 ```
 
-Combined feed (all sites, every live job):
+All feed URLs as a newline-delimited list (for bulk import to aggregators):
 ```
-https://rickmareshazamme.github.io/indexnow-key/all.xml
+https://rickmareshazamme.github.io/indexnow-key/feeds.txt
 ```
 
 The IndexNow key (`9ed162af85e84f97b22234647c7bd399`) is verified by serving `9ed162af85e84f97b22234647c7bd399.txt` from each Shazamme site root.
@@ -33,7 +33,7 @@ Once feeds are live, register the feed URL with each board (most are one-time fo
 
 | Board | Type | URL to register | Notes |
 |---|---|---|---|
-| CareerJet | Free XML feed | partners.careerjet.com | Submit `all.xml` or per-site |
+| CareerJet | Free XML feed | partners.careerjet.com | Submit per-site feed URLs |
 | Jooble | Free XML feed | jooble.org/jobs-partners | Free organic feed |
 | Talent.com (Neuvoo) | Free + paid | talent.com/partner | Free organic, paid CPC available |
 | PostJobFree | Free XML feed | postjobfree.com/free-job-posting | Submit feed URL |
