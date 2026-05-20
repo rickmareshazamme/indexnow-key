@@ -15,6 +15,8 @@ Every 15 minutes the GitHub Actions workflow:
 
 Published feed index: **https://rickmareshazamme.github.io/indexnow-key/**
 
+IndexNow coverage audit: **https://rickmareshazamme.github.io/indexnow-key/audit.html** (per-site count of known URLs vs. URLs submitted to IndexNow, refreshed every 15 min). Source of truth for *indexed* status remains [Bing Webmaster Tools](https://www.bing.com/webmasters).
+
 Per-site feed URL pattern:
 ```
 https://rickmareshazamme.github.io/indexnow-key/<duda_site_id>.xml
@@ -90,6 +92,19 @@ python indexnow_cron.py --site <id>    # one site only
 python generate_feeds.py               # writes to feeds/
 python generate_feeds.py --out public  # custom dir
 python generate_feeds.py --site <id>   # one site only
+```
+
+## Verifying coverage
+
+Three ways to check that IndexNow has every URL:
+
+1. **`audit.html`** (this repo) — for each site, shows known URLs vs. submitted URLs vs. missing. 100% coverage means every page + job URL has been pushed to IndexNow at least once. Updated every 15 min.
+2. **Cron logs** — every workflow run prints `New URLs found: N`. In steady state, N should be small (only freshly added jobs from the last 15 min).
+3. **Bing Webmaster Tools** ([bing.com/webmasters](https://www.bing.com/webmasters)) — the only authoritative source for *indexed* status (submitted ≠ indexed). Verify a handful of flagship Shazamme domains and use them as a proxy; verifying all 451 manually isn't realistic.
+
+Local audit:
+```bash
+python indexnow_cron.py --dry-run --report ./audit   # writes audit/audit.json + audit.html
 ```
 
 ## Manual trigger

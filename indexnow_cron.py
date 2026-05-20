@@ -17,12 +17,16 @@ Usage:
     # Dry run (show what would be submitted)
     python indexnow_cron.py --dry-run
 
+    # Write a per-site coverage report to public/audit.json + public/audit.html
+    python indexnow_cron.py --report public
+
 Set up as a cron job (every 15 minutes):
     */15 * * * * cd /path/to/dir && python3 indexnow_cron.py >> indexnow_cron.log 2>&1
 """
 
 import argparse
 import base64
+import html
 import json
 import os
 import sys
@@ -178,7 +182,50 @@ def submit_to_indexnow(urls: list[str], domain: str) -> bool:
 # ---------------------------------------------------------------------------
 
 
-def run(dry_run: bool = False, full: bool = False, site_filter: str = None):
+def write_audit(report_dir: str, audit: list, summary: dict) -> None:
+    os.makedirs(report_dir, exist_ok=True)
+    json_path = os.path.join(report_dir, "audit.json")
+    with open(json_path, "w") as f:
+        json.dump({"summary": summary, "sites": audit}, f, indent=2)
+
+    audit_sorted = sorted(audit, key=lambda r: (r["missing"], -r["total"]), reverse=True)
+    rows = "\n".join(
+        f'      <tr><td>{html.escape(r["domain"] or r["site_id"])}</td>'
+        f'<td>{r["total"]}</td><td>{r["submitted"]}</td>'
+        f'<td class="{"miss" if r["missing"] else "ok"}">{r["missing"]}</td>'
+        f'<td>{r["coverage"]:.0%}</td></tr>'
+        for r in audit_sorted
+    )
+    page = f"""<!doctype html>
+<html><head><meta charset="utf-8"><title>IndexNow Coverage Audit</title>
+<style>body{{font-family:system-ui,sans-serif;max-width:1100px;margin:2em auto;padding:0 1em}}
+table{{border-collapse:collapse;width:100%}}td,th{{border-bottom:1px solid #ddd;padding:.45em;text-align:left}}
+.ok{{color:#0a7}}.miss{{color:#c33;font-weight:600}}
+.kpi{{display:flex;gap:2em;margin:1.5em 0}}
+.kpi div{{padding:.5em 1em;background:#f4f4f4;border-radius:6px}}
+.kpi b{{display:block;font-size:1.5em}}</style></head><body>
+<h1>IndexNow Coverage Audit</h1>
+<p>Last run: <code>{html.escape(summary["last_run"])}</code></p>
+<div class="kpi">
+  <div><b>{summary["total_sites"]}</b>sites</div>
+  <div><b>{summary["total_urls"]:,}</b>URLs known</div>
+  <div><b>{summary["submitted_urls"]:,}</b>submitted</div>
+  <div><b>{summary["missing_urls"]:,}</b>missing</div>
+  <div><b>{summary["overall_coverage"]:.1%}</b>coverage</div>
+</div>
+<table><thead><tr><th>Domain</th><th>Known URLs</th><th>Submitted</th><th>Missing</th><th>Coverage</th></tr></thead>
+<tbody>
+{rows}
+</tbody></table>
+<p style="margin-top:2em;color:#666"><small>Coverage = (submitted ÷ known). 100% means every page + job URL has been pushed to IndexNow at least once. Source of truth for indexing status is <a href="https://www.bing.com/webmasters">Bing Webmaster Tools</a>.</small></p>
+</body></html>
+"""
+    with open(os.path.join(report_dir, "audit.html"), "w") as f:
+        f.write(page)
+    print(f"Audit written: {json_path} + audit.html")
+
+
+def run(dry_run: bool = False, full: bool = False, site_filter: str = None, report_dir: str = None):
     now = datetime.now(timezone.utc).isoformat()
     state = load_state()
     submitted = state.get("submitted_urls", {})
@@ -201,6 +248,7 @@ def run(dry_run: bool = False, full: bool = False, site_filter: str = None):
     total_new = 0
     total_submitted = 0
     sites_with_new_content = 0
+    audit = []
 
     for i, site in enumerate(sites, 1):
         site_name = site["site_name"]
@@ -208,52 +256,52 @@ def run(dry_run: bool = False, full: bool = False, site_filter: str = None):
         if not domain:
             continue
 
-        new_urls = []
-
-        # Get site pages
         page_urls = get_site_pages(site_name, domain)
-        for url in page_urls:
-            if url not in submitted:
-                new_urls.append(url)
-
-        # Get jobs for this site
         jobs = get_jobs(site_name)
-        for job in jobs:
-            job_data = job.get("data", job)
-            url = job_data.get("jobURL")
-            if url and url not in submitted:
-                new_urls.append(url)
+        job_urls = [
+            (j.get("data", j).get("jobURL"))
+            for j in jobs
+            if j.get("data", j).get("jobURL")
+        ]
 
-        if not new_urls:
-            continue
+        all_urls = set(page_urls) | set(job_urls)
+        new_urls = [u for u in all_urls if u not in submitted]
 
-        total_new += len(new_urls)
-        sites_with_new_content += 1
+        if new_urls:
+            total_new += len(new_urls)
+            sites_with_new_content += 1
+            job_count = sum(1 for u in new_urls if "/job-details/" in u)
+            page_count = len(new_urls) - job_count
+            print(f"  [{i}/{len(sites)}] {site_name} ({domain}): {page_count} pages, {job_count} jobs")
 
-        job_count = sum(1 for u in new_urls if "/job-details/" in u)
-        page_count = len(new_urls) - job_count
+            if dry_run:
+                for url in new_urls[:5]:
+                    print(f"    WOULD SUBMIT: {url}")
+                if len(new_urls) > 5:
+                    print(f"    ... and {len(new_urls) - 5} more")
+            else:
+                success = submit_to_indexnow(new_urls, domain)
+                if success:
+                    total_submitted += len(new_urls)
+                    for url in new_urls:
+                        submitted[url] = now
+                    print(f"    IndexNow: OK ({len(new_urls)} URLs)")
+                else:
+                    print(f"    IndexNow: FAILED")
+                time.sleep(0.5)
 
-        print(f"  [{i}/{len(sites)}] {site_name} ({domain}): {page_count} pages, {job_count} jobs")
-
-        if dry_run:
-            for url in new_urls[:5]:
-                print(f"    WOULD SUBMIT: {url}")
-            if len(new_urls) > 5:
-                print(f"    ... and {len(new_urls) - 5} more")
-            continue
-
-        # Submit to IndexNow
-        success = submit_to_indexnow(new_urls, domain)
-        if success:
-            total_submitted += len(new_urls)
-            for url in new_urls:
-                submitted[url] = now
-            print(f"    IndexNow: OK ({len(new_urls)} URLs)")
-        else:
-            print(f"    IndexNow: FAILED")
-
-        # Rate limit between sites
-        time.sleep(0.5)
+        if report_dir and all_urls:
+            sub_count = sum(1 for u in all_urls if u in submitted)
+            audit.append({
+                "site_id": site_name,
+                "domain": domain,
+                "pages": len(page_urls),
+                "jobs": len(job_urls),
+                "total": len(all_urls),
+                "submitted": sub_count,
+                "missing": len(all_urls) - sub_count,
+                "coverage": sub_count / len(all_urls) if all_urls else 1.0,
+            })
 
     # Save state
     if not dry_run:
@@ -266,15 +314,29 @@ def run(dry_run: bool = False, full: bool = False, site_filter: str = None):
     print(f"  URLs submitted: {total_submitted if not dry_run else 'N/A (dry run)'}")
     print(f"  Total URLs tracked: {len(submitted)}")
 
+    if report_dir and audit:
+        total_urls = sum(r["total"] for r in audit)
+        submitted_urls = sum(r["submitted"] for r in audit)
+        summary = {
+            "last_run": now,
+            "total_sites": len(audit),
+            "total_urls": total_urls,
+            "submitted_urls": submitted_urls,
+            "missing_urls": total_urls - submitted_urls,
+            "overall_coverage": submitted_urls / total_urls if total_urls else 1.0,
+        }
+        write_audit(report_dir, audit, summary)
+
 
 def main():
     parser = argparse.ArgumentParser(description="IndexNow cron job for Shazamme jobs")
     parser.add_argument("--dry-run", action="store_true", help="Preview without submitting")
     parser.add_argument("--full", action="store_true", help="Re-index all jobs (ignore state)")
     parser.add_argument("--site", type=str, help="Run for a specific Duda site ID only")
+    parser.add_argument("--report", type=str, help="Write audit.json + audit.html to this directory")
     args = parser.parse_args()
 
-    run(dry_run=args.dry_run, full=args.full, site_filter=args.site)
+    run(dry_run=args.dry_run, full=args.full, site_filter=args.site, report_dir=args.report)
 
 
 if __name__ == "__main__":

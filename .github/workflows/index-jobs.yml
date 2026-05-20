@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  index:
+  run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -27,24 +27,12 @@ jobs:
           path: .indexnow_state.json
           key: indexnow-state
 
-      - name: Run IndexNow cron
-        run: python indexnow_cron.py
+      - name: Run IndexNow cron + write audit report
+        run: python indexnow_cron.py --report public
         env:
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
           DUDA_API_USER: ${{ secrets.DUDA_API_USER }}
           DUDA_API_PASS: ${{ secrets.DUDA_API_PASS }}
-
-  feeds:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-
-      - name: Install dependencies
-        run: pip install requests
 
       - name: Generate job feeds
         run: python generate_feeds.py --out public
@@ -59,4 +47,4 @@ jobs:
           publish_dir: ./public
           publish_branch: gh-pages
           force_orphan: true
-          commit_message: "feeds: update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          commit_message: "feeds + audit: update $(date -u +%Y-%m-%dT%H:%M:%SZ)"

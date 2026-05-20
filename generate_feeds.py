@@ -205,7 +205,7 @@ code{{background:#f4f4f4;padding:.1em .3em;border-radius:3px}}</style>
 </head><body>
 <h1>Shazamme Job Feeds</h1>
 <p>Indeed/HR-XML compatible feeds for {len(entries)} live sites, {total_jobs:,} total jobs. Updated every 15 minutes.</p>
-<p>All feed URLs (one per line): <a href="feeds.txt">feeds.txt</a></p>
+<p>All feed URLs (one per line): <a href="feeds.txt">feeds.txt</a> &middot; IndexNow coverage report: <a href="audit.html">audit.html</a></p>
 <table><thead><tr><th>Site</th><th>Domain</th><th>Jobs</th><th>Feed</th></tr></thead>
 <tbody>
 {rows}
