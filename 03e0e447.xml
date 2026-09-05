@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sat, 05 Sep 2026 18:39:23 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Data Analyst (sql) ]]></title>
+    <date><![CDATA[Thu, 03 Sep 2026 13:17:56 +0000]]></date>
+    <referencenumber><![CDATA[BBBH504620]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/data-analyst-sql-in-software-development-jobs-1708525]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[London]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>We are seeking a highly motivated Data Analyst to join a Global Customer Success Data Science Team, based in London, UK, focusing on building core data capabilities across multiple global regions and markets. This role is critical in addressing analytics gaps by enabling actionable insights, automating dashboards, and ensuring consistent, reliable data foundations.<br /><br />This is a team that is actively building AI-native analytics capabilities — not experimenting with AI in the margins, but embedding it into core workflows. You'll be expected to bring genuine enthusiasm for AI, apply it in your day-to-day work, and contribute to an AI-focused workstream that is automating insights, reducing manual reporting, and advancing predictive capabilities across international markets.</p>
+<p><br />Key Responsibilities<br />• Building robust data foundations: Collaborate with engineering to develop pipelines, improve data integrity, and establish clear metric definitions and governance tailored for International markets. Build data capabilities that work consistently across multiple regions and countries, while tailoring requirements to specific local needs (e.g., regulatory, language, or workflow differences). Automate recurring reporting and validation processes to increase accuracy and efficiency. Ensure data structures and taxonomies are built for downstream AI consumption and model-readiness.<br />• Developing actionable dashboards &amp; reporting: Create and maintain scalable, user-friendly dashboards that provide visibility into key performance metrics. Think broadly across the end-to-end customer journey — designing reporting that connects metrics across touchpoints rather than optimizing in silos — so that International teams have timely, market-relevant insights to make data-informed decisions.<br /><br /></p>
+<p>Skills<br />________________________________________<br />• experience in Data Analytics , ideally with exposure to Customer Success, Operations, or Digital Experience domains<br />• Proficiency in SQL for data extraction, transformation, and pipeline development<br />• Experience with dashboarding and visualization tools (Tableau, Qlik, or similar)<br />• Familiarity with big data tools (Snowflake, Databricks, Spark) and ETL processes<br />• Experience with Python or R for advanced analytics, automation, or experimentation support preferred<br />• Knowledge of statistical methods and experimentation (A/B testing) preferred<br />• Machine learning and Generative AI experience is a plus<br /><br /><br /></p>]]></description>
+    <salary><![CDATA[INSIDE IR35]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Automation Engineer]]></title>
+    <date><![CDATA[Thu, 03 Sep 2026 11:39:36 +0000]]></date>
+    <referencenumber><![CDATA[BBBH504614]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/automation-engineer-in-software-development-jobs-1708478]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[London]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<h1>IT Specialist - Application Upgrades &amp; Automation Engineer</h1>
+<p><br /><strong>Location:</strong> Hybrid (50% onsite)<br /> <strong>Contract Length:</strong> 6 Months<br /> <strong>Rate:</strong> Up to <strong>£400-£450 per day Umbrella</strong> (depending on experience)<br /> <strong>Security Clearance:</strong> SC Clearance</p>
+<h2>Overview</h2>
+<p><br />We are seeking an experienced <strong>IT Specialist</strong> to support a major programme of application upgrades, migrations, and future platform modernisation initiatives within a large and complex enterprise environment. <br />This role will focus on delivering application and infrastructure upgrade activities across both <strong>Windows and Linux platforms</strong>, while driving automation and engineering best practices. The successful candidate will play a key role in ensuring applications remain secure, vendor-supported, and aligned with operational standards. <br />Working closely with application, infrastructure, and engineering teams, you will be responsible for planning and executing upgrades, troubleshooting issues, implementing automation solutions, and contributing to the organisation's wider technology objectives. <br />Strong communication skills are essential, as the role requires regular collaboration with technical and non-technical stakeholders.</p>
+<h2>Key Responsibilities</h2>
+<ul>
+<li>Plan, coordinate and deliver application upgrades, migrations, and platform refresh activities.</li>
+<li>Ensure applications remain compliant with vendor support lifecycles and security requirements.</li>
+<li>Administer and support enterprise applications across Windows and Linux environments.</li>
+<li>Troubleshoot application, middleware, database, and infrastructure-related issues.</li>
+<li>Perform root cause analysis and implement long-term solutions to recurring problems.</li>
+<li>Develop and maintain operational documentation, procedures, and support runbooks.</li>
+<li>Identify opportunities to automate manual operational processes and improve efficiency.</li>
+<li>Build and maintain automation solutions using PowerShell, Bash, Python, Ansible, or similar technologies.</li>
+<li>Design, develop, and support CI/CD deployment pipelines.</li>
+<li>Promote Infrastructure as Code (IaC) and DevOps best practices across the technology estate.</li>
+<li>Support application release management and deployment activities.</li>
+<li>Collaborate with engineering, infrastructure, and operational teams to ensure successful delivery of upgrades and enhancements.</li>
+<li>Provide documentation, knowledge transfer, and technical guidance where required.</li>
+</ul>
+<h2>Essential Skills &amp; Experience</h2>
+<ul>
+<li>Strong experience administering enterprise applications across both <strong>Windows and Linux environments</strong>.</li>
+<li>Proven experience delivering application and platform upgrades within production environments.</li>
+<li>Hands-on experience with scripting and automation using <strong>PowerShell, Bash, Python</strong>, or similar technologies.</li>
+<li>Experience with configuration management tools such as <strong>Ansible</strong>.</li>
+<li>Strong understanding of application servers, middleware technologies, and databases.</li>
+<li>Excellent troubleshooting, diagnostic, and root cause analysis skills.</li>
+<li>Experience working within large-scale enterprise organisations.</li>
+<li>Ability to manage multiple priorities and work effectively within structured change and release processes.</li>
+<li>Strong stakeholder management and communication skills.</li>
+</ul>
+<h2>Desirable Skills &amp; Experience</h2>
+<ul>
+<li>Experience integrating <strong>Artifactory, Xray, and SonarQube</strong> into CI/CD pipelines.</li>
+<li>Knowledge of application release management, dependency management, and repository governance.</li>
+<li>Experience designing, implementing, and maintaining <strong>GitHub Actions</strong> CI/CD pipelines.</li>
+<li>Experience with monitoring, logging, and observability tooling.</li>
+<li>Exposure to Infrastructure as Code and modern DevOps delivery practices.</li>
+<li>Previous experience working within highly regulated environments.</li>
+<li>Active SC Clearance or eligibility to obtain clearance.</li>
+</ul>
+<h2>What's on Offer</h2>
+<ul>
+<li>Opportunity to work on a large-scale application modernisation and upgrade programme.</li>
+<li>Exposure to complex enterprise environments spanning Windows and Linux technologies.</li>
+<li>Work with modern automation, DevOps, and CI/CD tooling.</li>
+<li>Competitive day rate of up to <strong>£450 per day Umbrella</strong>.</li>
+<li>Initial <strong>6-month contract</strong> with potential for extension.</li>
+<li>Hybrid working model with <strong>50% onsite presence required</strong>.</li>
+</ul>]]></description>
+    <salary><![CDATA[inside ir35]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Product Owner (Data)]]></title>
+    <date><![CDATA[Wed, 02 Sep 2026 06:03:53 +0000]]></date>
+    <referencenumber><![CDATA[BBBH502691]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/product-owner-data-in-software-development-jobs-1707041]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[City of London]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong><span style="text-decoration: underline;">Data Product Owner</span></strong></p>
+<p> </p>
+<p><strong>London | Contract | Inside IR35 | Up to £850 per day</strong></p>
+<p> </p>
+<p>Data Product Owner | Financial Services Transformation Programme</p>
+<p>We are supporting a major financial services transformation programme and are seeking an experienced <strong>Data Product Owner</strong> to lead a strategic data domain through a period of significant platform and business change.</p>
+<p> </p>
+<p>This is a high-impact role for someone who can operate at the intersection of business and technology, defining how data delivers value to the organisation while driving alignment across senior stakeholders and delivery teams.</p>
+<p> </p>
+<p>The successful candidate will own their data domain end-to-end, translating business objectives into a clear and prioritised roadmap, managing competing demands, and acting as the primary decision-maker between business consumers and engineering teams.</p>
+<p> </p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>Own the business-facing strategy and roadmap for a key data domain.</li>
+<li>Define, prioritise and manage requirements based on business value and organisational objectives.</li>
+<li>Act as the primary liaison between business stakeholders and technical delivery teams.</li>
+<li>Drive product decisions and maintain alignment with strategic goals.</li>
+<li>Manage senior stakeholder expectations and resolve competing priorities.</li>
+<li>Ensure successful delivery of data capabilities through major platform transformation initiatives.</li>
+<li>Champion the adoption and effective use of data products across the organisation.</li>
+<li>Measure and communicate business value delivered through data initiatives.</li>
+</ul>
+<p> </p>
+<p><strong>Experience Required</strong></p>
+<ul>
+<li>Proven experience as a Data Product Owner, Data Product Manager, or equivalent role.</li>
+<li>Experience owning a business-critical data product, platform or domain.</li>
+<li>Demonstrable track record of delivering through significant technology, platform or organisational change.</li>
+<li>Strong stakeholder engagement skills with the ability to influence senior business leaders.</li>
+<li>Experience operating within complex, enterprise-scale environments.</li>
+<li>Ability to translate business challenges into clear, actionable delivery plans.</li>
+</ul>
+<p> </p>
+<p><strong>Desirable Experience</strong></p>
+<ul>
+<li>Financial services, banking or other regulated industry experience.</li>
+<li>Experience working on enterprise-wide data transformation programmes.</li>
+<li>Exposure to cloud-based data platforms and modern data architectures.</li>
+<li>Familiarity with Databricks and/or dbt.</li>
+<li>Experience working closely with Data Architects, Data Engineers and delivery teams.</li>
+</ul>
+<p> </p>
+<p><strong>Contract Details</strong></p>
+<ul>
+<li><strong>Rate:</strong> Up to <strong>£850 per day</strong></li>
+<li><strong>Engagement:</strong> Inside IR35</li>
+<li><strong>Duration:</strong> Initial contract running through to December, with potential for extension</li>
+<li><strong>Location:</strong> London (subject to confirmation)</li>
+<li><strong>Start Date:</strong> ASAP / Short notice preferred</li>
+</ul>
+<p> </p>
+<p><strong>Apply</strong></p>
+<p>If you have a strong background in data product ownership, stakeholder leadership, and delivering successful outcomes through transformation programmes, please apply with your latest CV for immediate consideration.</p>]]></description>
+    <salary><![CDATA[INSIDE IR35]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.5123443]]></latitude>
+    <longitude><![CDATA[-0.0909852]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[SC Cleared Technical Delivery Manager]]></title>
+    <date><![CDATA[Fri, 28 Aug 2026 12:21:12 +0000]]></date>
+    <referencenumber><![CDATA[BBBH503151]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/sc-cleared-technical-delivery-manager-in-software-development-jobs-1702439]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[London]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<h1><span style="text-decoration: underline;"><strong>Technical Delivery Manager</strong></span></h1>
+<p><br /><strong>Contract: 6 Months</strong><br /><strong> Security Clearance: Active SC Clearance Required</strong><br /><strong> Sector: Public Sector / Policing</strong></p>
+<h2>Overview</h2>
+<p><br />We are looking for an experienced <strong>Technical Delivery Manager</strong> to provide delivery leadership and coordination for a high-profile technology pilot within a policing environment. <br />Working across customer stakeholders, delivery teams, suppliers, and partner organisations, you will play a key role in ensuring successful delivery through effective planning, governance, reporting, stakeholder engagement, and risk management. <br />This is an excellent opportunity for an experienced delivery professional who is comfortable operating within complex, highly regulated environments and managing multiple stakeholders with competing priorities.</p>
+<h2>Key Responsibilities</h2>
+<ul>
+<li>Coordinate delivery activities across stakeholders, suppliers, and workstreams.</li>
+<li>Establish and maintain effective governance and reporting arrangements.</li>
+<li>Manage risks, issues, assumptions, dependencies, and decisions.</li>
+<li>Support delivery planning, prioritisation, and oversight activities.</li>
+<li>Facilitate stakeholder engagement and communication across technical and business teams.</li>
+<li>Provide delivery insights and recommendations to support informed decision-making.</li>
+<li>Support delivery through governance, assurance, and compliance processes.</li>
+<li>Ensure delivery momentum is maintained and key milestones are achieved.</li>
+</ul>
+<h2>Essential Skills &amp; Experience</h2>
+<ul>
+<li>Proven experience delivering technology programmes within <strong>policing</strong>, government, or similarly regulated environments.</li>
+<li>Strong delivery management capability, including:
+<ul>
+<li>Programme planning and coordination</li>
+<li>Governance and reporting</li>
+<li>Risk, issue, and dependency management</li>
+<li>Delivery oversight</li>
+</ul>
+</li>
+<li>Experience working within complex multi-stakeholder and multi-supplier environments.</li>
+<li>Understanding of governance, assurance, and security considerations associated with technology delivery.</li>
+<li>Experience supporting Agile and iterative delivery approaches.</li>
+<li>Excellent stakeholder management, communication, and facilitation skills.</li>
+<li>Ability to manage competing priorities while maintaining delivery focus and momentum.</li>
+</ul>
+<h2>Desirable Experience</h2>
+<ul>
+<li>Previous experience within policing, public safety, law enforcement, intelligence, or wider public sector environments.</li>
+<li>Exposure to secure, mission-critical, or highly regulated technology programmes.</li>
+<li>Experience working across partner organisations and third-party suppliers.</li>
+</ul>
+<h2>Security Requirements</h2>
+<p><br />Candidates <strong>must hold active SC Clearance</strong>.</p>
+<h2>Submission Requirements</h2>
+<p><br />Please submit a <strong>tailored, anonymised CV</strong> demonstrating relevant experience in:</p>
+<ul>
+<li>Technical delivery leadership</li>
+<li>Governance and reporting</li>
+<li>Stakeholder management</li>
+<li>Risk and dependency management</li>
+<li>Delivery within policing, public safety, intelligence, government, or comparable regulated environments</li>
+</ul>
+<p><br /><strong>Please note:</strong> Due to confidentiality requirements, details regarding the end client, programme name, and specific project context cannot be disclosed at this stage.</p>]]></description>
+    <salary><![CDATA[INSIDE IR35]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Infrastructure engineer (MSP) ]]></title>
+    <date><![CDATA[Wed, 26 Aug 2026 12:07:02 +0000]]></date>
+    <referencenumber><![CDATA[BBBH504108]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/infrastructure-engineer-msp-in-software-development-jobs-1699379]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Brighton]]></city>
+    <state><![CDATA[East Sussex]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>The position of Project Engineer is suited to an experienced Microsoft cloud and infrastructure engineer/consultant who has previously worked within a managed service provider (MSP) or customer-facing technical services environment.</p>
+<p>The role is responsible for delivering Modern Workplace, Microsoft 365, Azure, identity, endpoint management, cyber security, and hybrid infrastructure projects for customers. The successful candidate will be expected to work independently on complex customer engagements, combining strong technical delivery with commercial awareness, documentation discipline, and professional judgement.</p>
+<p><br />Working with the Project Team Lead, the Project Engineer will scope, plan, implement, and hand over technical projects proficiently and within budget. The role may also include producing implementation plans, contributing to solution design, supporting junior engineers, liaising with customers and third-party vendors, and ensuring solutions are secure, supportable, and aligned to customer requirements.</p>
+<p>Responsibilities:</p>
+<ul>
+<li>Deliver customer IT projects professionally, securely, and within agreed scope, timescales, and budget.</li>
+<li>Lead discovery, workshops, implementation planning, migration readiness, and handover activities.</li>
+<li>Identify and manage technical risks, dependencies, licensing considerations, and blockers, escalating where required.</li>
+<li>Produce clear implementation plans, deployment notes, configuration records, risk updates, and handover documentation.</li>
+</ul>
+<p>Experience:</p>
+<ul>
+<li>Previous experience working for a managed service provider or in a customer-facing technical consultancy role.</li>
+<li>Previous experience delivering Microsoft 365, Azure, cloud migration, infrastructure, or modern workplace projects.</li>
+<li>Strong practical knowledge of Microsoft 365 administration, Exchange Online, SharePoint Online, OneDrive for Business, Teams, and Microsoft 365 tenant configuration.</li>
+</ul>]]></description>
+    <salary><![CDATA[£50,000 - £55,000 Annual]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[50.8229402]]></latitude>
+    <longitude><![CDATA[-0.1362672]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Infrastructure Engineer (MSP)]]></title>
+    <date><![CDATA[Wed, 26 Aug 2026 10:46:52 +0000]]></date>
+    <referencenumber><![CDATA[BBBH504106]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/infrastructure-engineer-msp-in-software-development-jobs-1699361]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Camberley]]></city>
+    <state><![CDATA[Surrey]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>The position of Project Engineer is suited to an experienced Microsoft cloud and infrastructure engineer/consultant who has previously worked within a managed service provider (MSP) or customer-facing technical services environment.<br />The role is responsible for delivering Modern Workplace, Microsoft 365, Azure, identity, endpoint management, cyber security, and hybrid infrastructure projects for customers. The successful candidate will be expected to work independently on complex customer engagements, combining strong technical delivery with commercial awareness, documentation discipline, and professional judgement.</p>
+<p><br />Working with the Project Team Lead, the Project Engineer will scope, plan, implement, and hand over technical projects proficiently and within budget. The role may also include producing implementation plans, contributing to solution design, supporting junior engineers, liaising with customers and third-party vendors, and ensuring solutions are secure, supportable, and aligned to customer requirements.</p>
+<p>Responsibilities:</p>
+<ul>
+<li>Deliver customer IT projects professionally, securely, and within agreed scope, timescales, and budget.</li>
+<li>Lead discovery, workshops, implementation planning, migration readiness, and handover activities.</li>
+<li>Identify and manage technical risks, dependencies, licensing considerations, and blockers, escalating where required.</li>
+<li>Produce clear implementation plans, deployment notes, configuration records, risk updates, and handover documentation.</li>
+</ul>
+<p>Experience:</p>
+<ul>
+<li>Previous experience working for a managed service provider or in a customer-facing technical consultancy role.</li>
+<li>Previous experience delivering Microsoft 365, Azure, cloud migration, infrastructure, or modern workplace projects.</li>
+<li>Strong practical knowledge of Microsoft 365 administration, Exchange Online, SharePoint Online, OneDrive for Business, Teams, and Microsoft 365 tenant configuration.</li>
+</ul>
+<p> </p>]]></description>
+    <salary><![CDATA[£45,000 - £55,000 Annual]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.3353899]]></latitude>
+    <longitude><![CDATA[-0.742856]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Identity & Access Management Architect (SC Cleared) ]]></title>
+    <date><![CDATA[Tue, 25 Aug 2026 14:16:21 +0000]]></date>
+    <referencenumber><![CDATA[BBBH504024]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/identity-access-management-architect-sc-cleared-in-software-development-jobs-1698106]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Wiltshire]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>The role requires someone who can set direction with senior stakeholders, provide clear design authority, and work closely with engineering, data and service teams on detailed technical issues. This includes identity schemas, attributes, data flows, APIs, microservices, integration patterns, workflow behaviour, platform configuration and live-service supportability.</p>
+<p>The successful candidate will help ensure the platform remains stable, supportable and capable of evolving over time, while reducing avoidable complexity across processes, integrations and technical components.</p>
+<p><strong>Security Clearance:</strong> Active SC Clearance (Mandatory)<br /> <strong>Location:</strong> Hybrid (2 days per week onsite)</p>
+<p><strong>Architecture Leadership</strong></p>
+<ul>
+<li>Own the end-to-end architecture across development, data and service support workstreams.</li>
+<li>Provide technical direction across identity workflows, lifecycle processes, integrations, data flows, platform behaviour and operational supportability.</li>
+<li>Act as the senior architecture point of contact for delivery teams, service teams, suppliers and customer stakeholders.</li>
+<li>Maintain architectural coherence across live-service change, backlog delivery, technical debt reduction and roadmap activity.</li>
+<li>Ensure design decisions are pragmatic, supportable and aligned to business value.</li>
+</ul>
+<p><strong>Identity Platform Architecture</strong></p>
+<ul>
+<li>Lead architecture across enterprise identity and access management capabilities.</li>
+<li>Provide oversight of identity lifecycle processes including onboarding, profile changes, role and access changes, recertification, leaver handling, audit and reporting.</li>
+<li>Understand complex identity integrations across directories, authoritative sources, workflow systems, cloud-hosted services and downstream platforms.</li>
+<li>Support simplification of identity journeys, data feeds, interfaces and platform components.</li>
+<li>Identify opportunities to reduce avoidable customisation and use existing platform capability where appropriate.</li>
+</ul>]]></description>
+    <salary><![CDATA[£-1 - £-1 Annual]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.2462714]]></latitude>
+    <longitude><![CDATA[-1.9922127]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[IAM Architect]]></title>
+    <date><![CDATA[Tue, 25 Aug 2026 14:01:34 +0000]]></date>
+    <referencenumber><![CDATA[BBBH504012]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/iam-architect-in-software-development-jobs-1698075]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Bristol]]></city>
+    <state><![CDATA[Bristol]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div id="model-response-message-contentr_09659a2e1cd6bd00" class="markdown markdown-main-panel md-content enable-luminous-fast-follows enable-updated-hr-color stronger tutor-markdown-rendering" dir="ltr">
+<div><strong >IDENTITY ARCHITECT – SECURE ENTERPRISE IAM</strong></div>
+<br />
+<div><strong >Job Title:</strong> Identity Architect / Lead IAM Architect</div>
+<br />
+<div><strong >Location: </strong>Wiltshire (Hybrid – 2 days/week onsite)</div>
+<br />
+<div><strong >Job Type:</strong> Permanent</div>
+<br />
+<div><strong >Clearance Required:</strong> Active SC Clearance (Mandatory)</div>
+<br />
+<div><strong >Salary:</strong> Competitive + Benefits (DOE)</div>
+<br />
+<div><strong >Start Date:</strong> Immediate</div>
+<br />
+<h3 ><strong >Job Summary</strong></h3>
+<div>We are seeking an experienced <strong >Identity Architect</strong> with active SC clearance to take complete architectural ownership of a large-scale, enterprise Identity and Access Management (IAM) service supporting a highly secure public sector program.</div>
+<br />
+<div>This role requires a balanced senior architect who can drive high-level strategic direction while remaining comfortable working hands-on with identity schemas, APIs, workflow engine logic, data feeds, and live service support teams.</div>
+<br />
+<h3 ><strong >Key Accountabilities &amp; Role Overview</strong></h3>
+<ul >
+<li>
+<div><strong >Architecture Leadership:</strong> Lead end-to-end IAM architecture across development, data, and live service operations; act as the lead technical authority across delivery teams, third-party suppliers, and senior stakeholders.</div>
+</li>
+<li>
+<div><strong >Core IAM Capability Ownership:</strong> Drive strategic oversight of Joiner/Mover/Leaver (JML) processes, identity lifecycle management, role governance, access recertification, and regulatory audit compliance.</div>
+</li>
+<li>
+<div><strong >Technical &amp; Schema Design:</strong> Shape and review detailed designs covering identity schemas, LDAP directories, data attribute models, provisioning workflows, microservices, and API integrations.</div>
+</li>
+<li>
+<div><strong >Platform Modernisation &amp; Debt Reduction:</strong> Simplify legacy architecture patterns, eliminate unnecessary customisations, champion API-led integration models, and support roadmap alignment with cloud-native / Microsoft Entra environments.</div>
+</li>
+<li>
+<div><strong >Service Supportability &amp; Operations:</strong> Collaborate directly with L2/L3 support and DevOps teams to author runbooks, perform root-cause analysis on complex defects, and ensure seamless BAU service transition.</div>
+</li>
+</ul>
+<h3 ><strong >Mandatory Criteria &amp; Technical Requirements</strong></h3>
+<ul >
+<li>
+<div><strong >Security Clearance:</strong> <strong >Active UK SC Clearance is mandatory</strong> prior to starting.</div>
+</li>
+<li>
+<div><strong >Architecture Track Record:</strong> Proven experience as a Lead, Senior, or Principal Architect owning enterprise-wide IAM solutions.</div>
+</li>
+<li>
+<div><strong >Domain Expertise:</strong> Deep knowledge of identity governance, authentication/authorization protocols, directory services, and enterprise integration patterns within government, defence, or regulated environments.</div>
+</li>
+<li>
+<div><strong >Hands-on Technical Capability:</strong> Practical expertise with identity schema design, API interfaces, microservices, workflow logic, and data transformation/ETL pipelines.</div>
+</li>
+<li>
+<div><strong >Location:</strong> Ability to work onsite in Corsham at least 2 days per week.</div>
+</li>
+</ul>
+<h3 ><strong >Desirable Experience</strong></h3>
+<ul >
+<li>
+<div><strong >IAM Platforms:</strong> OpenText/NetIQ, SailPoint, Microsoft Entra ID (Azure AD), Okta, ForgeRock, or CyberArk.</div>
+</li>
+<li>
+<div><strong >Cloud &amp; Federation:</strong> AWS cloud environments, M365 identity integration, SAML/OIDC, and API Gateways.</div>
+</li>
+<li>
+<div><strong >Frameworks:</strong> Secure-by-Design principles, containerised deployments, and automated deployment pipelines.</div>
+</li>
+</ul>
+<h3 ><strong >How to Apply</strong></h3>
+<div>If you meet the mandatory SC clearance requirement and possess a strong technical background in enterprise identity architecture, please submit your CV for immediate consideration.</div>
+<div class="attachment-container unknown"> </div>
+</div>]]></description>
+    <salary><![CDATA[£75,000 - £85,000 Annual]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.4548943]]></latitude>
+    <longitude><![CDATA[-2.5926854]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Technical Writer (SC Cleared) ]]></title>
+    <date><![CDATA[Mon, 24 Aug 2026 08:49:21 +0000]]></date>
+    <referencenumber><![CDATA[BBBH503915]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/technical-writer-sc-cleared-in-software-development-jobs-1696170]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Hampshire]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>SC Cleared - Technical Writer </p>
+<p>Requires an experienced Technical writer to support the documentation of existing live services currently delivered by us on behalf of a client.<br />To meet requirements and support Secure by Design assurance activities, these services require formal documentation using templates and terminology.<br />The successful candidate will work with Subject Matter Experts (SMEs) to capture existing service designs, technical configurations and operational processes, producing documentation suitable for review by the Technical Design Office (TDO).</p>
+<p>Key Responsibilities<br />• Produce compliant High Level Design (HLD) documents for existing services.<br />• Produce supporting Low Level Design (LLD) documentation.<br />• Develop Business Process Guides and operational documentation.<br />• Conduct interviews and workshops with Mastek SMEs and Customer to capture current service architectures and processes.<br />• Ensure documentation accurately reflects existing service delivery and support models.<br />• Apply Secure by Design principles within documentation where appropriate.<br />• Support review, assurance and governance activities, addressing comments from the Technical Design Office and other stakeholders.</p>
+<p>Essential Experience<br />• Demonstrable experience authoring wider UK Government technical documentation.<br />• Proven experience producing or contributing to HLDs, LLDs and process guides.<br />• Strong understanding of service architecture and technical design documentation.<br />• Ability to rapidly assimilate technical information from SMEs.<br />• Excellent written communication and stakeholder engagement skills.<br />• Experience working within governance and assurance frameworks.<br />• Understanding of Secure by Design principles and Defence assurance processes.<br />• Experience supporting service transition or onboarding activities.</p>]]></description>
+    <salary><![CDATA[INSIDE IR35]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.0895203]]></latitude>
+    <longitude><![CDATA[-1.216844]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Programme Support Office]]></title>
+    <date><![CDATA[Fri, 21 Aug 2026 10:51:46 +0000]]></date>
+    <referencenumber><![CDATA[BBBH503735]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/programme-support-office-in-account-management-jobs-1694213]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[London]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><br /><br /><strong><span style="text-decoration: underline;">Programme Support Officer</span><br /><br />This is a wonderful 3 month temp contract which has every chance of being extended. The environment is very respectful and encouraging.<br /> You can work hybrid ( 2 days in the office a week) - £ 21.20 per hour<br /> Fully remote - £ 18.90 per hour<br /> A wonderful opportunity especially if you have local government / local council experience. </strong><br /><br />As part of the Improvement Coordination and Strategy Team, you will provide administrative support for the Partnerships and Improvement functions.  <br /><br /><strong>Core Accountabilities: </strong> <br /> <strong> </strong> </p>
+<ol>
+<li>Organise and support meetings, events and functions. </li>
+<li>Maintain and continuously improve administrative systems, including forward/project plans, electronic filing systems, CRM mailing lists and databases. </li>
+<li>Produce reports, briefings and information sheets and update the website and portal. </li>
+<li>Arrange room bookings, refreshments, printing, copying, distribution, travel and other administrative tasks in support of the team.</li>
+<li>Contribute to the delivery of the team’s agreed objectives. </li>
+<li>Participate in relevant projects that support the delivery of the Business Plan. </li>
+<li>Model values and work in accordance with health and safety, equal opportunities and environmental policies.</li>
+<li> Undertake any other duties and responsibilities appropriate to the post. </li>
+</ol>
+<p> <br /><br /><strong>Specific Accountabilities: </strong> <br /> <strong> </strong> </p>
+<ol>
+<li>Provide comprehensive support to the Partnerships and Improvement Directorate function</li>
+<li>Support the resourcing of peer support including the recruitment, accreditation, placement, performance review and development of member and officer peers, establishing positive working relations with peers and contributing to the development of streamlined processes. </li>
+<li>Provide administrative/project support</li>
+<li>Assist in providing direct support to councils and their partners.</li>
+<li>Provide comprehensive support in delivering improvement and leadership programmes. Assist the support for local government in the development, commissioning and delivery of services. </li>
+<li>Assist with preparation of briefings and surveys and dissemination of research findings to the local government sector and wider. </li>
+<li>Undertake and support projects and programmes, developing and maintaining project milestone plans and information systems, preparing agendas and papers and co-ordinating monthly updates. </li>
+<li>Manage orders and invoices, expenses, sickness reporting and other Agresso-based activities, in line with agreed finance and HR procedures on behalf of the team.</li>
+<li>Undertake any other duties and responsibilities appropriate to the post. </li>
+</ol>
+<p> <br /><br /></p>
+<table>
+<tbody>
+<tr>
+<td><strong>Qualifications </strong> </td>
+<td>               </td>
+</tr>
+<tr>
+<td><strong>Knowledge and experience </strong> <br /><br /></td>
+<td>
+<ul>
+<li>Previous administrative experience and knowledge of office systems and procedures, ideally gained in a member services or project based environment. </li>
+<li>A broad understanding of local and/or central government and how they work. </li>
+<li>Experience of working within a team environment </li>
+<li>Experience of a range of software packages including Word, Excel, PowerPoint, e-mail and the internet. </li>
+<li>Experience of researching data from a range of sources and of compiling clear, comprehensive papers. </li>
+<li>Experience of organising meetings, events or other activities. </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><strong>Skills and abilities </strong> <br /><br /></td>
+<td>
+<ul>
+<li>Excellent written skills, with the ability to accurately summarise and convey complex information. </li>
+<li>Excellent oral and influencing skills, with the ability to give clear advice on procedural issues. </li>
+<li>Political sensitivity, with the ability to exercise discretion, judgement and confidentiality when dealing with politicians and officers at every level, and to demonstrate political neutrality at all times. </li>
+<li>Good interpersonal skills, with the ability to deal with members, other clients and colleagues with courtesy, tact and sensitivity. </li>
+<li>A demonstrable commitment to customer care. </li>
+<li>Excellent organisational skills, with the ability to prioritise work to meet deadlines, and a concern for order and accuracy </li>
+<li>Excellent IT skills, including Word, Excel and PowerPoint with the ability quickly to learn new packages as required. </li>
+<li>Good project management and financial control skills </li>
+<li>Ability to work as part of a team and to support others. </li>
+<li>Flexible approach to work, with a keenness to adapt to meet changing work requirements </li>
+<li>A positive, “can do” attitude </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>]]></description>
+    <salary><![CDATA[plus holiday pay]]></salary>
+    <category><![CDATA[Account Management]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[SC Cleared ServiceNow Architect]]></title>
+    <date><![CDATA[Mon, 17 Aug 2026 11:04:58 +0000]]></date>
+    <referencenumber><![CDATA[BBBH503129]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/sc-cleared-servicenow-architect-in-software-development-jobs-1685839]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[London]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>SC Cleared ServiceNow  Architect<br /> <br />Location: London or Leeds <br />Travel: 1–2 days per month to client <br />Clearance: SC Cleared  <br />Duration: 5 months<br /> <br />We are seeking an experienced SC Cleared ServiceNow Architect to lead a strategic data architecture engagement within one of the UK's most high-profile public sector organisations.<br /> <br />This role is focused on transforming the ServiceNow platform into a trusted enterprise service management capability by establishing a robust data architecture, strengthening CMDB and CSDM maturity, and enabling future platform capabilities including AI, automation, Identity and Access Management, IT Asset Management and Enterprise Service Management.<br /> <br />Key Responsibilities<br />You will be responsible for:<br />ServiceNow Platform Architecture<br />• Define the target-state ServiceNow data architecture <br />• Develop architectural principles for future platform growth <br />• Establish data standards and architecture guardrails <br />• Align ServiceNow architecture with enterprise architecture principles<br />• Review ServiceNow Licensing capabilities to provide:<br />o Current vs Unused<br />o Readiness for modernisation i.e., Licensing required <br />CMDB and CSDM<br />• Assess current CMDB maturity <br />• Develop a roadmap aligned to ServiceNow CSDM<br />• Rationalise CI structures and relationships <br />• Improve service dependency visibility</p>
+<p><br />Stakeholder Leadership<br />• Engage senior business stakeholders, platform owner and process owners<br />• Present architecture recommendations to governance boards <br />• Provide strategic architectural guidance throughout delivery <br /><br />We're looking for someone with proven experience in:<br />ServiceNow<br />• ITSM <br />• CMDB <br />• Common Service Data Model (CSDM) <br />• ITOM <br />o Discovery<br />o Service Mapping<br />• ITAM<br />o Hardware Asset Management<br />o Software Asset Management<br />• IntegrationHub <br />• Flow Designer <br />• ServiceNow platform governance</p>]]></description>
+    <salary><![CDATA[INSIDE IR35]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Platform Engineer ]]></title>
+    <date><![CDATA[Mon, 17 Aug 2026 12:07:46 +0000]]></date>
+    <referencenumber><![CDATA[BBBH503134]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/senior-platform-engineer-in-software-development-jobs-1685878]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[London]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>Key responsibilities:</p>
+<ul>
+<li>Design, build, and maintain efficient, reusable, and reliable platform solutions. Including monitoring, managing and optimising cloud-based (AWS) resources.</li>
+<li>Feed engineering insight and experience into the wider Strategy and Architecture team to identify opportunities to improve engineering across the whole organisation.</li>
+<li>Document all procedures and policies for maintaining and improving system infrastructure.</li>
+<li>Implement automation tools and frameworks (CI/CD pipelines) for efficient and secure deployment and operations. Whilst also working with development teams to facilitate the deployment and operation of systems.</li>
+</ul>
+<p>Skills Required:</p>
+<ul>
+<li>Experience as a Senior Platform Engineer including a solid understanding of software engineering principles and their application.</li>
+<li>Experience of Scripting and pipeline automation (e.g. Jenkins and GitHub Actions).</li>
+<li>Strong understanding of cloud services (AWS) and containerisation technologies (e.g., Docker, Kubernetes).</li>
+<li>Proficiency in Infrastructure as Code (IaC) tools such as CloudFormation or Terraform.</li>
+<li>Experience of working closely with development and infrastructure teams to quickly understand requirements and implement solutions.</li>
+<li>Adept at leveraging automation to improve development processes and optimise software delivery.</li>
+<li>Ability to cooperate closely with both engineers and product teams — including designers, product managers, and analysts.</li>
+</ul>]]></description>
+    <salary><![CDATA[£80,000 - £85,000 Annual]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Payments SME]]></title>
+    <date><![CDATA[Mon, 17 Aug 2026 16:34:35 +0000]]></date>
+    <referencenumber><![CDATA[BBBH502936]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/payments-sme-in-software-development-jobs-1686217]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>Payments Consultant (Bacs, Faster Payments &amp; CHAPS)</p>
+<div>
+<p><strong>Remote (UK) | Contract | Financial Services | Initial 6-Month Engagement</strong></p>
+<h2>Payments Consultant | UK Domestic Payments</h2>
+<p>We are supporting a major financial services programme and are seeking experienced <strong>Payments Consultants</strong> with specialist expertise in <strong>Bacs</strong>, <strong>Faster Payments (FPS)</strong> and/or <strong>CHAPS</strong>.</p>
+<p>This is a specialist advisory role focused on UK domestic payment schemes, operational processes and implementation considerations. The successful candidate will work closely with Business Analysts, Product Teams, Architects and programme stakeholders, providing expert guidance on how payment schemes operate and what organisations must consider when delivering payment capabilities through a sponsor bank model.</p>
+<p>This is not a project management, transformation or delivery leadership role. We are specifically looking for payments professionals with deep scheme knowledge who can advise on operational mechanics, participant obligations and industry best practice.</p>
+<h2>Key Responsibilities</h2>
+<ul>
+<li>Provide subject matter expertise across Bacs, Faster Payments and/or CHAPS.</li>
+<li>Advise stakeholders on scheme mechanics, operating models and implementation considerations.</li>
+<li>Support discovery, requirements gathering and solution design activities.</li>
+<li>Provide guidance on sponsor bank and indirect participation models.</li>
+<li>Review payment solutions and ensure alignment with scheme requirements and industry standards.</li>
+<li>Support Business Analysts, Product Owners, Architects and technical teams throughout delivery.</li>
+<li>Explain payment flows, message processing, operational controls and participant responsibilities.</li>
+<li>Identify risks, dependencies and operational considerations relating to UK domestic payments.</li>
+<li>Deliver knowledge transfer and specialist guidance to programme stakeholders.</li>
+</ul>
+<h2>Experience Required</h2>
+<ul>
+<li>Demonstrable expertise in one or more of:
+<ul>
+<li>Bacs</li>
+<li>Faster Payments (FPS)</li>
+<li>CHAPS</li>
+</ul>
+</li>
+<li>Experience operating, implementing or supporting UK payment scheme capabilities.</li>
+<li>Strong understanding of payment processing, scheme rules and settlement processes.</li>
+<li>Experience advising stakeholders on payments-related business and technology initiatives.</li>
+<li>Excellent communication and stakeholder management skills.</li>
+</ul>
+<h2>Suitable Backgrounds</h2>
+<p>We are particularly interested in candidates who have worked as:</p>
+<ul>
+<li>Payments Consultant</li>
+<li>Senior Payments Consultant</li>
+<li>Payments SME</li>
+<li>Payments Product Owner</li>
+<li>Payments Product Manager</li>
+<li>Scheme Manager</li>
+<li>Scheme Product Owner</li>
+<li>Payments Operations Manager</li>
+<li>Payments Solution Consultant</li>
+<li>Payments Implementation Consultant</li>
+<li>Payments Architect with hands-on scheme experience</li>
+</ul>
+<h2>Desirable Experience</h2>
+<ul>
+<li>Sponsor bank and indirect participation models.</li>
+<li>Banking and financial services organisations.</li>
+<li>Payment platform implementations.</li>
+<li>Experience with organisations such as Form3, Vocalink, Finastra, ACI Worldwide, Volante, Bottomline, Temenos, ClearBank, Banking Circle or Modulr.</li>
+<li>Consulting experience within large-scale payments programmes.</li>
+</ul>
+<h2>Contract Details</h2>
+<ul>
+<li><strong>Role:</strong> Payments Consultant</li>
+<li><strong>Contract Length:</strong> Initial 6 months</li>
+<li><strong>Location:</strong> Remote (UK)</li>
+<li><strong>Engagement Type:</strong> Contract</li>
+<li><strong>Rate:</strong> Flexible for the right specialist</li>
+<li><strong>Extension Potential:</strong> Strong</li>
+<li><strong>Start Date:</strong> ASAP</li>
+</ul>
+<h2>Apply</h2>
+<p>If you have deep expertise in <strong>Bacs, Faster Payments or CHAPS</strong> and can demonstrate hands-on experience supporting the implementation, operation or optimisation of UK domestic payment capabilities, we would be keen to hear from you. Apply with your latest CV for immediate consideration.</p>
+</div>]]></description>
+    <salary><![CDATA[£900 - £1,000 Daily]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[52.3555177]]></latitude>
+    <longitude><![CDATA[-1.1743197]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Technical Delivery Manager]]></title>
+    <date><![CDATA[Mon, 17 Aug 2026 15:52:25 +0000]]></date>
+    <referencenumber><![CDATA[BBBH503151]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/technical-delivery-manager-in-software-development-jobs-1686170]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[London]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<h1><span style="text-decoration: underline;"><strong>Technical Delivery Manager</strong></span></h1>
+<p><br /><strong>Contract: 6 Months</strong><br /><strong> Rate: £800 - £850 per day</strong><br /><strong> Security Clearance: Active SC Clearance Required</strong><br /><strong> Sector: Public Sector / Policing</strong></p>
+<h2>Overview</h2>
+<p><br />We are looking for an experienced <strong>Technical Delivery Manager</strong> to provide delivery leadership and coordination for a high-profile technology pilot within a policing environment. <br />Working across customer stakeholders, delivery teams, suppliers, and partner organisations, you will play a key role in ensuring successful delivery through effective planning, governance, reporting, stakeholder engagement, and risk management. <br />This is an excellent opportunity for an experienced delivery professional who is comfortable operating within complex, highly regulated environments and managing multiple stakeholders with competing priorities.</p>
+<h2>Key Responsibilities</h2>
+<ul>
+<li>Coordinate delivery activities across stakeholders, suppliers, and workstreams.</li>
+<li>Establish and maintain effective governance and reporting arrangements.</li>
+<li>Manage risks, issues, assumptions, dependencies, and decisions.</li>
+<li>Support delivery planning, prioritisation, and oversight activities.</li>
+<li>Facilitate stakeholder engagement and communication across technical and business teams.</li>
+<li>Provide delivery insights and recommendations to support informed decision-making.</li>
+<li>Support delivery through governance, assurance, and compliance processes.</li>
+<li>Ensure delivery momentum is maintained and key milestones are achieved.</li>
+</ul>
+<h2>Essential Skills &amp; Experience</h2>
+<ul>
+<li>Proven experience delivering technology programmes within <strong>policing</strong>, government, or similarly regulated environments.</li>
+<li>Strong delivery management capability, including:
+<ul>
+<li>Programme planning and coordination</li>
+<li>Governance and reporting</li>
+<li>Risk, issue, and dependency management</li>
+<li>Delivery oversight</li>
+</ul>
+</li>
+<li>Experience working within complex multi-stakeholder and multi-supplier environments.</li>
+<li>Understanding of governance, assurance, and security considerations associated with technology delivery.</li>
+<li>Experience supporting Agile and iterative delivery approaches.</li>
+<li>Excellent stakeholder management, communication, and facilitation skills.</li>
+<li>Ability to manage competing priorities while maintaining delivery focus and momentum.</li>
+</ul>
+<h2>Desirable Experience</h2>
+<ul>
+<li>Previous experience within policing, public safety, law enforcement, intelligence, or wider public sector environments.</li>
+<li>Exposure to secure, mission-critical, or highly regulated technology programmes.</li>
+<li>Experience working across partner organisations and third-party suppliers.</li>
+</ul>
+<h2>Security Requirements</h2>
+<p><br />Candidates <strong>must hold active SC Clearance</strong>.</p>
+<h2>Submission Requirements</h2>
+<p><br />Please submit a <strong>tailored, anonymised CV</strong> demonstrating relevant experience in:</p>
+<ul>
+<li>Technical delivery leadership</li>
+<li>Governance and reporting</li>
+<li>Stakeholder management</li>
+<li>Risk and dependency management</li>
+<li>Delivery within policing, public safety, intelligence, government, or comparable regulated environments</li>
+</ul>
+<p><br /><strong>Please note:</strong> Due to confidentiality requirements, details regarding the end client, programme name, and specific project context cannot be disclosed at this stage.</p>]]></description>
+    <salary><![CDATA[INSIDE IR35]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Data Lead]]></title>
+    <date><![CDATA[Wed, 12 Aug 2026 08:30:26 +0000]]></date>
+    <referencenumber><![CDATA[BBBH502894]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/data-lead-in-software-development-jobs-1678106]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[City of London]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>
+<h1>Data Lead</h1>
+<p><strong>London | 12-Month Contract | 2-3 Days Onsite | Inside IR35 | Up to £650 per day</strong></p>
+<h2>Data Lead | Financial Services Transformation Programme</h2>
+<p>We are seeking an experienced <strong>Data Lead</strong> to join a major financial services transformation programme and take ownership of a critical data workstream.</p>
+<p>This is a senior leadership role for an individual who can operate above their nominal title, bringing structure, accountability and direction to complex data initiatives. You will be responsible for driving outcomes across business and technology teams, managing senior stakeholders, and ensuring successful delivery within an evolving and often ambiguous environment.</p>
+<p>Whether your background is in Data Architecture, Product Ownership, Delivery Management, or Data Transformation, the key requirement is the ability to lead from the front, influence senior stakeholders, and be recognised as the person driving the workstream forward.</p>
+<h2>Key Responsibilities</h2>
+<ul>
+<li>Lead a strategic data workstream from inception through delivery.</li>
+<li>Establish governance, structure and delivery frameworks in complex environments.</li>
+<li>Take ownership of business outcomes and programme objectives.</li>
+<li>Manage senior business, technology, data and risk stakeholders.</li>
+<li>Drive alignment, decision-making and execution across multiple teams.</li>
+<li>Provide oversight and challenge to engineering and delivery functions where required.</li>
+<li>Ensure delivery remains focused on strategic business objectives.</li>
+<li>Support large-scale data modernisation and legacy platform migration initiatives.</li>
+<li>Act as the senior point of accountability for the workstream, ensuring risks, dependencies and issues are effectively managed.</li>
+</ul>
+<h2>Required Experience</h2>
+<ul>
+<li>Proven experience leading enterprise-scale data programmes or transformation workstreams.</li>
+<li>Demonstrable ability to operate independently and drive successful outcomes.</li>
+<li>Strong stakeholder management and communication skills.</li>
+<li>Experience engaging with senior business, technology and risk stakeholders.</li>
+<li>Background in Data Architecture, Data Product, Data Delivery, Data Transformation, Programme Delivery, or a related discipline.</li>
+<li>Experience working within large, complex organisations.</li>
+<li>Strong understanding of data transformation programmes and operating models.</li>
+<li>Ability to create clarity and direction in environments with evolving priorities.</li>
+</ul>
+<h2>Technical Experience</h2>
+<p>Technical expertise is viewed as a credibility requirement rather than a strict screening criterion.</p>
+<p>Candidates should demonstrate:</p>
+<ul>
+<li>Working knowledge of <strong>Databricks</strong>.</li>
+<li>Familiarity with <strong>dbt</strong>.</li>
+<li>Ability to engage credibly with Data Engineering teams.</li>
+<li>Experience supporting cloud-based data platform modernisation programmes.</li>
+<li>Exposure to legacy technology migration or data estate exit programmes.</li>
+<li>Understanding of modern data platform concepts and data transformation practices.</li>
+</ul>
+<h2>Preferred Experience</h2>
+<ul>
+<li>Financial Services, Banking, or other highly regulated environments.</li>
+<li>Large-scale transformation programmes.</li>
+<li>Cloud data platform initiatives.</li>
+<li>Experience working alongside architecture, engineering and product teams.</li>
+<li>Availability to start at short notice.</li>
+</ul>
+<h2>Skills &amp; Attributes</h2>
+<ul>
+<li>Strong leadership presence and executive-level communication skills.</li>
+<li>Ability to influence, challenge and drive decision-making.</li>
+<li>Commercially focused and outcome-oriented mindset.</li>
+<li>Strong stakeholder management across business and technology functions.</li>
+<li>Excellent organisational and problem-solving capabilities.</li>
+<li>Comfortable operating with autonomy in fast-paced transformation environments.</li>
+<li>Ability to build credibility quickly with both technical and non-technical audiences.</li>
+</ul>
+<h2>Contract Details</h2>
+<ul>
+<li><strong>Day Rate:</strong> Up to <strong>£650 per day</strong></li>
+<li><strong>Contract Type:</strong> Inside IR35</li>
+<li><strong>Duration:</strong> 12-month contract</li>
+<li><strong>Location:</strong> London</li>
+<li><strong>Working Pattern:</strong> 2-3 days onsite per week</li>
+<li><strong>Start Date:</strong> ASAP</li>
+</ul>
+<h2>Apply</h2>
+<p>If you have a proven track record of leading complex data initiatives, driving successful transformation outcomes, and influencing senior stakeholders within large enterprise environments, please submit your CV for immediate consideration.</p>
+</div>]]></description>
+    <salary><![CDATA[INSIDE IR35]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.5123443]]></latitude>
+    <longitude><![CDATA[-0.0909852]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Payments SME]]></title>
+    <date><![CDATA[Wed, 12 Aug 2026 13:28:21 +0000]]></date>
+    <referencenumber><![CDATA[BBBH502936]]></referencenumber>
+    <url><![CDATA[https://www.consolpartners.co.uk/job-details/payments-sme-in-software-development-jobs-1678386]]></url>
+    <company><![CDATA[Consol Partners UK]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[London]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[England]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>Payments Consultant (Bacs, Faster Payments &amp; CHAPS)</p>
+<div>
+<p><strong>Remote (UK) | Contract | Financial Services | Initial 6-Month Engagement</strong></p>
+<h2>Payments Consultant | UK Domestic Payments</h2>
+<p>We are supporting a major financial services programme and are seeking experienced <strong>Payments Consultants</strong> with specialist expertise in <strong>Bacs</strong>, <strong>Faster Payments (FPS)</strong> and/or <strong>CHAPS</strong>.</p>
+<p>This is a specialist advisory role focused on UK domestic payment schemes, operational processes and implementation considerations. The successful candidate will work closely with Business Analysts, Product Teams, Architects and programme stakeholders, providing expert guidance on how payment schemes operate and what organisations must consider when delivering payment capabilities through a sponsor bank model.</p>
+<p>This is not a project management, transformation or delivery leadership role. We are specifically looking for payments professionals with deep scheme knowledge who can advise on operational mechanics, participant obligations and industry best practice.</p>
+<h2>Key Responsibilities</h2>
+<ul>
+<li>Provide subject matter expertise across Bacs, Faster Payments and/or CHAPS.</li>
+<li>Advise stakeholders on scheme mechanics, operating models and implementation considerations.</li>
+<li>Support discovery, requirements gathering and solution design activities.</li>
+<li>Provide guidance on sponsor bank and indirect participation models.</li>
+<li>Review payment solutions and ensure alignment with scheme requirements and industry standards.</li>
+<li>Support Business Analysts, Product Owners, Architects and technical teams throughout delivery.</li>
+<li>Explain payment flows, message processing, operational controls and participant responsibilities.</li>
+<li>Identify risks, dependencies and operational considerations relating to UK domestic payments.</li>
+<li>Deliver knowledge transfer and specialist guidance to programme stakeholders.</li>
+</ul>
+<h2>Experience Required</h2>
+<ul>
+<li>Demonstrable expertise in one or more of:
+<ul>
+<li>Bacs</li>
+<li>Faster Payments (FPS)</li>
+<li>CHAPS</li>
+</ul>
+</li>
+<li>Experience operating, implementing or supporting UK payment scheme capabilities.</li>
+<li>Strong understanding of payment processing, scheme rules and settlement processes.</li>
+<li>Experience advising stakeholders on payments-related business and technology initiatives.</li>
+<li>Excellent communication and stakeholder management skills.</li>
+</ul>
+<h2>Suitable Backgrounds</h2>
+<p>We are particularly interested in candidates who have worked as:</p>
+<ul>
+<li>Payments Consultant</li>
+<li>Senior Payments Consultant</li>
+<li>Payments SME</li>
+<li>Payments Product Owner</li>
+<li>Payments Product Manager</li>
+<li>Scheme Manager</li>
+<li>Scheme Product Owner</li>
+<li>Payments Operations Manager</li>
+<li>Payments Solution Consultant</li>
+<li>Payments Implementation Consultant</li>
+<li>Payments Architect with hands-on scheme experience</li>
+</ul>
+<h2>Desirable Experience</h2>
+<ul>
+<li>Sponsor bank and indirect participation models.</li>
+<li>Banking and financial services organisations.</li>
+<li>Payment platform implementations.</li>
+<li>Experience with organisations such as Form3, Vocalink, Finastra, ACI Worldwide, Volante, Bottomline, Temenos, ClearBank, Banking Circle or Modulr.</li>
+<li>Consulting experience within large-scale payments programmes.</li>
+</ul>
+<h2>Contract Details</h2>
+<ul>
+<li><strong>Role:</strong> Payments Consultant</li>
+<li><strong>Contract Length:</strong> Initial 6 months</li>
+<li><strong>Location:</strong> Remote (UK)</li>
+<li><strong>Engagement Type:</strong> Contract</li>
+<li><strong>Rate:</strong> Flexible for the right specialist</li>
+<li><strong>Extension Potential:</strong> Strong</li>
+<li><strong>Start Date:</strong> ASAP</li>
+</ul>
+<h2>Apply</h2>
+<p>If you have deep expertise in <strong>Bacs, Faster Payments or CHAPS</strong> and can demonstrate hands-on experience supporting the implementation, operation or optimisation of UK domestic payment capabilities, we would be keen to hear from you. Apply with your latest CV for immediate consideration.</p>
+</div>]]></description>
+    <salary><![CDATA[£900 - £1,000 Daily]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+</source>

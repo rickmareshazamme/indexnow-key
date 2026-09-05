@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sat, 05 Sep 2026 18:40:38 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Senior Cyber Security Engineer]]></title>
+    <date><![CDATA[Fri, 04 Sep 2026 11:35:03 +0000]]></date>
+    <referencenumber><![CDATA[7451]]></referencenumber>
+    <url><![CDATA[https://www.additionsolutions.co.uk/job-details/senior-cyber-security-engineer-in-jobs-7451]]></url>
+    <company><![CDATA[Addition Solution]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<h1>&nbsp;</h1>
+
+<p><strong>Senior Cyber Security Engineer<br>
+<br>
+Start Date: TBC</strong><br>
+<strong>£600 per day</strong><br>
+<strong>Location: TBC | Hybrid Arrangement&nbsp;</strong></p>
+
+<p>We’re partnering with a growing technology organisation to appoint an experienced Senior Cyber Security Engineer specialising in CyberArk and privileged access management.</p>
+
+<p>This is a senior technical role with responsibility for the design, deployment and ongoing health of security tooling across multiple managed client environments. CyberArk will be your deepest area of expertise, complemented by hands-on experience across the wider modern security stack, including Zscaler, EDR, SIEM and vulnerability management.</p>
+
+<p><br>
+<strong>The Opportunity</strong><br>
+As Senior Cyber Security Engineer, you’ll take ownership of CyberArk and privileged access management solutions throughout their lifecycle—from initial discovery and architecture through to deployment, integration and ongoing optimisation.</p>
+
+<p>You’ll act as the senior escalation point for identity and security-tooling incidents while helping ensure that privileged accounts are properly vaulted, rotated, monitored and protected.</p>
+
+<p>Working closely with cyber operations, SOC, infrastructure and security consulting teams, you’ll also help develop security standards, improve tooling performance and contribute to the continued growth of the organisation’s PAM capability.</p>
+
+<p><strong>Key Responsibilities</strong><br>
+You’ll play a central role in strengthening clients’ security environments by:</p>
+
+<ul>
+	<li>Owning the design, deployment and operation of CyberArk solutions across managed client environments.</li>
+	<li>Managing vaulting, session management, secrets management and privileged threat analytics.</li>
+	<li>Designing PAM onboarding programmes covering discovery, scoping, policy design and rollout.</li>
+	<li>Integrating PAM with Entra ID, conditional access, multifactor authentication and just-in-time access models.</li>
+	<li>Establishing privileged-access standards and providing evidence for client audits, including ISO 27001 and Cyber Essentials Plus.</li>
+	<li>Deploying, configuring and maintaining EDR, SIEM integrations, vulnerability-scanning and email-security solutions.</li>
+	<li>Supporting Zscaler ZIA and ZPA deployments, configuration and policy development.</li>
+	<li>Monitoring the health of the security-tooling estate, including product versions, coverage gaps, tuning quality and integration reliability.</li>
+	<li>Automating deployments and operational processes using PowerShell or Python, APIs and shared automation libraries.</li>
+	<li>Acting as a senior escalation point for identity and security-tooling incidents.</li>
+	<li>Supporting major incident response activities when required.</li>
+	<li>Producing clear technical designs, standards and operational runbooks.</li>
+	<li>Contributing PAM and security-tooling expertise to service reviews and solution-scoping activities.</li>
+	<li>Using AI-assisted workflows to support diagnostics, configuration reviews and technical documentation.</li>
+</ul>
+
+<p><strong>About You</strong><br>
+You’ll be an experienced security engineer with deep CyberArk and privileged access management expertise. You’ll be confident owning complex technical solutions and communicating effectively with both technical teams and client stakeholders.</p>
+
+<p>You will also have:</p>
+
+<ul>
+	<li>At least five years’ experience within security engineering.</li>
+	<li>A minimum of two years’ hands-on experience designing and administering CyberArk PAM Self-Hosted or Privilege Cloud.</li>
+	<li>Expert knowledge of privileged access management and identity and access management.</li>
+	<li>Strong experience with security tooling and EDR platforms.</li>
+	<li>Experience deploying or operating Zscaler ZIA and ZPA.</li>
+	<li>Hands-on experience with at least two of the following: EDR, SIEM, vulnerability management or email security.</li>
+	<li>Advanced knowledge of network security, including firewalls, VPNs and VLANs.</li>
+	<li>Strong vulnerability-management, monitoring and observability experience.</li>
+	<li>Strong PowerShell or Python scripting skills, applied to security-tooling automation and integration.</li>
+	<li>Working knowledge of cloud platforms such as Azure, AWS or GCP.</li>
+	<li>Experience supporting security operations, incident management and SOC environments.</li>
+	<li>Strong documentation, reporting and stakeholder-communication skills.</li>
+	<li>The ability to work across multiple client environments and manage competing technical priorities.</li>
+	<li>MSP, MSSP or other multi-client environment experience, although this is not essential.</li>
+	<li>Previous exposure to client security audits, which would be advantageous.</li>
+</ul>
+
+<p><strong>Certifications:</strong><br>
+You’ll ideally hold:</p>
+
+<ul>
+	<li>CyberArk Defender certification or equivalent demonstrable hands-on experience.</li>
+</ul>
+
+<p>The following certifications would also be advantageous:</p>
+
+<ul>
+	<li>CyberArk Sentry.</li>
+	<li>CyberArk Guardian.</li>
+	<li>Zscaler professional-level certification covering ZIA or ZPA.</li>
+	<li>Microsoft SC-300, SC-200 or AZ-500.</li>
+	<li>Relevant EDR vendor certifications.</li>
+</ul>
+
+<p><strong>Why Apply?</strong><br>
+This is an excellent opportunity to establish yourself as a recognised specialist within a growing privileged access management practice.</p>
+
+<p>In return, you’ll benefit from:</p>
+
+<ul>
+	<li>A rate of £600 per day.</li>
+	<li>A senior technical role with ownership of complex CyberArk and PAM solutions.</li>
+	<li>Exposure to varied security environments across multiple clients.</li>
+	<li>A funded professional-certification pathway, including CyberArk and Zscaler development.</li>
+	<li>The opportunity to influence security standards, automation and technical best practices.</li>
+	<li>A potential progression route into cyber operations leadership or solution architecture.</li>
+	<li>The chance to work with a broad modern security stack in a collaborative technical environment.</li>
+</ul>
+
+<p><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>
+
+<p><em>By applying you are confirming you are happy to be added to the Addition Solutions mailing list regarding future suitable positions. You can opt out of this at any time simply by contacting one of our consultants.</em></p>
+]]></description>
+    <salary><![CDATA[]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[0]]></latitude>
+    <longitude><![CDATA[0]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[AI Platform Engineer ]]></title>
+    <date><![CDATA[Fri, 04 Sep 2026 08:45:06 +0000]]></date>
+    <referencenumber><![CDATA[7447]]></referencenumber>
+    <url><![CDATA[https://www.additionsolutions.co.uk/job-details/ai-platform-engineer-in-jobs-7447]]></url>
+    <company><![CDATA[Addition Solution]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Edinburgh]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>AI Platform Engineer</strong></p>
+
+<p><strong>5 Contract Roles | Principal, Senior and Mid-Level<br>
+£475 per day | IR35 Status TBC<br>
+Location: Largely Remote, with Travel to Client Site</strong></p>
+
+<p>We’re partnering with an AI-focused consultancy to appoint five experienced AI Platform Engineers for a major platform programme within a high-traffic, heavily regulated consumer environment.</p>
+
+<p>This is an opportunity to help create the shared foundation behind an organisation’s AI capabilities. You’ll build a scalable platform that product and engineering teams can use by default, with the governance, resilience and cost control required within a regulated business.</p>
+
+<p>Positions are available at Principal, Senior and Mid-Level, with responsibilities and expectations tailored to each level.</p>
+
+<p><strong>The Opportunity</strong></p>
+
+<p>You’ll work across three core areas of the AI platform:</p>
+
+<ul>
+	<li>Inference control: Developing the gateway and routing layer connecting engineering teams to multiple LLM providers, including resilient failover and load-shedding capabilities.</li>
+	<li>Orchestration and capability lifecycle: Building tools that allow teams to register, discover, manage and reuse AI capabilities and agents.</li>
+	<li>Trust, safety and governance: Embedding access controls, audit trails, guardrails and cost attribution throughout the platform.</li>
+</ul>
+
+<p>At Principal level, you’ll set the platform’s technical direction and lead architecture discussions with senior engineering stakeholders.</p>
+
+<p>At Senior level, you’ll take end-to-end ownership of a significant platform component and establish the standards required to deliver it successfully.</p>
+
+<p>At Mid-Level, you’ll build and release solutions across the platform alongside experienced engineers, contributing reliable production-quality code.</p>
+
+<p><strong>Key Responsibilities</strong></p>
+
+<p>You’ll play an important role in designing, building and delivering the AI platform by:</p>
+
+<ul>
+	<li>Building and evolving the API gateway and routing layer connecting teams to multiple LLM providers.</li>
+	<li>Developing failover, load-shedding and resilience capabilities for periods of provider degradation.</li>
+	<li>Designing orchestration, registration and discovery tooling for reusable AI capabilities.</li>
+	<li>Establishing API design, versioning and promotion workflows to move capabilities from experimentation into production.</li>
+	<li>Implementing RBAC and OIDC-based access controls.</li>
+	<li>Supporting secure API key issuance, rotation and revocation.</li>
+	<li>Creating caching layers, routing economics and per-team cost attribution.</li>
+	<li>Monitoring platform adoption, latency, performance and inference costs.</li>
+	<li>Embedding auditability, guardrails and safe defaults into the platform from the outset.</li>
+	<li>Applying high standards across testing, observability and technical documentation.</li>
+	<li>Using evaluation frameworks, golden datasets, structured outputs and fallback paths to manage non-deterministic behaviour.</li>
+	<li>Producing architecture decision records, runbooks and API documentation.</li>
+	<li>Supporting knowledge transfer through code reviews, pairing and close collaboration with internal engineering teams.</li>
+	<li>Planning and prioritising your work, managing changing requirements and raising delivery risks early.</li>
+</ul>
+
+<p><strong>About You</strong></p>
+
+<p>We’re looking for hybrid engineers with experience across software engineering, platform infrastructure and AI systems. You’ll bring strong production experience in at least one area, with credible knowledge across the others.</p>
+
+<p>You will also have:</p>
+
+<ul>
+	<li>Strong production experience using Python or Go to build, operate and troubleshoot live services.</li>
+	<li>Experience running an API gateway at scale, ideally Kong, Envoy or Apigee.</li>
+	<li>Hands-on integration experience across multiple LLM providers, such as Anthropic, AWS Bedrock, OpenAI or comparable platforms.</li>
+	<li>Experience designing routing and failover approaches across multiple AI providers.</li>
+	<li>Strong knowledge of RBAC, OIDC and API key lifecycle management.</li>
+	<li>Practical AWS cloud infrastructure experience.</li>
+	<li>Experience with Terraform, containers, CI/CD and observability.</li>
+	<li>Knowledge of caching strategies, latency management and inference cost optimisation.</li>
+	<li>Familiarity with MCP or comparable service-registry and tool-discovery patterns.</li>
+	<li>Strong testing, documentation and production engineering standards.</li>
+	<li>The ability to communicate technical cost, risk and delivery trade-offs clearly.</li>
+	<li>Confidence working with platform engineers, architects and senior engineering stakeholders.</li>
+	<li>The judgement to challenge an approach constructively and support your position with evidence.</li>
+	<li>Experience becoming productive quickly within unfamiliar systems and organisations.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>Experience delivering within iGaming, financial services or another highly regulated sector would be advantageous, particularly where auditability, data privacy and compliance controls are essential.</p>
+
+<p>Experience working with high-throughput, latency-sensitive production systems and delivering within contract or consulting environments would also be beneficial.</p>
+
+<p>Relevant AWS, Terraform, Machine Learning or Generative AI certifications are useful, although proven delivery experience is more important.</p>
+
+<p><strong>Why Apply?</strong></p>
+
+<p>This is an excellent opportunity to contribute to a major AI platform programme and build production infrastructure that will be used across a large engineering organisation.</p>
+
+<p>In return, you’ll benefit from:</p>
+
+<ul>
+	<li>A competitive day rate of £475.</li>
+	<li>A largely remote working arrangement.</li>
+	<li>Opportunities available across Principal, Senior and Mid-Level positions.</li>
+	<li>Technically challenging work spanning AI, software engineering and cloud infrastructure.</li>
+	<li>The opportunity to influence how AI capabilities are governed, scaled and adopted within a regulated environment.</li>
+	<li>A collaborative delivery model working closely with experienced engineers and senior stakeholders.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>The hiring process will include an initial conversation covering rate, availability and notice period, followed by a capability and technical interview focused on the platform programme.</p>
+
+<p>&nbsp;</p>
+
+<p><em>We are an equal opportunity employer and value diversity at our company.</em></p>
+
+<p><em>We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>
+
+<p>&nbsp;</p>
+
+<p><em>By applying you are confirming you are happy to be added to the Addition Solutions mailing list regarding future suitable positions. You can opt out of this at any time simply by contacting one of our consultants.</em></p>
+]]></description>
+    <salary><![CDATA[]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[55.9430765]]></latitude>
+    <longitude><![CDATA[-3.2099411]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior AI Engineer]]></title>
+    <date><![CDATA[Fri, 04 Sep 2026 11:55:01 +0000]]></date>
+    <referencenumber><![CDATA[7446]]></referencenumber>
+    <url><![CDATA[https://www.additionsolutions.co.uk/job-details/senior-ai-engineer-in-jobs-7446]]></url>
+    <company><![CDATA[Addition Solution]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<h1>&nbsp;</h1>
+
+<p><strong>Senior AI Engineer<br>
+<br>
+Start Date: ASAP</strong><br>
+<strong>Contract | £475 per Day</strong><br>
+<strong>Location: TBC</strong></p>
+
+<p>We’re partnering with an innovative, technology-led organisation to appoint an experienced Senior AI Engineer.</p>
+
+<p>This is an exciting opportunity to work at the forefront of AI and software development, designing and operating advanced large language model solutions and contributing to scalable, production-ready data platforms.</p>
+
+<p>We’re particularly interested in candidates who combine deep AI engineering knowledge with strong production-level software development skills and an understanding of how to integrate, monitor and evaluate AI systems effectively.</p>
+
+<p><strong>The Opportunity</strong><br>
+As Senior AI Engineer, you’ll play a pivotal role in designing, developing and operating large language model solutions within production environments.</p>
+
+<p>You’ll help build the platforms, pipelines and backend capabilities required to deploy AI reliably at scale, combining machine intelligence with human judgement to create practical and transformative solutions.</p>
+
+<p>This is a hands-on technical position requiring someone who can solve complex engineering challenges, maintain high development standards and collaborate effectively within a dynamic, forward-thinking team.<br>
+&nbsp;</p>
+
+<p><strong>Key Responsibilities</strong><br>
+You’ll play an important role in developing and scaling the organisation’s AI capabilities by:</p>
+
+<ul>
+	<li>Designing, developing and operating large language model solutions.</li>
+	<li>Building reliable, production-ready AI applications and backend services.</li>
+	<li>Contributing to the development of scalable data platforms and supporting infrastructure.</li>
+	<li>Integrating AI models and services seamlessly into production environments.</li>
+	<li>Developing maintainable, high-quality software using Python.</li>
+	<li>Creating and managing CI/CD pipelines using GitHub Actions and related technologies.</li>
+	<li>Implementing monitoring, evaluation and observability processes for AI systems.</li>
+	<li>Supporting human-in-the-loop workflows and AI model-evaluation frameworks.</li>
+	<li>Troubleshooting complex technical issues across AI applications, data platforms and deployment environments.</li>
+	<li>Collaborating with engineering, data and product teams to translate business requirements into effective technical solutions.</li>
+	<li>Maintaining strong standards across testing, documentation, version control and software delivery.</li>
+	<li>Staying informed about emerging AI technologies, tools and engineering practices.</li>
+	<li>Identifying opportunities to improve the performance, scalability and reliability of existing AI systems.</li>
+</ul>
+
+<p><strong>About You</strong><br>
+You’ll be an experienced AI engineer with strong Python development skills and significant hands-on experience designing and operating large language models.</p>
+
+<p>You will also have:</p>
+
+<ul>
+	<li>Extensive practical experience within AI engineering, particularly involving large language models.</li>
+	<li>Strong proficiency in Python and production-level software development.</li>
+	<li>Experience using LangSmith, Braintrust, Arize or similar AI observability and evaluation platforms.</li>
+	<li>A strong understanding of LLM backend architecture and AI operations.</li>
+	<li>Experience building data platforms and supporting scalable data infrastructure.</li>
+	<li>Strong knowledge of GitHub Actions and CI/CD pipelines.</li>
+	<li>Experience integrating AI models and services into live production environments.</li>
+	<li>Strong analytical, problem-solving and troubleshooting skills.</li>
+	<li>A proactive approach and the ability to work effectively within a collaborative team.</li>
+	<li>The ability to communicate complex technical concepts clearly.</li>
+	<li>The right to work in the UK, supported by verifiable documentation.</li>
+</ul>
+
+<p>It would also be advantageous to have:</p>
+
+<ul>
+	<li>Experience developing AI model-evaluation frameworks.</li>
+	<li>Knowledge of human-in-the-loop systems and workflows.</li>
+	<li>Experience deploying AI models within cloud environments.</li>
+	<li>Programming experience with Java, C++ or another language in addition to Python.</li>
+	<li>Previous experience building or operating AI systems at scale within an enterprise environment.</li>
+	<li>A Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, Machine Learning or a related discipline.</li>
+</ul>
+
+<p><strong>Why Apply?</strong><br>
+This is a fantastic opportunity to make a direct impact within an innovative organisation developing the next generation of AI-enabled technology.</p>
+
+<p>In return, you’ll benefit from:</p>
+
+<ul>
+	<li>A competitive rate of £475 per day.</li>
+	<li>A senior, hands-on position with genuine technical influence.</li>
+	<li>The opportunity to design and operate advanced LLM-based solutions.</li>
+	<li>Exposure to modern AI evaluation, observability and data-platform technologies.</li>
+	<li>The chance to solve complex production engineering challenges.</li>
+	<li>A collaborative and forward-thinking working environment.</li>
+	<li>The opportunity to help shape scalable AI systems with meaningful real-world applications.</li>
+</ul>
+
+<p><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>
+
+<p><em>By applying you are confirming you are happy to be added to the Addition Solutions mailing list regarding future suitable positions. You can opt out of this at any time simply by contacting one of our consultants.</em></p>
+]]></description>
+    <salary><![CDATA[]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[0]]></latitude>
+    <longitude><![CDATA[0]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Consumer Communications Manager]]></title>
+    <date><![CDATA[Fri, 04 Sep 2026 11:40:04 +0000]]></date>
+    <referencenumber><![CDATA[7448]]></referencenumber>
+    <url><![CDATA[https://www.additionsolutions.co.uk/job-details/consumer-communications-manager-in-jobs-7448]]></url>
+    <company><![CDATA[Addition Solution]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[London]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>Consumer&nbsp;Communications&nbsp;Manager</strong></p>
+
+<p><strong>Permanent&nbsp;|&nbsp;£60,000&nbsp;+&nbsp;Bonus&nbsp;and&nbsp;Benefits</strong></p>
+
+<p><strong>Location:&nbsp;London</strong></p>
+
+<p>We’re&nbsp;partnering&nbsp;with&nbsp;a&nbsp;purpose-led&nbsp;consumer&nbsp;organisation&nbsp;to&nbsp;appoint&nbsp;an&nbsp;experienced&nbsp;Consumer&nbsp;Communications&nbsp;Manager&nbsp;specialising&nbsp;in&nbsp;brand&nbsp;and&nbsp;good-causes&nbsp;communications.</p>
+
+<p>This&nbsp;is&nbsp;an&nbsp;exciting&nbsp;opportunity&nbsp;for&nbsp;a&nbsp;creative&nbsp;communications&nbsp;professional&nbsp;to&nbsp;develop&nbsp;integrated&nbsp;campaigns&nbsp;that&nbsp;build&nbsp;brand&nbsp;relevance,&nbsp;strengthen&nbsp;consumer&nbsp;trust&nbsp;and&nbsp;demonstrate&nbsp;the&nbsp;meaningful&nbsp;impact&nbsp;the&nbsp;organisation&nbsp;makes&nbsp;within&nbsp;communities&nbsp;across&nbsp;the&nbsp;UK.</p>
+
+<p>We’re&nbsp;particularly&nbsp;interested&nbsp;in&nbsp;candidates&nbsp;with&nbsp;significant&nbsp;experience&nbsp;across&nbsp;PR,&nbsp;media&nbsp;or&nbsp;journalism&nbsp;who&nbsp;understand&nbsp;how&nbsp;to&nbsp;create&nbsp;culturally&nbsp;relevant&nbsp;stories&nbsp;that&nbsp;audiences&nbsp;genuinely&nbsp;want&nbsp;to&nbsp;engage&nbsp;with&nbsp;and&nbsp;share.</p>
+
+<p><strong>The&nbsp;Opportunity</strong></p>
+
+<p>Reporting&nbsp;to&nbsp;the&nbsp;Senior&nbsp;Consumer&nbsp;Communications&nbsp;Manager,&nbsp;you’ll&nbsp;deliver&nbsp;creative,&nbsp;integrated&nbsp;communications&nbsp;campaigns&nbsp;that&nbsp;connect&nbsp;brand&nbsp;storytelling&nbsp;with&nbsp;purpose.</p>
+
+<p>You’ll&nbsp;develop&nbsp;stories&nbsp;centred&nbsp;on&nbsp;hope,&nbsp;optimism&nbsp;and&nbsp;possibility,&nbsp;helping&nbsp;the&nbsp;brand&nbsp;feel&nbsp;modern,&nbsp;relevant&nbsp;and&nbsp;exciting&nbsp;to&nbsp;both&nbsp;existing&nbsp;and&nbsp;new&nbsp;audiences.&nbsp;Alongside&nbsp;this,&nbsp;you’ll&nbsp;bring&nbsp;the&nbsp;organisation’s&nbsp;social&nbsp;impact&nbsp;to&nbsp;life&nbsp;by&nbsp;showcasing&nbsp;the&nbsp;people,&nbsp;projects&nbsp;and&nbsp;communities&nbsp;supported&nbsp;through&nbsp;its&nbsp;work.</p>
+
+<p>This&nbsp;is&nbsp;a&nbsp;varied&nbsp;and&nbsp;highly&nbsp;creative&nbsp;role&nbsp;combining&nbsp;campaign&nbsp;development,&nbsp;media&nbsp;relations,&nbsp;content&nbsp;production,&nbsp;agency&nbsp;management&nbsp;and&nbsp;performance&nbsp;evaluation.&nbsp;You’ll&nbsp;work&nbsp;closely&nbsp;with&nbsp;Marketing,&nbsp;Social&nbsp;and&nbsp;wider&nbsp;Communications&nbsp;teams&nbsp;to&nbsp;deliver&nbsp;compelling&nbsp;stories&nbsp;across&nbsp;multiple&nbsp;platforms.</p>
+
+<p><strong>Key&nbsp;Responsibilities</strong></p>
+
+<p>You’ll&nbsp;play&nbsp;a&nbsp;key&nbsp;role&nbsp;in&nbsp;strengthening&nbsp;the&nbsp;organisation’s&nbsp;brand&nbsp;and&nbsp;communicating&nbsp;its&nbsp;positive&nbsp;impact&nbsp;by:</p>
+
+<ul>
+	<li>Developing&nbsp;and&nbsp;delivering&nbsp;integrated&nbsp;consumer&nbsp;communications&nbsp;campaigns&nbsp;that&nbsp;increase&nbsp;brand&nbsp;relevance,&nbsp;trust&nbsp;and&nbsp;participation.</li>
+	<li>Creating&nbsp;stories&nbsp;and&nbsp;campaigns&nbsp;that&nbsp;showcase&nbsp;the&nbsp;organisation’s&nbsp;support&nbsp;for&nbsp;good&nbsp;causes&nbsp;and&nbsp;communities&nbsp;at&nbsp;scale.</li>
+	<li>Producing&nbsp;engaging&nbsp;press&nbsp;materials,&nbsp;including&nbsp;media&nbsp;briefs,&nbsp;press&nbsp;releases,&nbsp;interviews&nbsp;and&nbsp;supporting&nbsp;content.</li>
+	<li>Supporting&nbsp;photography&nbsp;and&nbsp;video&nbsp;shoots&nbsp;to&nbsp;produce&nbsp;high-quality&nbsp;visual&nbsp;content.</li>
+	<li>Pitching&nbsp;compelling&nbsp;stories&nbsp;to&nbsp;journalists,&nbsp;media&nbsp;outlets&nbsp;and&nbsp;relevant&nbsp;influencers&nbsp;to&nbsp;secure&nbsp;high-impact&nbsp;coverage.</li>
+	<li>Building&nbsp;and&nbsp;maintaining&nbsp;strong&nbsp;relationships&nbsp;with&nbsp;media&nbsp;contacts&nbsp;and&nbsp;social&nbsp;influencers.</li>
+	<li>Working&nbsp;collaboratively&nbsp;with&nbsp;Marketing,&nbsp;Social&nbsp;and&nbsp;other&nbsp;Communications&nbsp;teams&nbsp;to&nbsp;deliver&nbsp;consistent,&nbsp;multi-platform&nbsp;storytelling.</li>
+	<li>Supporting&nbsp;the&nbsp;management&nbsp;of&nbsp;external&nbsp;PR&nbsp;agencies&nbsp;and&nbsp;ensuring&nbsp;campaigns&nbsp;deliver&nbsp;strong&nbsp;results.</li>
+	<li>Monitoring&nbsp;campaign&nbsp;performance&nbsp;and&nbsp;producing&nbsp;clear&nbsp;reports,&nbsp;insights&nbsp;and&nbsp;actionable&nbsp;recommendations.</li>
+	<li>Identifying&nbsp;opportunities&nbsp;to&nbsp;improve&nbsp;and&nbsp;modernise&nbsp;the&nbsp;organisation’s&nbsp;consumer&nbsp;PR&nbsp;approach.</li>
+	<li>Remaining&nbsp;up&nbsp;to&nbsp;date&nbsp;with&nbsp;media&nbsp;developments,&nbsp;social&nbsp;trends,&nbsp;changing&nbsp;audience&nbsp;behaviour&nbsp;and&nbsp;the&nbsp;potential&nbsp;applications&nbsp;of&nbsp;AI&nbsp;within&nbsp;communications.</li>
+	<li>Supporting&nbsp;budget&nbsp;management&nbsp;and&nbsp;ensuring&nbsp;activity&nbsp;is&nbsp;delivered&nbsp;effectively&nbsp;and&nbsp;efficiently.</li>
+	<li>Helping&nbsp;position&nbsp;the&nbsp;brand&nbsp;within&nbsp;relevant&nbsp;cultural&nbsp;conversations&nbsp;through&nbsp;timely,&nbsp;audience-led&nbsp;campaigns.</li>
+</ul>
+
+<p><strong>About&nbsp;You</strong></p>
+
+<p>You’ll&nbsp;be&nbsp;an&nbsp;experienced&nbsp;communications&nbsp;professional&nbsp;with&nbsp;excellent&nbsp;storytelling&nbsp;skills,&nbsp;strong&nbsp;media&nbsp;relationships&nbsp;and&nbsp;a&nbsp;proven&nbsp;ability&nbsp;to&nbsp;deliver&nbsp;creative&nbsp;campaigns&nbsp;that&nbsp;achieve&nbsp;meaningful&nbsp;results.</p>
+
+<p>You&nbsp;will&nbsp;also&nbsp;have:</p>
+
+<ul>
+	<li>Significant&nbsp;professional&nbsp;experience&nbsp;within&nbsp;PR,&nbsp;media,&nbsp;communications&nbsp;or&nbsp;journalism.</li>
+	<li>An&nbsp;established&nbsp;network&nbsp;of&nbsp;relevant&nbsp;journalists,&nbsp;media&nbsp;contacts&nbsp;and&nbsp;social&nbsp;influencers.</li>
+	<li>A&nbsp;strong&nbsp;track&nbsp;record&nbsp;of&nbsp;securing&nbsp;high-impact&nbsp;media&nbsp;coverage.</li>
+	<li>Experience&nbsp;developing&nbsp;and&nbsp;delivering&nbsp;integrated&nbsp;consumer&nbsp;communications&nbsp;campaigns.</li>
+	<li>A&nbsp;strong&nbsp;understanding&nbsp;of&nbsp;modern&nbsp;media&nbsp;consumption,&nbsp;audience&nbsp;behaviour&nbsp;and&nbsp;consumer&nbsp;trends.</li>
+	<li>Excellent&nbsp;written&nbsp;and&nbsp;verbal&nbsp;communication&nbsp;skills.</li>
+	<li>The&nbsp;ability&nbsp;to&nbsp;produce&nbsp;engaging&nbsp;press&nbsp;materials&nbsp;and&nbsp;content&nbsp;for&nbsp;different&nbsp;channels&nbsp;and&nbsp;audiences.</li>
+	<li>High&nbsp;levels&nbsp;of&nbsp;creativity&nbsp;combined&nbsp;with&nbsp;strong&nbsp;strategic&nbsp;thinking.</li>
+	<li>Experience&nbsp;briefing&nbsp;and&nbsp;managing&nbsp;external&nbsp;PR&nbsp;agencies.</li>
+	<li>Confidence&nbsp;collaborating&nbsp;with&nbsp;Marketing,&nbsp;Social&nbsp;and&nbsp;wider&nbsp;Communications&nbsp;teams.</li>
+	<li>An&nbsp;audience-led&nbsp;approach,&nbsp;using&nbsp;insights&nbsp;and&nbsp;campaign&nbsp;results&nbsp;to&nbsp;improve&nbsp;future&nbsp;activity.</li>
+	<li>An&nbsp;interest&nbsp;in&nbsp;emerging&nbsp;digital&nbsp;communications&nbsp;and&nbsp;the&nbsp;ways&nbsp;AI&nbsp;can&nbsp;support&nbsp;modern&nbsp;PR.</li>
+	<li>A&nbsp;proactive,&nbsp;positive&nbsp;and&nbsp;solutions-focused&nbsp;approach.</li>
+	<li>Strong&nbsp;organisational&nbsp;skills&nbsp;with&nbsp;the&nbsp;ability&nbsp;to&nbsp;manage&nbsp;multiple&nbsp;campaigns&nbsp;and&nbsp;priorities.</li>
+</ul>
+
+<h2>&nbsp;</h2>
+
+<p><strong>Why&nbsp;Apply?</strong></p>
+
+<p>This&nbsp;is&nbsp;a&nbsp;fantastic&nbsp;opportunity&nbsp;to&nbsp;use&nbsp;your&nbsp;communications&nbsp;expertise&nbsp;within&nbsp;a&nbsp;high-profile,&nbsp;purpose-led&nbsp;organisation&nbsp;whose&nbsp;work&nbsp;makes&nbsp;a&nbsp;meaningful&nbsp;difference&nbsp;to&nbsp;people&nbsp;and&nbsp;communities&nbsp;across&nbsp;the&nbsp;UK.</p>
+
+<p>In&nbsp;return,&nbsp;you’ll&nbsp;benefit&nbsp;from:</p>
+
+<ul>
+	<li>A&nbsp;salary&nbsp;of&nbsp;£60,000.</li>
+	<li>Company&nbsp;bonus&nbsp;scheme.</li>
+	<li>Matched&nbsp;pension&nbsp;contributions&nbsp;of&nbsp;up&nbsp;to&nbsp;8.5%.</li>
+	<li>26&nbsp;days’&nbsp;annual&nbsp;leave,&nbsp;two&nbsp;additional&nbsp;Life&nbsp;Days&nbsp;and&nbsp;bank&nbsp;holidays.</li>
+	<li>Private&nbsp;health&nbsp;and&nbsp;medical&nbsp;cover.</li>
+	<li>Income&nbsp;protection.</li>
+	<li>Enhanced&nbsp;maternity,&nbsp;paternity&nbsp;and&nbsp;adoption&nbsp;leave.</li>
+	<li>A&nbsp;£500&nbsp;annual&nbsp;wellness&nbsp;allowance.</li>
+	<li>An&nbsp;Employee&nbsp;Assistance&nbsp;Programme.</li>
+	<li>Discounted&nbsp;health&nbsp;assessments.</li>
+	<li>Flexible&nbsp;benefits,&nbsp;including&nbsp;an&nbsp;electric&nbsp;vehicle&nbsp;scheme,&nbsp;financial&nbsp;coaching,&nbsp;will&nbsp;writing,&nbsp;mortgage&nbsp;advice,&nbsp;and&nbsp;dental&nbsp;and&nbsp;eye-care&nbsp;schemes.</li>
+	<li>Volunteering&nbsp;days&nbsp;and&nbsp;matched&nbsp;charitable&nbsp;funding.</li>
+	<li>The&nbsp;opportunity&nbsp;to&nbsp;deliver&nbsp;high-profile&nbsp;campaigns&nbsp;with&nbsp;genuine&nbsp;social&nbsp;impact.</li>
+	<li>A&nbsp;creative,&nbsp;inclusive&nbsp;environment&nbsp;where&nbsp;new&nbsp;ideas&nbsp;and&nbsp;different&nbsp;perspectives&nbsp;are&nbsp;valued.</li>
+</ul>
+
+<p><em>We&nbsp;are&nbsp;an&nbsp;equal&nbsp;opportunity&nbsp;employer&nbsp;and&nbsp;value&nbsp;diversity&nbsp;at&nbsp;our&nbsp;company.&nbsp;We&nbsp;do&nbsp;not&nbsp;discriminate&nbsp;on&nbsp;the&nbsp;basis&nbsp;of&nbsp;race,&nbsp;religion,&nbsp;colour,&nbsp;national&nbsp;origin,&nbsp;gender,&nbsp;sexual&nbsp;orientation,&nbsp;age,&nbsp;marital&nbsp;status,&nbsp;veteran&nbsp;status,&nbsp;or&nbsp;disability&nbsp;status.</em></p>
+
+<p><em>By&nbsp;applying&nbsp;you&nbsp;are&nbsp;confirming&nbsp;you&nbsp;are&nbsp;happy&nbsp;to&nbsp;be&nbsp;added&nbsp;to&nbsp;the&nbsp;Addition&nbsp;Solutions&nbsp;mailing&nbsp;list&nbsp;regarding&nbsp;future&nbsp;suitable&nbsp;positions.&nbsp;You&nbsp;can&nbsp;opt&nbsp;out&nbsp;of&nbsp;this&nbsp;at&nbsp;any&nbsp;time&nbsp;simply&nbsp;by&nbsp;contacting&nbsp;one&nbsp;of&nbsp;our&nbsp;consultants.</em></p>
+]]></description>
+    <salary><![CDATA[£60,000 - £0]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[51.5171323]]></latitude>
+    <longitude><![CDATA[-0.1379216]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Telesales Executive]]></title>
+    <date><![CDATA[Fri, 04 Sep 2026 12:45:02 +0000]]></date>
+    <referencenumber><![CDATA[7439]]></referencenumber>
+    <url><![CDATA[https://www.additionsolutions.co.uk/job-details/telesales-executive-in-jobs-7439]]></url>
+    <company><![CDATA[Addition Solution]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Milton Keynes]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<h1>&nbsp;</h1>
+
+<p><strong>New Business Development Executive Start Date: ASAP</strong><br>
+<br>
+<strong>Permanent | £25,000–£28,000 + Uncapped Commission</strong><br>
+<strong>Location: Milton Keynes | On-site</strong><br>
+<strong>2–3 Vacancies Available</strong></p>
+
+<p>We’re partnering with a rapidly growing business-services organisation to appoint two to three ambitious New Business Development Executives.</p>
+
+<p>This is an excellent opportunity for resilient, commercially driven individuals who want to build a long-term career in sales. You’ll begin in a telesales-focused position, developing your prospecting, relationship-building and appointment-setting skills before progressing into a field-based role where you’ll run appointments and close your own deals.</p>
+
+<p>With an uncapped commission structure and a clear development route from telesales into field sales, this role rewards consistency, determination and a willingness to learn.</p>
+
+<h2>The Opportunity</h2>
+
+<p>As New Business Development Executive, you’ll play a central role in generating new business by contacting prospective customers across the UK.</p>
+
+<p>You’ll identify organisations that may be overpaying for their existing services, approaching the end of a long-term contract or ready to review their current arrangements. Through phone-based prospecting and face-to-face canvassing, you’ll build rapport with decision-makers and secure qualified appointments for the wider sales team.</p>
+
+<p>The organisation takes a traditional, phone-first approach to business development, so this role is ideally suited to someone who is confident picking up the phone—or genuinely committed to becoming highly effective at it.</p>
+
+<p>As your confidence and results develop, you’ll progress into a trainee field-sales position, running appointments and closing deals yourself.</p>
+
+<h2>Key Responsibilities</h2>
+
+<p>You’ll help support the continued growth of the business by:</p>
+
+<ul>
+	<li>Making outbound cold calls to prospective business customers across the UK.</li>
+	<li>Identifying relevant decision-makers and building rapport quickly.</li>
+	<li>Understanding customers’ current arrangements and identifying suitable commercial opportunities.</li>
+	<li>Booking qualified appointments for the wider sales team.</li>
+	<li>Identifying organisations that may be overpaying or approaching the end of an existing contract.</li>
+	<li>Canvassing local business parks and speaking directly with prospective customers.</li>
+	<li>Distributing promotional materials and generating additional face-to-face leads.</li>
+	<li>Helping prospective customers explore more affordable or suitable alternatives.</li>
+	<li>Maintaining accurate records of calls, conversations, leads and appointments.</li>
+	<li>Following up consistently with prospects and keeping opportunities moving.</li>
+	<li>Working towards daily call and weekly appointment-setting targets.</li>
+	<li>Progressing towards running and closing your own appointments in the field.</li>
+</ul>
+
+<h2>Targets and Expectations</h2>
+
+<p>You’ll work towards clear and achievable activity targets, including:</p>
+
+<ul>
+	<li>Approximately 60–100 outbound calls per day.</li>
+	<li>Around five to eight qualified appointments booked each week.</li>
+</ul>
+
+<p>Success in this role will require consistency, resilience and a willingness to develop over time.</p>
+
+<h2>About You</h2>
+
+<p>You’ll be a motivated and resilient individual who is comfortable speaking with prospective customers and determined to build a successful career in sales.</p>
+
+<p>Previous telesales or business development experience would be helpful, but attitude, confidence and work ethic are equally important.</p>
+
+<p>You will also have:</p>
+
+<ul>
+	<li>A genuine self-starting attitude and the ability to work independently.</li>
+	<li>Confidence holding conversations over the phone.</li>
+	<li>The ability to build rapport with prospective customers quickly.</li>
+	<li>Resilience when handling rejection or challenging calls.</li>
+	<li>A hard-working and consistent approach.</li>
+	<li>The confidence to approach businesses and generate leads face to face.</li>
+	<li>Strong organisational and follow-up skills.</li>
+	<li>The ability to maintain accurate customer and sales records.</li>
+	<li>A willingness to learn about the organisation’s products and services.</li>
+	<li>Patience and realistic expectations about developing a successful sales career.</li>
+	<li>A genuine ambition to progress from telesales into field sales.</li>
+	<li>A positive, professional and commercially focused attitude.</li>
+</ul>
+
+<h2>Career Progression</h2>
+
+<p>You’ll begin by developing a detailed understanding of the organisation’s services, target market and sales approach while building confidence on the phone.</p>
+
+<p>As your appointment-setting results improve, you’ll progress into a trainee field-sales position and begin running your own customer meetings. Once field-based, your working pattern will typically involve mornings attending appointments or canvassing, followed by afternoons in the Milton Keynes office.</p>
+
+<p>The organisation views this as an approximately two-year development journey into a fully fledged field-sales career. Those willing to learn, remain consistent and invest time in their development will have a clear route into a well-rewarded and increasingly autonomous position.</p>
+
+<h2>Why Apply?</h2>
+
+<p>This is a fantastic opportunity to develop a long-term sales career within a supportive and growing organisation.</p>
+
+<p>In return, you’ll benefit from:</p>
+
+<ul>
+	<li>A basic salary of £25,000–£28,000, depending on experience.</li>
+	<li>Fully uncapped commission of 20% on sales generated.</li>
+	<li>Typical individual deal values ranging from £500 to more than £10,000.</li>
+	<li>A clear progression route from telesales into field sales.</li>
+	<li>Practical training and support from an experienced leadership team.</li>
+	<li>The opportunity to develop appointment-setting, negotiation and closing skills.</li>
+	<li>Greater autonomy as you progress into a field-based role.</li>
+	<li>25 days’ annual leave plus bank holidays.</li>
+	<li>A 3% employer pension contribution.</li>
+	<li>Monday-to-Friday working hours with no weekend shifts.</li>
+	<li>The chance to play an important role in the continued growth of the business.</li>
+</ul>
+
+<p><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>
+
+<p><em>By applying you are confirming you are happy to be added to the Addition Solutions mailing list regarding future suitable positions. You can opt out of this at any time simply by contacting one of our consultants.</em></p>
+]]></description>
+    <salary><![CDATA[£28,000 - £0]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[52.0406224]]></latitude>
+    <longitude><![CDATA[-0.7594171]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[ServiceNow Platform Manager ]]></title>
+    <date><![CDATA[Thu, 03 Sep 2026 22:00:15 +0000]]></date>
+    <referencenumber><![CDATA[7453]]></referencenumber>
+    <url><![CDATA[https://www.additionsolutions.co.uk/job-details/servicenow-platform-manager-in-jobs-7453]]></url>
+    <company><![CDATA[Addition Solution]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Denver]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>A growing technology business is looking for an experienced <strong>ServiceNow Platform Manager</strong> to take ownership of a developing platform with plenty of scope to evolve. You’ll shape the roadmap, strengthen governance and make sure ServiceNow delivers real value across the wider organisation. <br>
+ <br>
+<strong>Role Overview:</strong><br>
+<strong>Location:</strong> Denver, Colorado. Hybrid/3-4 days per week in Broomfield, Colorado. <br>
+<strong>Contract Type: </strong>Corp to Corp (C2C)<br>
+<strong>Candidate Essentials: </strong>Must have an active LLC or Corporation to work on a C2C contract<br>
+<strong>Contract Length:</strong> 6 month initial contract with potential to become permanent. <br>
+<strong>Package:</strong> $105–$110 per hour<br>
+<strong>Industry: </strong>Technology<br>
+<br>
+<strong>What You’ll Be Doing:</strong></p>
+
+<ul>
+	<li>Take overall ownership of the ServiceNow platform, with roughly 70% of your time focused on platform leadership, governance and delivery oversight
+	<li>Build and manage the ServiceNow roadmap, aligning investment and priorities with changing business requirements
+	<li>Own the backlog and demand process, turning stakeholder requirements into clear priorities and achievable platform improvements
+	<li>Manage the relationship with the external Systems Integrator, reviewing and challenging solution designs, estimates, delivery plans and technical approaches
+	<li>Ensure the business retains strong internal platform knowledge, documentation and governance rather than becoming overly dependent on external partners
+	<li>Oversee releases, testing, upgrades, platform maintenance and change activity across the ServiceNow environment
+	<li>Work directly with stakeholders across IT, Security, Infrastructure, Enterprise Applications and wider business functions to improve processes and platform adoption
+	<li>Continue developing existing ITSM and CSM capabilities while identifying opportunities to expand ServiceNow across the organisation
+	<li>Help improve employee onboarding and other internal workflows through automation and better use of the platform
+	<li>Assess future modules and capabilities, with Integrated Risk Management (IRM) among the next areas being considered
+	<li>Keep approximately 30% of the role technically focused, stepping into administration or configuration where needed while the SI handles the majority of development work
+	<li>Improve reporting, dashboards and KPIs to give leadership greater visibility over platform performance, adoption, demand and delivery
+	<li>Maintain strong controls around integrations, access, data quality, technical debt and platform customisation
+</ul>
+<strong>Main Skills Needed:</strong>
+
+<ul>
+	<li>5+ years of ServiceNow experience across platform management, product ownership, administration, business analysis or consulting
+	<li>Experience taking meaningful ownership of a ServiceNow environment, ideally within an enterprise organisation
+	<li>Strong ServiceNow governance and roadmap experience, with the confidence to balance strategic platform decisions with day-to-day delivery
+	<li>Proven experience managing a ServiceNow SI or implementation partner, including the technical understanding to challenge designs, estimates and proposed solutions
+	<li>Strong knowledge of ITSM and CSM, with broader exposure to areas such as CMDB/CSDM, ITOM, ITAM, Service Catalog, workflow automation or Performance Analytics beneficial
+	<li>ServiceNow Certified System Administrator (CSA) certification
+	<li>ServiceNow Certified Implementation Specialist certifications across ITSM and CSM
+	<li>Strong understanding of ITIL principles; ITIL Foundation certification would be beneficial
+	<li>Ability to gather business requirements, lead stakeholder conversations and translate competing priorities into a structured platform backlog
+	<li>Comfortable being hands-on when required rather than operating solely at management level
+	<li>IRM experience would be particularly useful as the platform moves into its next phase of development
+	<li>Experience working in enterprise environments preferred, although strong consulting or high-growth/scale-up experience will also be considered
+</ul>
+<strong>What’s in It for You:</strong>
+
+<ul>
+	<li>40-hour-per-week contract with the opportunity to make an immediate impact.
+	<li>Ownership of a ServiceNow platform that is still relatively early in its maturity, giving you genuine influence over how it develops
+	<li>A broad remit spanning platform strategy, governance, vendor management, stakeholder engagement and technical oversight
+	<li>The chance to take ServiceNow beyond its current core use cases and support wider adoption across the business
+	<li>Exposure to an evolving roadmap covering areas such as IRM, HR Service Delivery, Security Operations, AI enablement and further workflow automation
+	<li>Potential for contract extension or conversion into a permanent position as the platform roadmap develops
+</ul>
+
+<p> <br>
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br>
+<br>
+By applying you are confirming you are happy to be added to the Addition Solutions mailing list regarding future suitable positions. You can opt out of this at any time simply by contacting one of our consultants.</p>
+]]></description>
+    <salary><![CDATA[]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[39.7392358]]></latitude>
+    <longitude><![CDATA[-104.990251]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Channel Account Manager ]]></title>
+    <date><![CDATA[Wed, 02 Sep 2026 10:15:05 +0000]]></date>
+    <referencenumber><![CDATA[7440]]></referencenumber>
+    <url><![CDATA[https://www.additionsolutions.co.uk/job-details/channel-account-manager-in-jobs-7440]]></url>
+    <company><![CDATA[Addition Solution]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Leeds]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>Channel Sales Account Manager</strong></p>
+
+<p>A fast-growing cyber security SaaS business is expanding its UK partner function and looking for a newly created role of a commercially driven Channel Account Manager to help take their channel to the next level.</p>
+
+<p>You’ll own a portfolio of reseller partners, create pipeline through the channel and turn strong engagement into recurring revenue.</p>
+
+<p><strong>Role Overview</strong></p>
+
+<p><strong>Location:</strong>&nbsp;Central Leeds/Hybrid. 3 days per week (This will likely be 1 day per week in the office and 1-2 days per week with partners).</p>
+
+<p><strong>Package:</strong>&nbsp;£40,000- £50,000pa + Uncapped OTE (paid monthly) + benefits + ad-hoc performance incentives.</p>
+
+<p><strong>Industry:</strong>&nbsp;Cyber Security / SaaS</p>
+
+<p><strong>What You’ll Be Doing</strong></p>
+
+<ul>
+	<li>Own and develop a portfolio of reseller and channel partners, building relationships across sales teams and leadership.</li>
+	<li>Proactively generate new opportunities through account mapping, partner prospecting, call-out days and targeted activity.</li>
+	<li>Build partner account plans that identify customer opportunities, whitespace and areas for revenue growth.</li>
+	<li>Manage partner-led opportunities from initial identification and registration through commercial conversations to close.</li>
+	<li>Deliver sales enablement sessions, webinars and presentations that help partners confidently position and sell the platform.</li>
+	<li>Work alongside Marketing to run partner campaigns, events and co-marketing activity that generates measurable pipeline.</li>
+	<li>Keep priority partners engaged through regular meetings, pipeline reviews, partner days and business reviews.</li>
+	<li>Develop high-potential partners while creating activation plans for dormant or underperforming accounts.</li>
+	<li>Support the recruitment and onboarding of new reseller partners, helping them reach their first revenue opportunities.</li>
+	<li>Collaborate with distribution partners to expand the active reseller network and support joint sales activity.</li>
+	<li>Work closely with Sales, Marketing and Customer Success to keep partner opportunities moving effectively.</li>
+	<li>Maintain accurate CRM data, pipeline reporting and revenue forecasts while working towards channel sales targets.</li>
+</ul>
+
+<p><strong>Main Skills Needed</strong></p>
+
+<ul>
+	<li>3+ years’ experience in a Channel Account Manager or Partner Account Manager role.</li>
+	<li>Experience working within or with a reseller is highly preferred.</li>
+	<li>A track record of working towards and achieving commercial targets.</li>
+	<li>A proactive approach to pipeline generation, you’re comfortable creating opportunities rather than waiting for leads.</li>
+	<li>Strong relationship-building skills with the confidence to engage salespeople and senior stakeholders.</li>
+	<li>Commercial confidence around pipeline, pricing, revenue and progressing deals.</li>
+	<li>Comfortable delivering presentations, partner training, webinars and sales enablement.</li>
+	<li>Strong organisation with the ability to manage multiple partners and opportunities at once.</li>
+	<li>Technology or SaaS sales experience would be beneficial, particularly within reseller, MSP, MSSP or distribution environments.</li>
+	<li>Experience with partner campaigns, account mapping, forecasting or call-out days would be a plus.</li>
+	<li>Cyber security knowledge is useful but isn’t essential.</li>
+	<li>Comfortable travelling to partner offices, events and customer meetings, with a valid UK driving licence and access to a car.</li>
+	<li>A highly personable individual who wants to get involved in the social element of the team dynamic!</li>
+</ul>
+
+<p><strong>What’s in It for You</strong></p>
+
+<ul>
+	<li>Uncapped commission alongside your basic salary, plus additional performance incentives.</li>
+	<li>Hybrid working with two home-working days each week.</li>
+	<li>An early 4pm finish every Friday.</li>
+	<li>Structured training tailored around your strengths and development areas.</li>
+	<li>Clear progression routes and visibility over future earning potential.</li>
+	<li>The chance to build a long-term career across channel sales and strategic partnerships.</li>
+	<li>Exposure to established technology resellers and service providers across the UK.</li>
+	<li>Opportunities to represent the business at partner events, webinars and industry conferences.</li>
+	<li>Regular social events such as their own padel and 5-a-side team, alongside company social events.</li>
+	<li>Supportive leadership with genuine autonomy over your partner portfolio.</li>
+	<li>Health and wellbeing benefits.</li>
+	<li>The chance to join a scaling SaaS business operating in one of technology’s fastest-growing markets.</li>
+</ul>
+
+<p><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>
+
+<p><em>By applying you are confirming you are happy to be added to the Addition Solutions mailing list regarding future suitable positions. You can opt out of this at any time simply by contacting one of our consultants.</em></p>
+]]></description>
+    <salary><![CDATA[£50,000 - £0]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[53.7978732]]></latitude>
+    <longitude><![CDATA[-1.5465362]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Product Support Analyst]]></title>
+    <date><![CDATA[Thu, 27 Aug 2026 10:15:08 +0000]]></date>
+    <referencenumber><![CDATA[7422]]></referencenumber>
+    <url><![CDATA[https://www.additionsolutions.co.uk/job-details/product-support-analyst-in-jobs-7422]]></url>
+    <company><![CDATA[Addition Solution]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Holbeck]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>Product Support Analyst</strong></p>
+
+<p>Join a fast-growing SaaS business helping organisations strengthen their cyber security awareness through smart technology, training and analytics. You’ll play a key role in delivering a brilliant customer experience, solving technical issues and supporting a product used by a rapidly growing customer base.</p>
+
+<p>A note to applicants, they are also open to considering this role on a part time basis so if you are considering this, please feel free to apply and message Hannah Clarke directly informing of the interest in this role on a part time basis.</p>
+
+<p><strong>Role Overview:</strong></p>
+
+<ul>
+	<li><strong>Location:</strong>&nbsp;Leeds/Hybrid. 2–3 days per week in the office.</li>
+	<li><strong>Package:</strong>&nbsp;£26,000–£28,000 depending on experience</li>
+	<li><strong>Industry:</strong>&nbsp;Cyber Security / SaaS</li>
+</ul>
+
+<p><strong>What You’ll Be Doing:</strong></p>
+
+<ul>
+	<li>Act as the first point of contact for customers needing product support across phone and email.</li>
+	<li>Diagnose and resolve technical queries quickly, with a strong focus on achieving high first-line resolution rates.</li>
+	<li>Take ownership of customer issues from initial contact through to resolution, ensuring communication stays clear throughout.</li>
+	<li>Work closely with the Product team when more complex technical problems need investigation or escalation.</li>
+	<li>Help create and maintain useful product documentation, making it easier for customers to find answers and self-serve.</li>
+	<li>Deliver a consistently high standard of service and contribute to an excellent overall customer experience.</li>
+</ul>
+
+<p><strong>Main Skills Needed:</strong></p>
+
+<ul>
+	<li>At least 1 year of experience within product support, technical support or a customer service environment.</li>
+	<li>A background working in a SAAS organisation is preferred.</li>
+	<li>Strong problem-solving skills with experience handling issues in a technical setting.</li>
+	<li>Confident written and verbal communication skills, including a professional and personable telephone manner.</li>
+	<li>A genuine interest in technology and the motivation to develop within a growing technical support function.</li>
+	<li>Experience supporting SaaS products or working within a scale-up environment would be beneficial.</li>
+	<li>Exposure to SQL and support desk platforms would be advantageous such as Fresh Desk or Jira.</li>
+</ul>
+
+<p><strong>What’s in It for You:</strong></p>
+
+<ul>
+	<li>25 days’ annual leave + bank holiday + a day off for your birthday.</li>
+	<li>Competitive salary with regular pay reviews.</li>
+	<li>Flexible hybrid working with a central Leeds office.</li>
+	<li>Personal development budget for relevant courses, professional certifications and conferences.</li>
+	<li>4pm Finish every Friday.</li>
+	<li>Pension scheme.</li>
+	<li>Over 4 different options for career development avenues.</li>
+	<li>Regular social events throughout the year.</li>
+	<li>Structured training, mentoring and opportunities to learn from experienced technical and customer teams.</li>
+	<li>The chance to build your career within a growing technology business where customer experience is taken seriously.</li>
+</ul>
+
+<p><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>
+
+<p><em>By applying you are confirming you are happy to be added to the Addition Solutions mailing list regarding future suitable positions. You can opt out of this at any time simply by contacting one of our consultants.</em></p>
+]]></description>
+    <salary><![CDATA[£28,000 - £0]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[53.7927105]]></latitude>
+    <longitude><![CDATA[-1.5495975]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Software Developer ]]></title>
+    <date><![CDATA[Wed, 26 Aug 2026 09:15:02 +0000]]></date>
+    <referencenumber><![CDATA[7431]]></referencenumber>
+    <url><![CDATA[https://www.additionsolutions.co.uk/job-details/software-developer-in-jobs-7431]]></url>
+    <company><![CDATA[Addition Solution]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[London]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>Software Developer<br>
+Permanent | Fully Remote | Competitive Salary DOE</strong></p>
+
+<p>We’re partnering with a growing technology business to appoint an experienced Software Developer to join its engineering team.</p>
+
+<p>This is an excellent opportunity for a practical, experienced engineer who enjoys solving real problems, taking ownership of production systems and building reliable, maintainable software. You’ll be joining a business at an exciting stage of growth, with a strong focus on maintaining a high-quality SaaS platform while continuing to scale its products and integrations.</p>
+
+<p>We’re particularly interested in developers with strong backend experience who value good engineering judgement over adopting new technology simply for the sake of it.</p>
+
+<p><strong>The Opportunity</strong></p>
+
+<p>As Software Developer, you’ll play a key role in designing, developing and maintaining the core SaaS platform alongside the systems and integrations that support it.</p>
+
+<p>This is a hands-on engineering role where you’ll work across backend services, APIs, third-party integrations and production systems. While backend development will be your primary focus, you’ll also be comfortable reading and making changes to modern frontend code when required.</p>
+
+<p>You’ll have genuine ownership and influence over the technology, working through complex engineering problems and helping to ensure the platform remains reliable as the business continues to grow.</p>
+
+<p><strong>Key Responsibilities</strong></p>
+
+<p>You’ll play an important role in the continued development and reliability of the platform by:</p>
+
+<ul>
+	<li>Designing, developing and maintaining reliable backend services and APIs.</li>
+	<li>Taking ownership of production systems and resolving issues as they arise.</li>
+	<li>Building and maintaining integrations with multiple third-party services.</li>
+	<li>Identifying and resolving issues involving unreliable dependencies, partial failures and other production challenges.</li>
+	<li>Debugging complex problems using logs, symptoms and available system information.</li>
+	<li>Maintaining and improving existing code, including systems originally developed by other engineers.</li>
+	<li>Contributing to modern frontend code when required.</li>
+	<li>Making pragmatic engineering decisions based on reliability, maintainability and business requirements.</li>
+	<li>Supporting the continued development and scalability of the platform.</li>
+</ul>
+
+<p><strong>About You</strong></p>
+
+<p>You’ll be an experienced Software Developer / Software Engineer with strong backend development skills and approximately 4–6 years’ commercial software development experience.</p>
+
+<p>More experienced candidates are also welcome, although this opportunity is particularly suited to someone who has developed their skills within a stable engineering environment and understands what it means to take long-term ownership of systems.</p>
+
+<p>Ideally, you will also have:</p>
+
+<ul>
+	<li>Strong backend development experience using C#, Go, Java or a similar programming language.</li>
+	<li>Experience designing, building and maintaining APIs.</li>
+	<li>Experience working with and taking ownership of production systems.</li>
+	<li>Experience within cloud-native environments or self-managed infrastructure.</li>
+	<li>Experience working with multiple third-party integrations.</li>
+	<li>An understanding of retries, idempotency, partial failures and reconciliation.</li>
+	<li>Strong debugging and problem-solving skills.</li>
+	<li>The ability to work effectively from logs, symptoms and limited information to identify underlying issues.</li>
+	<li>Confidence reading and making changes to modern frontend code when required.</li>
+	<li>Experience within a SaaS, platform or scale-up environment, although strong agency or product development experience will also be considered.</li>
+	<li>A track record of maintaining and improving existing systems and seeing projects through over time.</li>
+</ul>
+
+<p><strong>Engineering Mindset</strong></p>
+
+<p>Beyond technical capability, we’re looking for someone with strong engineering judgement and a pragmatic approach to technology.</p>
+
+<p>You’ll be comfortable fixing bugs you didn’t create, improving code you didn’t originally write and taking ownership when problems occur in production.</p>
+
+<p>You’ll understand the trade-offs involved in engineering decisions and prioritise building reliable, maintainable solutions over introducing technology simply because it is new.</p>
+
+<p>This is an opportunity for someone who enjoys understanding how systems actually work, approaching problems calmly and methodically, and delivering good engineering without relying on buzzwords.</p>
+
+<p><strong>Why Apply?</strong></p>
+
+<p>This is a fantastic opportunity to join a growing technology business where engineers have genuine ownership and influence over the technology they build and maintain.</p>
+
+<p>In return, you’ll benefit from:</p>
+
+<ul>
+	<li>Fully remote working.</li>
+	<li>Competitive salary, dependent on experience.</li>
+	<li>25 days’ annual leave plus public holidays.</li>
+	<li>Flexible working hours.</li>
+	<li>A sensible approach to working hours, with no expectation of excessive or unrealistic start-up hours.</li>
+	<li>Company laptop and equipment, including monitors.</li>
+	<li>Pension contribution.</li>
+	<li>A permanent opportunity within a growing technology business.</li>
+	<li>A collaborative engineering environment with genuine ownership and influence.</li>
+</ul>
+
+<p><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>
+
+<p><em>By applying you are confirming you are happy to be added to the Addition Solutions mailing list regarding future suitable positions. You can opt out of this at any time simply by contacting one of our consultants.</em></p>
+<br>
+<br>
+<br>
+<br>
+&nbsp;]]></description>
+    <salary><![CDATA[£8,000 - £0]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[51.5070364]]></latitude>
+    <longitude><![CDATA[-0.2735762]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Internal Auditor]]></title>
+    <date><![CDATA[Tue, 25 Aug 2026 13:30:13 +0000]]></date>
+    <referencenumber><![CDATA[7395]]></referencenumber>
+    <url><![CDATA[https://www.additionsolutions.co.uk/job-details/internal-auditor-in-jobs-7395]]></url>
+    <company><![CDATA[Addition Solution]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Borehamwood]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>Fractional Internal Auditor</strong></p>
+
+<p><strong>Start Date: </strong>ASAP<br>
+<strong>Fractional / Ad Hoc Contract | </strong>Inside IR35 | £600–£700 per day<br>
+<strong>Duration: </strong>6 Months<br>
+<strong>Location: </strong>London, W2 | Office-Based</p>
+
+<p>We’re partnering with a growing insurance organisation to appoint an experienced Fractional Internal Auditor for an initial six-month engagement.</p>
+
+<p>Operating across three established brands, the organisation is preparing for a programme of audits scheduled over the next six to nine months. Working on a flexible, ad hoc basis, you’ll help strengthen audit readiness across the group by reviewing existing controls, identifying potential gaps and supporting the implementation of any necessary improvements.</p>
+
+<p><strong>The Opportunity</strong></p>
+
+<p>As Fractional Internal Auditor, you’ll provide independent, practical assurance across the organisation’s internal controls, processes and documentation.</p>
+
+<p>Working closely with stakeholders across Finance, Risk, Compliance and Operations, you’ll assess current arrangements, identify areas of exposure and ensure each brand has the appropriate evidence, documentation and controls in place ahead of its audit.</p>
+
+<p>This is a hands-on engagement suited to someone who can quickly understand a complex, multi-brand environment and translate audit findings into clear, commercially sensible recommendations.</p>
+
+<p><strong>Key Responsibilities</strong></p>
+
+<p>You’ll play a key role in supporting audit readiness across the organisation by:</p>
+
+<ul>
+	<li>Reviewing existing internal controls, processes and supporting documentation across three brands.</li>
+	<li>Assessing the effectiveness of current controls and governance arrangements.</li>
+	<li>Identifying control gaps, operational risks and areas requiring improvement ahead of external or regulatory audits.</li>
+	<li>Ensuring appropriate audit evidence and documentation is complete, accurate and readily available.</li>
+	<li>Providing clear, practical recommendations to address identified issues.</li>
+	<li>Supporting the implementation and monitoring of required remediation activity.</li>
+	<li>Working collaboratively with stakeholders across Finance, Risk, Compliance and Operations.</li>
+	<li>Providing flexible, ongoing support as each brand progresses through its respective audit timetable.</li>
+	<li>Communicating findings clearly to senior stakeholders and providing visibility of audit-readiness progress.</li>
+</ul>
+
+<p><strong>About You</strong></p>
+
+<p>You’ll be an experienced Internal Auditor with a strong understanding of risk, controls and governance within a regulated environment.</p>
+
+<p>You will also have:</p>
+
+<ul>
+	<li>Strong Internal Audit experience, ideally gained within insurance or wider financial services.</li>
+	<li>A solid understanding of regulated environments, governance frameworks and internal control principles.</li>
+	<li>Previous experience preparing organisations for external or regulatory audits.</li>
+	<li>The ability to assess processes and documentation quickly, identifying material risks and control weaknesses.</li>
+	<li>Experience developing practical remediation recommendations and supporting their implementation.</li>
+	<li>Strong stakeholder-management skills, with the confidence to engage across operational and senior leadership teams.</li>
+	<li>A commercially aware and pragmatic approach to risk and compliance.</li>
+	<li>The ability to work independently and deliver effectively on a fractional or ad hoc basis.</li>
+	<li>Excellent analytical, problem-solving and communication skills.</li>
+	<li>The ability to work office-based in London, W2.</li>
+</ul>
+
+<p><strong>Why Apply?</strong></p>
+
+<p>This is an excellent opportunity to make an immediate impact within a growing, multi-brand insurance organisation as it prepares for a significant programme of audit activity.</p>
+
+<p>In return, you’ll benefit from:</p>
+
+<ul>
+	<li>A competitive day rate of £600–£700.</li>
+	<li>An initial six-month engagement.</li>
+	<li>A flexible, fractional working arrangement.</li>
+	<li>The opportunity to influence audit readiness across three established brands.</li>
+	<li>Direct exposure to key stakeholders across Finance, Risk, Compliance and Operations.</li>
+	<li>A high-impact assignment within a complex, regulated environment.</li>
+</ul>
+
+<p><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>
+
+<p><em>By applying you are confirming you are happy to be added to the Addition Solutions mailing list regarding future suitable positions. You can opt out of this at any time simply by contacting one of our consultants.</em></p>
+]]></description>
+    <salary><![CDATA[]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[51.657728]]></latitude>
+    <longitude><![CDATA[-0.272308]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Security Test Co-Ordinator]]></title>
+    <date><![CDATA[Tue, 25 Aug 2026 13:35:02 +0000]]></date>
+    <referencenumber><![CDATA[7380]]></referencenumber>
+    <url><![CDATA[https://www.additionsolutions.co.uk/job-details/security-test-co-ordinator-in-jobs-7380]]></url>
+    <company><![CDATA[Addition Solution]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Watford]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>Security Test Co-Ordinator</strong><br>
+<strong>Permanent | £40,000</strong><br>
+<strong>Location: Watford</strong><br>
+<br>
+We’re partnering with a large, established organisation to appoint an experienced <strong>Security Test Co-Ordinator</strong> to support its Enterprise Security Testing function.<br>
+This is an excellent opportunity for an organised and technically minded professional to play a key role in coordinating security testing activity across a complex enterprise environment. Working closely with internal stakeholders, technical teams and third-party suppliers, you’ll ensure testing is effectively planned, appropriately resourced and successfully managed from initial scoping through to remediation and closure.<br>
+We’re particularly interested in candidates with experience coordinating technical teams, suppliers or testing activities, with previous exposure to security testing or regulated enterprise environments highly advantageous.
+<p><strong>The Opportunity</strong></p>
+As Security Test Co-Ordinator, you’ll take responsibility for the end-to-end coordination of security testing activities, ensuring scope, objectives, timelines, resources and prerequisites are clearly established before testing begins.<br>
+You’ll act as a central point between stakeholders, testers and suppliers, helping to remove blockers, manage dependencies and ensure findings progress effectively through triage, remediation, retesting and closure.<br>
+Alongside the operational aspects of the role, you’ll maintain robust documentation and reporting, support security testing governance and provide testing updates and overviews to executive and C-suite stakeholders.
+<p><strong>Key Responsibilities</strong></p>
+You'll play a key role in supporting effective security testing by:
+
+<ul>
+	<li>Managing the end-to-end planning and coordination of security tests, ensuring clarity around scope, objectives, timelines and required resources.</li>
+	<li>Assigning appropriate internal and external testing resources based on skills, capacity and individual test requirements.</li>
+	<li>Maintaining the security testing schedule and proactively identifying risks, dependencies and potential conflicts.</li>
+	<li>Working closely with internal stakeholders to ensure test plans are appropriately scoped and clearly understood.</li>
+	<li>Facilitating scoping discussions to establish accurate and actionable testing requirements.</li>
+	<li>Communicating testing timelines, prerequisites and responsibilities across relevant teams.</li>
+	<li>Coordinating the onboarding and offboarding of internal and third-party testers in line with enterprise processes.</li>
+	<li>Ensuring access, environments, test accounts, approvals and other prerequisites are in place to enable testing to begin on schedule.</li>
+	<li>Providing occasional onsite supervision where third-party testing activities require physical oversight.</li>
+	<li>Managing security findings throughout the full lifecycle, from triage and remediation assignment through to retesting and closure.</li>
+	<li>Tracking remediation activity with stakeholders and ensuring relevant SLAs and internal policies are met.</li>
+	<li>Maintaining accurate documentation, reporting, test artefacts and records of key decisions.</li>
+	<li>Providing security testing updates and overviews to executive and C-suite stakeholders.</li>
+	<li>Supporting continuous improvement across security testing processes, workflows and governance.</li>
+	<li>Ensuring testing activity aligns with relevant enterprise security standards, policies and compliance requirements.</li>
+</ul>
+
+<p><strong>About You</strong></p>
+You’ll be a highly organised professional with strong stakeholder-management skills and the ability to coordinate multiple technical activities simultaneously.<br>
+You will also have:
+<ul>
+	<li>Strong organisational and planning skills, with the ability to manage multiple concurrent testing activities.</li>
+	<li>Excellent communication and stakeholder-engagement skills, including the confidence to facilitate scoping discussions and resolve blockers.</li>
+	<li>Experience coordinating technical teams, suppliers or testing activities.</li>
+	<li>The ability to understand problems, work collaboratively to resolve them and clearly document outcomes.</li>
+	<li>Experience managing suppliers and working within structured enterprise processes.</li>
+	<li>Confidence tracking actions, dependencies, risks and timelines across multiple workstreams.</li>
+	<li>The ability to communicate security testing activity effectively to senior, executive and C-suite stakeholders.</li>
+	<li>Familiarity with security testing processes such as penetration testing, vulnerability scanning and red/blue team activities would be advantageous.</li>
+	<li>An understanding of security testing methodologies such as OWASP or NIST would be beneficial.</li>
+	<li>Previous experience within a large enterprise or regulated environment would be advantageous.</li>
+	<li>Exposure to security tooling, including vulnerability management platforms or test management systems, would be beneficial.</li>
+	<li>Supplier or vendor management experience would be advantageous.</li>
+	<li>Security, project or coordination certifications such as PRINCE2 or Agile would be beneficial.</li>
+	<li>Relevant security or technology experience gained through industry roles, training or hands-on practice.</li>
+</ul>
+
+<p><strong>Why Apply?</strong></p>
+This is a fantastic opportunity to join a large organisation undergoing significant transformation, taking on a varied role at the heart of its enterprise security testing activity.<br>
+In return, you’ll benefit from:
+<ul>
+	<li>£40,000 salary.</li>
+	<li>Company bonus scheme.</li>
+	<li>Matched pension contributions up to 8.5%.</li>
+	<li>26 days’ annual leave plus two additional Life Days and bank holidays.</li>
+	<li>Private health cover.</li>
+	<li>Income protection.</li>
+	<li>£500 wellness allowance.</li>
+	<li>Enhanced family leave, including maternity, paternity and adoption.</li>
+	<li>Flexible benefits including an EV scheme, financial coaching, will writing, mortgage advice, and dental and eye care schemes.</li>
+	<li>Employee Assistance Programme.</li>
+	<li>Discounted health assessments.</li>
+	<li>Volunteering days and matched funding.</li>
+	<li>The opportunity to work across a broad range of security testing activities within a complex enterprise environment.</li>
+</ul>
+<em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em><br>
+<em>By applying you are confirming you are happy to be added to the Addition Solutions mailing list regarding future suitable positions. You can opt out of this at any time simply by contacting one of our consultants.</em>]]></description>
+    <salary><![CDATA[£40,000]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[51.6611283]]></latitude>
+    <longitude><![CDATA[-0.3970199]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Bid Manager ]]></title>
+    <date><![CDATA[Tue, 25 Aug 2026 13:30:13 +0000]]></date>
+    <referencenumber><![CDATA[7404]]></referencenumber>
+    <url><![CDATA[https://www.additionsolutions.co.uk/job-details/bid-manager-in-jobs-7404]]></url>
+    <company><![CDATA[Addition Solution]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Hanslope ]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>Bid Manager</strong></p>
+
+<p><strong>Start Date: </strong>ASAP<br>
+<strong>Permanent | £42,417 per annum</strong><br>
+<strong>Location:</strong> Milton Keynes</p>
+
+<p>We’re partnering with an established, public sector-focused organisation to appoint an experienced Bid Manager within its commercial and customer strategy function.</p>
+
+<p>This is an excellent opportunity for a commercially minded bid professional to take ownership of complex customer proposals, working across multidisciplinary teams to secure new business and renewals. You’ll coordinate input from subject matter experts, manage proposals through costing and approval, and ensure every submission is accurate, compliant and commercially robust.</p>
+
+<p><strong>The Opportunity</strong></p>
+
+<p>As Bid Manager, you’ll manage the end-to-end delivery of assigned proposals, translating complex customer requirements into clear and compelling submissions.</p>
+
+<p>Working closely with customers, commercial teams, relationship managers and technical specialists, you’ll establish requirements, coordinate contributions and maintain momentum throughout the bid lifecycle. You’ll combine strong writing and project management skills with commercial judgement, ensuring proposals demonstrate value while appropriately managing delivery, financial and contractual risk.</p>
+
+<p>You’ll also contribute to the continuous improvement of bid processes, documentation and customer experience.</p>
+
+<p><strong>Key Responsibilities</strong></p>
+
+<p>You’ll play a central role in the successful delivery of bids and proposals by:</p>
+
+<ul>
+	<li>Managing proposals from initial customer brief through to final submission.</li>
+	<li>Working with customers to clarify their requirements, priorities and critical decision criteria.</li>
+	<li>Developing structured bid plans, managing contributors and monitoring key milestones.</li>
+	<li>Coordinating multidisciplinary bid teams and subject matter experts.</li>
+	<li>Obtaining accurate product or service costings, pricing information and delivery timescales.</li>
+	<li>Producing concise, accurate and compelling customer-facing proposals.</li>
+	<li>Ensuring submissions clearly communicate value and respond directly to customer requirements.</li>
+	<li>Quality-assuring commercial, pricing and delivery information before submission.</li>
+	<li>Identifying financial, legal, operational, delivery and intellectual-property risks.</li>
+	<li>Coordinating internal governance, reviews and approvals.</li>
+	<li>Providing clear and timely progress updates to customers and internal stakeholders.</li>
+	<li>Maintaining accurate CRM records covering bids, opportunities and material changes.</li>
+	<li>Developing templates, checklists and processes that improve bid quality and efficiency.</li>
+</ul>
+
+<p><strong>About You</strong></p>
+
+<p>You’ll have recent experience in bid, sales or commercial management, with strong knowledge of proposals, pricing, tendering and contracts.</p>
+
+<p>You will also have:</p>
+
+<ul>
+	<li>Experience managing complex bids or proposals from development through to submission.</li>
+	<li>A strong track record of producing high-quality commercial and technical documentation.</li>
+	<li>Experience working directly with customers to understand requirements and manage expectations.</li>
+	<li>The ability to interpret, challenge and simplify detailed or technical information.</li>
+	<li>Strong commercial awareness and an understanding of risk, governance and approvals.</li>
+	<li>Excellent written and verbal communication skills.</li>
+	<li>The confidence to influence and coordinate stakeholders across different functions and levels.</li>
+	<li>Strong organisational and project management skills, with the ability to manage competing deadlines.</li>
+	<li>A collaborative, adaptable and detail-focused approach.</li>
+	<li>Experience maintaining accurate opportunity or bid information within a CRM system.</li>
+</ul>
+
+<p>Experience supplying public sector organisations, applying project or risk management principles, or working across areas such as construction, estates, logistics, facilities management, ICT or professional services would be advantageous. Knowledge of NEC4 principles and contracts would also be beneficial.</p>
+
+<p><strong>Why Apply?</strong></p>
+
+<p>This is an opportunity to take ownership of strategically important proposals within a collaborative and commercially focused environment.</p>
+
+<p>In return, you’ll benefit from:</p>
+
+<ul>
+	<li>A salary of £42,417 per annum.</li>
+	<li>A permanent position with responsibility across the complete bid lifecycle.</li>
+	<li>Exposure to complex, high-value proposals and multidisciplinary stakeholders.</li>
+	<li>The opportunity to influence bid processes, governance and customer experience.</li>
+	<li>A role combining commercial judgement, relationship management and high-quality written communication.</li>
+</ul>
+
+<p><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>
+
+<p><em>By applying you are confirming you are happy to be added to the Addition Solutions mailing list regarding future suitable positions. You can opt out of this at any time simply by contacting one of our consultants.</em></p>
+]]></description>
+    <salary><![CDATA[£42,417 Annual]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[52.1160728]]></latitude>
+    <longitude><![CDATA[-0.8293338]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Campaign Lead – Cyber and Secure Communications]]></title>
+    <date><![CDATA[Tue, 25 Aug 2026 13:25:03 +0000]]></date>
+    <referencenumber><![CDATA[7416]]></referencenumber>
+    <url><![CDATA[https://www.additionsolutions.co.uk/job-details/campaign-lead-–-cyber-and-secure-communications-in-jobs-7416]]></url>
+    <company><![CDATA[Addition Solution]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Cheltenham]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>Campaign Lead – Cyber and Secure Communications</strong></p>
+
+<p><strong>Permanent | £85,000<br>
+Location: Romsey, Woking or Gloucester<br>
+Security Clearance: Must Be Eligible for DV Clearance</strong></p>
+
+<p>&nbsp;</p>
+
+<p>We’re partnering with a leading technology organisation to appoint an experienced Campaign Lead specialising in Cyber and Secure Communications.</p>
+
+<p>This is a senior, high-impact opportunity for a recognised domain expert to lead an integrated campaign across Defence, Government and critical infrastructure markets. You’ll bring together customer insight, technical capability, product strategy and market engagement to shape organisational direction and deliver measurable growth.</p>
+
+<p>We’re particularly interested in candidates who combine deep Cyber and Secure Communications knowledge with the leadership, commercial judgement and influencing skills required to align complex cross-functional teams.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>The Opportunity</strong></p>
+
+<p>As Campaign Lead, you’ll take ownership of the end-to-end domain campaign, establishing its strategy, priorities, positioning and long-term growth objectives.</p>
+
+<p>You’ll operate through influence rather than hierarchy, leading a virtual team spanning account management, marketing, product, engineering, technology, services and technical specialists. You’ll ensure customer missions, emerging threats and organisational capabilities are translated into a clear and executable campaign plan.</p>
+
+<p>As the organisation’s authority within the domain, you’ll provide strategic guidance to senior stakeholders, influence product and technology investment and strengthen the organisation’s long-term position within the Cyber and Secure Communications market.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Key Responsibilities</strong></p>
+
+<p>You’ll lead the development and execution of the campaign by:</p>
+
+<ul>
+	<li>Owning the end-to-end domain strategy, priorities, trade-offs and outcomes.</li>
+	<li>Developing and maintaining a multi-year campaign strategy aligned with wider growth objectives.</li>
+	<li>Identifying and prioritising target customers, market segments and strategic opportunities.</li>
+	<li>Acting as an escalation point for domain-related decisions, priorities and conflicts.</li>
+	<li>Providing senior stakeholders with strategic guidance on market direction and investment.</li>
+	<li>Maintaining a detailed, evidence-based understanding of customer missions, operational challenges, capability gaps and emerging cyber threats.</li>
+	<li>Bringing together insight from account teams, product, marketing, engineering, technology specialists and external sources.</li>
+	<li>Leading a cross-functional virtual team and aligning contributors around shared objectives.</li>
+	<li>Defining responsibilities, coordinating activity and removing barriers to effective execution.</li>
+	<li>Translating Cyber and Secure Communications products, services and technical capabilities into integrated customer solutions.</li>
+	<li>Supporting account teams in aligning organisational capabilities with customer missions.</li>
+	<li>Using domain insight to inform product roadmaps, capability development and technology investment.</li>
+	<li>Identifying capability gaps and helping to shape future investment priorities.</li>
+	<li>Working with Marketing to develop clear positioning, customer value propositions, go-to-market strategy and activation plans.</li>
+	<li>Shaping customer demand and influencing future requirements.</li>
+	<li>Enabling account teams to identify and progress opportunities aligned with campaign priorities.</li>
+	<li>Supporting strategic pursuits where specialist domain leadership adds value.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>About You</strong></p>
+
+<p>You’ll be a recognised specialist within Cyber and Secure Communications, with the strategic and commercial capability to turn domain insight into coordinated action and measurable growth.</p>
+
+<p>You will also have:</p>
+
+<ul>
+	<li>Deep knowledge of the Cyber and Secure Communications domain, including relevant customer missions, operational challenges and emerging needs.</li>
+	<li>An understanding of cyber resilience, secure high-assurance communications and the protection of critical digital environments.</li>
+	<li>Proven experience leading cross-functional teams and delivering outcomes through influence.</li>
+	<li>Experience developing strategy within complex, multi-stakeholder environments.</li>
+	<li>The confidence to operate effectively in ambiguity and make decisions using incomplete information.</li>
+	<li>A strong understanding of commercial growth within long and complex sales cycles.</li>
+	<li>Experience in customer engagement, opportunity shaping and market development.</li>
+	<li>The ability to translate customer and market insight into strategic direction and investment priorities.</li>
+	<li>Excellent stakeholder management, negotiation and influencing skills.</li>
+	<li>Strong presentation, communication and facilitation capabilities.</li>
+	<li>The ability to integrate technical, commercial and customer inputs into clear, actionable plans.</li>
+	<li>Eligibility to achieve DV security clearance.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>Why Apply?</strong></p>
+
+<p>This is an exceptional opportunity to take ownership of a strategically important technology domain and directly influence future products, capabilities, investment decisions and market growth.</p>
+
+<p>In return, you’ll benefit from:</p>
+
+<ul>
+	<li>A salary of £85,000.</li>
+	<li>A permanent senior leadership position with significant strategic influence.</li>
+	<li>The opportunity to shape a multi-year campaign across Defence, Government and critical infrastructure markets.</li>
+	<li>Exposure to advanced cyber, secure communications, research, consultancy and rapid-prototyping capabilities.</li>
+	<li>The opportunity to lead highly experienced cross-functional teams.</li>
+	<li>A choice of working location in Romsey, Woking or Gloucester.</li>
+	<li>Access to excellent site facilities, transport connections and flexible working options, depending on location.</li>
+	<li>The opportunity to contribute to technology that strengthens cyber resilience, protects critical information and supports secure operations.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>
+
+<p><em>By applying you are confirming you are happy to be added to the Addition Solutions mailing list regarding future suitable positions. You can opt out of this at any time simply by contacting one of our consultants.</em></p>
+]]></description>
+    <salary><![CDATA[£85,000 - £0]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[51.8964264]]></latitude>
+    <longitude><![CDATA[-2.0743111]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Campaign Lead – Resilient Position, Navigation and Timing]]></title>
+    <date><![CDATA[Tue, 25 Aug 2026 13:25:03 +0000]]></date>
+    <referencenumber><![CDATA[7415]]></referencenumber>
+    <url><![CDATA[https://www.additionsolutions.co.uk/job-details/campaign-lead-–-resilient-position-navigation-and-timing-in-jobs-7415]]></url>
+    <company><![CDATA[Addition Solution]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Cheltenham]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>Campaign Lead -</strong></p>
+
+<p><strong>Resilient Position, Navigation and Timing</strong></p>
+
+<p><strong>Permanent | £85,000<br>
+Location: </strong>Romsey or Woking<br>
+<strong>Security Clearance: </strong>Must Be Eligible for DV Clearance</p>
+
+<p>We’re partnering with a leading technology organisation to appoint an experienced Campaign Lead specialising in Resilient Position, Navigation and Timing.</p>
+
+<p>This is a senior, high-impact opportunity for a recognised domain expert to lead an integrated campaign across Defence and National Security markets. You’ll bring together customer insight, technical capability, product strategy and market engagement to shape organisational direction and deliver measurable growth.</p>
+
+<p>We’re particularly interested in candidates who combine deep Resilient Position, Navigation and Timing knowledge with the leadership, commercial judgement and influencing skills required to align complex cross-functional teams.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>The Opportunity</strong></p>
+
+<p>As Campaign Lead, you’ll take ownership of the end-to-end domain campaign, establishing its strategy, priorities, positioning and long-term growth objectives.</p>
+
+<p>You’ll operate through influence rather than hierarchy, leading a virtual team spanning account management, marketing, product, engineering, technology, services and technical specialists. You’ll ensure that customer needs, organisational capabilities and market opportunities are translated into a clear and executable campaign plan.</p>
+
+<p>As the organisation’s authority within the domain, you’ll also provide strategic guidance to senior stakeholders, influence product and technology investment and strengthen the organisation’s position within the market.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Key Responsibilities</strong></p>
+
+<p>You’ll lead the development and execution of the campaign by:</p>
+
+<ul>
+	<li>Owning the end-to-end domain strategy, priorities, trade-offs and outcomes.</li>
+	<li>Developing and maintaining a multi-year campaign strategy aligned with wider growth objectives.</li>
+	<li>Identifying and prioritising target customers, market segments and strategic opportunities.</li>
+	<li>Acting as an escalation point for domain-related decisions, priorities and conflicts.</li>
+	<li>Providing senior stakeholders with strategic guidance on market direction and investment.</li>
+	<li>Maintaining a detailed, evidence-based understanding of customer missions, operational challenges, capability gaps and emerging requirements.</li>
+	<li>Bringing together insight from account teams, product, marketing, engineering, technology specialists and external sources.</li>
+	<li>Leading a cross-functional virtual team and aligning contributors around shared objectives.</li>
+	<li>Defining responsibilities, coordinating activity and removing barriers to effective execution.</li>
+	<li>Translating technical products, services and capabilities into integrated customer solutions.</li>
+	<li>Supporting account teams in aligning organisational capabilities with customer missions.</li>
+	<li>Using domain insight to inform product roadmaps, capability development and technology investment.</li>
+	<li>Working with Marketing to develop clear positioning, customer value propositions, go-to-market strategy and activation plans.</li>
+	<li>Shaping customer demand and influencing future requirements.</li>
+	<li>Enabling account teams to identify and progress opportunities aligned with campaign priorities.</li>
+	<li>Supporting strategic pursuits where specialist domain leadership adds value.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>About You</strong></p>
+
+<p>You’ll be a recognised specialist within Resilient Position, Navigation and Timing, with the strategic and commercial capability to turn domain insight into coordinated action and measurable growth.</p>
+
+<p>You will also have:</p>
+
+<ul>
+	<li>Deep knowledge of Resilient Position, Navigation and Timing, including relevant customer missions, operational challenges and emerging needs.</li>
+	<li>Proven experience leading cross-functional teams and delivering outcomes through influence.</li>
+	<li>Experience developing strategy within complex, multi-stakeholder environments.</li>
+	<li>The confidence to operate effectively in ambiguity and make decisions using incomplete information.</li>
+	<li>A strong understanding of commercial growth within long and complex sales cycles.</li>
+	<li>Experience in customer engagement, opportunity shaping and market development.</li>
+	<li>The ability to translate customer and market insight into strategic direction and investment priorities.</li>
+	<li>Excellent stakeholder management, negotiation and influencing skills.</li>
+	<li>Strong presentation, communication and facilitation capabilities.</li>
+	<li>The ability to integrate technical, commercial and customer inputs into clear, actionable plans.</li>
+	<li>Eligibility to achieve DV security clearance.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><strong>Why Apply?</strong></p>
+
+<p>This is an exceptional opportunity to take ownership of a strategically important technology domain and directly influence future products, capabilities, investment decisions and market growth.</p>
+
+<p>In return, you’ll benefit from:</p>
+
+<ul>
+	<li>A salary of £85,000.</li>
+	<li>A permanent senior leadership position with significant strategic influence.</li>
+	<li>The opportunity to shape a multi-year campaign across Defence and National Security markets.</li>
+	<li>Exposure to advanced products and technical capability across sensors, communications, cyber, AI and machine learning.</li>
+	<li>The opportunity to lead highly experienced cross-functional teams.</li>
+	<li>A choice of working location in Romsey or Woking.</li>
+	<li>Access to on-site facilities and excellent transport links, depending on location.</li>
+	<li>The opportunity to contribute to meaningful technology programmes that support mission assurance and national security.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>
+
+<p><em>By applying you are confirming you are happy to be added to the Addition Solutions mailing list regarding future suitable positions. You can opt out of this at any time simply by contacting one of our consultants.</em></p>
+]]></description>
+    <salary><![CDATA[£85,000 - £0]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[51.8964264]]></latitude>
+    <longitude><![CDATA[-2.0743111]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Developer ]]></title>
+    <date><![CDATA[Wed, 10 Jun 2026 16:05:02 +0000]]></date>
+    <referencenumber><![CDATA[7128]]></referencenumber>
+    <url><![CDATA[https://www.additionsolutions.co.uk/job-details/senior-developer-in-jobs-7128]]></url>
+    <company><![CDATA[Addition Solution]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[London]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>Senior Developer</strong></p>
+
+<p><strong>London | £70,000 - £90,000 + Benefits </strong></p>
+
+<p>Most developers focus on building the features, this role is for someone who thrives on owning what happens once its live.</p>
+
+<p>We&apos;re working with a well-established SaaS business whose platform is used by thousands of customers globally. Over the past few years, they&apos;ve grown steadily, expanded their engineering function, and built a reputation for creating reliable products rather than chasing hype.</p>
+
+<p>As their platform continues to scale, they&apos;re looking for a Senior Developer who enjoys solving complex technical problems, improving systems, and building software that stands up in production.</p>
+
+<p><strong>The Good Bits:</strong></p>
+
+<ul>
+	<li>£70,000 - £90,000
+	<li>Hybrid working
+	<li>Exposure to large-scale SaaS platforms
+	<li>Clear progression opportunities
+	<li>A collaborative engineering culture that values learning and continuous improvement
+	<li>The chance to work on systems used by thousands of people every day
+</ul>
+
+<p><strong>A Typical Day in the Role:</strong></p>
+
+<ul>
+	<li>Building and improving APIs that support critical platform functionality
+	<li>Investigating production issues and tracing problems across distributed systems
+	<li>Working with product and engineering teams to design scalable solutions
+	<li>Improving reliability, observability and performance across existing services
+	<li>Reviewing code, sharing knowledge and helping raise engineering standards across the team
+	<li>Tackling real-world challenges around third-party integrations, data consistency and system resilience
+	<li>Debugging complex issues, from flaky dependencies to partial failures, ensuring system reliability
+</ul>
+
+<p><strong>The Kind of Person who&apos;ll Enjoy this Role</strong></p>
+
+<p>You&apos;ll have spent several years building and supporting production systems and understand that software engineering isn&apos;t just about writing new code, you’ll value practical engineering, thoughtful decision-making and will be able to balance technical excellence with delivery.</p>
+
+<p><strong>You Will Have:</strong></p>
+
+<ul>
+	<li>Designed and maintained APIs used by customers or internal teams
+	<li>4-6 years experience, with at least 3+ years at one company, ideally SaaS/platform/scale up.
+	<li>Supported systems in production and dealt with incidents when things didn&apos;t go to plan
+	<li>Worked with cloud-native applications or managed infrastructure environments
+	<li>Integrated with external platforms and navigated the challenges that come with them
+	<li>Fixed bugs you didn&apos;t create and improved codebases you didn&apos;t originally write
+	<li>Learned how to balance ideal solutions with commercial realities Designed and maintained APIs used by customers or internal teams
+</ul>
+
+<p><strong>Other Skills Needed: </strong></p>
+
+<p>Solid backend engineering experience in C#, Java, or Go, with a strong grasp of API design and architecture.</p>
+
+<p>Hands-on experience managing and debugging production systems across cloud and self-managed infrastructure.</p>
+
+<p>Proven ability to navigate complex third-party integrations, including retry logic and reconciliation workflows.</p>
+
+<p>Strong understanding of distributed system resilience - partial failures, retry strategies, and circuit breaker patterns.</p>
+
+<p><strong>Why People Join: </strong></p>
+
+<p>Engineers here are given autonomy in decision making and trusted to do so. You will have the opportunity to work on meaningful technical challenges, influence how systems evolve, and collaborate with experienced colleagues who care about building things properly.</p>
+
+<p><strong>The Hard Bits:</strong></p>
+
+<ul>
+	<li>You will be untangling complexities, improving reliability and leaving systems better than you found them.
+</ul>
+
+<p> </p>
+
+<p>Careers move <em>quickly</em>. Make sure yours is moving in the <em>right</em> direction.</p>
+
+<p>Apply now or get in touch for a confidential conversation.</p>
+
+<p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>
+
+<p>By applying you are confirming you are happy to be added to the Addition Solutions mailing list regarding future suitable positions. You can opt out of this at any time simply by contacting one of our consultants.</p>
+
+<p> </p>
+
+<p> </p>
+]]></description>
+    <salary><![CDATA[£70,000 - £90,000]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+</source>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sat, 05 Sep 2026 18:36:12 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Testttttttttt]]></title>
+    <date><![CDATA[Tue, 21 Jul 2026 15:12:01 +0000]]></date>
+    <referencenumber><![CDATA[cec2d55c-bb04-4f85-8f25-f03dce195a5e]]></referencenumber>
+    <url><![CDATA[https://s3-e2.shazamme.com/job-details/testttttttttt-in-sector-one-jobs-1649921]]></url>
+    <company><![CDATA[Template Sites]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>Suspendisse neque leo, condimentum non fermentum ac, vulputate ultrices neque. Morbi aliquet, diam ut faucibus posuere, tellus elit maximus arcu, facilisis consectetur ante purus et nibh. In vulputate eget enim sit amet fringilla. Sed nec dui a tortor porta dapibus vel et quam. Nam a dui ut enim eleifend finibus et id erat. Proin vitae ex diam. Suspendisse venenatis, arcu ut pretium commodo, orci neque tincidunt felis, eu gravida urna sapien ut ex. Suspendisse mollis est et ullamcorper suscipit. Phasellus convallis mi a enim commodo, vel malesuada tellus convallis. Nunc ullamcorper dictum mattis. Pellentesque placerat, eros consequat suscipit facilisis, tellus felis tincidunt ante, nec semper sem turpis in ex. Sed suscipit venenatis lorem vel tempor. Nunc congue tristique felis, ut pretium odio. Nulla condimentum justo quis erat ullamcorper ultricies. Fusce sit amet ornare felis, a placerat elit. Fusce auctor metus quis accumsan luctus.</div><div><br></div><div>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam quis est id arcu auctor tincidunt. Morbi sem sem, congue ut molestie sed, tempor eu nisl. Vestibulum congue ligula in dolor fermentum, et mollis massa venenatis. Aenean fermentum facilisis interdum. Ut tellus est, pellentesque vitae molestie ac, bibendum eleifend orci.&nbsp;</div>]]></description>
+    <salary><![CDATA[60,000 - 70,000 Annual]]></salary>
+    <category><![CDATA[Sector One]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[onsite]]></remotetype>
+    <latitude><![CDATA[-37.8136276]]></latitude>
+    <longitude><![CDATA[144.9630576]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Manager]]></title>
+    <date><![CDATA[Thu, 18 Jun 2026 06:53:15 +0000]]></date>
+    <referencenumber><![CDATA[6789]]></referencenumber>
+    <url><![CDATA[https://s3-e2.shazamme.com/job-details/manager-in-sector-two-jobs-1603865]]></url>
+    <company><![CDATA[Template Sites]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[Victoria]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>Suspendisse neque leo, condimentum non fermentum ac, vulputate ultrices neque. Morbi aliquet, diam ut faucibus posuere, tellus elit maximus arcu, facilisis consectetur ante purus et nibh. In vulputate eget enim sit amet fringilla. Sed nec dui a tortor porta dapibus vel et quam. Nam a dui ut enim eleifend finibus et id erat. Proin vitae ex diam. Suspendisse venenatis, arcu ut pretium commodo, orci neque tincidunt felis, eu gravida urna sapien ut ex. Suspendisse mollis est et ullamcorper suscipit. Phasellus convallis mi a enim commodo, vel malesuada tellus convallis. Nunc ullamcorper dictum mattis. Pellentesque placerat, eros consequat suscipit facilisis, tellus felis tincidunt ante, nec semper sem turpis in ex. Sed suscipit venenatis lorem vel tempor. Nunc congue tristique felis, ut pretium odio. Nulla condimentum justo quis erat ullamcorper ultricies. Fusce sit amet ornare felis, a placerat elit. Fusce auctor metus quis accumsan luctus.</div><div><br></div><div>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam quis est id arcu auctor tincidunt. Morbi sem sem, congue ut molestie sed, tempor eu nisl. Vestibulum congue ligula in dolor fermentum, et mollis massa venenatis. Aenean fermentum facilisis interdum. Ut tellus est, pellentesque vitae molestie ac, bibendum eleifend orci.&nbsp;</div>]]></description>
+    <salary><![CDATA[60,000 - 70,000 Annual]]></salary>
+    <category><![CDATA[Sector Two]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-37.8136276]]></latitude>
+    <longitude><![CDATA[144.9630576]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Test Manager]]></title>
+    <date><![CDATA[Thu, 18 Jun 2026 06:51:27 +0000]]></date>
+    <referencenumber><![CDATA[5679]]></referencenumber>
+    <url><![CDATA[https://s3-e2.shazamme.com/job-details/test-manager-in-sector-one-jobs-1603864]]></url>
+    <company><![CDATA[Template Sites]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Charlotte]]></city>
+    <state><![CDATA[South Carolina]]></state>
+    <country><![CDATA[United States of America]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a velit blandit, lacinia justo sed, sollicitudin felis. Morbi accumsan arcu lacus, quis malesuada metus consectetur ut. Duis elementum fringilla orci eget fermentum. Mauris iaculis velit non maximus ultrices. Vivamus id tincidunt neque, gravida dignissim lacus. Donec nisl odio, bibendum id volutpat quis, ultricies quis risus. Fusce commodo quam et purus posuere imperdiet. Sed finibus diam maximus, varius erat non, finibus metus.</div><div><br></div><div>Suspendisse neque leo, condimentum non fermentum ac, vulputate ultrices neque. Morbi aliquet, diam ut faucibus posuere, tellus elit maximus arcu, facilisis consectetur ante purus et nibh. In vulputate eget enim sit amet fringilla. Sed nec dui a tortor porta dapibus vel et quam. Nam a dui ut enim eleifend finibus et id erat. Proin vitae ex diam. Suspendisse venenatis, arcu ut pretium commodo, orci neque tincidunt felis, eu gravida urna sapien ut ex. Suspendisse mollis est et ullamcorper suscipit. Phasellus convallis mi a enim commodo, vel malesuada tellus convallis. Nunc ullamcorper dictum mattis. Pellentesque placerat, eros consequat suscipit facilisis, tellus felis tincidunt ante, nec semper sem turpis in ex. Sed suscipit venenatis lorem vel tempor. Nunc congue tristique felis, ut pretium odio. Nulla condimentum justo quis erat ullamcorper ultricies. Fuce sit amet ornare felis, a placerat elit. Fusce auctor metus quis accumsan luctus.</div>]]></description>
+    <salary><![CDATA[+bonus+birthday leave]]></salary>
+    <category><![CDATA[Sector One]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[35.1223173]]></latitude>
+    <longitude><![CDATA[-80.7214417]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Designer]]></title>
+    <date><![CDATA[Thu, 18 Jun 2026 06:55:55 +0000]]></date>
+    <referencenumber><![CDATA[3456]]></referencenumber>
+    <url><![CDATA[https://s3-e2.shazamme.com/job-details/designer-in-sector-two-jobs-1603867]]></url>
+    <company><![CDATA[Template Sites]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[New York]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United States of America]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a velit blandit, lacinia justo sed, sollicitudin felis. Morbi accumsan arcu lacus, quis malesuada metus consectetur ut. Duis elementum fringilla orci eget fermentum. Mauris iaculis velit non maximus ultrices. Vivamus id tincidunt neque, gravida dignissim lacus. Donec nisl odio, bibendum id volutpat quis, ultricies quis risus. Fusce commodo quam et purus posuere imperdiet. Sed finibus diam maximus, varius erat non, finibus metus.</div><div><br></div><div>Suspendisse neque leo, condimentum non fermentum ac, vulputate ultrices neque. Morbi aliquet, diam ut faucibus posuere, tellus elit maximus arcu, facilisis consectetur ante purus et nibh. In vulputate eget enim sit amet fringilla. Sed nec dui a tortor porta dapibus vel et quam. Nam a dui ut enim eleifend finibus et id erat. Proin vitae ex diam. Suspendisse venenatis, arcu ut pretium commodo, orci neque tincidunt felis, eu gravida urna sapien ut ex. Suspendisse mollis est et ullamcorper suscipit. Phasellus convallis mi a enim commodo, vel malesuada tellus convallis. Nunc ullamcorper dictum mattis. Pellentesque placerat, eros consequat suscipit facilisis, tellus felis tincidunt ante, nec semper sem turpis in ex. Sed suscipit venenatis lorem vel tempor. Nunc congue tristique felis, ut pretium odio. Nulla condimentum justo quis erat ullamcorper ultricies. Fusce sit amet ornare felis, a placerat elit. Fusce auctor metus quis accumsan luctus.</div>]]></description>
+    <salary><![CDATA[300 - 400 Daily]]></salary>
+    <category><![CDATA[Sector Two]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[40.7127753]]></latitude>
+    <longitude><![CDATA[-74.0059728]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Test Manager]]></title>
+    <date><![CDATA[Tue, 16 Jun 2026 00:00:00 +0000]]></date>
+    <referencenumber><![CDATA[9521]]></referencenumber>
+    <url><![CDATA[https://s3-e2.shazamme.com/job-details/test-manager-in-sector-one-jobs-1600896]]></url>
+    <company><![CDATA[Template Sites]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[South Carolina]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United States of America]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a velit blandit, lacinia justo sed, sollicitudin felis. Morbi accumsan arcu lacus, quis malesuada metus consectetur ut. Duis elementum fringilla orci eget fermentum. Mauris iaculis velit non maximus ultrices. Vivamus id tincidunt neque, gravida dignissim lacus. Donec nisl odio, bibendum id volutpat quis, ultricies quis risus. Fusce commodo quam et purus posuere imperdiet. Sed finibus diam maximus, varius erat non, finibus metus.</div><div><br></div><div>Suspendisse neque leo, condimentum non fermentum ac, vulputate ultrices neque. Morbi aliquet, diam ut faucibus posuere, tellus elit maximus arcu, facilisis consectetur ante purus et nibh. In vulputate eget enim sit amet fringilla. Sed nec dui a tortor porta dapibus vel et quam. Nam a dui ut enim eleifend finibus et id erat. Proin vitae ex diam. Suspendisse venenatis, arcu ut pretium commodo, orci neque tincidunt felis, eu gravida urna sapien ut ex. Suspendisse mollis est et ullamcorper suscipit. Phasellus convallis mi a enim commodo, vel malesuada tellus convallis. Nunc ullamcorper dictum mattis. Pellentesque placerat, eros consequat suscipit facilisis, tellus felis tincidunt ante, nec semper sem turpis in ex. Sed suscipit venenatis lorem vel tempor. Nunc congue tristique felis, ut pretium odio. Nulla condimentum justo quis erat ullamcorper ultricies. Fusce sit amet ornare felis, a placerat elit. Fusce auctor metus quis accumsan luctus.</div>]]></description>
+    <salary><![CDATA[100,000.00 - 130,000.00 Annual +bonus+birthday leave]]></salary>
+    <category><![CDATA[Sector One]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[35.1223173]]></latitude>
+    <longitude><![CDATA[-80.7214417]]></longitude>
+  </job>
+</source>

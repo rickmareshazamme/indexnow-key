@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sat, 05 Sep 2026 18:37:29 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Test job]]></title>
+    <date><![CDATA[Fri, 21 Nov 2025 01:19:26 +0000]]></date>
+    <referencenumber><![CDATA[6023]]></referencenumber>
+    <url><![CDATA[https://www.client.healthstaff.org/job-details/test-job-in-jobs-1187525]]></url>
+    <company><![CDATA[HealthStaff Solutions Ltd]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Abberville]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[70510]]></postalcode>
+    <description><![CDATA[...]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[29.9730957]]></latitude>
+    <longitude><![CDATA[-92.1262675]]></longitude>
+  </job>
+</source>

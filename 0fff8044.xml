@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sat, 05 Sep 2026 18:35:31 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Test Job - SMAART]]></title>
+    <date><![CDATA[Fri, 15 May 2026 00:49:17 +0000]]></date>
+    <referencenumber><![CDATA[270111]]></referencenumber>
+    <url><![CDATA[https://www.pbgportal.com.au/job-details/test-job-smaart-in-ben-msp-jobs-1461430]]></url>
+    <company><![CDATA[Peoplebank Bendigo]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[North Sydney]]></city>
+    <state><![CDATA[New South Wales]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[2060]]></postalcode>
+    <description><![CDATA[Job Description goes here]]></description>
+    <salary><![CDATA[$-1 - $-1 Hourly]]></salary>
+    <category><![CDATA[BEN MSP]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-33.8411721]]></latitude>
+    <longitude><![CDATA[151.207526]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Test Job - Randstad]]></title>
+    <date><![CDATA[Wed, 11 Mar 2026 05:26:53 +0000]]></date>
+    <referencenumber><![CDATA[270113]]></referencenumber>
+    <url><![CDATA[https://www.pbgportal.com.au/job-details/test-job-randstad-in-ben-msp-jobs-1461432]]></url>
+    <company><![CDATA[Peoplebank Bendigo]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[North Sydney]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[2060]]></postalcode>
+    <description><![CDATA[Test Job 3]]></description>
+    <salary><![CDATA[$-1 - $-1 Hourly]]></salary>
+    <category><![CDATA[BEN MSP]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-33.8411721]]></latitude>
+    <longitude><![CDATA[151.207526]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Test Job - Talent]]></title>
+    <date><![CDATA[Wed, 11 Mar 2026 05:31:44 +0000]]></date>
+    <referencenumber><![CDATA[270116]]></referencenumber>
+    <url><![CDATA[https://www.pbgportal.com.au/job-details/test-job-talent-in-ben-msp-jobs-1461434]]></url>
+    <company><![CDATA[Peoplebank Bendigo]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[North Sydney]]></city>
+    <state><![CDATA[New South Wales]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[2060]]></postalcode>
+    <description><![CDATA[Test Job 5]]></description>
+    <salary><![CDATA[$-1 - $-1 Hourly]]></salary>
+    <category><![CDATA[BEN MSP]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-33.8411721]]></latitude>
+    <longitude><![CDATA[151.207526]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Test Job - Hays]]></title>
+    <date><![CDATA[Wed, 11 Mar 2026 05:29:08 +0000]]></date>
+    <referencenumber><![CDATA[270115]]></referencenumber>
+    <url><![CDATA[https://www.pbgportal.com.au/job-details/test-job-hays-in-ben-msp-jobs-1461433]]></url>
+    <company><![CDATA[Peoplebank Bendigo]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[North Sydney]]></city>
+    <state><![CDATA[New South Wales]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[2060]]></postalcode>
+    <description><![CDATA[Test Job 4]]></description>
+    <salary><![CDATA[$-1 - $-1 Hourly]]></salary>
+    <category><![CDATA[BEN MSP]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-33.8411721]]></latitude>
+    <longitude><![CDATA[151.207526]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Test Job - Robert Walters]]></title>
+    <date><![CDATA[Wed, 11 Mar 2026 05:22:50 +0000]]></date>
+    <referencenumber><![CDATA[270112]]></referencenumber>
+    <url><![CDATA[https://www.pbgportal.com.au/job-details/test-job-robert-walters-in-ben-msp-jobs-1461431]]></url>
+    <company><![CDATA[Peoplebank Bendigo]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[North Sydney]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[2060]]></postalcode>
+    <description><![CDATA[Test Job 2]]></description>
+    <salary><![CDATA[$-1 - $-1 Hourly]]></salary>
+    <category><![CDATA[BEN MSP]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-33.8411721]]></latitude>
+    <longitude><![CDATA[151.207526]]></longitude>
+  </job>
+</source>
