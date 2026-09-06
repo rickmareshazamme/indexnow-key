@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sun, 06 Sep 2026 22:04:43 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Senior Data Engineer]]></title>
+    <date><![CDATA[Tue, 25 Aug 2026 10:45:22 +0000]]></date>
+    <referencenumber><![CDATA[458149d1-36df-41ca-8212-1a61ded5a308]]></referencenumber>
+    <url><![CDATA[https://initialize-it.com/job-details/senior-data-engineer-in-it-jobs-1697954]]></url>
+    <company><![CDATA[Initialize-IT]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>Global client are looking for a hands-on Senior Data Engineer/Power BI Developer to design, build and support enterprise analytics solutions across trading, risk, finance and post-trade reporting.</div><div><br></div><div> The role requires strong engineering discipline across Azure Databricks, Microsoft Fabric and Power BI, with the ability to turn complex business requirements into reliable, scalable and well-governed data products.</div><div><br></div><div><b>Essential skills.</b></div><div>Databricks - Delta Lake, Unity Catalog, notebooks, workflows, cluster tuning and production-grade PySpark development.</div><div>Microsoft Fabric - Lakehouse, OneLake, shortcuts, Dataflow Gen2, Fabric notebooks, Direct Lake and SQL Analytics Endpoint.</div><div>Power BI - DAX, semantic modelling, Power Query M, RLS, incremental refresh, aggregation strategy and performance tuning.</div><div>SQL - Advanced SQL, CTEs, window functions, stored procedures, optimisation and large-volume analytical processing.</div><div>Azure Data Platform - ADLS Gen2, Azure Data Factory, Git integration, DevOps pipelines and secure cloud engineering practices.</div><div>Delivery Mindset - Strong documentation, stakeholder communication, issue resolution and p[rductiopn support experience.</div><div><br></div><div><b><span class="ql-cursor">﻿</span>Key Responsibilities.</b></div><div>Design, develop and optimise ETL and ELT pipelines using Azure Databricks, PySpark, Python and SQL.</div><div>Build curated Delta Lake and Lakehouse data products using medallion architecture principles.</div><div>Create Microsoft Fabric Lakehouses, notebooks, Dataflow Gen2 ingestion flows and Direct Lake reporting models.</div><div>Develop enterprise Power BI datasets, semantic models and dashboards using advanced DAX, Power Query M and star schema modelling.</div><div>Implement row-level security, access controls, validation checks and governance standards for production reporting.</div><div>Optimise SQL, Spark, Fabric and Power BI workloads for performance, maintainability and cost efficiency.</div><div>Work closely with business users, traders, risk teams and finance stakeholders to clarify requirements and deliver production-ready solutions.</div><div>Support release management, CI/CD, documentation and operational monitoring using Git and Azure DevOps.</div><div><br></div>]]></description>
+    <salary><![CDATA[£-1 - £-1]]></salary>
+    <category><![CDATA[IT]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Golang Engineer]]></title>
+    <date><![CDATA[Tue, 25 Aug 2026 10:43:23 +0000]]></date>
+    <referencenumber><![CDATA[8755d1a9-178e-49ec-bfea-74bcafda0d20]]></referencenumber>
+    <url><![CDATA[https://initialize-it.com/job-details/golang-engineer-in-jobs-1697952]]></url>
+    <company><![CDATA[Initialize-IT]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[West Sussex]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div><b>Golang Engineer - 12 months - hybrid - West Sussex</b></div><div><br></div><div><b>Skills:</b></div><div>Go, Postgres, Kafka, Git (gitlab, github, Bitbucket, SVN) and Docker,</div><div><br></div><div><b>Desirable</b></div><div>Java Microservices Spring Boot experience is Plus</div><div><br></div><div>We're looking for an enthusiastic, diligent Golang Software Engineer to work on a global Loyalty and Benefits platform You should have excellent soft skills, strong technical ability with an extensive passion to learn.</div><div><br></div>]]></description>
+    <salary><![CDATA[£-1 - £-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[50.969873]]></latitude>
+    <longitude><![CDATA[-0.4159547]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Hands on QA & Release Manager / Lead]]></title>
+    <date><![CDATA[Wed, 19 Aug 2026 09:41:14 +0000]]></date>
+    <referencenumber><![CDATA[1962bf0b-bf15-4223-89f6-cc4b7ee397a8]]></referencenumber>
+    <url><![CDATA[https://initialize-it.com/job-details/hands-on-qa-release-manager-lead-in-it-jobs-1690821]]></url>
+    <company><![CDATA[Initialize-IT]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[Romania]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div><strong style="background-color: rgba(0, 0, 0, 0);">Hands on QA &amp; Release Manager / Lead- remote - Romania (or any country in Eastern Europe)</b></div><div><br></div><div><span style="background-color: rgba(0, 0, 0, 0);">Experience:</span></div><ul><li>Solid experience in software testing and QA (SaaS and/or scaling start-ups - highly desirable)</li><li>Experience in Agile, DevOps, or continuous-flow environments with frequent releases</li><li>QA Manager / Release Manager / Leadership experience (setting direction, delegating ownership, developing people..)</li><li><span style="background-color: rgba(0, 0, 0, 0);">Demonstrable experience planning and leading major version upgrades for enterprise clients across UAT and Production environments — including upgrade roadmap, cutover, rollback, and post-upgrade validation</span></li><li>Experience using AI tools (generative AI, copilots, log-analysis assistants, LLM-based debugging) and leading AI adoption across a QA team</li><li>Proven experience owning release management end-to-end (Test, UAT, Production) across multiple parallel client streams or product lines</li><li>Solid experience with ITIL processes for Release, Change, and Configuration Management, and QA</li><li>Strong technical background in software development (.NET / C# preferred), SQL</li><li>Experience with TeamCity, Octopus Deploy, and Bitbucket — or equivalent CI/CD tooling</li><li>Hands-on and directive experience with automated testing — Cypress, Playwright, Selenium, or similar</li><li>Understanding of API testing and validation (REST, contract testing, Postman or equivalent)</li><li>Proficient with Jira, Confluence, Xray, and Trello</li></ul><div><br></div><div><span style="background-color: rgba(0, 0, 0, 0);">Desirable</span></div><ul><li>Experience implementing risk management strategies, conducting post-release reviews, and driving continuous improvement</li><li>Client-facing experience</li></ul><div>· Experience with CPQ, configure-price-quote, pricing, or quote-to-cash platforms</div><div>· Exposure to enterprise integrations (Salesforce / Dynamics CRM / SAP / ERP)</div><div>· .NET / C# / React ecosystem familiarity</div><div>· ITIL v4 Foundation or higher certification</div><div>· ISTQB Advanced Level or equivalent QA certification</div><div>· Experience integrating infrastructure and middleware upgrades into release cycles</div><div><br></div><div><br></div>]]></description>
+    <salary><![CDATA[€-1 - €-1 Annual]]></salary>
+    <category><![CDATA[IT]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[45.943161]]></latitude>
+    <longitude><![CDATA[24.96676]]></longitude>
+  </job>
+</source>

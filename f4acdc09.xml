@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sun, 06 Sep 2026 22:11:56 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[sad]]></title>
+    <date><![CDATA[Fri, 28 Jan 2022 01:56:41 +0000]]></date>
+    <referencenumber><![CDATA[sad]]></referencenumber>
+    <url><![CDATA[https://www.dev.shazamme.com/job-details/sad-in-admin-secretarial-office-support-jobs-30299]]></url>
+    <company><![CDATA[Idibu Integration Test Adv]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[NSW]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[asd]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[Admin / Secretarial / Office Support]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-31.2532183]]></latitude>
+    <longitude><![CDATA[146.921099]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Law Associate]]></title>
+    <date><![CDATA[Mon, 08 Nov 2021 12:42:08 +0000]]></date>
+    <referencenumber><![CDATA[4832-1]]></referencenumber>
+    <url><![CDATA[https://www.dev.shazamme.com/job-details/law-associate-in-accounting-jobs-3954]]></url>
+    <company><![CDATA[Idibu Integration Test Adv]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Brisbane]]></city>
+    <state><![CDATA[NSW]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[rm]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[Accounting]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-31.2532183]]></latitude>
+    <longitude><![CDATA[146.921099]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Account Executive - RM]]></title>
+    <date><![CDATA[Fri, 28 Jan 2022 01:55:57 +0000]]></date>
+    <referencenumber><![CDATA[4833]]></referencenumber>
+    <url><![CDATA[https://www.dev.shazamme.com/job-details/account-executive-rm-in-accounting-jobs-2702]]></url>
+    <company><![CDATA[Idibu Integration Test Adv]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Brisbane]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>Test</strong> with Joabadder team RM]]></description>
+    <salary><![CDATA[Salary Text test]]></salary>
+    <category><![CDATA[Accounting]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-27.4704528]]></latitude>
+    <longitude><![CDATA[153.0260341]]></longitude>
+  </job>
+</source>

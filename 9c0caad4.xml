@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sun, 06 Sep 2026 22:07:24 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Data Engineer]]></title>
+    <date><![CDATA[Tue, 18 Aug 2026 16:00:05 +0000]]></date>
+    <referencenumber><![CDATA[44643]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/data-engineer-in-application-innovation-jobs-1688627]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Atlanta]]></city>
+    <state><![CDATA[GA]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[30328]]></postalcode>
+    <description><![CDATA[<br>
+Data Engineer needed for Optomi, LLC located in Atlanta, GA. Build components of large-scale data platform for real-time and batch processing, and own features of big data applications to fit evolving business needs. Build next-gen cloud based big data infrastructure for batch and streaming data applications, and continuously improve performance, scalability and availability. Develop data processing framework to improve development performance and quality based on Spark and Spark Streaming engines. Utilize Scala to build data pipelines using Spark framework. Develop complex ETL processes. Will provide services to clients throughout the U.S. Master’s degree in Computer Science or Computer Engineering and 3 years of experience utilizing the skills listed above. Must be willing to travel and relocate.<br>
+ <br>
+Send resumes to: <a href="mailto:tonypritchett@optomi.com"><u>tonypritchett@optomi.com</u></a><br>
+<br>
+ ]]></description>
+    <salary><![CDATA[ ]]></salary>
+    <category><![CDATA[Application Innovation]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[onsite]]></remotetype>
+    <latitude><![CDATA[33.9346996]]></latitude>
+    <longitude><![CDATA[-84.360281]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[AI Security Detection Engineer]]></title>
+    <date><![CDATA[Tue, 16 Jun 2026 12:10:02 +0000]]></date>
+    <referencenumber><![CDATA[43580]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/ai-security-detection-engineer-in-cybersecurity-jobs-1600675]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Charlotte]]></city>
+    <state><![CDATA[North Carolina]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[ ]]></postalcode>
+    <description><![CDATA[<p><strong>Optomi</strong>, in partnership with a leading organization within the media space is seeking an A<strong>I Security Engineer</strong> (Detection & Response) to help secure AI systems across the enterprise. This role focuses on detecting, investigating, and responding to threats targeting or leveraging AI, including LLMs, APIs, and AI-driven applications.</p>
+
+<p><em>This is a hands-on role at the intersection of AI and security engineering. The ideal candidate is a builder who can develop detection capabilities, automate workflows, and respond to emerging threats in a rapidly evolving landscape</em></p>
+
+<p><strong>What the right Security Engineer will Enjoy</strong></p>
+
+<p><em>AI Threat Detection & Monitoring</em></p>
+
+<ul>
+	<li>Design and implement detection logic for AI-specific threats, including prompt injection, adversarial inputs, model misuse, and data poisoning.
+	<li>Monitor AI systems for anomalous behavior, misuse patterns, and indicators of compromise.
+	<li>Build and maintain detection pipelines integrated with SIEM/SOAR platform
+</ul>
+
+<p><em>Incident Response</em></p>
+
+<ul>
+	<li>Investigate and respond to AI-related security incidents, including model manipulation, API abuse, and unauthorized AI usage
+	<li>Develop and maintain incident response runbooks tailored to AI system
+	<li>Perform forensic analysis on AI applications, models, and associated data
+	<li> 
+	<li><em>Security Engineering & Automation</em>
+	<li>Develop tools and automation to support AI security monitoring, testing, and response workflow
+	<li>Integrate security controls into AI/ML development pipelines (MLSecOps
+	<li>Evaluate third-party AI tools, APIs, and integrations for security ris
+</ul>
+
+<p><em>k.Research & Threat Intelligence</em></p>
+
+<ul>
+	<li>Track emerging AI attack techniques, jailbreaks, and adversarial method
+	<li>Contribute to internal threat intelligence and detection use case
+	<li>Participate in red team exercises targeting AI systems and LLM-based application
+</ul>
+
+<p> </p>
+
+<p><strong>Required Qualificatio</strong></p>
+
+<ul>
+	<li>Bachelor’s degree in a related field or equivalent experience
+	<li>3–6 years of experience in security engineering, detection & response, or a related discipline
+	<li>Strong Python skills; familiarity with scripting or backend languages is a plus
+	<li>Hands-on experience with AI/ML systems, APIs, or LLM-based applications
+	<li>Understanding of prompt engineering concepts and LLM behavi
+	<li>Experience with SIEM platforms (e.g., Splunk, Elastic) and detection development
+	<li>Familiarity with MITRE ATT&CK and threat modeling techniques
+	<li>Strong analytical and investigative skills
+	<li>Ability to communicate technical findings clearly to diverse stakeholders
+</ul>
+
+<p><strong>Prefer</strong>red</p>
+
+<ul>
+	<li>Experience building or securing LLM-integrated applications
+	<li>Familiarity with agent frameworks (LangChain, AutoGen, CrewAI)
+	<li>Understanding of MLOps pipelines and associated security risks
+	<li>Experience with adversarial ML techniques (e.g., model extraction, evasion
+	<li>Knowledge of AI governance frameworks (e.g., NIST AI RMF, EU AI Acts)
+	<li>Experience with cloud AI platforms (AWS, Azure, GC
+	<li>Security certifications (e.g., CISSP, GCIH, GCIA) or equivalent experience
+	<li>Contributions to open-source or security research
+	<li>Build a strong understanding of the AI environment and identify key detection gaps
+	<li>Contribute to detection logic and participate in an AI-related incident or simulation.
+</ul>
+]]></description>
+    <salary><![CDATA[85]]></salary>
+    <category><![CDATA[Cybersecurity]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[SailPoint IdentityIQ Developer]]></title>
+    <date><![CDATA[Fri, 27 Feb 2026 00:00:00 +0000]]></date>
+    <referencenumber><![CDATA[41789]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/sailpoint-identityiq-developer-in-cybersecurity-jobs-1444571]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Nashville]]></city>
+    <state><![CDATA[Tennessee]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[37203]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a trusted medical partner, is seeking a skilled SailPoint IdentityIQ developer!<br>
+<br>
+<b>Position Summary:</b> The IAM Developer supports the implementation, maintenance, and enhancement of SailPoint IdentityIQ and Java-based identity solutions. The role involves contributing to system design, development, and operations with minimal oversight, ensuring secure and scalable IAM services across the organization. The developer will be responsible for automating the creation, management, and lifecycle of various IDs and mailboxes, applying Microsoft O365 licenses, and managing identity information for enterprise applications.</p>
+
+<b>What the right candidate will enjoy:</b>
+
+<ul>
+	<li>Working on cutting-edge identity and access management solutions
+	<li>Contributing to a team that is crucial for maintaining smooth operations and addressing security concerns
+</li></li></ul>
+
+<b>What type of experience does the right candidate have:</b>
+
+<ul>
+	<li>Experience with SailPoint IdentityIQ
+	<li>Proficiency in Java-based identity solutions
+	<li>Ability to contribute to system design and development
+</li></li></li></ul>
+
+<b>What the responsibilities are of the right candidate:</b>
+
+<ul>
+	<li>Automate creation, management, and lifecycle of IDs and mailboxes
+	<li>Enforce password policies and manage identity information for enterprise applications
+	<li>Participate in monthly patching and maintenance of identity systems
+</li></li></li></ul>
+]]></description>
+    <salary><![CDATA[$50 - 55/hr]]></salary>
+    <category><![CDATA[Cybersecurity]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Software Engineer]]></title>
+    <date><![CDATA[Fri, 20 Feb 2026 00:00:00 +0000]]></date>
+    <referencenumber><![CDATA[41640]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/software-engineer-in-application-innovation-jobs-1436685]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Atlanta]]></city>
+    <state><![CDATA[Georgia]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[30328]]></postalcode>
+    <description><![CDATA[<p>Software Engineer needed for Optomi, LLC located in Atlanta, GA. Work on Embedded Banking systems, developing Digital Account Opening (DAO) processes, and utilizing various KYC providers for decisioning engine purposes. Engineer core ACH payment functionality, enabling fund transfers to and from external sources. Engineer communications between payment gateway systems and acquiring banks. Develop debit/credit card issuance and processing systems in alignment with PCI DSS regulation. Will provide services to clients throughout the U.S. Master’s degree in Financial Technology, Engineering or Computer Science and 2 years of experience utilizing the skills listed above. Must be willing to travel and relocate.</p>
+
+<p> </p>
+
+<p>Send resumes to: <u><a href="mailto:brooklynncheney@optomi.com">brooklynncheney@optomi.com</a></u></p>
+]]></description>
+    <salary><![CDATA[100,000 - 150,000 ]]></salary>
+    <category><![CDATA[Application Innovation]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[onsite]]></remotetype>
+    <latitude><![CDATA[33.9253024]]></latitude>
+    <longitude><![CDATA[-84.3857442]]></longitude>
+  </job>
+</source>

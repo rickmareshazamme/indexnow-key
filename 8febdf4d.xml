@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sun, 06 Sep 2026 22:06:24 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Cryogenic Test Engineer]]></title>
+    <date><![CDATA[Mon, 27 Jul 2026 14:14:57 +0000]]></date>
+    <referencenumber><![CDATA[4095]]></referencenumber>
+    <url><![CDATA[https://www.game7staffing.com/job-details/cryogenic-test-engineer-in-analog-ic-flow-jobs-1656397]]></url>
+    <company><![CDATA[Game7]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Elmsford]]></city>
+    <state><![CDATA[New York]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>Title: Junior Engineer - Cryogenic Test</p>
+<p>Headcount: 1</p>
+<p>Location: On-site</p>
+<p>Contract: Undetermined duration with possibility of continuation; Start: ASAP</p>
+<p>Interview Process: 1st round interview; Feedback SLA: Weekly sync</p>
+
+<p>Why Hiring:</p>
+<p>- Workforce increase to address a team bottleneck at human resources across multiple R&D projects.</p>
+
+<p>End Product:</p>
+<p>- Quantum computing infrastructure, specifically superconducting control circuitry integrated next to qubit chips for control pulses, read-out, processing, and quantum state manipulation.</p>
+
+<p>Tech/Domain Environment:</p>
+<p>- MATLAB, Python</p>
+<p>- Dry systems, cryostats, dilution refrigerators, and adiabatic demagnetization refrigerators (ADRs)</p>
+<p>- Low-noise analog and digital circuits, electronic sockets</p>
+<p>- Superconducting chips</p>
+
+<p>Job Duties (6-10 bullets):</p>
+<p>- Load superconducting chips into the cryogenic system and run test scripts manually</p>
+<p>- Handle equipment carefully during manual R&D testing (up to 10 chips per day)</p>
+<p>- Analyze test failure data and troubleshoot/debug non-working test runs</p>
+<p>- Interact with circuit designers to explain testing results and anomalies</p>
+<p>- Assist circuit designers in reproducing test issues via simulation</p>
+<p>- Optimize the design and parameters of barely working R&D circuits</p>
+<p>- Program test equipment to generate input signal timing diagrams from circuit designer specs</p>
+<p>- Support exploratory debugging rather than push-button automated testing</p>
+
+<p>Must Haves (hard gates; 6-12 bullets, all testable/quantified):</p>
+<p>- Bachelor's or Master's degree in Physics or Electrical Engineering</p>
+<p>- Proficiency in writing and executing test scripts using MATLAB or Python</p>
+<p>- Experience with electronic socket testing and low-noise analog and digital circuits</p>
+<p>- Familiarity with testing quantum devices or superconducting chips</p>
+<p>- Strong analytical skills for debugging non-working R&D circuits and analyzing test data</p>
+
+<p>Nice to Haves (5-10 bullets):</p>
+<p>- Familiarity with cryogenic testing, dry systems, and cryo-coolers</p>
+<p>- Experience operating and testing in dilution refrigerators</p>
+<p>- Experience with adiabatic demagnetization refrigerators (ADRs)</p>
+<p>- Prior hands-on lab experience testing superconducting circuits during academic education</p>
+<p>- Experience from organizations downsizing hardware/superconducting test teams (e.g., Northrop Grumman)</p>
+
+<p>Disqualifiers (3-6 bullets):</p>
+<p>- Expectation of purely push-button, automated testing without exploratory debugging</p>
+<p>- Lack of programming proficiency in MATLAB or Python</p>
+
+<p>Security/Clearance:</p>
+<p>- None specified</p>]]></description>
+    <salary><![CDATA[$-1 - $-1 Per Hour]]></salary>
+    <category><![CDATA[Analog IC Flow]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-31.9523123]]></latitude>
+    <longitude><![CDATA[115.861309]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Engineer Software 2]]></title>
+    <date><![CDATA[Fri, 10 Apr 2026 18:52:43 +0000]]></date>
+    <referencenumber><![CDATA[3934]]></referencenumber>
+    <url><![CDATA[https://www.game7staffing.com/job-details/engineer-software-2-in-software-test-jobs-1495677]]></url>
+    <company><![CDATA[Game7]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sunnyvale]]></city>
+    <state><![CDATA[California]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<h4>Location: Sunnyvale, CA<br>
+Duration: 12 months<br>
+<br>
+<strong>JOB DESCRIPTION</strong></h4>
+
+<p>Northrop Grumman is looking for an Engineer Software 2 with extensive LabVIEW programming experience related to automated test development. As a member of the Marine System Engineering department you’ll get to develop the next generation test stand data acquisition system using the LabVIEW programming language. This position will serve on-site at Sunnyvale, CA</p>
+
+<p><strong>Responsibilities:</strong></p>
+
+<ul>
+	<li>Designs and develops data acquisition software using LabVIEW programming language for production FAT testing of various products and programs.  
+	<li>Develop user manuals for the test operators, support continuous improvement development, troubleshoot test software issue, incorporate analytical tools and automated report generation.  
+	<li>Develop tools in support of the test preparation, post data analysis, issue tracking, and test performance metrics.  
+	<li>Develop tools for test metrics trending with statistical analysis reports.  
+	<li>Develop training curriculum and material to train engineers on test stand LabVIEW software programming, coding standards, architectures, etc.  
+	<li>Lead team in LabVIEW programming for test stand software for FAT testing.   
+	<li>Provide software maintenance, support, and future development.   
+	<li>Collaborate with team members is assessing data acquisition hardware and software requirements and specifications for upgraded or new DAS architecture.  
+	<li>Ensure appropriate software standards and practices are adhered to throughout the development process.  
+	<li>Experience with NI PXI platform, PLCs.  Program Allen Bradley PLC ladder logic.
+</ul>
+
+<p><strong>Basic Qualifications for Engineer Software 2</strong></p>
+
+<ul>
+	<li>Experience developing test software using LabVIEW programming language.
+	<li>NI LabVIEW Certified LabVIEW Developer (CLD) certification
+	<li>Familiar with PLC ladder logic programming and communication protocols, EtherNet\IP and Modbus.
+</ul>
+
+<p><br>
+<strong>Preferred Qualifications for Engineer Software 2</strong></p>
+
+<ul>
+	<li>5+ years’ experience developing test software using LabVIEW programming language.
+	<li>NI LabVIEW Certified LabVIEW Architect (CLA) certification
+	<li>Experience with Allen Bradley PLC ladder logic programming and communication protocols, EtherNet/IP and Modbus.
+</ul>
+]]></description>
+    <salary><![CDATA[$-1 - $-1 Per Hour]]></salary>
+    <category><![CDATA[Software Test]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[37.36883]]></latitude>
+    <longitude><![CDATA[-122.0363496]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Software Engineer 3]]></title>
+    <date><![CDATA[Tue, 10 Mar 2026 21:52:59 +0000]]></date>
+    <referencenumber><![CDATA[3865]]></referencenumber>
+    <url><![CDATA[https://www.game7staffing.com/job-details/software-engineer-3-in-application-level-software-jobs-1460488]]></url>
+    <company><![CDATA[Game7]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[Florida]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[
+<strong>Location: </strong>Melbourne, FL
+
+
+<strong>Why Hiring:</strong> Need to modernize software product production with DevSecOps; Enhance collaboration across multi-disciplinary teams.  
+<strong>End Product: </strong>Modern DevSecOps software factory for aerospace programs.  
+
+<strong>Tech/Domain Environment:  </strong>
+- Java, JavaScript, C++, C#, Python  
+- Linux, Windows, AWS, Azure  
+- Agile, DevSecOps, CI/CD  
+- Jira, Git, Jenkins, Atlassian Crucible  
+
+<strong>Job Duties:  </strong>
+- Conduct trade studies for end-of-life product analysis.  
+- Lead cross-functional teams to prototype solutions.  
+- Productionize replacements for end-of-life tools.  
+- Define and migrate teams to new tools.  
+- Implement continuous integration and deployment processes.  
+- Collaborate with Systems Engineering and Test Automation teams.  
+
+<strong>Must Haves:  </strong>
+- Bachelor’s in STEM + 14 years in Software Engineering with Agile lifecycle.  
+- Experience with Atlassian Crucible in production for peer reviews.  
+- Proficient in Java, JavaScript, C++, C#, Python in production.  
+- Experience with Jira, ClearQuest, or Asana in production.  
+- Experience with Jenkins, GitLab, or Bamboo in production.  
+- Experience with GIT, GitLab, Bitbucket, or Subversion in production.  
+
+<strong>Nice to Haves:  </strong>
+- AWS, Azure, or VMWare architect-level certification.  
+- Experience using AI for peer review quality improvement.  
+- Experience architecting cloud solutions.  
+- Active Secret DoD Clearance; ability to obtain Top Secret Clearance.  
+- Current Special Access Program (SAP) clearance.  
+
+<strong>Disqualifiers:  </strong>
+- Only academic experience in Software Engineering.  
+- No experience with Agile development lifecycle.  
+- No production experience with peer review tools. 
+]]></description>
+    <salary><![CDATA[$-1 - $-1 Per Hour]]></salary>
+    <category><![CDATA[Application Level Software]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[28.0794398]]></latitude>
+    <longitude><![CDATA[-80.6078048]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[CAD CAM 3]]></title>
+    <date><![CDATA[Wed, 04 Feb 2026 14:48:20 +0000]]></date>
+    <referencenumber><![CDATA[3805]]></referencenumber>
+    <url><![CDATA[https://www.game7staffing.com/job-details/cad-cam-3-in-mechanical-jobs-1417032]]></url>
+    <company><![CDATA[Game7]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chandler]]></city>
+    <state><![CDATA[Arizona]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>Title: </strong>Engineer – CAD CAM 3<br>
+<strong>Location:</strong> Chandler, AZ<br>
+<br>
+<strong>Why Hiring: </strong>Need for experienced PWB design engineers; Support for military/aerospace avionics projects <br>
+<strong>End Product:</strong> Printed wiring boards for military/aerospace avionics<br>
+<br>
+<strong>Tech/Domain Environment: </strong>
+<ul>
+	<li>Cadence Allegro, OrCAD Layout, Mentor PADS, Xpedition 
+	<li>Windows OS 
+	<li>IPC-2221, IPC-7351 
+	<li>CAM350, Valor DFM 
+</ul>
+<strong>Job Duties: </strong>
+
+<ul>
+	<li>Design/layout printed wiring boards for military/aerospace applications - Communicate project status to management 
+	<li>Collaborate with circuit and mechanical engineers 
+	<li>Participate in peer and design milestone reviews - Prepare artwork (ODB++, Gerbers) for PWB fabrication 
+	<li>Manage footprint/symbol creation and library 
+</ul>
+<strong>Must Haves: </strong>
+
+<ul>
+	<li>5+ years PWB design layout experience using Cadence Allegro in production 
+	<li>Experience with multilayer boards (6-16 layers) in production 
+	<li> Layout/routing experience for digital and analog circuits in production 
+	<li> Experience with high-speed digital and controlled-impedance circuits (SERDES, DDR3/DDR4) in production 
+	<li>Experience with rigid-flex assemblies in production 
+	<li>Ability to prepare ODB++ and Gerbers for PWB fabrication in production 
+	<li>Extensive experience with footprint/symbol creation and library management in production 
+	<li>Understanding of IPC-2221 and IPC-7351 specifications in production 
+</ul>
+<strong>Nice to Haves: </strong>
+
+<ul>
+	<li>Understanding of Printed Wiring Assembly manufacturing process 
+	<li> Experience with CAM350 and/or Valor DFM software tools 
+	<li>Experience with OrCAD Layout and Mentor PADS or Xpedition tool suites 
+</ul>
+<strong>Disqualifiers: </strong>
+
+<ul>
+	<li>No PWB design experience 
+	<li> Only academic/POC experience with Cadence Allegro 
+	<li>No experience with multilayer boards 
+</ul>
+]]></description>
+    <salary><![CDATA[$-1 - $-1 Per Hour]]></salary>
+    <category><![CDATA[Mechanical]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[33.3061605]]></latitude>
+    <longitude><![CDATA[-111.8412502]]></longitude>
+  </job>
+</source>

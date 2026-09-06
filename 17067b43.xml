@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sun, 06 Sep 2026 22:06:01 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Google Analytics Data Engineer]]></title>
+    <date><![CDATA[Tue, 01 Sep 2026 15:51:57 +0000]]></date>
+    <referencenumber><![CDATA[14538]]></referencenumber>
+    <url><![CDATA[https://www.hanoverdigital.co.uk/job-details/google-analytics-data-engineer-in-data-jobs-1705845]]></url>
+    <company><![CDATA[Hanover]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[We’re looking for an experienced Data Engineer to join a large-scale digital delivery environment, building and maintaining data products that support digital services, dashboards and analytics.<br>
+<br>
+You’ll work across GA4, Google Tag Manager, BigQuery and GCP, transforming large volumes of digital interaction data into reliable, secure and usable datasets.<br>
+<br>
+This is a hands-on role in a “you build it, you run it” environment, with a strong focus on automation, data quality, resilience and continuous improvement. Experience of large-scale GTM container migrations is particularly valuable.<br>
+<br>
+<strong>Key Responsibilities:</strong>
+<ul>
+	<li>Build and maintain data pipelines and analytics solutions using GA4, GTM and BigQuery.
+	<li>Develop and optimise large-scale datasets using SQL and GCP.
+	<li>Implement data cleansing and controls to identify and prevent PII.
+	<li>Manage GA4/GTM tagging, tracking and governance across multiple digital services.
+	<li>Lead or contribute to large-scale GTM migrations, including planning, implementation and rollback.
+	<li>Develop dashboards and reporting using Looker Studio.
+	<li>Automate data collection and processing using Google Apps Script.
+	<li>Troubleshoot complex analytics, JavaScript, tagging and cloud issues.
+	<li>Provide technical support and produce clear documentation.
+	<li>Work collaboratively with multidisciplinary agile teams and non-technical stakeholders.
+</ul>
+<br>
+<strong>Essential Skills:</strong>
+
+<ul>
+	<li>Advanced GA4
+	<li>Advanced Google Tag Manager
+	<li>Advanced Google BigQuery
+	<li>Advanced SQL
+	<li>Advanced Looker Studio
+	<li>Advanced Google Apps Script / Google Sheets
+	<li>GCP, including IAM and Cloud Functions
+	<li>Experience with large-scale GTM migrations
+	<li>Strong understanding of testing, automation, CI/CD and agile engineering
+	<li>Strong communication and problem-solving skills
+</ul>
+<br>
+<strong>Desirable:</strong> Optimizely or other A/B testing experience; experience working with large datasets and third-party technology suppliers.]]></description>
+    <salary><![CDATA[£650 Per Day]]></salary>
+    <category><![CDATA[Data]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[0]]></latitude>
+    <longitude><![CDATA[0]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[DevOps/DataOps Engineers]]></title>
+    <date><![CDATA[Tue, 18 Aug 2026 15:46:57 +0000]]></date>
+    <referencenumber><![CDATA[14531]]></referencenumber>
+    <url><![CDATA[https://www.hanoverdigital.co.uk/job-details/devopsdataops-engineers-in-software-development-jobs-1688609]]></url>
+    <company><![CDATA[Hanover]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Remote]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[We're hiring experienced DevOps/DataOps Engineers to support major UK public sector digital programmes. You’ll work within multidisciplinary engineering teams to build, operate and improve secure, cloud-based data platforms supporting data, analytics and AI at scale.<br>
+<br>
+<strong>What You'll Do:</strong>
+<ul>
+	<li>Build and support DevOps/DataOps capabilities.
+	<li>Develop automated CI/CD pipelines and data workflows.
+	<li>Work with Kubernetes, Docker and cloud platforms.
+	<li>Automate infrastructure using Terraform and/or Ansible.
+	<li>Implement monitoring, observability and platform reliability.
+	<li>Support secure deployments, including restricted environments.
+	<li>Work with engineers, architects and delivery teams to deliver scalable solutions.
+</ul>
+<br>
+<strong>What We're Looking For:</strong>
+
+<ul>
+	<li>Strong commercial DevOps/DataOps experience.
+	<li>Experience with Airflow, Prefect or Dagster.
+	<li>Kubernetes and Docker experience.
+	<li>Strong CI/CD and Infrastructure as Code skills.
+	<li>Experience with AWS, Azure and/or GCP.
+	<li>Knowledge of technologies such as Spark, Kafka or PostgreSQL.
+	<li>Active SC Clearance is essential.
+</ul>
+<br>
+Experience in UK Government, regulated environments, data/AI platforms, Databricks or Snowflake would be advantageous.]]></description>
+    <salary><![CDATA[£700 Per Day]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[43.0059455]]></latitude>
+    <longitude><![CDATA[-123.8925908]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Lead Technical Architect]]></title>
+    <date><![CDATA[Mon, 03 Aug 2026 15:57:59 +0000]]></date>
+    <referencenumber><![CDATA[14518]]></referencenumber>
+    <url><![CDATA[https://www.hanoverdigital.co.uk/job-details/lead-technical-architect-in-architecture-jobs-1660100]]></url>
+    <company><![CDATA[Hanover]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Telford]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[
+<p>We are seeking an experienced Lead Technical Architect to provide technical leadership on a major public sector cloud migration and hosting transformation programme.</p>
+
+<p>This role will lead the technical disposition and migration strategy for a complex application estate transitioning from legacy data centre environments into cloud and hosted platforms. You will guide architectural decisions from discovery and design through migration, cutover, and operational acceptance.</p>
+
+<h4><strong>Key Responsibilities</strong></h4>
+
+<ul>
+	<li>Define and lead migration and technical disposition strategies.
+	<li>Assess application dependencies, infrastructure requirements, and migration constraints.
+	<li>Provide technical leadership across discovery, design, migration, and cutover activities.
+	<li>Drive decisions around re-hosting, re-platforming, and migration approaches.
+	<li>Manage technical risks, assumptions, and architectural governance.
+	<li>Collaborate with cloud, hosting, security, network, and engineering teams to ensure migration readiness.
+	<li>Lead technical governance reviews and provide senior stakeholder reporting.
+</ul>
+
+<h4><strong>Essential Experience</strong></h4>
+
+<ul>
+	<li>Extensive experience as a Lead, Enterprise, Technical, or Migration Architect.
+	<li>Proven delivery of large-scale cloud migration, hosting transformation, or data programmes.
+	<li>Strong cloud architecture and migration expertise.
+	<li>Experience managing complex application estates within multi-supplier environments.
+	<li>Strong understanding of infrastructure, networking, security, resilience, and operational readiness.
+	<li>Excellent stakeholder management and communication skills.
+	<li>Active SC Clearance (or ability to obtain it).
+</ul>
+
+<h4><strong>Desirable Experience</strong></h4>
+
+<ul>
+	<li>Experience delivering programmes within Central Government or highly regulated environments.
+	<li>Knowledge of legacy technologies including Oracle, WebLogic, AIX, Solaris, Windows, Linux, COBOL, and IIS.
+	<li>Experience with large-scale lift-and-shift migration programmes.
+</ul>
+
+<p> </p>
+]]></description>
+    <salary><![CDATA[£1,000 Per Day]]></salary>
+    <category><![CDATA[Architecture]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[40.324992]]></latitude>
+    <longitude><![CDATA[-75.3281748]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Platform/DevOps Engineer ]]></title>
+    <date><![CDATA[Mon, 27 Jul 2026 14:42:12 +0000]]></date>
+    <referencenumber><![CDATA[14503]]></referencenumber>
+    <url><![CDATA[https://www.hanoverdigital.co.uk/job-details/platformdevops-engineer-in-software-development-jobs-1651232]]></url>
+    <company><![CDATA[Hanover]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Bristol]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[We're looking for an experienced Platform/DevOps Engineer to join a project that underpins one of the UK's largest and most critical digital platforms. <br>
+<br>
+This is a hands-on engineering role suited to someone who enjoys solving complex infrastructure challenges, building high-quality automation and continuously improving large-scale cloud platforms.<br>
+<br>
+<br>
+<strong>Key Responsibilities:</strong>
+<ul>
+	<li>Design, build and maintain cloud infrastructure and platform services in AWS
+	<li>Deliver infrastructure and configuration through Infrastructure as Code and CI/CD pipelines
+	<li>Support networking, connectivity and security across the platform, including firewalls, proxies and allowlisting
+	<li>Implement and maintain platform observability through logs, metrics and alerting
+	<li>Contribute to platform security, patching and data protection initiatives
+	<li>Develop and maintain reusable infrastructure tooling and platform capabilities
+	<li>Support and collaborate with tenant service teams and wider platform engineering teams
+	<li>Improve platform reliability, scalability and developer experience
+	<li>Coach and support engineers, promoting DevOps and software engineering best practices
+</ul>
+<br>
+<strong>Core Skills & Experience:</strong>
+
+<ul>
+	<li>Strong DevOps and software engineering background
+	<li>Proven experience designing and delivering cloud infrastructure in AWS
+	<li>Infrastructure as Code and Configuration as Code expertise
+	<li>Hands-on CI/CD pipeline design and implementation experience
+	<li>Ability to design technical solutions within complex enterprise architectures
+	<li>Strong troubleshooting, analytical and investigation skills
+	<li>Experience working collaboratively within Agile delivery teams
+	<li>Ability to communicate technical concepts to both technical and non-technical audiences
+	<li>Passion for engineering quality, automation and continuous improvement
+</ul>
+<br>
+<strong>AWS Experience:</strong>
+
+<ul>
+	<li>Compute
+	<li>Networking & Content Delivery
+	<li>Storage
+	<li>Databases
+	<li>Security & Identity
+	<li>Operations & Monitoring
+	<li>Developer Tooling
+	<li>Application Integration
+	<li>Knowledge of the AWS Well-Architected Framework is highly desirable.
+</ul>
+<br>
+<strong>Technical Skills:</strong>
+
+<ul>
+	<li>Terraform
+	<li>CloudFormation
+	<li>Python
+	<li>Groovy
+	<li>Shell Scripting
+	<li>Jenkins
+	<li>AWS Services & Tooling
+	<li>Infrastructure Automation & Platform Engineering
+</ul>
+]]></description>
+    <salary><![CDATA[£650 Per Day]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+  </job>
+</source>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sun, 06 Sep 2026 22:03:39 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Dummy 1]]></title>
+    <date><![CDATA[Mon, 16 Feb 2026 12:25:38 +0000]]></date>
+    <referencenumber><![CDATA[dc184c14-6978-49ac-b207-258512c8cf16]]></referencenumber>
+    <url><![CDATA[https://www.icxgroup.com/job-details/dummy-1-in-jobs-1430166]]></url>
+    <company><![CDATA[ICX group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Jacksonville]]></city>
+    <state><![CDATA[Florida]]></state>
+    <country><![CDATA[United States of America]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div>]]></description>
+    <salary><![CDATA[$10,000 - $15,000]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[30.3321838]]></latitude>
+    <longitude><![CDATA[-81.655651]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Dummy]]></title>
+    <date><![CDATA[Mon, 16 Feb 2026 12:24:02 +0000]]></date>
+    <referencenumber><![CDATA[4b2ad59f-f1ee-4f03-81aa-49db29e19c23]]></referencenumber>
+    <url><![CDATA[https://www.icxgroup.com/job-details/dummy-in-jobs-1430163]]></url>
+    <company><![CDATA[ICX group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Jacksonville]]></city>
+    <state><![CDATA[Florida]]></state>
+    <country><![CDATA[United States of America]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div>]]></description>
+    <salary><![CDATA[$10,000 - $20,000]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[30.3321838]]></latitude>
+    <longitude><![CDATA[-81.655651]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Dummy]]></title>
+    <date><![CDATA[Mon, 16 Feb 2026 12:21:19 +0000]]></date>
+    <referencenumber><![CDATA[ba58c70d-9688-4dcb-9192-59d1a150cf70]]></referencenumber>
+    <url><![CDATA[https://www.icxgroup.com/job-details/dummy-in-jobs-1430159]]></url>
+    <company><![CDATA[ICX group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Jacksonville]]></city>
+    <state><![CDATA[Florida]]></state>
+    <country><![CDATA[United States of America]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p></div>]]></description>
+    <salary><![CDATA[$10,000 - $20,000]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[30.3321838]]></latitude>
+    <longitude><![CDATA[-81.655651]]></longitude>
+  </job>
+</source>

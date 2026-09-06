@@ -1,0 +1,3334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sun, 06 Sep 2026 22:06:23 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Lead AI Automation & Integration Engineer]]></title>
+    <date><![CDATA[Mon, 24 Aug 2026 18:10:03 +0000]]></date>
+    <referencenumber><![CDATA[26567]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/lead-ai-automation-integration-engineer-in-technology-software-jobs-1696840]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<p><strong>Job Title</strong> Lead AI Automation & Integration Engineer</p>
+<p><strong>Location</strong> Remote (US / Anywhere)</p>
+<p><strong>About the Opportunity</strong> Drive the creation of next-generation automation workflows and intelligent data pipelines for an expanding market intelligence and data analytics platform. This hands-on role invites an experienced integrator to design scalable data extraction systems and deploy custom generative AI agents in a fast-paced environment. If you excel at transforming complex raw datasets into streamlined operational solutions, this opportunity offers high-impact visibility alongside an advanced data team.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>
+<p>Design and deploy scalable data extraction pipelines leveraging custom Python scripts and modern web scraping frameworks.</p>
+
+<li>
+<p>Build and optimize multi-system automated workflows utilizing low-code/no-code platforms to connect databases, SaaS applications, and internal tools.</p>
+
+<li>
+<p>Develop and integrate intelligent generative AI agents to automate analytical tasks, customer interactions, and content workflows.</p>
+
+<li>
+<p>Engineer custom Python webhooks, scripts, and RESTful APIs to extend automation capabilities and integrate proprietary backends.</p>
+
+<li>
+<p>Manage relational database systems and construct SQL queries to safeguard data integrity across connected systems.</p>
+
+<li>
+<p>Monitor, troubleshoot, and fine-tune automated processes and scraping systems to ensure maximum operational uptime.</p>
+
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>
+<p>5+ years of dedicated experience in API development, web data extraction, and complex systems integration.</p>
+
+<li>
+<p>Advanced Python proficiency with proven application in web scraping frameworks (such as Scrapy, Playwright, or BeautifulSoup) and custom API development.</p>
+
+<li>
+<p>Demonstrated experience building and maintaining complex, multi-step automations using platforms like Zapier or n8n.</p>
+
+<li>
+<p>Hands-on experience implementing generative AI models (OpenAI, Claude) and visual agent orchestration builders, along with chat observability platforms.</p>
+
+<li>
+<p>Solid SQL skills and working familiarity with relational databases and enterprise data warehouses (e.g., Snowflake, PostgreSQL).</p>
+
+<li>
+<p>Deep comprehension of system integration essentials, including REST APIs, JSON, webhooks, and standard authentication protocols (OAuth2).</p>
+
+<li>
+<p>Working knowledge of AWS cloud infrastructure, specifically Lambda, EC2, and S3.</p>
+
+</ul>
+<p><strong>Preferred Qualifications</strong></p>
+<ul>
+<li>
+<p>Practical background building complete end-to-end conversational AI workflows and production chat applications.</p>
+
+<li>
+<p>Familiarity with enterprise web scraping platforms (e.g., Apify) or custom browser extension engineering.</p>
+
+<li>
+<p>Experience integrating enterprise CRM platforms, such as Salesforce.</p>
+
+<li>
+<p>Familiarity with modern data stack tooling including DBT, Prefect, Docker, and Terraform.</p>
+
+</ul>
+<p><strong>Compensation & Benefits</strong></p>
+<ul>
+<li>
+<p>Competitive base salary and performance-driven bonuses.</p>
+
+<li>
+<p>Comprehensive medical and dental coverage.</p>
+
+<li>
+<p>Flexible remote work arrangements and professional development support.</p>
+
+<li>
+<p>Standard Equal Employment Opportunity (EEO) commitment.</p>
+
+</ul>
+<p> </p>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[TBD]]></salary>
+    <category><![CDATA[Technology & Software]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8817767]]></latitude>
+    <longitude><![CDATA[-87.6371461]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[AI Research Engineer, Inference]]></title>
+    <date><![CDATA[Mon, 17 Aug 2026 19:25:03 +0000]]></date>
+    <referencenumber><![CDATA[26518]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/ai-research-engineer-inference-in-trading-firm-jobs-1686544]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<p><strong>Job Title:</strong> AI Research Engineer – Deep Learning Inference</p>
+<p><strong>Location:</strong> New York, NY | London, UK</p>
+<p><strong>About the Opportunity</strong></p>
+<p>Join an industry-leading global quantitative technology organization at the forefront of machine learning innovation. We are seeking a High-Performance AI Research Engineer to drive speed and scalability across our real-time predictive modeling infrastructure. In this role, you will bridge the gap between machine learning research and hardware acceleration, building low-latency inference systems that process continuous global data streams to drive core business decisions.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>
+<p>Drive performance optimizations across all aspects of large-scale model execution, including custom kernel creation, data streaming pipelines, and novel hardware integration.</p>
+
+<li>
+<p>Partner directly with machine learning researchers to co-design neural architectures optimized for extreme real-time execution.</p>
+
+<li>
+<p>Author low-level primitives and custom operations to extract maximum compute throughput from modern hardware architectures.</p>
+
+<li>
+<p>Evaluate, benchmark, and deploy novel hardware acceleration tech, ranging from off-the-shelf accelerators to custom specialized silicon.</p>
+
+<li>
+<p>Formulate and execute engineering initiatives that address complex, non-obvious bottlenecks in ultra-low-latency deep learning inference.</p>
+
+</ul>
+<p><strong>Requirements (Must-Have)</strong></p>
+<ul>
+<li>
+<p>At least two years of hands-on experience engineering production-grade deep learning systems within any complex domain (such as robotics, computer vision, audio, NLP, physics, or recommender platforms).</p>
+
+<li>
+<p>Strong lower-level engineering foundation, including experience writing custom compute kernels (e.g., CUDA, Triton, Pallas, or CuTe DSLs).</p>
+
+<li>
+<p>Proficiency with framework compilation internals and low-level runtime environments (PyTorch, JAX, XLA, or CUDA Graphs).</p>
+
+<li>
+<p>Practical exposure to hardware acceleration tech, such as FPGAs, ASICs, or specialized AI processors.</p>
+
+<li>
+<p>Proven ability to adapt algorithms and technical concepts across different domain applications.</p>
+
+</ul>
+<p><strong>Preferred Qualifications</strong></p>
+<ul>
+<li>
+<p>Experience optimizing or serving Large Language Models (LLMs) and foundation architectures.</p>
+
+<li>
+<p><em>Note: Prior background in quantitative finance or trading is explicitly NOT required.</em></p>
+
+</ul>
+<p><strong>Compensation & Benefits</strong></p>
+<ul>
+<li>
+<p>Highly competitive base salary, performance-based bonus incentive, and premium health/wellness benefits package. Equal Opportunity Employer.</p>
+
+</ul>
+<p> </p>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base salary plus discretionary bonus]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8817767]]></latitude>
+    <longitude><![CDATA[-87.6371461]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Software Engineer - C++]]></title>
+    <date><![CDATA[Mon, 17 Aug 2026 19:20:04 +0000]]></date>
+    <referencenumber><![CDATA[26516]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/software-engineer-c-in-trading-firm-jobs-1686539]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<p><strong>Job Title:</strong> Software Engineer – Low-Latency C++<br> <strong>Location:</strong> New York, NY | Chicago, IL | Austin, TX | London, UK</p>
+<p><strong>About the Opportunity</strong> Join a premier global quantitative trading firm building ultra-low-latency distributed infrastructure where system speed and reliability directly drive market execution. As a C++ Software Engineer, you will design, profile, and optimize fault-tolerant platforms and high-throughput data processing engines alongside top-tier quantitative researchers and systems architects. This role offers immediate technical impact in an agile, engineering-first environment where performance improvements are measured in nanoseconds.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>
+<p>Design, build, and enhance resilient, ultra-low-latency execution platforms and market data engines spanning diverse asset classes.</p>
+
+<li>
+<p>Execute deep-level performance profiling and C++ code optimizations to minimize latency and maximize throughput across production environments.</p>
+
+<li>
+<p>Engineer fault-tolerant architecture capable of WAN packet prioritization, graceful hardware failover, and continuous live operation.</p>
+
+<li>
+<p>Develop low-level software interfaces and integrations for specialized hardware acceleration, including FPGAs and custom ASICs.</p>
+
+<li>
+<p>Maintain scalable back-end infrastructure supporting distributed file systems, high-volume research workflows, and direct market access.</p>
+
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>
+<p>At least 1 year of professional software engineering experience delivering production C++ applications.</p>
+
+<li>
+<p>Bachelor’s degree in Computer Science, Computer Engineering, or a related technical discipline.</p>
+
+<li>
+<p>Advanced proficiency in C++ with strong hands-on daily application.</p>
+
+<li>
+<p>Solid understanding of Linux/UNIX operating system internals, CPU performance tuning, memory architecture, and network communication protocols (TCP/UDP).</p>
+
+<li>
+<p>Excellent analytical, architectural design, and system debugging skills.</p>
+
+</ul>
+<p><strong>Preferred Qualifications</strong></p>
+<ul>
+<li>
+<p>Proven track record of high technical impact, code quality, and technical mentorship.</p>
+
+<li>
+<p>Demonstrated ability to navigate trade-offs between high-level abstractions and low-level algorithmic optimizations.</p>
+
+<li>
+<p>Experience developing software that interfaces directly with low-latency network hardware or custom processors.</p>
+
+</ul>
+<p><strong>Compensation & Benefits</strong></p>
+<ul>
+<li>
+<p>Competitive base salary accompanied by performance-based bonus potential.</p>
+
+<li>
+<p>Comprehensive health, dental, and vision insurance coverage.</p>
+
+<li>
+<p>Retirement savings plans, generous paid time off, and continuous learning support.</p>
+
+</ul>
+<p> </p>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base salary plus discretionary bonus]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8817767]]></latitude>
+    <longitude><![CDATA[-87.6371461]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Site Reliability Engineer]]></title>
+    <date><![CDATA[Mon, 17 Aug 2026 19:15:04 +0000]]></date>
+    <referencenumber><![CDATA[26513]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/site-reliability-engineer-in-trading-firm-jobs-1686532]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60661]]></postalcode>
+    <description><![CDATA[<p><strong>Job Title:</strong> Site Reliability Engineer (Infrastructure & Systems)</p>
+<p><strong>Location:</strong> Chicago, IL (Greater Metro Area)</p>
+<p><strong>About the Opportunity</strong></p>
+<p>Join a premier financial technology organization at the intersection of high-performance computing, low-latency execution systems, and scalable modern infrastructure. We are seeking a proactive Site Reliability Engineer to architect, automate, and elevate our real-time trading ecosystem while working directly alongside quantitative researchers and core engineering teams. This is a high-impact role designed for a technical problem solver who thrives in fast-paced, high-concurrency environments.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>
+<p><strong>Infrastructure Automation:</strong> Engineer self-healing, automated platform solutions to maximize operational reliability across mission-critical execution environments.</p>
+
+<li>
+<p><strong>Data & Compute Pipelines:</strong> Construct and maintain data ingestion workflows (ETL) alongside high-performance cloud compute (HPC) environments.</p>
+
+<li>
+<p><strong>System Telemetry:</strong> Design customizable monitoring, alerting, and reporting suites to deliver proactive visibility into system health and network performance.</p>
+
+<li>
+<p><strong>API & Service Integration:</strong> Build and integrate robust RESTful APIs connecting multi-cloud platforms with existing on-premises data systems.</p>
+
+<li>
+<p><strong>Database & Network Support:</strong> Oversee local and cloud-hosted SQL/NoSQL datastores while collaborating with core engineering to automate network workflows.</p>
+
+<li>
+<p><strong>Incident Escalation:</strong> Serve as a Tier-2 escalation point to rapidly diagnose, troubleshoot, and resolve system anomalies during active operations.</p>
+
+<li>
+<p><strong>Security & Best Practices:</strong> Maintain enterprise-grade operational standards, ensuring all deployed infrastructure complies with firm-wide security protocols.</p>
+
+</ul>
+<p><strong>Requirements (Must-Have)</strong></p>
+<ul>
+<li>
+<p>3+ years of professional experience in Site Reliability Engineering, Systems Administration, DevOps, or Network Engineering.</p>
+
+<li>
+<p>Strong programming proficiency in Python and Unix shell scripting, paired with Git version control.</p>
+
+<li>
+<p>Demonstrated experience with Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation, Ansible, or Puppet).</p>
+
+<li>
+<p>Practical understanding of containerization frameworks (such as Kubernetes) in hybrid or public cloud settings.</p>
+
+<li>
+<p>Familiarity with building and maintaining continuous integration and deployment (CI/CD) pipelines (e.g., GitHub Actions, GitLab CI, Jenkins).</p>
+
+<li>
+<p>Strong foundational knowledge of TCP/IP networking concepts (DNS, Routing, VPNs) and enterprise storage solutions (NFS, block, object).</p>
+
+<li>
+<p>Excellent collaborative communication skills with a track record of thorough technical documentation.</p>
+
+</ul>
+<p><strong>Preferred Qualifications (Nice-to-Have)</strong></p>
+<ul>
+<li>
+<p>Hands-on expertise with major cloud platforms (AWS or Google Cloud Platform / GCP).</p>
+
+<li>
+<p>Familiarity with managed container orchestrators such as Amazon EKS or Google GKE.</p>
+
+<li>
+<p>Exposure to low-latency financial systems, quantitative research tools, or high-performance computing environments.</p>
+
+</ul>
+<p><strong>Compensation & Benefits</strong></p>
+<ul>
+<li>
+<p>Competitive base salary paired with performance-based incentive opportunities.</p>
+
+<li>
+<p>Comprehensive benefits package including medical, dental, vision, 401(k) retirement options, and paid time off.</p>
+
+<li>
+<p><em>Equal Opportunity Employer: All qualified candidates will receive consideration without regard to race, color, religion, sex, national origin, protected veteran status, or disability status.</em></p>
+
+</ul>
+<p> </p>
+<p> </p>
+<p><em>#LI-ML1</em></p>
+<p> </p>]]></description>
+    <salary><![CDATA[180000]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8783749]]></latitude>
+    <longitude><![CDATA[-87.6413827]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[AI Research Engineer, Pre-Training]]></title>
+    <date><![CDATA[Mon, 17 Aug 2026 19:25:03 +0000]]></date>
+    <referencenumber><![CDATA[26517]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/ai-research-engineer-pre-training-in-trading-firm-jobs-1686543]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<p><strong>Job Title:</strong> AI Research Engineer – Large-Scale Pre-Training</p>
+<p><strong>Location:</strong> New York, NY or London, UK</p>
+<p><strong>About the Opportunity</strong></p>
+<p>A leading quantitative financial technology enterprise is seeking an exceptional AI Research Engineer to advance its large-scale pre-training capabilities. In this role, you will help architect, optimize, and deploy massive foundation models designed to process extensive market and alternative data streams. If you want your engineering contributions to directly drive high-impact trading outcomes while leveraging extensive GPU infrastructure, this role offers an ideal environment with zero prior financial background required.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>
+<p>Optimize all phases of distributed deep learning pre-training, focusing on networking performance, memory management, data pipelines, and fault-tolerant execution.</p>
+
+<li>
+<p>Collaborate directly with machine learning researchers to co-design network architectures and establish long-term compute roadmaps.</p>
+
+<li>
+<p>Write high-performance lower-level code and custom kernels to maximize compute utilization across large-scale GPU infrastructure.</p>
+
+<li>
+<p>Adapt and translate cutting-edge deep learning methodologies from non-financial domains into production-grade trading models.</p>
+
+</ul>
+<p><strong>Requirements (must-have)</strong></p>
+<ul>
+<li>
+<p>2+ years of hands-on professional experience engineering deep learning systems across any technical field (e.g., robotics, physical sciences, computer vision, audio, or recommendation systems).</p>
+
+<li>
+<p>Deep expertise in modern hardware acceleration and deep learning frameworks (such as PyTorch, JAX, CUDA, Triton, or specialized compiler DSLs).</p>
+
+<li>
+<p>Proven track record of developing or tuning low-level training infrastructure, custom kernels, or distributed training workflows (e.g., parallelism techniques, CUDA Graphs, XLA).</p>
+
+<li>
+<p>Ability to solve open-ended systems performance challenges without relying on off-the-shelf software packages.</p>
+
+<li>
+<p><em>No prior experience in finance or quantitative trading is necessary.</em></p>
+
+</ul>
+<p><strong>Preferred Qualifications (nice-to-have)</strong></p>
+<ul>
+<li>
+<p>Practical experience building or fine-tuning Large Language Models (LLMs) at scale.</p>
+
+<li>
+<p>Background in specialized hardware programming, FPGA/ASIC integration, or custom compute acceleration.</p>
+
+<li>
+<p>Strong track record of cross-domain methodology transfer.</p>
+
+</ul>
+<p><strong>Compensation & Benefits</strong></p>
+<ul>
+<li>
+<p>Highly competitive base salary, generous performance-based bonuses, and comprehensive benefits.</p>
+
+<li>
+<p>Access to exceptional GPU-per-engineer ratios and state-of-the-art compute resources.</p>
+
+<li>
+<p><em>Equal Opportunity Employer: All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status.</em></p>
+
+</ul>
+<p> </p>
+<p> </p>
+<p><em>#LI-EH1</em></p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base salary plus discretionary bonus]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8817767]]></latitude>
+    <longitude><![CDATA[-87.6371461]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Lead Software Engineer - L5]]></title>
+    <date><![CDATA[Tue, 28 Jul 2026 20:10:05 +0000]]></date>
+    <referencenumber><![CDATA[26395]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/lead-software-engineer-l5-in-technology-software-jobs-1658730]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago ]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[63101]]></postalcode>
+    <description><![CDATA[<h2>Job Title</h2>
+<p>Lead Software Engineer</p>
+<h2>Location</h2>
+<p>Chicago (Hybrid)</p>
+<h2>About the Opportunity</h2>
+<p>Are you ready to architect low-latency, high-throughput infrastructure that powers modern digital streaming environments? We are seeking a Lead Software Engineer to direct the end-to-end design and execution of a mission-critical video distribution platform. In this high-impact role, you will bridge technical vision with product strategy while guiding a cross-functional, globally distributed engineering team.</p>
+<h2>Responsibilities</h2>
+<ul>
+<li>
+<p><strong>Architect & Scale:</strong> Direct full-lifecycle engineering initiatives for high-availability systems, guaranteeing real-time execution and operational reliability.</p>
+
+<li>
+<p><strong>Technical Guidance:</strong> Lead and elevate engineering colleagues through rigorous code reviews, technical mentorship, and quality assurance standards.</p>
+
+<li>
+<p><strong>Product Collaboration:</strong> Partner with product leadership to evaluate technical feasibility and translate strategic goals into robust architectural solutions.</p>
+
+<li>
+<p><strong>Process & Tooling Optimization:</strong> Refine deployment workflows, establish verification frameworks, and maintain comprehensive documentation across the system life cycle.</p>
+
+<li>
+<p><strong>Global Alignment:</strong> Work directly with international product and technology teams to integrate continuous platform innovations across time zones.</p>
+
+<li>
+<p><strong>System Resolution:</strong> Rapidly diagnose and resolve complex technical bottlenecks in live, high-traffic distributed environments.</p>
+
+</ul>
+<h2>Requirements (Must-Have)</h2>
+<ul>
+<li>
+<p><strong>Experience & Education:</strong> Bachelor’s degree in Computer Science (or equivalent practical experience) combined with 5+ years of progressive backend software development.</p>
+
+<li>
+<p><strong>Core Technical Expertise:</strong> Advanced proficiency in C/C++, network programming, and relational/non-relational database design.</p>
+
+<li>
+<p><strong>Distributed Architecture:</strong> Hands-on background building and maintaining high-concurrency, mission-critical distributed systems.</p>
+
+<li>
+<p><strong>Execution & Delivery:</strong> Sound understanding of Agile methodologies, modern SDLC frameworks, and technical project management.</p>
+
+<li>
+<p><strong>Communication & Leadership:</strong> Aptitude for explaining complex engineering topics to non-technical partners and aligning tech initiatives with business outcomes.</p>
+
+<li>
+<p><strong>Global Flexibility:</strong> Capability to adapt schedules periodically to accommodate co-working hours with international engineering hubs.</p>
+
+</ul>
+<h2>Preferred Qualifications (Nice-to-Have)</h2>
+<ul>
+<li>
+<p>Direct domain experience within the digital advertising or media streaming sectors.</p>
+
+<li>
+<p>Exposure to programmatic ad-serving architectures and open protocol specifications (e.g., OpenRTB).</p>
+
+<li>
+<p>A passion for researching, adopting, and deploying emerging software development tools and paradigms.</p>
+
+</ul>
+<h2>Compensation & Benefits</h2>
+<ul>
+<li>
+<p>Competitive base salary package commensurate with experience.</p>
+
+<li>
+<p>Comprehensive healthcare package (medical, dental, vision).</p>
+
+<li>
+<p>Flexible remote work arrangements and professional development support.</p>
+
+</ul>
+<p> </p>
+<p>#LI-ML1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[200000]]></salary>
+    <category><![CDATA[Technology & Software]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[ML Infrastructure Engineer]]></title>
+    <date><![CDATA[Tue, 28 Jul 2026 19:40:09 +0000]]></date>
+    <referencenumber><![CDATA[26308]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/ml-infrastructure-engineer-in-technology-software-jobs-1658683]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[San Francisco]]></city>
+    <state><![CDATA[CA]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[94103]]></postalcode>
+    <description><![CDATA[<p><strong>Job Title:</strong> Machine Learning Infrastructure Engineer</p>
+<p><strong>Location:</strong> San Francisco, CA Metro Area (100% On-Site)</p>
+<h3>About the Opportunity</h3>
+<p>An ultra-high-growth artificial intelligence platform company is seeking a Machine Learning Infrastructure Engineer to help architect the compute, training, and execution frameworks powering next-generation model performance. Backed by top-tier venture capital firms and serving elite technology enterprises, this team is scaling rapidly to solve complex unstructured data challenges. In this role, you will hold direct ownership over scaling distributed systems across massive hardware clusters while collaborating directly with core platform teams.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>
+<p>Architect and sustain high-throughput execution and training pipelines optimized for rapid experimentation, flexibility, and ultra-low latency serving.</p>
+
+<li>
+<p>Establish comprehensive benchmarking suites across system stacks to identify performance bottlenecks and optimize resource efficiency.</p>
+
+<li>
+<p>Evaluate cutting-edge developments in model optimization and integrate state-of-the-art research into production systems.</p>
+
+<li>
+<p>Engineer resilient, highly observable multi-node environments that support seamless parallelized training tasks.</p>
+
+<li>
+<p>Maximize hardware efficiency and operational reliability while running large-scale workloads across extensive GPU clusters.</p>
+
+<li>
+<p>Build developer abstractions, internal tooling, and telemetry frameworks that streamline the transition from research prototype to production.</p>
+
+</ul>
+<h3>Requirements (Must-Have)</h3>
+<ul>
+<li>
+<p>3+ years of production experience in software development, backend systems, or machine learning platforms (exceptional early-career candidates with extraordinary technical foundations will be evaluated).</p>
+
+<li>
+<p>Advanced proficiency in Python alongside a solid background in low-level systems architectural design.</p>
+
+<li>
+<p>Hands-on experience working with container orchestration (e.g., Kubernetes) and modern distributed compute frameworks.</p>
+
+<li>
+<p>Demonstrated ability to build from first principles and take full ownership of projects from strategic planning to deployment.</p>
+
+<li>
+<p>Comfortable operating in a fast-paced, high-rigor setting with continuous iteration cycles.</p>
+
+</ul>
+<h3>Preferred Qualifications (Nice-to-Have)</h3>
+<ul>
+<li>
+<p>Prior experience working within an early-stage or rapidly scaling tech startup.</p>
+
+<li>
+<p>Meaningful open-source contributions to established distributed training or inference engines.</p>
+
+<li>
+<p>Practical experience managing multi-node inference setups across hundreds or thousands of GPUs.</p>
+
+<li>
+<p>Strong passion for aligning deep technical excellence with direct business results.</p>
+
+</ul>
+<h3>Compensation & Benefits</h3>
+<ul>
+<li>
+<p><strong>Work Arrangement:</strong> Full-time, 5 days per week on-site in San Francisco, CA.</p>
+
+<li>
+<p><strong>Health & Wellness:</strong> Fully covered medical, dental, and vision coverage, plus a $150 monthly stipend for wellness and fitness expenses.</p>
+
+<li>
+<p><strong>Time Off & Flexibility:</strong> Flexible PTO policy and adaptable parental leave programs.</p>
+
+<li>
+<p><strong>Perks:</strong> Daily catered lunches in the office and full commuter reimbursement.</p>
+
+<li>
+<p><em>Equal Opportunity Employer: All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status.</em></p>
+
+</ul>
+<p> </p>
+<p> </p>
+<p><em>#LI-ML1</em></p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base salary plus equity]]></salary>
+    <category><![CDATA[Technology & Software]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Software Developer (Java)]]></title>
+    <date><![CDATA[Tue, 28 Jul 2026 19:15:03 +0000]]></date>
+    <referencenumber><![CDATA[26209]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/software-developer-java-in-trading-firm-jobs-1658647]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<h2>Job Title</h2>
+<p>Software Developer (Java)</p>
+<h2>Location</h2>
+<p>Chicago, IL | New York, NY | London, UK | Amsterdam, NL</p>
+<h2>About the Opportunity</h2>
+<p>Join a premier global quantitative trading firm as a Core Java Software Engineer building ultra-low-latency, high-throughput trading infrastructure. In this role, you will partner directly with research, systems, and operations teams to scale and optimize distributed computing platforms operating around the clock. This is an exceptional opportunity to tackle complex technical challenges where microsecond performance gains directly drive business growth.</p>
+<h2>Responsibilities</h2>
+<ul>
+<li>
+<p>Architect, build, and maintain enterprise-grade Java software powering core execution and analytical platforms.</p>
+
+<li>
+<p>Enhance existing quantitative research environments to support new execution venues, financial products, and system capabilities.</p>
+
+<li>
+<p>Engineer distributed data storage solutions tailored for high reliability and demanding performance thresholds.</p>
+
+<li>
+<p>Identify and resolve execution bottlenecks across custom codebases, open-source libraries, and operating system kernels.</p>
+
+<li>
+<p>Research and evaluate emerging technologies to increase the processing capacity, stability, and speed of distributed computing farms.</p>
+
+<li>
+<p>Build advanced monitoring tools and proactive telemetry to detect operational anomalies.</p>
+
+<li>
+<p>Optimize network communication protocols across distributed components to achieve minimal latency and maximal throughput.</p>
+
+<li>
+<p>Conduct technical candidate interviews and perform peer code reviews across engineering and research groups.</p>
+
+</ul>
+<h2>Requirements (Must-Have)</h2>
+<ul>
+<li>
+<p>Bachelor’s degree in Computer Science, Computer Engineering, or a related technical discipline (or equivalent professional engineering experience).</p>
+
+<li>
+<p>Demonstrated expertise in writing, refactoring, and debugging production-grade Java applications.</p>
+
+<li>
+<p>Strong grasp of core computer science principles, system architecture, and modern software design patterns.</p>
+
+<li>
+<p>Hands-on experience building scalable, fully automated, and thoroughly tested distributed systems.</p>
+
+<li>
+<p>Practical understanding of low-level software stack operations, networking protocols, and storage system mechanics.</p>
+
+<li>
+<p>Pragmatic problem-solving mindset with a focus on delivering robust, maintainable solutions.</p>
+
+<li>
+<p>Collaborative attitude paired with the ability to drive initiatives independently.</p>
+
+</ul>
+<h2>Preferred Qualifications (Nice-to-Have)</h2>
+<ul>
+<li>
+<p>Exposure to low-level C++ development.</p>
+
+<li>
+<p>Practical knowledge of Linux environment tuning and system internals.</p>
+
+<li>
+<p>Prior experience in electronic trading, quantitative finance, or capital markets.</p>
+
+</ul>
+<h2>Compensation & Benefits</h2>
+<ul>
+<li>
+<p>Competitive base salary accompanied by an attractive discretionary bonus pool.</p>
+
+<li>
+<p>Comprehensive healthcare benefits, retirement plan options, and professional development support.</p>
+
+</ul>
+<p> </p>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base salary plus targeted bonus]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8847446]]></latitude>
+    <longitude><![CDATA[-87.6366183]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Sr. Data Engineer (UP)]]></title>
+    <date><![CDATA[Tue, 28 Jul 2026 19:25:05 +0000]]></date>
+    <referencenumber><![CDATA[26255]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/sr-data-engineer-up-in-trading-firm-jobs-1658662]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60661]]></postalcode>
+    <description><![CDATA[<h2>Senior Data Engineer - Core Data Platform</h2>
+<p><strong>Location:</strong> Chicago, IL or New York, NY (Hybrid)</p>
+<h3>About the Opportunity</h3>
+<p>Are you ready to architect high-throughput data infrastructure for a premier global quantitative trading and investment organization? We are seeking a Senior Data Engineer to lead the evolution of our central data ecosystem, transforming complex external market feeds into high-value analytical assets. In this high-impact role, you will partner directly with quantitative researchers, trading desks, and technical leaders to build resilient, scalable data solutions.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>
+<p>Architect, construct, and maintain scalable data pipelines and centralized platform architecture supporting enterprise-wide analytics and quantitative trading workflows.</p>
+
+<li>
+<p>Evaluate, ingest, and operationalize external vendor data feeds in close collaboration with domain experts and quantitative analysts.</p>
+
+<li>
+<p>Implement robust data governance frameworks, including access control, lineage, schema management, usage tracking, and automated quality metrics.</p>
+
+<li>
+<p>Oversee operational stability of ingestion pipelines, managing schema updates, data backfills, dead-letter queue resolution, and rotating on-call support.</p>
+
+<li>
+<p>Build automated monitoring and validation tools to preemptively detect and resolve data anomalies across batch and streaming pipelines.</p>
+
+<li>
+<p>Drive continuous improvement of internal tooling and self-service capabilities to accelerate data discovery and integration for end users.</p>
+
+</ul>
+<h3>Requirements (Must-Have)</h3>
+<ul>
+<li>
+<p>7+ years of dedicated experience building enterprise-grade data platforms and pipeline infrastructure.</p>
+
+<li>
+<p>Expert-level mastery of SQL along with production-grade proficiency in either Python or Java.</p>
+
+<li>
+<p>Demonstrated expertise in modern data modeling paradigms and architecture trade-offs.</p>
+
+<li>
+<p>Hands-on experience orchestrating complex workflows using systems such as Airflow, Dagster, Prefect, or Kubernetes/Argo Workflows.</p>
+
+<li>
+<p>Proven experience with modern storage systems and file formats (e.g., Delta Lake, Iceberg, Parquet, S3, ClickHouse, Cassandra, or relational databases).</p>
+
+<li>
+<p>Track record of executing non-trivial data platform migrations and managing operational recovery processes (batch reprocessing, backfills, queue monitoring).</p>
+
+<li>
+<p>Strong communication skills and the ability to thrive in a collaborative, fast-paced trading/financial environment.</p>
+
+</ul>
+<h3>Preferred Qualifications (Nice-to-Have)</h3>
+<ul>
+<li>
+<p>Familiarity with distributed compute and streaming frameworks (e.g., Flink, Spark, Polars, Dask, Kafka).</p>
+
+<li>
+<p>Experience handling binary serialization standards such as Avro, Arrow, Protobuf/gRPC, or Thrift.</p>
+
+<li>
+<p>Background in financial markets, market data ingestion, or high-throughput analytics platforms.</p>
+
+</ul>
+<h3>Compensation & Benefits</h3>
+<ul>
+<li>
+<p><strong>Base Salary Range:</strong> $200,000 – $250,000 per year (commensurate with experience and skill set).</p>
+
+<li>
+<p><strong>Bonus:</strong> Eligible for an annual discretionary performance bonus.</p>
+
+<li>
+<p><strong>Benefits:</strong> Comprehensive package including medical, dental, and vision insurance; matching 401(k); short/long-term disability; life and AD&D coverage; health savings accounts (HSA); and flexible spending accounts (FSA).</p>
+
+</ul>
+<p> </p>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base salary plus targeted bonus]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Applied AI/ML Engineer]]></title>
+    <date><![CDATA[Tue, 28 Jul 2026 19:55:04 +0000]]></date>
+    <referencenumber><![CDATA[26374]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/applied-aiml-engineer-in-trading-firm-jobs-1658701]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[New York]]></city>
+    <state><![CDATA[NY]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[10004]]></postalcode>
+    <description><![CDATA[<h3>Applied AI / Machine Learning Engineer</h3>
+<p><strong>Location:</strong> New York, NY Metro Area (On-Site)</p>
+<h4>About the Opportunity</h4>
+<p>Join a high-velocity, centralized technology group building the foundational artificial intelligence platform for a leading financial services organization. This hands-on, code-first role focuses on designing state-of-the-art agentic workflows, custom LLM infrastructure, and high-throughput retrieval systems directly driving business outcomes. You will bridge the gap between bleeding-edge generative models and production-grade execution in a fast-paced, highly quantitative environment.</p>
+<h4>Responsibilities</h4>
+<ul>
+<li>
+<p><strong>System Architecture & Deployment:</strong> Design and maintain high-efficiency AI infrastructure, including dynamic model routing, automated evaluation frameworks, and low-latency inference setups on dedicated hardware.</p>
+
+<li>
+<p><strong>Agentic Framework Development:</strong> Construct autonomous multi-agent systems to automate software development, complex document analysis, and large-scale data workflows across distributed systems.</p>
+
+<li>
+<p><strong>Enterprise Search & Retrieval:</strong> Scale search architectures leveraging advanced Retrieval-Augmented Generation (RAG) models, vector storage solutions, and tailored embedding pipelines.</p>
+
+<li>
+<p><strong>Stakeholder Collaboration:</strong> Work alongside cross-functional domain experts and analysts to convert complex operational and research challenges into production-ready, AI-driven applications.</p>
+
+<li>
+<p><strong>MLOps Implementation:</strong> Establish robust MLOps practices, including continuous deployment pipelines, model monitoring, version control, drift management, and systematic quality evaluation metrics.</p>
+
+</ul>
+<h4>Requirements (Must-Have)</h4>
+<ul>
+<li>
+<p>6+ years of software engineering and machine learning experience (or 4+ years paired with an advanced quantitative degree).</p>
+
+<li>
+<p>Exceptional Python programming skills paired with deep experience in deep learning frameworks such as PyTorch or JAX.</p>
+
+<li>
+<p>Proven experience building production applications with advanced LLM orchestration tools, structured output architectures, and protocol-driven tool integration.</p>
+
+<li>
+<p>Direct experience utilizing vector storage solutions, container technologies, and deploying applications on distributed cloud environments (AWS, Azure, or GCP).</p>
+
+<li>
+<p>Strong technical focus on system optimization, compute efficiency, latency reduction, and a commitment to shipping reliable production code.</p>
+
+</ul>
+<h4>Preferred Qualifications (Nice-to-Have)</h4>
+<ul>
+<li>
+<p>Prior background delivering advanced AI tools or alternative data pipelines within quantitative finance, investment management, or premier technology firms.</p>
+
+<li>
+<p>Proficiency in a compiled programming language (such as C++, Go, or Java).</p>
+
+<li>
+<p>Solid grounding in traditional statistical machine learning methodologies (time-series analysis, clustering, regression) alongside generative models.</p>
+
+</ul>
+<h4>Compensation & Benefits</h4>
+<ul>
+<li>
+<p>Competitive base compensation package paired with performance-based incentive opportunities.</p>
+
+<li>
+<p>Access to high-performance computational hardware and specialized proprietary data assets.</p>
+
+<li>
+<p>Comprehensive medical, dental, and vision insurance coverage.</p>
+
+<li>
+<p><em>Equal Opportunity Employer: All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, or protected veteran status.</em></p>
+
+</ul>
+<p> </p>
+<p> </p>
+<p><em>#LI-EH1</em></p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base plus bonus]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Software Developer (Trading Services)]]></title>
+    <date><![CDATA[Tue, 28 Jul 2026 19:50:10 +0000]]></date>
+    <referencenumber><![CDATA[26320]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/senior-software-developer-trading-services-in-trading-firm-jobs-1658699]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60661]]></postalcode>
+    <description><![CDATA[<h2>Job Title</h2>
+<p>Senior Software Developer (Trading Services)</p>
+<h2>Location</h2>
+<p>Chicago, IL (Metro Area) - Hybrid</p>
+<h2>About the Opportunity</h2>
+<p>Join a premier proprietary trading organization to engineer mission-critical, low-latency infrastructure that powers firm-wide position tracking and real-time risk evaluation. In this role, you will build scalable distributed systems designed to transform high-throughput market feeds into immediate, actionable execution data.</p>
+<h2>Responsibilities</h2>
+<ul>
+<li>
+<p>Architect ultra-low latency services that process live market updates, global positions, and portfolio risk metrics.</p>
+
+<li>
+<p>Engineer scalable distributed architectures capable of processing multi-million event throughput per second.</p>
+
+<li>
+<p>Construct robust, fault-tolerant messaging frameworks and data pipelines designed for continuous availability.</p>
+
+<li>
+<p>Fine-tune C++ codebases and platform internals to minimize microsecond delays and strengthen overall resiliency.</p>
+
+<li>
+<p>Work side-by-side with quant researchers, trading desks, and core engineering to deliver features supporting dynamic strategies.</p>
+
+</ul>
+<h2>Requirements (Must-Have)</h2>
+<ul>
+<li>
+<p><strong>Experience:</strong> 5+ years of hands-on background crafting high-throughput, low-latency distributed platforms.</p>
+
+<li>
+<p><strong>Core Technical Skills:</strong> Modern C++ (C++11 through C++17), with demonstrated mastery of lock-free data structures, multithreading, and low-level memory models.</p>
+
+<li>
+<p><strong>Domain Knowledge:</strong> Background working with high message-rate, bandwidth-heavy real-time data environments.</p>
+
+<li>
+<p><strong>Architecture:</strong> Proven skill in designing highly available, fault-tolerant software systems.</p>
+
+<li>
+<p><strong>Systems & Networking:</strong> Strong understanding of Linux/Unix internals, network protocols (TCP/IP, UDP), and socket communication.</p>
+
+<li>
+<p><strong>Data Management:</strong> Solid grounding in relational database design and query structure (e.g., PostgreSQL or similar).</p>
+
+<li>
+<p><strong>Education:</strong> Bachelor’s degree in Computer Science, Computer Engineering, or a related technical discipline.</p>
+
+<li>
+<p><strong>Collaboration:</strong> Clear written and verbal communication skills for effective technical alignment across research and trading teams.</p>
+
+</ul>
+<h2>Preferred Qualifications (Nice-to-Have)</h2>
+<ul>
+<li>
+<p>Hands-on proficiency using network diagnostics and low-level debugging utilities (e.g., GDB, tcpdump, Wireshark).</p>
+
+<li>
+<p>Prior technical experience within quantitative finance, market making, or high-frequency trading infrastructure.</p>
+
+</ul>
+<h2>Compensation & Benefits</h2>
+<ul>
+<li>
+<p>Competitive base salary paired with a performance-driven incentive bonus pool.</p>
+
+<li>
+<p>Comprehensive healthcare package, retirement savings matching, and standard corporate benefits.</p>
+
+</ul>
+<h2>Equal Employment Opportunity</h2>
+<p><em>This partner organization provides equal employment opportunities to all employees and applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or veteran status</em></p>
+<p> </p>
+<p>#LI-ML1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[200000]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8783749]]></latitude>
+    <longitude><![CDATA[-87.6413827]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Sr. Software Engineer - L4]]></title>
+    <date><![CDATA[Tue, 28 Jul 2026 20:10:05 +0000]]></date>
+    <referencenumber><![CDATA[26394]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/sr-software-engineer-l4-in-technology-software-jobs-1658729]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago ]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[63101]]></postalcode>
+    <description><![CDATA[<h2>Job Title</h2>
+<p>Sr. Software Engineer</p>
+<h2>Location</h2>
+<p>Chicago (Hybrid)</p>
+<h2>About the Opportunity</h2>
+<p>Join a premier digital media technology enterprise driving large-scale, high-concurrency systems for global audiences. We are seeking a Senior Software Engineer to design, scale, and optimize mission-critical cloud infrastructure capable of processing immense traffic volumes in real time. This is a pivotal role offering technical leadership, cross-functional influence, and the chance to mentor growing engineering talent in a high-impact environment.</p>
+<h2>Responsibilities</h2>
+<ul>
+<li>
+<p>Architect, deploy, and maintain high-throughput cloud environments utilizing containerization and modern orchestration frameworks.</p>
+
+<li>
+<p>Drive continuous performance optimizations across distributed back-end components to ensure high availability and minimal latency.</p>
+
+<li>
+<p>Lead full-lifecycle engineering initiatives from initial technical discovery and architectural design through release execution.</p>
+
+<li>
+<p>Guide system design decisions, championing operational best practices in security, cost efficiency, and infrastructure resiliency.</p>
+
+<li>
+<p>Collaborate with global product, engineering, and operations stakeholders to align technical specifications with business objectives.</p>
+
+<li>
+<p>Serve as a technical mentor for junior engineering team members, facilitating code reviews and architectural alignment.</p>
+
+<li>
+<p>Author comprehensive technical documentation, system specifications, and evaluation plans.</p>
+
+<li>
+<p>Troubleshoot complex production issues and drive infrastructure automation across deployment pipelines.</p>
+
+</ul>
+<h2>Requirements (Must-Have)</h2>
+<ul>
+<li>
+<p>Proven background in systems-level development using C, C++, or Go (Golang), paired with strong network programming fundamentals.</p>
+
+<li>
+<p>Extensive experience designing, scaling, and operating distributed systems within AWS cloud environments.</p>
+
+<li>
+<p>Hands-on expertise with Kubernetes, container deployment, and microservices orchestration.</p>
+
+<li>
+<p>Deep familiarity with Unix/Linux environments, advanced data structures, and core algorithm design.</p>
+
+<li>
+<p>Demonstrated experience navigating the full SDLC within Agile frameworks.</p>
+
+<li>
+<p>Strong analytical problem-solving capability and the flexibility to collaborate across international time zones when required.</p>
+
+</ul>
+<h2>Preferred Qualifications (Nice-to-Have)</h2>
+<ul>
+<li>
+<p>Prior experience in digital media, video streaming, ad technology, or high-volume distribution platforms.</p>
+
+<li>
+<p>Familiarity with distributed caching solutions, message queues, and web servers/reverse proxies (e.g., Nginx).</p>
+
+<li>
+<p>Track record of supporting large-scale, online mission-critical production applications.</p>
+
+</ul>
+<h2>Compensation & Benefits</h2>
+<ul>
+<li>
+<p>Competitive base salary and comprehensive health, retirement, and wellness benefits package.</p>
+
+<li>
+<p><em>Equal Opportunity Employer: All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status.</em></p>
+
+</ul>
+<p> </p>
+<p> </p>
+<p><em>#LI-ML1</em></p>
+<p> </p>]]></description>
+    <salary><![CDATA[160000]]></salary>
+    <category><![CDATA[Technology & Software]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Software Developer (FPGA/Systems)]]></title>
+    <date><![CDATA[Tue, 28 Jul 2026 19:10:06 +0000]]></date>
+    <referencenumber><![CDATA[26093]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/software-developer-fpgasystems-in-trading-firm-jobs-1658630]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60661]]></postalcode>
+    <description><![CDATA[<h2>Software Developer (FPGA/Systems)</h2>
+<p><strong>Location:</strong> Remote</p>
+<h3>About the Opportunity</h3>
+<p>Drive the future of execution performance by engineering the critical software layer connecting custom hardware acceleration units to an ultra-low-latency trading infrastructure. This high-impact role empowers a self-directed developer to own performance-critical solutions—from device drivers to diagnostic frameworks—where microsecond optimizations directly drive business success. You will work alongside top-tier technical peers in an agile, ownership-driven engineering culture.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>
+<p>Architect and maintain high-speed C++ interfaces that integrate hardware acceleration components with internal core execution platforms.</p>
+
+<li>
+<p>Write and refine custom Linux device drivers, focusing on DMA operations, PCIe protocols, memory mapping, and interrupt management to achieve minimal latency.</p>
+
+<li>
+<p>Collaborate closely with hardware designers during lab bring-up, unit validation, and testing of hardware description language modules using automated software frameworks.</p>
+
+<li>
+<p>Engineer custom diagnostic utilities, deployment tools, and automation suites using systems-level C++ and Python.</p>
+
+<li>
+<p>Analyze overall system performance using host logs, network packet captures, and internal telemetry to isolate bottlenecks and optimize throughput.</p>
+
+<li>
+<p>Fine-tune low-latency network communication stacks (TCP/UDP/IP) and custom Ethernet protocols tailored for high-frequency execution environments.</p>
+
+</ul>
+<h3>Requirements (must-have)</h3>
+<ul>
+<li>
+<p>5+ years of hands-on software development experience with a focus on systems programming and low-level performance tuning.</p>
+
+<li>
+<p>Advanced proficiency in C++ (C++14/17 standards) alongside strong Python scripting capabilities for tooling and automation.</p>
+
+<li>
+<p>Deep knowledge of Linux kernel architecture, including driver creation, interrupt handling, kernel-bypass mechanisms, and memory management.</p>
+
+<li>
+<p>Strong technical background in PCIe communication protocols, DMA engines, and hardware-software interface design.</p>
+
+<li>
+<p>Mastery of network protocol mechanics (TCP/IP, UDP, Ethernet) and the OSI model within high-throughput systems.</p>
+
+<li>
+<p>Practical understanding of hardware-level optimization concepts such as NUMA topology, cache coherency, and memory-mapped I/O.</p>
+
+<li>
+<p>Familiarity with hardware description languages (SystemVerilog/Verilog) and the ability to interpret RTL code.</p>
+
+<li>
+<p>Experience using network capture tools (e.g., Wireshark) and hardware-level debugging utilities.</p>
+
+<li>
+<p>Exposure to vendor FPGA development toolchains (such as Xilinx or Intel suites).</p>
+
+<li>
+<p>Excellent verbal and written communication skills with a collaborative, ownership-oriented mindset.</p>
+
+</ul>
+<h3>Preferred Qualifications (nice-to-have)</h3>
+<ul>
+<li>
+<p>Prior experience within a proprietary trading, market-making, or high-frequency trading firm.</p>
+
+</ul>
+<h3>Compensation & Benefits</h3>
+<ul>
+<li>
+<p>Highly competitive base salary with performance-linked annual bonus potential.</p>
+
+<li>
+<p>Comprehensive health, vision, and dental coverage.</p>
+
+<li>
+<p>401(k) retirement plan with employer matching.</p>
+
+<li>
+<p>Generous paid time off and wellness perks.</p>
+
+<li>
+<p>Equal Opportunity Employer (EEO).</p>
+
+</ul>
+<p> </p>
+<p>#LI-ML1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[175000]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8783749]]></latitude>
+    <longitude><![CDATA[-87.6413827]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[C++ Engineer]]></title>
+    <date><![CDATA[Tue, 28 Jul 2026 19:20:05 +0000]]></date>
+    <referencenumber><![CDATA[26241]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/c-engineer-in-technology-software-jobs-1658657]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[Illinois]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<h2>Job Title</h2>
+<p>C++ Area</p>
+<h2>Location</h2>
+<p>Chicago, IL area (Hybrid)</p>
+<h2>About the Opportunity</h2>
+<p>Join a market-leading digital media technology firm driving high-concurrency backend performance for global streaming platforms. In this role, you will take ownership of robust data infrastructure that handles real-time inventory configuration and audience targeting at scale. This position offers an exceptional opportunity for an engineer who excels at system reliability, deep diagnostic analysis, and scalable backend design.</p>
+<h2>Responsibilities</h2>
+<ul>
+<li>
+<p>Serve as a secondary technical escalation point for core data infrastructure, systematically resolving issues tied to data processing and inventory targeting.</p>
+
+<li>
+<p>Engineer and refine data platform components to enhance throughput, maintain high availability, and support client growth.</p>
+
+<li>
+<p>Design automated utilities and scripts to streamline diagnostic workflows and reduce manual operational overhead.</p>
+
+<li>
+<p>Perform code-level debugging across complex distributed environments to eliminate bottlenecks and strengthen system stability.</p>
+
+<li>
+<p>Partner with engineering teams, client support leads, and external technical partners to translate functional requirements into scalable software solutions.</p>
+
+<li>
+<p>Active participant in software release lifecycles, taking charge of pre-launch testing, deployment validation, and live event monitoring.</p>
+
+</ul>
+<h2>Requirements (must-have)</h2>
+<ul>
+<li>
+<p><strong>Experience:</strong> 6+ years of dedicated backend engineering experience building and maintaining high-throughput software architectures.</p>
+
+<li>
+<p><strong>Programming Languages:</strong> Proficiency in software development and debugging using Python, Go (Golang), or Scala.</p>
+
+<li>
+<p><strong>Architecture:</strong> Proven background in operating, scaling, and troubleshooting distributed microservices and backend data pipelines.</p>
+
+<li>
+<p><strong>Data Management:</strong> Solid foundation in SQL database design and query optimization.</p>
+
+<li>
+<p><strong>Cloud Infrastructure:</strong> Hands-on experience supporting cloud-native applications (AWS or similar) across networking, compute, identity management, and serverless architectures.</p>
+
+<li>
+<p><strong>DevOps & Tooling:</strong> Familiarity with modern containerization, CI/CD tools, and deployment systems (Docker, Kubernetes, Git, Jenkins).</p>
+
+<li>
+<p><strong>Fundamentals:</strong> Deep understanding of Linux environments, network protocols, and operational monitoring.</p>
+
+<li>
+<p><strong>Availability:</strong> Willingness to engage in on-call shifts to support critical live events and platform operations.</p>
+
+</ul>
+<h2>Preferred Qualifications (nice-to-have)</h2>
+<ul>
+<li>
+<p>Knowledge of cybersecurity standards, infrastructure hygiene, and modern incident handling procedures.</p>
+
+<li>
+<p>Previous background in high-volume ad technology, digital video streaming, or real-time bidding infrastructure.</p>
+
+<li>
+<p>Demonstrated ability to convert complex operational feedback into proactive performance and usability upgrades.</p>
+
+</ul>
+<h2>Compensation & Benefits</h2>
+<ul>
+<li>
+<p><strong>Salary:</strong> Competitive market-rate compensation package commensurate with experience.</p>
+
+<li>
+<p><strong>Benefits:</strong> Comprehensive benefits plan including medical coverage, retirement plans, and standard time off.</p>
+
+</ul>
+<p> </p>
+<p>#LI-ML1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[220000]]></salary>
+    <category><![CDATA[Technology & Software]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8817767]]></latitude>
+    <longitude><![CDATA[-87.6371461]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Software Engineer - JTX]]></title>
+    <date><![CDATA[Mon, 18 May 2026 00:00:00 +0000]]></date>
+    <referencenumber><![CDATA[26030]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/senior-software-engineer-jtx-in-cryptoweb3-jobs-1561306]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago ]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[63101]]></postalcode>
+    <description><![CDATA[<h2>Job Title</h2>
+<p>Senior Software Engineer</p>
+<h2>About the Opportunity</h2>
+<p>Our client is launching a next-generation, on-chain trading platform engineered to deliver institutional-grade speed, execution quality, and market visibility directly to active traders. As an early engineering team member, you will drive a true 0-to-1 product effort, translating complex distributed systems and blockchain market mechanics into seamless, high-performance workflows. If you want to build the foundational product layer on top of high-throughput transactional infrastructure, this role offers direct, unconstrained impact.</p>
+<h2>Responsibilities</h2>
+<ul>
+<li>
+<p>Architect and implement core components for a greenfield decentralized trading application from the ground up.</p>
+
+<li>
+<p>Construct low-latency, highly resilient backend services that interface directly with high-throughput blockchain transaction streams.</p>
+
+<li>
+<p>Take complete ownership of critical infrastructure paths, including smart order routing, trade execution engines, real-time market data feeds, and portfolio position tracking.</p>
+
+<li>
+<p>Enforce rigorous security standards across all layers, including secure transaction signing protocols, infrastructure deployment, and data protection.</p>
+
+<li>
+<p>Partner with cross-functional product and infrastructure units to rapidly deploy features and iterate based on live user data.</p>
+
+<li>
+<p>Drive foundational architectural choices, establishing engineering standards for a growing technical team.</p>
+
+</ul>
+<h2>Requirements</h2>
+<ul>
+<li>
+<p>5+ years of professional software engineering experience, with a heavy emphasis on distributed systems architecture.</p>
+
+<li>
+<p>Advanced systems programming capabilities, preferably using Rust, though deep expertise in C/C++ or Go is highly acceptable.</p>
+
+<li>
+<p>Demonstrated track record of deploying and maintaining high-availability, low-latency production applications.</p>
+
+<li>
+<p>Security-centric development approach with an intuitive understanding of system vulnerability surfaces, cryptographic key management, and complex failure recovery modes.</p>
+
+<li>
+<p>Ability to execute independently and make sound technical decisions within fast-paced, fluid startup environments.</p>
+
+</ul>
+<h2>Preferred Qualifications</h2>
+<ul>
+<li>
+<p>Prior exposure to blockchain runtime environments, transaction lifecycles, or decentralized trading infrastructure.</p>
+
+<li>
+<p>Background in exchange engineering, order matching systems, or traditional high-frequency trading (HFT) platforms.</p>
+
+<li>
+<p>Experience developing core fintech backend architectures, including payment rails, institutional custody, or execution venues.</p>
+
+</ul>
+<p> </p>
+<p>#LI-ML1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[250000]]></salary>
+    <category><![CDATA[Crypto/Web3]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Sr. Software Engineer]]></title>
+    <date><![CDATA[Mon, 11 May 2026 22:38:49 +0000]]></date>
+    <referencenumber><![CDATA[24014]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/sr-software-engineer-in-technology-software-jobs-1541927]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[New York City]]></city>
+    <state><![CDATA[New York]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[10001]]></postalcode>
+    <description><![CDATA[<h2><strong>Sr. Software Engineer</strong></h2>
+<p><strong>Location:</strong> New York, NY</p>
+<hr>
+<h3><strong>About the Opportunity</strong></h3>
+<p>Join a high-growth fintech organization dedicated to modernizing and simplifying the homeownership and mortgage lifecycle. We are replacing antiquated, legacy financial systems with a cloud-native platform designed to manage billions in assets with precision and transparency. You will work alongside an elite engineering cohort from top-tier global tech firms to solve complex regulatory challenges through elegant distributed systems and scalable infrastructure.</p>
+<h3><strong>Responsibilities</strong></h3>
+<ul>
+<li>
+<p><strong>System Architecture:</strong> Design and implement resilient, extensible backend infrastructure capable of adapting to a multifaceted regulatory and financial landscape.</p>
+
+<li>
+<p><strong>Product Collaboration:</strong> Partner closely with Product and Design teams to translate customer needs into seamless, high-impact technical solutions.</p>
+
+<li>
+<p><strong>Domain Expertise:</strong> Master the intricate mechanics of the mortgage and lending industry to build software that ensures accuracy and compliance at scale.</p>
+
+<li>
+<p><strong>Continuous Innovation:</strong> Rapidly adopt and integrate emerging technologies to address evolving business hurdles in a fast-paced, iterative environment.</p>
+
+</ul>
+<h3><strong>Requirements</strong></h3>
+<ul>
+<li>
+<p><strong>Professional Experience:</strong> Minimum of 4 years of professional software engineering experience, with a proven track record of shipping production-grade applications at scale.</p>
+
+<li>
+<p><strong>Technical Versatility:</strong> Deep proficiency in at least one core area: high-scale distributed systems, web/mobile application development, or modern infrastructure management.</p>
+
+<li>
+<p><strong>Product Mindset:</strong> Ability to balance technical excellence with product requirements through effective cross-functional communication.</p>
+
+<li>
+<p><strong>Execution:</strong> Skilled at architecting scalable systems from the ground up within a rapid-growth startup setting.</p>
+
+<li>
+<p><strong>Education:</strong> Bachelor’s degree in Computer Science, Engineering, or a related technical field (or equivalent practical experience).</p>
+
+</ul>
+<h3><strong>Preferred Qualifications</strong></h3>
+<ul>
+<li>
+<p>Previous experience working in highly regulated sectors such as Fintech, Insurtech, or Proptech.</p>
+
+<li>
+<p>Strong interest in automating complex financial workflows and data pipelines.</p>
+
+</ul>
+<h3><strong>Compensation & Benefits</strong></h3>
+<ul>
+<li>
+<p><strong>Base Salary:</strong> $180,000 – $230,000 (commensurate with experience and skills).</p>
+
+<li>
+<p><strong>Equity:</strong> Meaningful ownership stake in a growing organization.</p>
+
+<li>
+<p><strong>Wellness:</strong> Comprehensive medical, dental, and vision insurance plans.</p>
+
+<li>
+<p><strong>Retirement:</strong> 401(k) savings plan.</p>
+
+<li>
+<p><strong>Support:</strong> 12 weeks of fully paid parental leave for all parents.</p>
+
+<li>
+<p><strong>Flexibility:</strong> Generous paid time off, sick leave, and 11 paid holidays.</p>
+
+<li>
+<p><strong>Perks:</strong> Pre-tax commuter benefits and quarterly budgets for team-building and professional development.</p>
+
+</ul>
+<p> </p>
+<p>#LI-ML1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[230000]]></salary>
+    <category><![CDATA[Technology & Software]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Python Developer]]></title>
+    <date><![CDATA[Mon, 11 May 2026 22:38:49 +0000]]></date>
+    <referencenumber><![CDATA[24947]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/python-developer-in-financial-markets-jobs-1541156]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[New York]]></city>
+    <state><![CDATA[NY]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[10001]]></postalcode>
+    <description><![CDATA[<h2>Python Developer</h2>
+<p><strong>Location:</strong> Remote (USA - East Coast Preferred)</p>
+<p><strong>About the Opportunity</strong> Join a high-performance, recently launched hedge fund managing several billion dollars in assets. We are a specialized, distributed team of seven professionals looking to add a key Python Developer to our core engineering group. This is a rare opportunity to enter a well-capitalized firm at an early stage, working directly with our head developer to build and scale critical trading infrastructure.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>
+<p>Design, develop, and maintain robust, scalable backend systems primarily using Python.</p>
+
+<li>
+<p>Collaborate with a small, elite team of developers and researchers across the US and UK to optimize trading performance.</p>
+
+<li>
+<p>Contribute to the full software development lifecycle, from initial architectural design to deployment and monitoring.</p>
+
+<li>
+<p>Implement high-efficiency data processing tools and integrate them with core financial systems.</p>
+
+<li>
+<p>Participate in a rigorous technical environment where code quality and system reliability are paramount.</p>
+
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>
+<p>Expert-level proficiency in Python development within a professional or production environment.</p>
+
+<li>
+<p>Proven experience building complex, high-availability software systems.</p>
+
+<li>
+<p>Ability to work effectively in a fully remote, globally distributed team structure.</p>
+
+<li>
+<p>Strong analytical mindset and the ability to solve intricate technical challenges with minimal supervision.</p>
+
+<li>
+<p>Willingness to undergo a comprehensive evaluation process, including a one-week paid work trial.</p>
+
+</ul>
+<p><strong>Preferred Qualifications</strong></p>
+<ul>
+<li>
+<p>Background in financial services, specifically within hedge funds, proprietary trading, or quantitative finance.</p>
+
+<li>
+<p>Experience with low-latency data processing or large-scale financial datasets.</p>
+
+<li>
+<p>Academic background in Computer Science, Mathematics, or a related technical field.</p>
+
+</ul>
+<p><strong>Compensation & Benefits</strong></p>
+<ul>
+<li>
+<p><strong>Total Compensation:</strong> $250,000 – $350,000 (Base + Performance Bonus).</p>
+
+<li>
+<p>Higher-end compensation packages are heavily weighted toward performance-based bonuses.</p>
+
+<li>
+<p>Fully remote work environment.</p>
+
+<li>
+<p>Comprehensive benefits package including healthcare and retirement contributions.</p>
+
+</ul>
+<p> </p>
+<p>#LI-ML1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[250000]]></salary>
+    <category><![CDATA[Financial Markets]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[40.7536854]]></latitude>
+    <longitude><![CDATA[-73.9991637]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Research Software Engineer]]></title>
+    <date><![CDATA[Mon, 11 May 2026 22:38:49 +0000]]></date>
+    <referencenumber><![CDATA[22946]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/research-software-engineer-in-trading-firm-jobs-1541167]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<h2>Research Engineer</h2>
+<p><strong>Location:</strong> Chicago, IL</p>
+<p><strong>About the Opportunity</strong> Join a premier global proprietary trading organization as a core member of a collaborative systematic investment team. This role embeds you within a high-performance group of technologists and quantitative researchers where you will bridge the gap between complex financial modeling and robust software engineering. You will be given immediate ownership of the firm’s technology stack, leveraging distributed computing and advanced data engineering to drive alpha in global markets.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>
+<p>Collaborate with quantitative researchers to architect, simulate, and deploy sophisticated algorithmic trading strategies.</p>
+
+<li>
+<p>Engineer high-performance simulation software optimized for large-scale distributed computing environments.</p>
+
+<li>
+<p>Build and maintain robust pipelines for the acquisition, storage, and visualization of massive financial datasets.</p>
+
+<li>
+<p>Design and implement intuitive user interfaces to facilitate deep data exploration and comprehensive post-trade performance analysis.</p>
+
+<li>
+<p>Streamline the research-to-production lifecycle by optimizing strategy prototypes for live market deployment.</p>
+
+<li>
+<p>Proactively research and integrate emerging technologies to refine and scale the team's existing technical infrastructure.</p>
+
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>
+<p>Bachelor’s degree in Computer Science, Computer Engineering, or a highly quantitative field.</p>
+
+<li>
+<p>Expert-level proficiency in modern C++ and Python development within a Linux environment.</p>
+
+<li>
+<p>Deep mastery of object-oriented design, fundamental data structures, and complex algorithms.</p>
+
+<li>
+<p>Strong academic or professional foundation in quantitative finance mathematics and statistical analysis.</p>
+
+<li>
+<p>Comprehensive understanding of computer architecture, including hardware optimization, OS internals, memory management, and high-performance networking.</p>
+
+<li>
+<p>Extensive experience developing and debugging multi-threaded, low-latency applications.</p>
+
+<li>
+<p>Proven track record of delivering clean, maintainable code in high-pressure, fast-paced environments.</p>
+
+</ul>
+<p><strong>Preferred Qualifications</strong></p>
+<ul>
+<li>
+<p>Experience with distributed storage systems and large-scale data processing frameworks.</p>
+
+<li>
+<p>Familiarity with full-stack development for internal research tool creation.</p>
+
+<li>
+<p>Advanced degree (Master's or PhD) in a technical or mathematical discipline.</p>
+
+</ul>
+<p><strong>Compensation & Benefits</strong></p>
+<ul>
+<li>
+<p>Competitive base salary with performance-based bonus potential.</p>
+
+<li>
+<p>Comprehensive benefits package including premium medical, dental, and vision coverage.</p>
+
+<li>
+<p>Opportunities for continuous technical training and professional mentorship.</p>
+
+</ul>
+<p> </p>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[200000]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8817767]]></latitude>
+    <longitude><![CDATA[-87.6371461]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Linux Systems Engineer]]></title>
+    <date><![CDATA[Mon, 11 May 2026 22:38:49 +0000]]></date>
+    <referencenumber><![CDATA[22547]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/linux-systems-engineer-in-trading-firm-jobs-1541127]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<h2>Linux Systems Engineer</h2>
+<p><strong>Location:</strong> Chicago, IL</p>
+<h3>About the Opportunity</h3>
+<p>Join a premier global quantitative trading firm at the intersection of high-performance computing and financial markets. We are looking for a driven engineer to manage and evolve the critical infrastructure that powers our low-latency execution systems and massive-scale research clusters. This is a high-impact role within a fast-paced environment where your technical contributions directly influence the success of a world-class fintech organization.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>
+<p><strong>Infrastructure Management:</strong> Oversee the full lifecycle of a global, high-performance Linux environment, ensuring maximum uptime and reliability for trade execution and quantitative analysis.</p>
+
+<li>
+<p><strong>Automation & Configuration:</strong> Utilize advanced configuration management tools to maintain consistency and scalability across diverse computing clusters.</p>
+
+<li>
+<p><strong>System Optimization:</strong> Perform deep-level kernel tuning and hardware performance analysis to minimize latency and maximize computational throughput.</p>
+
+<li>
+<p><strong>Technical Operations:</strong> Manage system initialization processes and core OS services while participating in critical weekend maintenance and deployment cycles to ensure seamless market connectivity.</p>
+
+<li>
+<p><strong>Internal Tooling:</strong> Develop and maintain sophisticated automation scripts to streamline complex administrative tasks and system monitoring.</p>
+
+</ul>
+<h3>Requirements (must-have)</h3>
+<ul>
+<li>
+<p><strong>Linux Expertise:</strong> Demonstrated mastery in managing large-scale Linux deployments using open-source methodologies.</p>
+
+<li>
+<p><strong>Infrastructure as Code:</strong> Proficiency in at least one enterprise-level configuration management framework (such as Ansible, SaltStack, or Chef).</p>
+
+<li>
+<p><strong>Scripting Mastery:</strong> Advanced proficiency in Python or Shell scripting for automation and system integration.</p>
+
+<li>
+<p><strong>Systems Internals:</strong> Thorough knowledge of Linux kernel configuration, systemd, and modern computer hardware architecture.</p>
+
+<li>
+<p><strong>Availability:</strong> Ability to support occasional weekend change windows to align with global market schedules.</p>
+
+</ul>
+<h3>Preferred Qualifications (nice-to-have)</h3>
+<ul>
+<li>
+<p>Previous experience in high-frequency trading (HFT) or low-latency financial environments.</p>
+
+<li>
+<p>Experience managing large-scale distributed computing or "Big Data" research clusters.</p>
+
+</ul>
+<h3>Compensation & Benefits</h3>
+<ul>
+<li>
+<p>Highly competitive base salary and performance-based bonus structure.</p>
+
+<li>
+<p>Comprehensive benefits package including health, dental, and vision.</p>
+
+<li>
+<p>Premium workplace perks: On-site fitness access, catered meals, and regular team engagement events.</p>
+
+</ul>
+<p> </p>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base salary plus targeted bonus]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8847446]]></latitude>
+    <longitude><![CDATA[-87.6366183]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Staff Software Engineer (Full-Stack)]]></title>
+    <date><![CDATA[Mon, 11 May 2026 22:38:49 +0000]]></date>
+    <referencenumber><![CDATA[25121]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/staff-software-engineer-full-stack-in-technology-software-jobs-1470787]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<h2>Staff Software Engineer (Full-Stack)</h2>
+<p><strong>Location:</strong> Chicago, IL (On-site)</p>
+<h3>About the Opportunity</h3>
+<p>We are looking for an experienced Staff Software Engineer to join our Chicago-based team and help redefine how digital creators and their audiences engage in the sports entertainment and analytics space. This is a high-impact, individual contributor role where you will work directly with our founding team to architect and ship end-to-end features for a platform used by millions. If you thrive in a fast-paced, startup environment and are passionate about building "AI-first," consumer-facing products that drive immediate user value, this is the place for you.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>
+<p>Collaborate with executive leadership and go-to-market teams to translate product vision into high-performance technical roadmaps.</p>
+
+<li>
+<p>Lead the full-stack design and deployment of new features across web and mobile platforms.</p>
+
+<li>
+<p>Maintain a rigorous balance between rapid feature delivery and long-term architectural scalability.</p>
+
+<li>
+<p>Serve as a technical mentor and lead for the engineering team, providing guidance on best practices and system design.</p>
+
+<li>
+<p>Partner with design and business stakeholders to ensure a seamless, intuitive experience for our community of users and creators.</p>
+
+<li>
+<p>Take full ownership of the development lifecycle, from initial scoping to production monitoring and optimization.</p>
+
+</ul>
+<h3>Requirements (Must-have)</h3>
+<ul>
+<li>
+<p><strong>6–10+ years</strong> of professional software development experience, with a strong background in high-growth startup environments.</p>
+
+<li>
+<p><strong>Proven expertise</strong> in shipping full-stack product features that impact a large-scale consumer user base.</p>
+
+<li>
+<p><strong>Strong Technical Judgment:</strong> Demonstrated ability to make pragmatic decisions on when to optimize, when to refactor, and how to manage technical debt.</p>
+
+<li>
+<p><strong>Chicago-Based:</strong> Ability to work in-person at our Chicago hub alongside the CEO and core leadership.</p>
+
+<li>
+<p><strong>Communication:</strong> Exceptional ability to collaborate with both technical and non-technical teammates.</p>
+
+<li>
+<p><strong>Craftsmanship:</strong> A passion for building elegant, "AI-first" solutions that emphasize speed, quality, and user delight.</p>
+
+</ul>
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>
+<p>Experience building and scaling digital marketplaces or fintech platforms.</p>
+
+<li>
+<p>A background in consumer-facing products with high daily engagement.</p>
+
+<li>
+<p>Familiarity with our core tech stack: <strong>Python (Django), Go, PostgreSQL, TypeScript (Svelte), and React Native.</strong></p>
+
+<li>
+<p>Experience with <strong>Docker, Terraform, and GitHub Actions</strong> for infrastructure and CI/CD management.</p>
+
+</ul>
+<h3>Compensation & Benefits</h3>
+<ul>
+<li>
+<p>Competitive base salary and meaningful equity ownership.</p>
+
+<li>
+<p>Comprehensive benefits package.</p>
+
+<li>
+<p>Opportunity to lead in a senior IC capacity within a culturally significant and rapidly evolving industry.</p>
+
+</ul>
+<p><em>We are an equal opportunity employer and do not discriminate on the basis of any status protected under federal, state, or local law.</em></p>
+<p> </p>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Full benefits. 401k offered but no company match]]></salary>
+    <category><![CDATA[Technology & Software]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8817767]]></latitude>
+    <longitude><![CDATA[-87.6371461]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Staff Backend Engineer]]></title>
+    <date><![CDATA[Mon, 11 May 2026 22:38:49 +0000]]></date>
+    <referencenumber><![CDATA[24943]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/staff-backend-engineer-in-cryptoweb3-jobs-1542002]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[New York]]></city>
+    <state><![CDATA[NY]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[10001]]></postalcode>
+    <description><![CDATA[<h2>Staff Backend Engineer</h2>
+<p><strong>Location:</strong> Remote</p>
+<p><strong>About the Opportunity</strong> Join a pioneering financial technology firm dedicated to modernizing asset management through secure, programmable infrastructure. We are seeking a high-caliber Senior Engineer to architect robust backend systems that bridge the gap between institutional finance and decentralized protocols, driving the next evolution of digital asset ownership.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>
+<p><strong>Architect Financial Infrastructure:</strong> Design and implement scalable backend services that facilitate seamless interactions between distributed ledger technology and legacy financial frameworks.</p>
+
+<li>
+<p><strong>Systems Integration:</strong> Develop sophisticated APIs and secure integrations with premier institutional custody partners to ensure asset safety and liquidity.</p>
+
+<li>
+<p><strong>Internal Tooling:</strong> Lead the end-to-end development of internal registry and transfer agent systems to streamline asset lifecycle management.</p>
+
+<li>
+<p><strong>Infrastructure as Code:</strong> Drive the strategy for cloud infrastructure, ensuring all systems are reproducible, automated, and rigorously tested for high availability.</p>
+
+<li>
+<p><strong>Technical Leadership:</strong> Direct the planning and execution of long-term technical projects while mentoring junior and mid-level engineering staff.</p>
+
+<li>
+<p><strong>Collaborative Innovation:</strong> Work closely with a specialized team to solve complex problems at the intersection of fault-tolerant computing and regulated finance.</p>
+
+</ul>
+<p><strong>Requirements (must-have)</strong></p>
+<ul>
+<li>
+<p><strong>Extensive Engineering Background:</strong> Minimum of 9 years of professional software development experience in a production environment.</p>
+
+<li>
+<p><strong>Cloud Infrastructure Expertise:</strong> Advanced proficiency in building high-performance, fault-tolerant systems within AWS environments.</p>
+
+<li>
+<p><strong>Programming Mastery:</strong> Deep, professional-level experience with Rust for performance-critical systems.</p>
+
+<li>
+<p><strong>Data Management:</strong> Strong command of SQL, including advanced query optimization and database architecture.</p>
+
+<li>
+<p><strong>Web Services:</strong> Proven track record of building and maintaining high-traffic web applications and services.</p>
+
+<li>
+<p><strong>Domain Knowledge:</strong> Solid understanding of the current decentralized finance (DeFi) landscape and blockchain primitives.</p>
+
+<li>
+<p><strong>Educational Foundation:</strong> Bachelor’s degree in Computer Science, Engineering, or a related technical discipline.</p>
+
+</ul>
+<p><strong>Preferred Qualifications (nice-to-have)</strong></p>
+<ul>
+<li>
+<p>Experience with Infrastructure as Code tools such as Terraform or Pulumi.</p>
+
+<li>
+<p>Familiarity with containerization and orchestration (Docker, Fargate, ECS).</p>
+
+<li>
+<p>Exposure to secure computing environments, specifically AWS Nitro Enclaves.</p>
+
+<li>
+<p>Experience with TypeScript and modern frontend frameworks.</p>
+
+<li>
+<p>Practical knowledge of smart contract development (Solidity/Yul) or Solana-based programming.</p>
+
+<li>
+<p>Understanding of Layer 2 scaling solutions and cross-chain messaging protocols.</p>
+
+</ul>
+<p><strong>Compensation & Benefits</strong></p>
+<ul>
+<li>
+<p>Highly competitive base salary and performance-based incentives.</p>
+
+<li>
+<p>Meaningful equity stake in a growing organization.</p>
+
+<li>
+<p>Comprehensive medical, dental, and vision coverage.</p>
+
+<li>
+<p>Flexible time-off policy and paid parental leave.</p>
+
+</ul>
+<p> </p>
+<p>#LI-ML1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[300000]]></salary>
+    <category><![CDATA[Crypto/Web3]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[40.7536854]]></latitude>
+    <longitude><![CDATA[-73.9991637]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Research Developer]]></title>
+    <date><![CDATA[Mon, 11 May 2026 22:38:49 +0000]]></date>
+    <referencenumber><![CDATA[22546]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/research-developer-in-trading-firm-jobs-1541168]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<h2><strong>Research Developer</strong></h2>
+<p><strong>Location:</strong> Chicago, IL</p>
+<hr>
+<h3><strong>About the Opportunity</strong></h3>
+<p>We are seeking a high-caliber Software Engineer to join a premier global proprietary trading firm. In this role, you will design and implement sophisticated automated trading systems using modern C++, working at the intersection of high-performance computing and financial markets. This is a collaborative, low-ego environment where you will have a direct impact on the firm’s technological evolution and trading success.</p>
+<h3><strong>Responsibilities</strong></h3>
+<ul>
+<li>
+<p><strong>System Architecture & Implementation:</strong> Design and develop scalable, low-latency trading infrastructure and automated algorithms.</p>
+
+<li>
+<p><strong>Connectivity & Integration:</strong> Engineer robust exchange connectivity solutions, ensuring alignment with complex external specifications and deep-dive exchange behavior analysis.</p>
+
+<li>
+<p><strong>Performance Optimization:</strong> Identify and resolve bottlenecks across the entire stack, utilizing lock-free data structures, profiling tools, and kernel-level optimizations to minimize latency.</p>
+
+<li>
+<p><strong>Research Infrastructure:</strong> Build and maintain high-performance distributed storage systems and proprietary platforms that power large-scale data analysis.</p>
+
+<li>
+<p><strong>Strategy Collaboration:</strong> Partner with researchers and operations to translate trading concepts into production-ready code and reconcile simulation-to-live performance.</p>
+
+<li>
+<p><strong>System Integrity:</strong> Develop comprehensive monitoring tools and participate in rigorous code reviews to ensure the stability of a 24-hour global trading environment.</p>
+
+</ul>
+<h3><strong>Requirements (must-have)</strong></h3>
+<ul>
+<li>
+<p><strong>Technical Expertise:</strong> Advanced proficiency in C++ or a similar statically-typed imperative language.</p>
+
+<li>
+<p><strong>Engineering Fundamentals:</strong> Deep understanding of software engineering principles, including distributed systems and computer architecture.</p>
+
+<li>
+<p><strong>Problem Solving:</strong> A proven track record of solving complex technical challenges with automated, maintainable solutions.</p>
+
+<li>
+<p><strong>Operating Systems:</strong> High level of comfort working within Linux environments.</p>
+
+<li>
+<p><strong>Mindset:</strong> Collaborative, autonomous, and committed to high-quality code through extensive testing and peer review.</p>
+
+<li>
+<p><strong>Education:</strong> A degree in Computer Science, Computer Engineering, or a related field (or equivalent professional experience).</p>
+
+</ul>
+<h3><strong>Preferred Qualifications (nice-to-have)</strong></h3>
+<ul>
+<li>
+<p><strong>Industry Experience:</strong> Prior exposure to electronic trading, market data, or financial exchange protocols.</p>
+
+<li>
+<p><strong>Low-Level Networking:</strong> Experience with fundamental network programming and protocol implementation.</p>
+
+<li>
+<p><strong>Advanced Tooling:</strong> Familiarity with microbenchmarking, tracing, and compiler intrinsics.</p>
+
+</ul>
+<h3><strong>Compensation & Benefits</strong></h3>
+<ul>
+<li>
+<p>Competitive salary and performance-based bonus structure.</p>
+
+<li>
+<p>Comprehensive benefits package consistent with a leading global financial organization.</p>
+
+</ul>
+<p> </p>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base salary plus targeted bonus]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8847446]]></latitude>
+    <longitude><![CDATA[-87.6366183]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[C++ Software Engineer]]></title>
+    <date><![CDATA[Mon, 11 May 2026 00:00:00 +0000]]></date>
+    <referencenumber><![CDATA[22545]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/c-software-engineer-in-trading-firm-jobs-1547963]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<h2>C++ Software Engineer</h2>
+<p><strong>Location:</strong> Chicago, IL</p>
+<h3>About the Opportunity</h3>
+<p>We are seeking a high-caliber Software Engineer to join a premier global proprietary trading firm. In this role, you will architect and deploy sophisticated automated trading algorithms and mission-critical infrastructure within a high-performance, low-latency environment. You will collaborate closely with cross-functional teams to expand a world-class research platform and integrate new market connectivity globally.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>
+<p><strong>Systems Architecture & Engineering:</strong> Design and implement scalable, maintainable trading software using modern C++ in a distributed systems environment.</p>
+
+<li>
+<p><strong>Market Connectivity:</strong> Build and maintain robust interfaces for global exchanges, ensuring strict adherence to technical specifications and deep integration with core trading engines.</p>
+
+<li>
+<p><strong>Performance Optimization:</strong> Identify and resolve bottlenecks across the entire stack—from high-level algorithmic logic down to Linux kernel and network protocol optimizations.</p>
+
+<li>
+<p><strong>Research Infrastructure:</strong> Develop and manage distributed storage solutions and proprietary tools to support large-scale data analysis and strategy simulation.</p>
+
+<li>
+<p><strong>Strategy Implementation:</strong> Partner with quantitative researchers to translate complex trading signals into production-ready code and reconcile live performance against simulated models.</p>
+
+<li>
+<p><strong>Operational Excellence:</strong> Lead rigorous code reviews, develop comprehensive monitoring systems, and investigate production issues to ensure 24/7 system reliability.</p>
+
+</ul>
+<h3>Requirements (Must-have)</h3>
+<ul>
+<li>
+<p><strong>Technical Proficiency:</strong> Exceptional engineering skills in C++ or another statically-typed, imperative language, with a deep understanding of software design fundamentals.</p>
+
+<li>
+<p><strong>Systems Knowledge:</strong> Strong grasp of the full computing stack, including low-level networking, memory management, and hardware/software abstraction layers.</p>
+
+<li>
+<p><strong>Problem Solving:</strong> A proven ability to solve complex technical challenges with fully automated, scalable, and extensively tested solutions.</p>
+
+<li>
+<p><strong>Collaborative Mindset:</strong> A low-ego approach to work, thriving in both autonomous tasks and highly integrated team environments.</p>
+
+<li>
+<p><strong>Education:</strong> A degree in Computer Science, Computer Engineering, or a related technical field (or equivalent professional experience).</p>
+
+</ul>
+<h3>Preferred Qualifications (Nice-to-have)</h3>
+<ul>
+<li>
+<p><strong>Industry Experience:</strong> Prior experience within the electronic trading or fintech sectors is highly valued but not required.</p>
+
+<li>
+<p><strong>Environment:</strong> Proficiency with Linux-based development and system internals.</p>
+
+<li>
+<p><strong>Advanced Optimization:</strong> Familiarity with lock-free data structures, compiler intrinsics, and micro-benchmarking.</p>
+
+</ul>
+<p> </p>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base salary plus targeted bonus]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8847446]]></latitude>
+    <longitude><![CDATA[-87.6366183]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Research Engineer]]></title>
+    <date><![CDATA[Mon, 11 May 2026 22:38:49 +0000]]></date>
+    <referencenumber><![CDATA[24112]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/research-engineer-in-trading-firm-jobs-1541166]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[New York]]></city>
+    <state><![CDATA[NY]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[10281]]></postalcode>
+    <description><![CDATA[<h3>Job Title</h3>
+<p>Research Engineer</p>
+<h3>Location</h3>
+<p>New York, NY</p>
+<h3>About the Opportunity</h3>
+<p>We are seeking a disciplined and creative Research Engineer to join an elite systematic trading group. In this role, you will collaborate with seasoned technologists and quantitative researchers to build high-performance software and data solutions that drive global market strategies. This is a high-impact position offering immediate responsibility and the chance to work at the intersection of sophisticated financial modeling and cutting-edge distributed computing.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>
+<p><strong>Strategy Engineering:</strong> Collaborate with research teams to architect, simulate, and implement complex trading algorithms for global financial markets.</p>
+
+<li>
+<p><strong>Simulation & Performance:</strong> Design and optimize simulation software frameworks tailored for large-scale distributed computation.</p>
+
+<li>
+<p><strong>Data Infrastructure:</strong> Build and maintain scalable systems for the acquisition, storage, and visualization of massive financial datasets.</p>
+
+<li>
+<p><strong>Analysis Tools:</strong> Develop intuitive user interfaces and platforms for deep-dive data exploration and comprehensive post-trade performance analysis.</p>
+
+<li>
+<p><strong>Workflow Optimization:</strong> Streamline the transition of trading strategies from initial prototype phases to full-scale production deployment.</p>
+
+<li>
+<p><strong>Technological Advancement:</strong> Continuously evaluate emerging technologies to enhance the team’s existing infrastructure and technical capabilities.</p>
+
+</ul>
+<h3>Requirements (Must-have)</h3>
+<ul>
+<li>
+<p><strong>Education:</strong> Bachelor’s degree in Computer Science, Computer Engineering, or a rigorous quantitative field.</p>
+
+<li>
+<p><strong>Technical Proficiency:</strong> Advanced software development expertise in modern C++ and Python.</p>
+
+<li>
+<p><strong>System Fundamentals:</strong> Deep understanding of computer architecture, including hardware, operating systems, memory management, and networking.</p>
+
+<li>
+<p><strong>Core Concepts:</strong> Mastery of object-oriented design, complex data structures, and algorithmic efficiency.</p>
+
+<li>
+<p><strong>Multithreading:</strong> Proven experience developing robust multi-threaded applications.</p>
+
+<li>
+<p><strong>Mathematical Aptitude:</strong> Strong foundational knowledge in quantitative finance and associated mathematical concepts.</p>
+
+<li>
+<p><strong>Engineering Rigor:</strong> Ability to write clean, maintainable, and highly efficient code in a fast-moving environment.</p>
+
+</ul>
+<h3>Preferred Qualifications (Nice-to-have)</h3>
+<ul>
+<li>
+<p>Experience with large-scale data storage and distributed computing frameworks.</p>
+
+<li>
+<p>Ability to communicate complex technical concepts to non-technical stakeholders.</p>
+
+</ul>
+<h3>Compensation & Benefits</h3>
+<ul>
+<li>
+<p>Competitive salary and performance-based incentives.</p>
+
+<li>
+<p>Comprehensive benefits package including professional development and continuing education opportunities.</p>
+
+</ul>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base + Bonus]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Lead Software Engineer]]></title>
+    <date><![CDATA[Mon, 11 May 2026 00:00:00 +0000]]></date>
+    <referencenumber><![CDATA[25365]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/lead-software-engineer-in-technology-software-jobs-1547962]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[Illinois]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<h2>Lead Software Engineer (High-Performance Systems)</h2>
+<p><strong>Location:</strong> Chicago OR Denver</p>
+<h3>About the Opportunity</h3>
+<p>We are seeking a visionary Technical Lead to drive the evolution of a global, high-concurrency video distribution and monetization platform. This role is at the heart of a massive-scale ecosystem that powers premium content delivery across every major digital and traditional broadcast medium, from mobile devices to connected TVs. You will lead the architectural direction of a mission-critical framework where performance is measured in microseconds and reliability is paramount.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>
+<p><strong>Architectural Strategy:</strong> Lead the design and continuous optimization of a distributed ad-serving framework, focusing on extreme scalability and system maintainability.</p>
+
+<li>
+<p><strong>High-Performance Engineering:</strong> Drive the development of low-latency networking and sophisticated multiprocessing solutions utilizing modern Go and C++.</p>
+
+<li>
+<p><strong>Lifecycle Ownership:</strong> Oversee the full software development lifecycle, from initial prototyping and design through to deployment, quality assurance, and long-term technical support.</p>
+
+<li>
+<p><strong>Systems Innovation:</strong> Research and implement emerging technologies to improve the efficiency, observability, and resilience of globally distributed infrastructure.</p>
+
+<li>
+<p><strong>Cross-Functional Leadership:</strong> Partner with infrastructure and SRE teams to enhance system monitoring and set the strategic technical direction for product evolution.</p>
+
+<li>
+<p><strong>Mentorship:</strong> Act as a technical pillar for the engineering organization, guiding junior developers and fostering a culture of high-quality, testable code.</p>
+
+</ul>
+<h3>Requirements (Must-have)</h3>
+<ul>
+<li>
+<p><strong>Academic Background:</strong> Bachelor’s or Master’s degree in Computer Science or a related technical discipline.</p>
+
+<li>
+<p><strong>Leadership Experience:</strong> Minimum of 5 years in software engineering, with at least 3 years dedicated to technical leadership or architectural oversight.</p>
+
+<li>
+<p><strong>Backend Expertise:</strong> Mastery of Golang and C++, with a deep focus on network programming, concurrency models, and high-performance distributed systems.</p>
+
+<li>
+<p><strong>System Fundamentals:</strong> Comprehensive understanding of Linux/Unix environments, including advanced data structures and algorithmic foundations.</p>
+
+<li>
+<p><strong>Operational Excellence:</strong> Proven track record of designing and operating large-scale online services within an Agile/SDLC framework.</p>
+
+<li>
+<p><strong>Global Collaboration:</strong> Excellent communication skills and the ability to coordinate with international teams across multiple time zones.</p>
+
+</ul>
+<h3>Preferred Qualifications (Nice-to-have)</h3>
+<ul>
+<li>
+<p>Experience building mission-critical systems where high availability is essential.</p>
+
+<li>
+<p>Professional background within the digital advertising or media technology sectors.</p>
+
+<li>
+<p>Demonstrated history of technical innovation and creative problem-solving in high-pressure environments.</p>
+
+</ul>
+<p> </p>
+<p>#LI-ML1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[220000]]></salary>
+    <category><![CDATA[Technology & Software]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8817767]]></latitude>
+    <longitude><![CDATA[-87.6371461]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Staff Software Engineer]]></title>
+    <date><![CDATA[Mon, 11 May 2026 22:38:49 +0000]]></date>
+    <referencenumber><![CDATA[25170]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/staff-software-engineer-in-transportation-logistics-jobs-1541968]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago ]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[63101]]></postalcode>
+    <description><![CDATA[<p><strong>Job Title:</strong> Staff Software Engineer</p>
+<p><strong>Location:</strong> Chicago, IL</p>
+<p><strong>About the Opportunity</strong> Join a high-growth, venture-backed fintech organization as a foundational member of our engineering team. We are developing an AI-native financial operating system designed to modernize complex industrial supply chain transactions. Having recently secured significant pre-seed funding and already generating revenue, we are scaling our platform to meet overwhelming enterprise demand. This is a rare opportunity to work directly with a founding team of industry veterans from top-tier disruptors (Uber, Groupon, Convoy) to architect the future of B2B financial infrastructure.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>
+<p><strong>End-to-End Development:</strong> Design and deploy mission-critical features across the entire stack, spanning complex data ingestion engines to intuitive user interfaces.</p>
+
+<li>
+<p><strong>System Architecture:</strong> Architect and maintain scalable, high-velocity infrastructure designed to minimize technical debt and operational overhead.</p>
+
+<li>
+<p><strong>AI-Driven Velocity:</strong> Lead the integration of advanced AI development workflows (LLMs, automated testing, and code generation) to accelerate product delivery cycles.</p>
+
+<li>
+<p><strong>Technical Strategy:</strong> Partner closely with the executive leadership team to define the long-term technical roadmap and foundational engineering standards.</p>
+
+<li>
+<p><strong>Product-Market Fit:</strong> Interface directly with enterprise customers to translate complex workflows into seamless product experiences.</p>
+
+<li>
+<p><strong>Cultural Leadership:</strong> Establish best practices for code quality and engineering excellence as the organization scales from its early stages.</p>
+
+</ul>
+<p><strong>Requirements (must-have)</strong></p>
+<ul>
+<li>
+<p><strong>Senior-Level Expertise:</strong> Minimum of 7+ years of professional full-stack development experience.</p>
+
+<li>
+<p><strong>Modern Technical Stack:</strong> Advanced proficiency in Python, TypeScript, React, SQL, and cloud infrastructure.</p>
+
+<li>
+<p><strong>Startup DNA:</strong> Proven track record of building 0-to-1 products and scaling early-stage SaaS platforms.</p>
+
+<li>
+<p><strong>AI Fluency:</strong> Deep experience utilizing AI development tools to optimize workflows and increase engineering output.</p>
+
+<li>
+<p><strong>Ownership Mindset:</strong> Exceptional reliability and a bias toward clarity and technical ownership in an ambiguous environment.</p>
+
+</ul>
+<p><strong>Preferred Qualifications (nice-to-have)</strong></p>
+<ul>
+<li>
+<p>Experience in fintech, logistics, or supply chain technology.</p>
+
+<li>
+<p>Previous experience as a founding engineer or early employee at a high-growth startup.</p>
+
+</ul>
+<p><strong>Compensation & Benefits</strong></p>
+<ul>
+<li>
+<p>Highly competitive base salary.</p>
+
+<li>
+<p>Significant early-stage equity package.</p>
+
+<li>
+<p>Comprehensive healthcare and benefits.</p>
+
+<li>
+<p>The chance to shape the DNA of a company as the second engineering hire.</p>
+
+</ul>
+<p> </p>
+<p>#LI-ML1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[200000]]></salary>
+    <category><![CDATA[Transportation & Logistics]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[FPGA]]></title>
+    <date><![CDATA[Mon, 11 May 2026 22:38:49 +0000]]></date>
+    <referencenumber><![CDATA[22548]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/fpga-in-trading-firm-jobs-1538524]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<h2>FPGA Engineer</h2>
+<p><strong>Location:</strong> Chicago, IL</p>
+<h3>About the Opportunity</h3>
+<p>We are seeking a seasoned FPGA Engineer to join a high-performance engineering team focused on building scalable, low-latency hardware solutions. This is an opportunity to take ownership of end-to-end silicon design and verification, developing sophisticated IP cores that power complex, high-speed data processing platforms. You will play a critical role in architectural decisions and the evolution of our hardware-accelerated infrastructure.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>
+<p>Architect and implement sophisticated FPGA/ASIC designs using hardware description languages.</p>
+
+<li>
+<p>Develop modular, reusable IP components designed to scale across diverse hardware platforms.</p>
+
+<li>
+<p>Lead the verification process to ensure high-reliability performance in production environments.</p>
+
+<li>
+<p>Integrate high-speed transceivers and optimize network protocol stacks for efficient packet handling.</p>
+
+<li>
+<p>Collaborate on software-hardware interfaces, utilizing C++ and scripting to streamline the development lifecycle.</p>
+
+<li>
+<p>Maintain and improve build systems and automated workflows for hardware deployment.</p>
+
+</ul>
+<h3>Requirements</h3>
+<ul>
+<li>
+<p>Substantial professional experience in the full FPGA/ASIC development lifecycle.</p>
+
+<li>
+<p>Expertise in SystemVerilog, Verilog, or VHDL.</p>
+
+<li>
+<p>Advanced proficiency with industry-standard FPGA synthesis and simulation toolchains.</p>
+
+<li>
+<p>Strong programming background in C or C++, with an understanding of software compilation processes.</p>
+
+<li>
+<p>Competency in scripting for automation using Python, TCL, or Bash.</p>
+
+<li>
+<p>Bachelor’s degree or higher in Electrical Engineering, Computer Science, or a related technical field.</p>
+
+</ul>
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>
+<p>Hands-on experience with high-speed serial links and transceivers.</p>
+
+<li>
+<p>Deep understanding of Ethernet networking protocols and real-time packet processing.</p>
+
+<li>
+<p>Familiarity with CMake for managing complex build environments.</p>
+
+</ul>
+<p> </p>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base salary plus targeted bonus]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8847446]]></latitude>
+    <longitude><![CDATA[-87.6366183]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Quant Developer]]></title>
+    <date><![CDATA[Mon, 11 May 2026 22:38:49 +0000]]></date>
+    <referencenumber><![CDATA[25322]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/quant-developer-in-technology-software-jobs-1541546]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[San Francisco]]></city>
+    <state><![CDATA[CA]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[0]]></postalcode>
+    <description><![CDATA[<h2>Quant Developer</h2>
+<p><strong>Location:</strong> San Francisco, CA</p>
+<p><strong>About the Opportunity</strong> Join an agile, venture-backed infrastructure team building the next generation of high-efficiency GPU cloud computing. We are developing groundbreaking virtualization technology that optimizes hardware utilization far beyond industry standards, backed by $4.5M in funding from premier Silicon Valley investors. This is a high-impact role for a world-class engineer to own the core C++ stack of a rapidly scaling, revenue-generating platform.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>
+<p>Engineer and maintain the high-performance C++ core of a proprietary hardware virtualization stack.</p>
+
+<li>
+<p>Conduct deep-dive systems debugging and performance tuning to ensure ultra-low latency execution.</p>
+
+<li>
+<p>Lead research and implementation for complex systems challenges including resource oversubscription and state checkpointing.</p>
+
+<li>
+<p>Balance the development of customer-facing product enhancements with the rigorous demands of production-level systems programming.</p>
+
+<li>
+<p>Collaborate directly with founding leadership to architect scalable infrastructure as the organization grows.</p>
+
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>
+<p><strong>Expert-level C++ Proficiency:</strong> Exceptional mastery of C++ with a focus on performance-critical applications.</p>
+
+<li>
+<p><strong>Hardware Optimization:</strong> Proven experience optimizing GPU or Network Interface Card (NIC) performance.</p>
+
+<li>
+<p><strong>Low-Level Systems Expertise:</strong> Comprehensive understanding of compilers, low-level networking protocols, and systems architecture.</p>
+
+<li>
+<p><strong>High-Stakes Environment:</strong> Background in latency-sensitive sectors where performance translates directly to value.</p>
+
+<li>
+<p><strong>Ownership Mentality:</strong> A self-starter capable of managing production systems and delivering high-quality output at a rapid pace.</p>
+
+<li>
+<p><strong>Communication:</strong> Ability to relay complex technical concepts and maintain clarity during high-pressure production scenarios.</p>
+
+</ul>
+<p><strong>Preferred Qualifications</strong></p>
+<ul>
+<li>
+<p>Academic background in Computer Science from a top-tier research university.</p>
+
+<li>
+<p>Professional experience within high-frequency trading firms, specialized hardware manufacturers, or advanced systems research labs.</p>
+
+<li>
+<p>Leadership aspirations or experience guiding technical strategy in a startup environment.</p>
+
+</ul>
+<p><strong>Compensation & Benefits</strong></p>
+<ul>
+<li>
+<p>Competitive salary and meaningful equity stake in a high-growth, post-PMF startup.</p>
+
+<li>
+<p>In-person collaborative environment in the heart of San Francisco.</p>
+
+<li>
+<p>Opportunity to work alongside elite researchers and infrastructure specialists.</p>
+
+</ul>
+<p> </p>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base + Equity]]></salary>
+    <category><![CDATA[Technology & Software]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Trading Systems Developer]]></title>
+    <date><![CDATA[Mon, 11 May 2026 22:38:49 +0000]]></date>
+    <referencenumber><![CDATA[23793]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/senior-trading-systems-developer-in-trading-firm-jobs-1541928]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[New York]]></city>
+    <state><![CDATA[NY]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[10001]]></postalcode>
+    <description><![CDATA[<h2>Senior Trading Systems Developer</h2>
+<p><strong>Location:</strong> New York, NY</p>
+<h3>About the Opportunity</h3>
+<p>Join an elite, agile engineering pod at a rapidly scaling proprietary trading firm during a critical phase of evolution. Having recently secured $15M in initial funding, our team is transitioning from paper trading to live execution and is seeking a high-output "grinder" to help build and refine our core systems. This is a "pirate ship" environment designed for engineers who thrive on extreme agency, ownership, and the challenge of building a sophisticated trading infrastructure from the ground up.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>
+<p><strong>System Architecture:</strong> Develop and optimize high-performance trading systems capable of handling strategies across multiple time horizons, from seconds to hours.</p>
+
+<li>
+<p><strong>Full-Cycle Engineering:</strong> Take complete ownership of engineering projects, moving from initial concept to live production environments with speed and precision.</p>
+
+<li>
+<p><strong>Performance Optimization:</strong> Drive step-level improvements in system reliability and data processing capabilities to support expanding trading operations.</p>
+
+<li>
+<p><strong>Collaborative Innovation:</strong> Work directly with a specialized team of quant researchers and developers to integrate advanced prompting and AI-driven workflows into the tech stack.</p>
+
+<li>
+<p><strong>Generalist Execution:</strong> Solve complex technical bottlenecks across the infrastructure, operating as a versatile engineer who can pivot between rapid prototyping and robust system hardening.</p>
+
+</ul>
+<h3>Requirements (Must-have)</h3>
+<ul>
+<li>
+<p><strong>Technical Proficiency:</strong> Advanced engineering skills in Python, with a strong commitment to learning or utilizing C++ for performance-critical components.</p>
+
+<li>
+<p><strong>Relevant Experience:</strong> Proven track record in quantitative development or financial engineering within a reputable trading environment or fintech.</p>
+
+<li>
+<p><strong>Execution Mindset:</strong> A "hands-on builder" mentality with the ability to maintain high productivity in a fast-paced, early-stage startup setting.</p>
+
+<li>
+<p><strong>Problem Solving:</strong> Demonstrated ability to take vague requirements and transform them into functional, high-impact technical solutions.</p>
+
+<li>
+<p><strong>Cultural Alignment:</strong> A high risk-tolerance and the desire to work in an intensive, "all-in" team culture where individual contributions directly impact the firm's P&L.</p>
+
+</ul>
+<h3>Preferred Qualifications (Nice-to-have)</h3>
+<ul>
+<li>
+<p>Experience with AI integration or advanced prompting techniques within engineering workflows.</p>
+
+<li>
+<p>Prior experience in mid-frequency trading (MFT) or strategies involving durations of seconds to hours.</p>
+
+<li>
+<p>Background in building systems for newly launched funds or greenfield trading desks.</p>
+
+</ul>
+<h3>Compensation & Benefits</h3>
+<ul>
+<li>
+<p><strong>Base Salary:</strong> $250,000 – $300,000</p>
+
+<li>
+<p><strong>Variable Comp:</strong> Direct percentage of trading profits</p>
+
+<li>
+<p><strong>Benefits:</strong> Competitive startup benefits package, including remote flexibility and the opportunity to work with a world-class founding team.</p>
+
+</ul>
+<p> </p>
+<p>#LI-ML1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[0]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[40.7536854]]></latitude>
+    <longitude><![CDATA[-73.9991637]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Sr Software Engineer - Remote]]></title>
+    <date><![CDATA[Mon, 11 May 2026 22:38:49 +0000]]></date>
+    <referencenumber><![CDATA[23016]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/sr-software-engineer-remote-in-cryptoweb3-jobs-1541947]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<h2>Sr. Software Engineer</h2>
+<p><strong>Location:</strong> Remote</p>
+<h3>About the Opportunity</h3>
+<p>We are seeking a highly skilled Software Engineer to join a specialized team dedicated to the security and resilience of high-performance blockchain infrastructure. In this role, you will focus on adversarial testing and infrastructure robustness, playing a pivotal part in safeguarding a major decentralized network against emerging threats. This is a high-impact opportunity for an engineer who thrives in lean, fast-paced environments at the intersection of core protocol development and systems security.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>
+<p><strong>Infrastructure Fortification:</strong> Build and maintain critical technical infrastructure for a primary blockchain validator client, ensuring long-term stability and performance.</p>
+
+<li>
+<p><strong>Adversarial Framework Design:</strong> Develop sophisticated testing methodologies and frameworks designed to simulate complex attacks, identifying and mitigating vulnerabilities within distributed systems.</p>
+
+<li>
+<p><strong>Scalability & Reliability:</strong> Partner with cross-functional engineering teams to architect network solutions that prioritize security, horizontal scalability, and low-latency performance.</p>
+
+<li>
+<p><strong>Full-Cycle Development:</strong> Drive the entire software lifecycle—from initial concept and architectural design to production deployment—ensuring seamless transitions across testing environments.</p>
+
+<li>
+<p><strong>Knowledge Leadership:</strong> Produce high-quality technical documentation and system designs to maintain rigorous engineering standards and facilitate collaboration across the organization.</p>
+
+</ul>
+<h3>Requirements</h3>
+<ul>
+<li>
+<p><strong>Educational Background:</strong> Bachelor’s degree in Computer Science, Engineering, or a related technical field (or equivalent practical experience).</p>
+
+<li>
+<p><strong>Core Experience:</strong> 3+ years of professional experience working with core infrastructure, distributed systems, and advanced testing protocols.</p>
+
+<li>
+<p><strong>Technical Stack:</strong> Advanced proficiency in <strong>Rust</strong> or <strong>C++</strong>, with a proven track record of writing secure, high-performance code and diagnosing system-level vulnerabilities.</p>
+
+<li>
+<p><strong>Systems Expertise:</strong> Hands-on experience with configuration management, automation, and complex technical troubleshooting.</p>
+
+<li>
+<p><strong>Scripting & Monitoring:</strong> Strong scripting capabilities focused on improving automation and real-time system monitoring.</p>
+
+<li>
+<p><strong>Collaborative Mindset:</strong> A demonstrated ability to work effectively within a distributed team to meet mission-critical deadlines.</p>
+
+</ul>
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>
+<p>Deep familiarity with Linux systems, systems automation, and enterprise-grade architecture.</p>
+
+<li>
+<p>Strong understanding of TCP/IP networking and the fundamental principles of decentralized protocols.</p>
+
+<li>
+<p>Experience designing algorithms or software that minimize trust requirements and enhance cryptographic security.</p>
+
+<li>
+<p>Active contributions to the open-source community or prior engagement with major Layer 1/Layer 2 blockchain projects.</p>
+
+</ul>
+<h3>Compensation & Benefits</h3>
+<ul>
+<li>
+<p><strong>Base Salary:</strong> $150,000 – $275,000 USD (final compensation determined by experience, skill set, and location).</p>
+
+<li>
+<p><strong>Total Rewards:</strong> Competitive incentive compensation and a comprehensive benefits package.</p>
+
+</ul>
+<p> </p>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[225000]]></salary>
+    <category><![CDATA[Crypto/Web3]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8817767]]></latitude>
+    <longitude><![CDATA[-87.6371461]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Quant Researcher]]></title>
+    <date><![CDATA[Mon, 11 May 2026 00:00:00 +0000]]></date>
+    <referencenumber><![CDATA[24661]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/quant-researcher-in-trading-firm-jobs-1547965]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[New York City ]]></city>
+    <state><![CDATA[NY]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[10001]]></postalcode>
+    <description><![CDATA[<h2><strong>Quant Researcher</strong></h2>
+<p><strong>Location:</strong> New York, NY (Metro Area)</p>
+<p><strong>About the Opportunity</strong> Join a pioneering investment firm at the intersection of advanced machine learning and systematic trading. We have developed a proprietary, automated "Alpha Factory" that is already live-trading, and we are now seeking a visionary Quantitative Researcher to serve as the foundational architect for our strategy discovery engine. In this high-impact role, you will act as a "Player-Coach" for our technology—simultaneously developing high-sharpe signals while systematically codifying your research intuition into our autonomous AI infrastructure.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>
+<p><strong>Systemic Mentorship:</strong> Guide the evolution of a self-learning trading engine by translating complex quantitative intuition into automated research workflows.</p>
+
+<li>
+<p><strong>Alpha Generation:</strong> Design, backtest, and deploy innovative predictive signals across diverse asset classes to drive firm P&L.</p>
+
+<li>
+<p><strong>Infrastructure Optimization:</strong> Collaborate with core engineering teams to refine the "Alpha Factory," ensuring the system can autonomously identify, validate, and execute new trading ideas.</p>
+
+<li>
+<p><strong>Feedback Integration:</strong> Analyze system performance and "teach" the AI to recognize and avoid false signals, improving the overall autonomy of the discovery pipeline.</p>
+
+<li>
+<p><strong>Strategic Leadership:</strong> Serve as a subject matter expert on market microstructure and quantitative modeling to steer the firm’s long-term research roadmap.</p>
+
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>
+<p><strong>Proven Track Record:</strong> Extensive experience in systematic alpha research within a hedge fund or high-frequency trading environment.</p>
+
+<li>
+<p><strong>Expert Programming:</strong> Advanced proficiency in Python, C++, or similar languages, specifically applied to large-scale data analysis and modeling.</p>
+
+<li>
+<p><strong>Mathematical Excellence:</strong> Deep understanding of statistics, machine learning, and financial econometrics.</p>
+
+<li>
+<p><strong>Architectural Mindset:</strong> Experience not just in finding signals, but in building the frameworks and tools that facilitate signal discovery at scale.</p>
+
+<li>
+<p><strong>Academic Background:</strong> Advanced degree (Master’s or PhD) in a quantitative field such as Physics, Mathematics, Computer Science, or Engineering.</p>
+
+</ul>
+<p><strong>Preferred Qualifications</strong></p>
+<ul>
+<li>
+<p>Experience with reinforcement learning or LLMs applied to financial time-series data.</p>
+
+<li>
+<p>Prior experience at a "founding" or early-stage systematic firm.</p>
+
+<li>
+<p>Knowledge of cloud-native high-performance computing (HPC) environments.</p>
+
+</ul>
+<p><strong>Compensation & Benefits</strong></p>
+<ul>
+<li>
+<p>Highly competitive base salary and performance-based bonus.</p>
+
+<li>
+<p>Significant equity/founding member participation.</p>
+
+<li>
+<p>Comprehensive health, dental, and vision insurance.</p>
+
+<li>
+<p>Professional development budget and flexible work arrangements.</p>
+
+</ul>
+<p> </p>
+<p>#LI-ML1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[250000]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Data Engineer - Cumberland/FICCO]]></title>
+    <date><![CDATA[Mon, 11 May 2026 00:00:00 +0000]]></date>
+    <referencenumber><![CDATA[25538]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/data-engineer-cumberlandficco-in-trading-firm-jobs-1547960]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60661]]></postalcode>
+    <description><![CDATA[<h2>Data Engineer - Quantitative Trading Systems</h2>
+<p><strong>Location:</strong> Chicago, IL (Preferred) or New York, NY</p>
+<p><strong>About the Opportunity</strong> We are seeking a high-caliber Data Engineer to join a premier global proprietary trading firm. This is a critical role within a specialized team focused on developing the scalable infrastructure and high-integrity datasets that power our options and delta-one trading operations. You will work at the intersection of technology and finance, ensuring our researchers and traders have seamless, ergonomic access to the massive data volumes required for sophisticated market decision-making.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>
+<p><strong>Pipeline Architecture:</strong> Design, implement, and oversee robust data ingestion pipelines to onboard both vendor-supplied and internally generated datasets.</p>
+
+<li>
+<p><strong>Dataset Curation:</strong> Transform and manage core trading data, ensuring it is optimized for high-performance research and live execution.</p>
+
+<li>
+<p><strong>Quality Assurance:</strong> Develop and maintain sophisticated data control processes to identify and rectify gaps, inaccuracies, or latencies in real-time.</p>
+
+<li>
+<p><strong>Research Collaboration:</strong> Partner with quantitative researchers to integrate novel concepts into historical data structures and apply AI-ready annotations to diverse data streams.</p>
+
+<li>
+<p><strong>System Reliability:</strong> Integrate comprehensive monitoring and alerting systems to ensure the continuous health and observability of the data ecosystem.</p>
+
+</ul>
+<p><strong>Requirements (must-have)</strong></p>
+<ul>
+<li>
+<p><strong>Professional Experience:</strong> At least 3 years of hands-on experience building and managing complex data pipelines in a fast-paced environment.</p>
+
+<li>
+<p><strong>Technical Proficiency:</strong> Deep expertise in the Python data science ecosystem and modern data engineering tools.</p>
+
+<li>
+<p><strong>Market Knowledge:</strong> A thorough understanding of financial derivatives, specifically options and futures, and their unique data requirements.</p>
+
+<li>
+<p><strong>Data Analysis:</strong> Strong mastery of financial time-series and point-in-time data analysis.</p>
+
+<li>
+<p><strong>Data Quality:</strong> Proven ability to engineer automated quality control frameworks for large-scale financial datasets.</p>
+
+</ul>
+<p><strong>Preferred Qualifications (nice-to-have)</strong></p>
+<ul>
+<li>
+<p><strong>Industry Context:</strong> Familiarity with the global financial data vendor landscape and various product offerings.</p>
+
+<li>
+<p><strong>Agility:</strong> Demonstrated success working in high-pressure trading environments where requirements can pivot quickly.</p>
+
+<li>
+<p><strong>Advanced Infrastructure:</strong> Experience developing robust APIs for streamlined data retrieval.</p>
+
+</ul>
+<p><strong>Compensation & Benefits</strong></p>
+<ul>
+<li>
+<p><strong>Base Salary:</strong> $150,000 – $200,000 (commensurate with experience and skill set).</p>
+
+<li>
+<p><strong>Bonus:</strong> Eligible for an annual discretionary performance bonus.</p>
+
+<li>
+<p><strong>Benefits:</strong> Comprehensive package including medical, dental, vision, 401(k) with employer match, disability, and flexible spending accounts.</p>
+
+</ul>
+<p> </p>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base salary plus targeted bonus]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8819283]]></latitude>
+    <longitude><![CDATA[-87.6445473]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Software Engineer, Research - Cumberland Systematic]]></title>
+    <date><![CDATA[Mon, 11 May 2026 22:38:49 +0000]]></date>
+    <referencenumber><![CDATA[24929]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/software-engineer-research-cumberland-systematic-in-trading-firm-jobs-1541770]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60661]]></postalcode>
+    <description><![CDATA[<h2>Software Engineer, Research</h2>
+<p><strong>Location:</strong> Chicago, IL (Hybrid/On-site)</p>
+<h3>About the Opportunity</h3>
+<p>We are seeking a high-caliber Software Engineer to join a premier global proprietary trading firm. This is an opportunity to join a specialized, multi-asset systematic trading group that operates at the intersection of traditional finance and emerging digital asset markets. You will work in a fast-paced, high-autonomy environment where you will design and implement the mission-critical infrastructure required to power 24/7 global trading operations.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>
+<p><strong>System Architecture:</strong> Design, build, and maintain robust full-stack software and infrastructure supporting large-scale quantitative research and live trading.</p>
+
+<li>
+<p><strong>Data Engineering:</strong> Develop and optimize data pipelines, focusing on the ingestion, management, and analysis of massive time-series datasets.</p>
+
+<li>
+<p><strong>Integration:</strong> Build and manage complex integrations with global exchanges, financial data providers, and various blockchain protocols.</p>
+
+<li>
+<p><strong>Research Support:</strong> Partner directly with quantitative researchers to accelerate the research lifecycle, from initial feature generation to production deployment.</p>
+
+<li>
+<p><strong>Quality & Reliability:</strong> Ensure high availability of trading systems through rigorous unit, functional, and integration testing, as well as comprehensive documentation.</p>
+
+<li>
+<p><strong>Collaborative Innovation:</strong> Work within a lean, agile team to solve complex technical challenges, providing on-call support as necessary to maintain global operations.</p>
+
+</ul>
+<h3>Requirements (Must-have)</h3>
+<ul>
+<li>
+<p><strong>Python Expertise:</strong> 3+ years of professional experience building maintainable, complex systems using modern Python practices and type systems.</p>
+
+<li>
+<p><strong>Blockchain Knowledge:</strong> Practical understanding of major blockchain architectures and client configurations.</p>
+
+<li>
+<p><strong>Data Management:</strong> Proven experience handling and scaling large, evolving time-series databases.</p>
+
+<li>
+<p><strong>Execution:</strong> Strong track record of taking high-level business requirements and independently driving technical projects to completion.</p>
+
+<li>
+<p><strong>Communication:</strong> Excellent verbal and written communication skills with a focus on internal stakeholder management.</p>
+
+<li>
+<p><strong>Commitment to Excellence:</strong> A high degree of self-motivation and a continuous drive to master new technologies in a competitive landscape.</p>
+
+</ul>
+<h3>Preferred Qualifications (Nice-to-have)</h3>
+<ul>
+<li>
+<p><strong>Domain Experience:</strong> Previous collaboration with quantitative researchers or experience in a systematic trading environment.</p>
+
+<li>
+<p><strong>Open Source:</strong> Contributions to recognized open-source projects within the crypto or decentralized finance ecosystem.</p>
+
+<li>
+<p><strong>Node Infrastructure:</strong> Experience deploying and managing full or archive blockchain nodes at scale.</p>
+
+<li>
+<p><strong>Advanced Engineering:</strong> Familiarity with functional programming, immutable design principles, or machine learning lifecycles.</p>
+
+<li>
+<p><strong>Polyglot Skills:</strong> Working knowledge of C++ is a significant plus.</p>
+
+</ul>
+<h3>Compensation & Benefits</h3>
+<ul>
+<li>
+<p><strong>Base Salary:</strong> $175,000 – $225,000 (commensurate with experience).</p>
+
+<li>
+<p><strong>Bonus:</strong> Eligible for an annual discretionary performance-based bonus.</p>
+
+<li>
+<p><strong>Benefits:</strong> Comprehensive package including premium medical, dental, and vision insurance; 401(k) with employer match; and robust disability and life insurance options.</p>
+
+</ul>
+<p> </p>
+<p>#LI-EH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base salary plus targeted bonus]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8819283]]></latitude>
+    <longitude><![CDATA[-87.6445473]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Staff Fullstack Engineer]]></title>
+    <date><![CDATA[Mon, 11 May 2026 00:00:00 +0000]]></date>
+    <referencenumber><![CDATA[25461]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/staff-fullstack-engineer-in-cryptoweb3-jobs-1547961]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[New York]]></city>
+    <state><![CDATA[NY]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[10001]]></postalcode>
+    <description><![CDATA[<h2>Staff Fullstack Engineer</h2>
+<p><strong>Location:</strong> New York, NY (Remote Optional)</p>
+<p><strong>About the Opportunity</strong> Join a pioneering financial technology firm at the intersection of traditional finance and decentralized ecosystems. We are looking for a veteran Full Stack Engineer to spearhead the technical evolution of our web platforms, ensuring every user interaction is seamless, secure, and intuitive. This is a high-impact role where you will not only write code but also shape the long-term product roadmap and design philosophy of a growing industry leader.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>
+<p><strong>Technical Vision:</strong> Define and execute the long-term architectural strategy for maintaining and scaling highly responsive web applications.</p>
+
+<li>
+<p><strong>UI/UX Implementation:</strong> Transform complex design concepts into high-performance, accessible, and reliable user interface elements.</p>
+
+<li>
+<p><strong>Cross-Functional Leadership:</strong> Partner closely with design and product stakeholders to deliver a cohesive and engaging user experience.</p>
+
+<li>
+<p><strong>Systems Standardization:</strong> Develop and maintain a comprehensive internal styles and component library to ensure visual and functional consistency across all digital properties.</p>
+
+<li>
+<p><strong>Team Mentorship:</strong> Act as a technical resource and guide for junior and mid-level developers, fostering a culture of engineering excellence.</p>
+
+<li>
+<p><strong>Project Ownership:</strong> Manage the end-to-end lifecycle of critical projects, from initial planning to final deployment and iteration.</p>
+
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>
+<p><strong>Academic Foundation:</strong> Bachelor’s degree in Computer Science, Engineering, or a strictly related technical discipline.</p>
+
+<li>
+<p><strong>Extensive Experience:</strong> At least 9 years of professional software engineering experience, with a heavy emphasis on shipping customer-facing features.</p>
+
+<li>
+<p><strong>Frontend Expertise:</strong> Advanced knowledge of modern web architecture, including performance optimization, security protocols, and web accessibility standards.</p>
+
+<li>
+<p><strong>Ecosystem Knowledge:</strong> Strong familiarity with the current Decentralized Finance (DeFi) landscape.</p>
+
+<li>
+<p><strong>Soft Skills:</strong> Exceptional strategic thinking and the ability to solve complex problems within a fast-paced, analytical environment.</p>
+
+</ul>
+<p><strong>Preferred Qualifications</strong></p>
+<ul>
+<li>
+<p>Expertise in TypeScript and modern reactive frameworks (such as Svelte or React).</p>
+
+<li>
+<p>Deep experience with Web3 integration tools (including ethers.js or web3.js).</p>
+
+<li>
+<p>Proven history of building and scaling reusable UI component libraries.</p>
+
+<li>
+<p>Background in functional programming or systems languages like Rust.</p>
+
+<li>
+<p>Familiarity with Solidity and smart contract interactions.</p>
+
+<li>
+<p>Proficiency in database management using Postgres or SQL.</p>
+
+</ul>
+<p><strong>Compensation & Benefits</strong></p>
+<ul>
+<li>
+<p>Competitive base salary and performance incentives.</p>
+
+<li>
+<p>Equity ownership opportunities.</p>
+
+<li>
+<p>Comprehensive medical, dental, and vision insurance.</p>
+
+<li>
+<p>Flexible time-off policy and paid parental leave.</p>
+
+</ul>
+<p> </p>
+<p>#LI-ML1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[250000]]></salary>
+    <category><![CDATA[Crypto/Web3]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[40.7536854]]></latitude>
+    <longitude><![CDATA[-73.9991637]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Trading Engineer - Strategy]]></title>
+    <date><![CDATA[Tue, 28 Apr 2026 01:22:20 +0000]]></date>
+    <referencenumber><![CDATA[25838]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/trading-engineer-strategy-in-trading-firm-jobs-1499374]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<h2>Trading Engineer - Strategy</h2>
+<p><strong>Location:</strong> Chicago, IL (Hybrid/On-site)</p>
+<h3>About the Opportunity</h3>
+<p>We are seeking a high-caliber Systems Engineer to join a premier global market-making firm at the intersection of high-frequency technology and algorithmic strategy. This is a front-line role where you will own the reliability and performance of mission-critical trading systems, driving automation and engineering excellence in an environment where milliseconds define success. If you thrive in high-pressure, real-time scenarios and want to see the immediate impact of your code on global markets, this is your next challenge.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>
+<p><strong>Real-Time Operations:</strong> Oversee the health and low-latency performance of live trading environments, providing rapid incident response and deep-dive root cause analysis for complex distributed architectures.</p>
+
+<li>
+<p><strong>Automation & Tooling:</strong> Design and deploy sophisticated automation frameworks to eliminate manual interventions, enhancing the scalability and resilience of the trading infrastructure.</p>
+
+<li>
+<p><strong>Cross-Functional Synergy:</strong> Act as the technical bridge between quantitative researchers, traders, and core developers to implement high-impact system enhancements and strategy deployments.</p>
+
+<li>
+<p><strong>Infrastructure Evolution:</strong> Proactively identify bottlenecks in production environments and lead initiatives to optimize system reliability through modern engineering practices.</p>
+
+</ul>
+<h3>Requirements (Must-have)</h3>
+<ul>
+<li>
+<p><strong>Experience:</strong> At least 3 years in Site Reliability Engineering (SRE), systems engineering, or technical operations, specifically supporting high-performance, real-time production environments.</p>
+
+<li>
+<p><strong>Technical Stack:</strong> Proficiency in managing enterprise Linux environments and container orchestration via Kubernetes.</p>
+
+<li>
+<p><strong>Scripting:</strong> Advanced automation capabilities using Python and Bash.</p>
+
+<li>
+<p><strong>Education:</strong> Bachelor’s degree in Computer Science, Engineering, or a related technical discipline.</p>
+
+<li>
+<p><strong>Mindset:</strong> A proactive problem-solver who remains composed under pressure and possesses a strong desire to learn the intricacies of financial market mechanics.</p>
+
+</ul>
+<h3>Preferred Qualifications (Nice-to-have)</h3>
+<ul>
+<li>
+<p><strong>Observability & Data:</strong> Experience with monitoring and data tools such as Prometheus, InfluxDB, or Kafka.</p>
+
+<li>
+<p><strong>Database Management:</strong> Familiarity with SQL and NoSQL (e.g., MongoDB) environments.</p>
+
+<li>
+<p><strong>Domain Knowledge:</strong> Previous experience within fintech, proprietary trading, or a high-frequency data environment.</p>
+
+</ul>
+<h3>Compensation & Benefits</h3>
+<ul>
+<li>
+<p><strong>Base Salary:</strong> $175,000 – $225,000 USD</p>
+
+<li>
+<p><strong>Total Rewards:</strong> This position is eligible for a competitive discretionary bonus and a comprehensive benefits package including premium health insurance and generous paid leave.</p>
+
+</ul>
+<p> </p>
+<p>#LI-KH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base salary plus targeted bonus. Benefits listed under the link in the JD]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8817767]]></latitude>
+    <longitude><![CDATA[-87.6371461]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Linux Engineer]]></title>
+    <date><![CDATA[Tue, 28 Apr 2026 01:22:20 +0000]]></date>
+    <referencenumber><![CDATA[25837]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/linux-engineer-in-trading-firm-jobs-1507281]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<h2><strong>Linux Engineer</strong></h2>
+<p><strong>Location:</strong> Chicago, IL (Hybrid/On-site)</p>
+<h3><strong>About the Opportunity</strong></h3>
+<p>We are looking for a highly skilled Linux Systems Engineer to join a premier global proprietary trading firm. In this role, you will engineer and optimize large-scale Linux infrastructure that powers both ultra-low-latency financial systems and high-throughput research environments. This is a chance to manage a massive global footprint of over 10,000 bare-metal systems where automation, performance tuning, and technical initiative are the primary drivers of success.</p>
+<h3><strong>Responsibilities</strong></h3>
+<ul>
+<li>
+<p><strong>Infrastructure Engineering:</strong> Lead the provisioning, configuration, and performance tuning of a global, large-scale Linux fleet to ensure maximum reliability and speed.</p>
+
+<li>
+<p><strong>Automation & Tooling:</strong> Design and maintain sophisticated internal tools using Python and Bash to streamline the management of thousands of bare-metal servers.</p>
+
+<li>
+<p><strong>Configuration Management:</strong> Develop and refine codebase for system configurations, ensuring consistency across diverse workloads including Kubernetes-based applications and high-frequency trading platforms.</p>
+
+<li>
+<p><strong>Fleet Visibility:</strong> Enhance system telemetry by extending monitoring, logging, and alerting frameworks to provide deep visibility into Linux performance metrics.</p>
+
+<li>
+<p><strong>Systems Troubleshooting:</strong> Diagnose and resolve complex kernel and network-level issues within a mission-critical enterprise environment.</p>
+
+<li>
+<p><strong>Collaborative Development:</strong> Engage in a rigorous technical environment through code reviews, merge requests, and cross-functional architectural discussions.</p>
+
+</ul>
+<h3><strong>Requirements (Must-have)</strong></h3>
+<ul>
+<li>
+<p><strong>Expert Linux Administration:</strong> Extensive experience engineering and managing Linux distributions at scale, specifically on bare-metal hardware.</p>
+
+<li>
+<p><strong>Python Development:</strong> Strong proficiency in Python for automation, API design, and systems debugging.</p>
+
+<li>
+<p><strong>Configuration Management:</strong> Advanced experience using enterprise-grade configuration tools (e.g., Puppet/Hiera or equivalent) to manage large server fleets.</p>
+
+<li>
+<p><strong>Automation Frameworks:</strong> Proven ability to author complex playbooks and automate tasks using Ansible.</p>
+
+<li>
+<p><strong>Systems & Network Diagnostics:</strong> Deep knowledge of low-level troubleshooting tools such as EBPF, tcpdump, strace, and systemd.</p>
+
+<li>
+<p><strong>Build & Deploy:</strong> Solid experience with CI/CD pipelines, Git version control, and RPM package management/repository administration.</p>
+
+<li>
+<p><strong>Network Fundamentals:</strong> Strong understanding of TCP/UDP, Multicast, DNS, and routing protocols.</p>
+
+<li>
+<p><strong>Education:</strong> Bachelor’s degree in Computer Engineering, Computer Science, or a related technical field (or equivalent professional experience).</p>
+
+</ul>
+<h3><strong>Preferred Qualifications</strong></h3>
+<ul>
+<li>
+<p><strong>Containerization:</strong> Experience building Docker images and working within Kubernetes environments.</p>
+
+<li>
+<p><strong>Observability:</strong> Familiarity with Prometheus, Grafana, and AlertManager, particularly in developing custom exporters for Linux telemetry.</p>
+
+<li>
+<p><strong>High-Stakes Environments:</strong> Previous experience in fintech, high-frequency trading, or large-scale research environments.</p>
+
+</ul>
+<h3><strong>Compensation & Benefits</strong></h3>
+<ul>
+<li>
+<p><strong>Base Salary:</strong> $150,000 – $225,000 USD</p>
+
+<li>
+<p><strong>Total Rewards:</strong> This role is eligible for a discretionary performance bonus and a comprehensive benefits package including premium health insurance and paid leave.</p>
+
+</ul>
+<p> </p>
+<p>#LI-KH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base salary plus targeted bonus. Benefits listed under the link in the JD]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8817767]]></latitude>
+    <longitude><![CDATA[-87.6371461]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Trading Systems Engineer - Execution]]></title>
+    <date><![CDATA[Tue, 28 Apr 2026 01:22:20 +0000]]></date>
+    <referencenumber><![CDATA[25839]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/trading-systems-engineer-execution-in-trading-firm-jobs-1499385]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60606]]></postalcode>
+    <description><![CDATA[<h1>Trading Systems Engineer - Execution</h1>
+<p>We are looking for a multi-talented and passionate Trading Systems Engineer to join our execution development team.</p>
+<p>In this role, you will take ownership of systems that sit directly in the critical path of live trading, handling everything from hardware and network connectivity to application performance and exchange interactions.</p>
+<p>This is not a pure support role — and it’s not purely project-based engineering either. It’s intentionally both. You will split your time between:</p>
+<ul>
+<li><strong>Operational support of live trading systems</strong>, ensuring stability and rapid resolution of production issues.  This portion of the role is fast-paced, highly visible and requires strong troubleshooting instincts, clear communication, and the ability to remain calm under pressure.  If you enjoy solving real-time problems and seeing immediate impact from your work, this is for you.
+<li><strong>Project-based engineering work</strong>, improving the reliability, performance, and automation of those same systems.  The goal is simple: fewer incidents, faster recovery, more proactive monitoring, and stronger systems over time. We believe production ownership and engineering improvement go hand in hand — the best way to improve a system is to deeply understand how it behaves under real-world pressure.
+</ul>
+<p>Our execution systems are fundamental to our success and require dedicated ownership to ensure continuity throughout the trading day. You will play a key role in both optimizing today’s trading and building a continuously better platform for tomorrow.</p>
+<p>You’ll join a team of experienced engineers committed to rigorous operational excellence and continuous improvement, with a high degree of responsibility over complex, real-time system interactions across trading and technology.</p>
+<p><strong>Your Core Responsibilities:</strong></p>
+<ul>
+<li>Participate in structured support rotations to provide real-time coverage for critical execution systems
+<li>Ensure continuity of trading operations, prioritizing and resolving system issues with urgency and composure
+<li>Diagnose novel production incidents, often coordinating across trading, development, infrastructure, and external exchanges
+<li>Monitor system performance and proactively identify risks before they impact trading
+<li>Build automation tools for system orchestration and operational efficiency
+<li>Eliminate recurring issues through root cause analysis and durable fixes
+<li>Partner with technology and trading teams to refine and deploy system architecture
+<li>Enhance monitoring, observability, and resiliency
+<li>Support and optimize core market connectivity
+</ul>
+<p><strong>Your Skills and Experience:</strong></p>
+<ul>
+<li>Passion for problem solving and new technologies.
+<li>2-5+ years of experience in Site Reliability Engineering, Systems Integration, Production Engineering, or a related role in a heavily on-prem environment
+<li>2-5+ years of hands-on experience with Linux operating systems, network configuration, and server management
+<li>Strong understanding of network fundamentals, including routing protocols, TCP/UDP, multicast, network offload, and kernel bypass technology
+<li>Proficiency in Python and Bash
+<li>Demonstrated curiosity and hands-on experimentation with technology—whether through personal projects, home labs, open source contributions, or deep-dive exploration of operating systems and networking
+<li>Bachelor’s degree in Computer Science, Information Technology, or related engineering discipline (or equivalent practical experience)
+</ul>
+<p><strong>Preferred Experience:</strong></p>
+<ul>
+<li>Experience with MySQL, MongoDB, and NoSQL technologies
+</ul>
+<p><strong>What You'll Gain:</strong></p>
+<ul>
+<li>Deep exposure to cutting-edge, low-latency trading infrastructure
+<li>Direct impact on live trading—your work matters immediately
+<li>Broad technical growth across hardware, networking, systems, and application layers
+<li>Collaboration with elite traders and engineers
+<li>Ownership and autonomy over critical systems
+</ul>
+<p><strong>About Us</strong></p>
+<p>IMC is a global trading firm powered by a cutting-edge research environment and a world-class technology backbone. Since 1989, we’ve been a stabilizing force in financial markets, providing essential liquidity upon which market participants depend. Across our offices in the US, Europe, Asia Pacific, and India, our talented quant researchers, engineers, traders, and business operations professionals are united by our uniquely collaborative, high-performance culture, and our commitment to giving back. From entering dynamic new markets to embracing disruptive technologies, and from developing an innovative research environment to diversifying our trading strategies, we dare to continuously innovate and collaborate to succeed.</p>
+<p> </p>
+<p>The Base Salary range for the role is included below. Base salary is only one component of total compensation; all full-time, permanent positions are eligible for a discretionary bonus and benefits, including paid leave and insurance. Please visit <a href="https://www.imc.com/us/careers/benefits" target="_blank">Benefits - US | IMC Trading</a> for more comprehensive information.</p>
+<p><strong>Salary Range</strong></p>
+<p>$175,000 - $225,000 USD</p>
+<p> </p>
+<p> </p>
+<p>#LI-KH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Base salary plus targeted bonus. Benefits listed under the link in the JD]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8817767]]></latitude>
+    <longitude><![CDATA[-87.6371461]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Network Engineer]]></title>
+    <date><![CDATA[Tue, 28 Apr 2026 01:22:20 +0000]]></date>
+    <referencenumber><![CDATA[25880]]></referencenumber>
+    <url><![CDATA[https://www.oprecruiting.com/job-details/senior-network-engineer-in-trading-firm-jobs-1507278]]></url>
+    <company><![CDATA[Op Recruiting]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chicago]]></city>
+    <state><![CDATA[IL]]></state>
+    <country><![CDATA[United States                                                   ]]></country>
+    <postalcode><![CDATA[60661]]></postalcode>
+    <description><![CDATA[<h2>Senior Network Engineer</h2>
+<p><strong>Location:</strong> Chicago, IL (Hybrid/On-site)</p>
+<p><strong>About the Opportunity</strong> We are seeking a high-caliber Network Engineer to spearhead the design, implementation, and optimization of a high-performance, global networking infrastructure. This role is pivotal in maintaining a low-latency environment for sophisticated proprietary trading systems, offering the chance to drive technical innovation through advanced automation and next-generation architectural prototyping. If you are a self-directed engineer with a passion for building resilient, high-speed systems in the financial sector, this is a premier opportunity to own complex technical solutions from conception to deployment.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>
+<p><strong>Global Infrastructure Management:</strong> Oversee the continuous operation and enhancement of diverse, multi-site network environments, ensuring maximum uptime and strategic capacity expansion.</p>
+
+<li>
+<p><strong>Architecture & Innovation:</strong> Serve as a technical authority in designing future-state network frameworks, focusing on reliability and cutting-edge performance.</p>
+
+<li>
+<p><strong>Performance Engineering:</strong> Conduct rigorous benchmarking, lab testing, and capacity modeling to minimize latency and ensure seamless scalability across the global fabric.</p>
+
+<li>
+<p><strong>Complex Problem Solving:</strong> Lead the diagnosis and remediation of intricate connectivity and performance bottlenecks using creative technical strategies and collaborative troubleshooting.</p>
+
+<li>
+<p><strong>Automation & Tooling:</strong> Develop and deploy custom automated solutions for network provisioning, diagnostic monitoring, and rapid infrastructure deployment.</p>
+
+<li>
+<p><strong>Vendor Relations:</strong> Partner with hardware and service providers to evaluate emerging technologies and prototype new designs for competitive advantage.</p>
+
+</ul>
+<p><strong>Requirements (Must-have)</strong></p>
+<ul>
+<li>
+<p><strong>Professional Experience:</strong> At least 7 years of dedicated experience in network engineering, with a proven track record in low-latency or high-frequency environments.</p>
+
+<li>
+<p><strong>Hardware Expertise:</strong> Comprehensive experience designing and deploying enterprise-grade routers, switches, and security appliances.</p>
+
+<li>
+<p><strong>Protocol Mastery:</strong> Expert-level proficiency in tuning dynamic routing protocols and managing complex multicast environments.</p>
+
+<li>
+<p><strong>Modern Fabric Networking:</strong> Hands-on experience with EVPN-VXLAN architectures for building robust overlay and underlay networks.</p>
+
+<li>
+<p><strong>Security & Edge:</strong> Solid background in managing VPN infrastructure, firewalls, and public-facing internet connectivity.</p>
+
+<li>
+<p><strong>Analytical Depth:</strong> Deep understanding of the TCP/IP stack with the ability to perform packet-level analysis using industry-standard diagnostic tools.</p>
+
+<li>
+<p><strong>DevOps Mindset:</strong> Advanced scripting and automation skills, specifically utilizing Python and Ansible to manage infrastructure as code.</p>
+
+</ul>
+<p><strong>Preferred Qualifications (Nice-to-have)</strong></p>
+<ul>
+<li>
+<p><strong>Domain Expertise:</strong> Direct experience within the financial services or electronic trading sectors.</p>
+
+<li>
+<p><strong>Physical Layer Knowledge:</strong> Exposure to Layer 1 device management and a conceptual understanding of RF network fundamentals.</p>
+
+</ul>
+<p><strong>Compensation & Benefits</strong></p>
+<ul>
+<li>
+<p>Competitive base salary and performance-based incentives.</p>
+
+<li>
+<p>Comprehensive healthcare, retirement planning, and professional development support.</p>
+
+</ul>
+<p> </p>
+<p>#LI-KH1</p>
+<p> </p>]]></description>
+    <salary><![CDATA[200000]]></salary>
+    <category><![CDATA[Trading Firm]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[41.8783749]]></latitude>
+    <longitude><![CDATA[-87.6413827]]></longitude>
+  </job>
+</source>
