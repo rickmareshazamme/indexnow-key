@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sun, 13 Sep 2026 12:04:54 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Enterprise Architect/Lead Enterprise Architect]]></title>
+    <date><![CDATA[Fri, 11 Sep 2026 09:14:30 +0000]]></date>
+    <referencenumber><![CDATA[0af3b767-a0bd-479c-9dfe-06a38af93394]]></referencenumber>
+    <url><![CDATA[https://initialize-it.com/job-details/enterprise-architectlead-enterprise-architect-in-it-jobs-1717458]]></url>
+    <company><![CDATA[Initialize-IT]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div><b>Enterprise Architect/Lead Enterprise Architect - London (may be 1-2 days a week) and remote - global payments organisation!</b></div><div><br></div><div><b>Role</b></div><div>You will be high-calibre, technically broad Lead Enterprise Architect (EA). In this role, you will be the architectural anchor for a high-priority transformation portfolio: designing the multi-year infrastructure roadmap, driving the End-of-Life (EOL) decommissioning and re-platforming pipeline, and providing technical governance for our Identity Threat Detection and Response (ITDR) remediation program. Combine deep infrastructure engineering with financial discipline, embedding FinOps frameworks across cloud and on-premise environments (ensure that every milestone on the strategic roadmap optimizes unit economics, eliminates waste during EOL migrations, and remains tightly aligned with corporate fiscal and security goals).</div><div><b>Core Key Responsibilities</b></div><ul><li>Architect the target-state vision for a highly resilient hybrid environment, seamlessly blending on-premise data centers with multi-cloud architectures (AWS, Azure, GCP).</li><li>Assist in pre-sales as well as delivering IT roadmap created to remediated client Legacy environment into cloud-based environment where possible. This means person should possess skills to design AWS and Azure environments along with required security (IAM, Defender, Sentinel and PAM tools). Client is expecting for ISO27001 auditing. Infrastructure applications like Backup, Monitoring, Route 53 and Domain controllers along with EUC tools like InTune are the getting migrated as part of the project. Business application migration is out of scope.</li><li>Build &amp; Govern the Strategic Roadmap: Design and maintain a phased, multi-year technology life cycle roadmap tracking infrastructure dependencies, technical debt, and aggressive EOL asset mitigation.</li><li>Drive FinOps &amp; Cost Optimization: Establish cloud financial accountability by embedding FinOps practices into the architecture life cycle. Manage cloud spend, model TCO (Total Cost of Ownership) for EOL re-platforming options, and eliminate Legacy waste.</li><li>Champion ITDR Remediation: Provide primary technical and architectural governance for the Identity Threat Detection and Response program. Harden hybrid identity environments across Active Directory and cloud IDPs (Entra ID).</li><li>Guide &amp; Influence Engineering Teams: Act as the ultimate technical bridge across diverse infrastructure silos (Compute, Storage, Network, IAM, Cloud). Confidently guide engineering execution toward compliant, budget-aware target states.</li></ul><div><b>Technical Skills &amp; Domain Expertise</b></div><div>1. Hybrid &amp; Multi-Cloud Architecture</div><ul><li>Extensive experience designing, deploying, and migrating applications across hybrid environments (On-Premises to Public Cloud: AWS, Azure, or GCP).</li><li>Strong grasp of container orchestration (Kubernetes, OpenShift) and Infrastructure as Code (Terraform, Ansible) to ensure consistency across cloud environments.</li><li>Proven track record of managing large-scale infrastructure decommissioning, hardware refreshes, and Legacy system modernization.</li></ul><div><b>2. FinOps &amp; Financial Modeling/Financials</b></div><ul><li>Deep familiarity with the FinOps Framework (Inform, Optimize, Operate phases) and cloud cost management tooling (eg, AWS Cost Explorer, Azure Cost Management, CloudHealth, Kubecost).</li><li>Capability to design architectures optimized for cost efficiency, incorporating spot instances, savings plans, auto-scaling parameters, and data egress optimization.</li><li>Strong capability to calculate TCO and ROI comparison models, guiding the team to select the most cost-effective cloud or hybrid landing zones for migrating EOL systems.</li></ul><div><b>3. Identity &amp; Cyber Resilience (ITDR Focus)</b></div><ul><li>Advanced architectural knowledge of hybrid Identity &amp; Access Management (IAM) ecosystems, including Active Directory tiering models, Entra ID, and PAM solutions (CyberArk, BeyondTrust).</li><li>Understanding of identity threat vectors and security posture assessment tools designed to detect privilege escalation, lateral movement, and misconfigurations.</li></ul><div>Leadership &amp; Strategy Capabilities</div><ul><li>Financial &amp; Technical Diplomat: Able to effectively bridge the gap between Enterprise IT Engineering, Finance (CFO office), and Procurement to drive cultural accountability around cloud spend.</li><li>Risk-Aware Decision Maker: Competent at balancing the urgency of security remediation (ITDR) and EOL risk management against immediate financial constraints and operational SLAs.</li><li>Architectural Communicator: Expert visual modeler (Miro, Visio, ArchiMate) capable of distilling complex infrastructure topologies and financial metrics into clear executive roadmaps.</li></ul><div>Preferred Qualifications</div><ul><li>Experience: Total of 15+ years of experience with 8+ years in an Enterprise, Cloud, or Infrastructure Architecture leadership role driving large hybrid cloud transformations.</li><li>Certifications (Highly Regarded):</li><li style="margin-left: 2rem;">FinOps Certified Practitioner or FinOps Certified Enterprise Architect.</li><li style="margin-left: 2rem;">TOGAF, Zachman, or SAFe framework certifications.</li><li style="margin-left: 2rem;">Professional Cloud Architect certifications (eg, AWS Certified Solutions Architect Pro, Azure Solutions Architect Expert, Google Cloud Professional Cloud Architect).</li></ul><div><br></div>]]></description>
+    <salary><![CDATA[£-1 - £-1]]></salary>
+    <category><![CDATA[IT]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[AI Solutions Architect]]></title>
+    <date><![CDATA[Mon, 07 Sep 2026 07:00:03 +0000]]></date>
+    <referencenumber><![CDATA[5d2ab726-1c51-472c-a6de-4698f4804331]]></referencenumber>
+    <url><![CDATA[https://initialize-it.com/job-details/ai-solutions-architect-in-it-jobs-1711826]]></url>
+    <company><![CDATA[Initialize-IT]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div><b>AI Architect - SC cleared - London/Hybrid  - Government project</b></div><div><b>Key Responsibilities</b></div><ul><li>Architect enterprise-grade AI solutions using frontier foundation models (eg Claude, GPT, Gemini family) across use cases including agentic automation, retrieval-augmented generation (RAG), copilots, and multi-modal applications</li><li>Lead technical solutioning during pre-sales and discovery, translating client business challenges into scalable AI architecture and delivery roadmaps</li><li>Design and govern the AI platform architecture: model orchestration, prompt and context management, retrieval pipelines, vector stores, agent frameworks, and tool/context integration (including emerging protocols such as MCP)</li><li>Define and enforce responsible AI, governance, and assurance frameworks - covering bias, safety, data privacy, and model risk - aligned to client and regulatory requirements</li><li>Lead and mentor a team of AI engineers and architects, building technical capability and clear career pathways within the practice</li><li>Own technical relationships with hyperscaler and frontier model partners (Azure OpenAI, AWS Bedrock, Google Vertex AI, Anthropic, OpenAI) to stay ahead of platform capability</li><li>Drive reusable accelerators, frameworks, and IP that can be repeated and scaled across client engagements</li><li>Act as a trusted advisor to client CxOs and senior stakeholders on AI strategy, architecture, and roadmap</li><li>Own end-to-end delivery quality: architecture reviews, technical governance boards, production readiness, and post-go-live scaling</li><li>Contribute to thought leadership - whitepapers, conference contributions, and internal capability-building</li></ul><div><b>Required Skills &amp; Experience</b></div><ul><li>10+ years in software engineering, data engineering, or solution architecture, including at least 3-5 years focused specifically on applied AI/ML or generative AI</li><li>Proven, hands-on architecture experience with frontier large language models and multi-modal models - including prompt engineering, fine-tuning, RAG, and agentic/multi-agent system design</li><li>Strong grounding in LLMOps/MLOps: evaluation frameworks, observability, cost and latency optimisation, guardrails, and safe deployment at enterprise scale</li><li>Direct experience with major frontier model providers (Anthropic Claude, OpenAI, Google Gemini, or equivalent) and cloud AI ecosystems (Azure AI/OpenAI Service, AWS Bedrock, Google Vertex AI)</li><li>Solid understanding of AI governance, responsible AI, and emerging regulatory frameworks (eg EU AI Act, NIST AI RMF, or regional equivalents)</li><li>Demonstrated technical leadership - leading architecture teams, chairing design/technical governance authorities, mentoring senior engineers</li><li>Client-facing consulting experience: solutioning, pre-sales support, and stakeholder management at senior client level</li><li>Strong software engineering fundamentals: API design, cloud-native architecture, microservices, and data pipeline/data engineering experience</li><li>Bachelor's degree in Computer Science, Engineering, or a related field, or equivalent professional experience; an advanced degree is a plus</li></ul><div><b>Preferred/Desirable Skills</b></div><ul><li>Experience with agent orchestration frameworks (eg LangGraph, AutoGen, CrewAI) and emerging tool-integration protocols (eg Model Context Protocol)</li><li>Public sector or other regulated-industry delivery experience (financial services, healthcare, government)</li><li>Relevant certifications (eg Azure AI Engineer Associate, AWS Certified Machine Learning, Google Professional ML Engineer)</li><li>Experience building or scaling an AI Centre of Excellence or comparable practice capability within a consulting organisation</li><li>Published thought leadership, patents, or conference speaking in AI/ML</li></ul><div><br></div>]]></description>
+    <salary><![CDATA[£-1 - £-1]]></salary>
+    <category><![CDATA[IT]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Data Scientist / Senior Data Scientist]]></title>
+    <date><![CDATA[Mon, 07 Sep 2026 07:11:31 +0000]]></date>
+    <referencenumber><![CDATA[58ccf63b-f25c-4333-8bed-644a6d4dbe4b]]></referencenumber>
+    <url><![CDATA[https://initialize-it.com/job-details/data-scientist-senior-data-scientist-in-it-jobs-1711832]]></url>
+    <company><![CDATA[Initialize-IT]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div><b>Data Scientist/Senior Data Scientist - London - 12 months, (SC clearance is desirable).</b></div><div><b>Skills</b></div><ul><li>Experience with JavaScript and Java.</li><li>Experience with time series and dynamical systems.</li><li>A portfolio of projects (GitHub, papers, etc.).</li><li>Experience with scalable ML (MapReduce, streaming).</li><li>Experience in Designing and deploying Machine Learning algorithms for industrial applications such as fraud detection and predictive maintenance.</li></ul><div><b>Qualifications:</b></div><ul><li>MS or PhD in Computer Science, Electrical Engineering, Statistics, or equivalent fields.</li><li>Applied Machine Learning experience (regression and classification, supervised, and unsupervised learning).</li><li>Experience with prototyping languages such as Python and R.</li><li>Strong mathematical background (linear algebra, calculus, probability and statistics).</li><li>Experience with scalable ML (MapReduce, streaming).</li><li>Ability to drive a project and work both independently and in a team.</li><li>Smart, motivated, can-do attitude, and seeks to make a difference.</li><li>Excellent verbal and written communication.</li></ul><div>Preferred Qualifications:</div><ul><li>Experience with JavaScript and Java.</li><li>Experience with time series and dynamical systems.</li><li>A portfolio of projects (GitHub, papers, etc.).</li></ul><div><br></div>]]></description>
+    <salary><![CDATA[£-1 - £-1]]></salary>
+    <category><![CDATA[IT]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[onsite]]></remotetype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Solution Architects - SC cleared]]></title>
+    <date><![CDATA[Mon, 07 Sep 2026 07:03:16 +0000]]></date>
+    <referencenumber><![CDATA[5093c2e9-f574-4cb9-85f8-7b3628463b91]]></referencenumber>
+    <url><![CDATA[https://initialize-it.com/job-details/solution-architects-sc-cleared-in-jobs-1711828]]></url>
+    <company><![CDATA[Initialize-IT]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div><b>Solution Architects - SC cleared - London/hybrid - Government project </b></div><div><b>Solution Architects required, different skill types:</b></div><div><b>Either:</b></div><ul><li>AWS Services &amp; Networking: Advanced expertise in core AWS services (EC2, VPC, IAM, Route 53), with an emphasis on secure VPC design, subnetting, and strict IAM policy management.</li><li>Kubernetes (EKS): Hands-on experience with Kubernetes, specifically AWS EKS, including in-depth knowledge of cluster management, security policies, and multi-tenant environments.</li><li>ECS &amp; Fargate: Proficiency in deploying and managing containerized applications on ECS and Fargate, focusing on load balancing, networking, and microservice architectures.</li><li>Infrastructure as Code (IaC): Demonstrable experience with Terraform, AWS CloudFormation, or similar tools to enable infrastructure automation, configuration management, and security by design.</li><li>Compliance &amp; Security Controls: Familiarity with public sector compliance frameworks and controls, including GDPR, ISO27001, and NCSC guidelines for secure cloud deployments.</li><li>CI/CD &amp; Automation Tools: Experience creating CI/CD pipelines and automating deployment processes for containerized applications with tools like AWS Code Pipeline, Jenkins, and GitLab.</li><li>Monitoring &amp; Logging Tools: Knowledge of monitoring and logging solutions suitable for high-security environments, including CloudWatch, Prometheus, Grafana, and centralized logging with ELK.</li></ul><div><b>OR</b></div><ul><li>Solution architecture delivery across large, complex IT landscapes in a regulated, critical environment</li><li>Broad experience across solution architecture styles (eg cloud, distributed, monolithic, ETL, cross-platform and cross-organisational integration)</li><li>A pragmatic approach to picking up architecture work started by previous resources, quickly assessing what is needed and driving to conclusions</li><li>Excellent stakeholder management, including influencing senior stakeholders and negotiating contentious architectural issues to reach consensus</li><li>Experience managing and recording key design decisions</li><li>Good understanding of reference architecture and governance processes</li><li>Able to manage people, navigate conflict, problem-solve, distil key discussion points, organise work and communicate effectively</li></ul><div><b>PLEASE APPLY ASAP FOR FULL JOB SPEC.</b></div><div><br></div>]]></description>
+    <salary><![CDATA[£-1 - £-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Java Engineer]]></title>
+    <date><![CDATA[Mon, 07 Sep 2026 06:50:50 +0000]]></date>
+    <referencenumber><![CDATA[186d3b16-52a9-43f4-ac53-b994a665c0e5]]></referencenumber>
+    <url><![CDATA[https://initialize-it.com/job-details/senior-java-engineer-in-development-jobs-1711820]]></url>
+    <company><![CDATA[Initialize-IT]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[London]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div><b>Senior Java Engineer - 12 months London City/hybrid -  - fantastic financial client</b></div><div><b>Essential skills</b></div><ul><li>Strong Java fundamentals (Java 21 preferred) including core concepts (collections, concurrency, memory management).</li><li>Solid experience with Spring Framework (Spring 4+) and Spring Boot 3.x.</li><li>Experience building and consuming REST APIs.</li><li>Good knowledge of React (version 17) and integration with Back End services.</li><li>Strong understanding of web application architecture and Client Server communication.</li><li>Experience with SQL and relational databases (eg PostgreSQL).</li><li>Proficiency with version control (Git) and build tools (Maven/Gradle).</li><li>Strong focus on clean code, unit testing, and code reviews.</li><li>Familiar with Agile development practices.</li><li>Comfortable working in Linux/Unix environments.</li><li>4-8+ years of software engineering experience.</li></ul><div><b>Other desirable skills</b></div><ul><li>Experience with JSF/JSP applications and Legacy UI technologies.</li><li>Familiarity with modern Front End practices and component-based architectures.</li><li>Experience with CI/CD pipelines and testing practices.</li><li>Exposure to Docker/containerization.</li><li>Basic understanding of distributed systems.</li><li>Familiarity with Spring ecosystem tooling.</li><li>Knowledge of financial systems or trading platforms is a plus.</li></ul><div><b>Role</b></div><ul><li>Contributes to design, development, and implementation of Back End services and web applications.</li><li>Writes clean, maintainable, and well-tested code following established engineering practices.</li><li>Participates in technical design discussions and collaborates with senior engineers and architects.</li><li>Works closely with Front End developers to integrate Back End services with UI components.</li><li>Supports troubleshooting, debugging, and performance optimization of applications.</li><li>Breaks down user stories into technical tasks and delivers within agreed timelines.</li><li>Collaborates effectively in Agile teams with product owners, QA, and other developers.</li><li>Maintains and improves existing systems while ensuring stability and reliability.</li><li>Builds positive relationships within the team and contributes to a collaborative environment.</li><li>Communicates technical concepts clearly to both technical and non-technical stakeholders.</li><li>Continuously develops technical expertise and stays up to date with modern technologies and frameworks.</li></ul><div><br></div>]]></description>
+    <salary><![CDATA[£-1 - £-1]]></salary>
+    <category><![CDATA[Development]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[.NET Solutions Architect (SC)]]></title>
+    <date><![CDATA[Mon, 07 Sep 2026 07:06:54 +0000]]></date>
+    <referencenumber><![CDATA[4888ef17-c29e-4f89-b65b-e6df21314899]]></referencenumber>
+    <url><![CDATA[https://initialize-it.com/job-details/net-solutions-architect-sc-in-it-jobs-1711829]]></url>
+    <company><![CDATA[Initialize-IT]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div><b>Solution Architect (.NET) - SC Cleared - London/hybrid </b></div><div><b>Essential</b></div><ul><li>10+ years' experience in software engineering or architecture, including 3+ years as a solution/technical architect on multi-service platforms.</li><li>Proven track record designing technology modernisation - defining target-state architectures and migration paths from Legacy applications and infrastructure to currently supported, cloud-native patterns.</li><li>Strong architectural grounding in .NET/.NET Core, with working knowledge of Python and modern JavaScript frameworks (Vue.js, React).</li><li>Experience designing solutions using infrastructure-as-code (Terraform) and containerised deployment (Docker) at scale.</li><li>Experience architecting with AWS managed services (RDS, SQS, DynamoDB, OpenSearch/Elasticsearch, ECR) and applying the AWS Well-Architected Framework.</li><li>Experience designing with identity, authentication and API gateway technologies (eg WSO2, RADIUS-based systems, or equivalents).</li><li>Experience operating in a regulated, security-conscious or public-sector environment, with a strong understanding of data minimisation, data protection and audit requirements.</li><li>Demonstrated ability to produce clear architecture artefacts (HLDs/LLDs, ADRs, solution diagrams) and to defend them at governance boards.</li><li>Excellent stakeholder management and communication skills, able to translate architectural trade-offs into business impact for senior and non-technical audiences.</li></ul><div><b>Desirable</b></div><ul><li>Experience architecting law-enforcement, intelligence, or regulatory case-management platforms.</li><li>Familiarity with WSO2 API Gateway/IdAM, ClamAV or similar security tooling.</li><li>Experience architecting data-science/ML tooling (SageMaker) or search/analytics platforms in an analytical-toolset context.</li><li>Relevant security clearance, or the ability to obtain one.</li><li>TOGAF, AWS Certified Solutions Architect (Professional), or an equivalent architecture certification.</li></ul><div><b>Qualifications</b></div><ul><li>Degree in Computer Science, Software Engineering or a related field, or equivalent demonstrable experience.</li><li>TOGAF (or an equivalent enterprise/solution architecture framework) certification is desirable; AWS Certified Solutions Architect is also desirable.</li></ul><div><b>Role</b></div><div><b>Solution &amp; Technical Architecture</b></div><ul><li>Act as the technical design authority for the platform, producing and maintaining high-level and detailed solution designs across its core service domains.</li><li>Define target-state architecture for the platform's mixed .NET Core, Python and JavaScript/TypeScript (Vue.js, React) estate, ensuring new solutions are consistent with agreed patterns and standards.</li><li>Design integration patterns across the containerisation (Docker), reverse-Proxy/API layer (OpenResty, Nginx) and infrastructure-as-code (Terraform) tooling.</li><li>Design and govern integration with identity, authentication and security platforms (LinOTP, RADIUS, WSO2 IdAM, WSO2 API Gateway, ClamAV), ensuring solutions meet authentication, authorisation and malware-scanning requirements.</li><li>Produce architecture decision records (ADRs), solution diagrams and non-functional requirement (NFR) specifications for significant changes.</li></ul><div><b>Technology Modernisation &amp; Target-State Roadmap</b></div><ul><li>Own the target-state architecture and modernisation roadmap for the platform, identifying and sequencing remediation of end-of-life or unsupported components (for example, the current Terraform estate).</li><li>Assess the long-term viability of Legacy application components - including the .NET WPF desktop application and the dual Front End framework footprint (Vue.js and React) - and produce architecture recommendations on consolidation, retirement or re-platforming.</li><li>Evaluate and recommend use of managed AWS services (SQS, DynamoDB, SageMaker, OpenSearch, FSx, WorkSpaces, ECR) against in-house build, applying AWS Well-Architected principles.</li><li>Maintain a technology radar/roadmap for the estate, flagging obsolescence and security risk to programme governance.</li></ul><div><br></div>]]></description>
+    <salary><![CDATA[£-1 - £-1]]></salary>
+    <category><![CDATA[IT]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Data Engineer]]></title>
+    <date><![CDATA[Tue, 25 Aug 2026 10:45:22 +0000]]></date>
+    <referencenumber><![CDATA[458149d1-36df-41ca-8212-1a61ded5a308]]></referencenumber>
+    <url><![CDATA[https://initialize-it.com/job-details/senior-data-engineer-in-it-jobs-1697954]]></url>
+    <company><![CDATA[Initialize-IT]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[London]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>Global client are looking for a hands-on Senior Data Engineer/Power BI Developer to design, build and support enterprise analytics solutions across trading, risk, finance and post-trade reporting.</div><div><br></div><div> The role requires strong engineering discipline across Azure Databricks, Microsoft Fabric and Power BI, with the ability to turn complex business requirements into reliable, scalable and well-governed data products.</div><div><br></div><div><b>Essential skills.</b></div><div>Databricks - Delta Lake, Unity Catalog, notebooks, workflows, cluster tuning and production-grade PySpark development.</div><div>Microsoft Fabric - Lakehouse, OneLake, shortcuts, Dataflow Gen2, Fabric notebooks, Direct Lake and SQL Analytics Endpoint.</div><div>Power BI - DAX, semantic modelling, Power Query M, RLS, incremental refresh, aggregation strategy and performance tuning.</div><div>SQL - Advanced SQL, CTEs, window functions, stored procedures, optimisation and large-volume analytical processing.</div><div>Azure Data Platform - ADLS Gen2, Azure Data Factory, Git integration, DevOps pipelines and secure cloud engineering practices.</div><div>Delivery Mindset - Strong documentation, stakeholder communication, issue resolution and p[rductiopn support experience.</div><div><br></div><div><b><span class="ql-cursor">﻿</span>Key Responsibilities.</b></div><div>Design, develop and optimise ETL and ELT pipelines using Azure Databricks, PySpark, Python and SQL.</div><div>Build curated Delta Lake and Lakehouse data products using medallion architecture principles.</div><div>Create Microsoft Fabric Lakehouses, notebooks, Dataflow Gen2 ingestion flows and Direct Lake reporting models.</div><div>Develop enterprise Power BI datasets, semantic models and dashboards using advanced DAX, Power Query M and star schema modelling.</div><div>Implement row-level security, access controls, validation checks and governance standards for production reporting.</div><div>Optimise SQL, Spark, Fabric and Power BI workloads for performance, maintainability and cost efficiency.</div><div>Work closely with business users, traders, risk teams and finance stakeholders to clarify requirements and deliver production-ready solutions.</div><div>Support release management, CI/CD, documentation and operational monitoring using Git and Azure DevOps.</div><div><br></div>]]></description>
+    <salary><![CDATA[£-1 - £-1]]></salary>
+    <category><![CDATA[IT]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[51.5072178]]></latitude>
+    <longitude><![CDATA[-0.1275862]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Golang Engineer]]></title>
+    <date><![CDATA[Tue, 25 Aug 2026 10:43:23 +0000]]></date>
+    <referencenumber><![CDATA[8755d1a9-178e-49ec-bfea-74bcafda0d20]]></referencenumber>
+    <url><![CDATA[https://initialize-it.com/job-details/golang-engineer-in-jobs-1697952]]></url>
+    <company><![CDATA[Initialize-IT]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[West Sussex]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div><b>Golang Engineer - 12 months - hybrid - West Sussex</b></div><div><br></div><div><b>Skills:</b></div><div>Go, Postgres, Kafka, Git (gitlab, github, Bitbucket, SVN) and Docker,</div><div><br></div><div><b>Desirable</b></div><div>Java Microservices Spring Boot experience is Plus</div><div><br></div><div>We're looking for an enthusiastic, diligent Golang Software Engineer to work on a global Loyalty and Benefits platform You should have excellent soft skills, strong technical ability with an extensive passion to learn.</div><div><br></div>]]></description>
+    <salary><![CDATA[£-1 - £-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[50.969873]]></latitude>
+    <longitude><![CDATA[-0.4159547]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Hands on QA & Release Manager / Lead]]></title>
+    <date><![CDATA[Wed, 19 Aug 2026 09:41:14 +0000]]></date>
+    <referencenumber><![CDATA[1962bf0b-bf15-4223-89f6-cc4b7ee397a8]]></referencenumber>
+    <url><![CDATA[https://initialize-it.com/job-details/hands-on-qa-release-manager-lead-in-it-jobs-1690821]]></url>
+    <company><![CDATA[Initialize-IT]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[Romania]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div><strong style="background-color: rgba(0, 0, 0, 0);">Hands on QA &amp; Release Manager / Lead- remote - Romania (or any country in Eastern Europe)</b></div><div><br></div><div><span style="background-color: rgba(0, 0, 0, 0);">Experience:</span></div><ul><li>Solid experience in software testing and QA (SaaS and/or scaling start-ups - highly desirable)</li><li>Experience in Agile, DevOps, or continuous-flow environments with frequent releases</li><li>QA Manager / Release Manager / Leadership experience (setting direction, delegating ownership, developing people..)</li><li><span style="background-color: rgba(0, 0, 0, 0);">Demonstrable experience planning and leading major version upgrades for enterprise clients across UAT and Production environments — including upgrade roadmap, cutover, rollback, and post-upgrade validation</span></li><li>Experience using AI tools (generative AI, copilots, log-analysis assistants, LLM-based debugging) and leading AI adoption across a QA team</li><li>Proven experience owning release management end-to-end (Test, UAT, Production) across multiple parallel client streams or product lines</li><li>Solid experience with ITIL processes for Release, Change, and Configuration Management, and QA</li><li>Strong technical background in software development (.NET / C# preferred), SQL</li><li>Experience with TeamCity, Octopus Deploy, and Bitbucket — or equivalent CI/CD tooling</li><li>Hands-on and directive experience with automated testing — Cypress, Playwright, Selenium, or similar</li><li>Understanding of API testing and validation (REST, contract testing, Postman or equivalent)</li><li>Proficient with Jira, Confluence, Xray, and Trello</li></ul><div><br></div><div><span style="background-color: rgba(0, 0, 0, 0);">Desirable</span></div><ul><li>Experience implementing risk management strategies, conducting post-release reviews, and driving continuous improvement</li><li>Client-facing experience</li></ul><div>· Experience with CPQ, configure-price-quote, pricing, or quote-to-cash platforms</div><div>· Exposure to enterprise integrations (Salesforce / Dynamics CRM / SAP / ERP)</div><div>· .NET / C# / React ecosystem familiarity</div><div>· ITIL v4 Foundation or higher certification</div><div>· ISTQB Advanced Level or equivalent QA certification</div><div>· Experience integrating infrastructure and middleware upgrades into release cycles</div><div><br></div><div><br></div>]]></description>
+    <salary><![CDATA[€-1 - €-1 Annual]]></salary>
+    <category><![CDATA[IT]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[45.943161]]></latitude>
+    <longitude><![CDATA[24.96676]]></longitude>
+  </job>
+</source>
