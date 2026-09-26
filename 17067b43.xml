@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sat, 26 Sep 2026 12:54:43 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Senior Technical Architect (SAP)]]></title>
+    <date><![CDATA[Mon, 21 Sep 2026 13:51:57 +0000]]></date>
+    <referencenumber><![CDATA[14549]]></referencenumber>
+    <url><![CDATA[https://www.hanoverdigital.co.uk/job-details/senior-technical-architect-sap-in-architecture-jobs-1729341]]></url>
+    <company><![CDATA[Hanover]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[            ]]></postalcode>
+    <description><![CDATA[<p>We are looking for an experienced Senior Integration Architect to join a major enterprise transformation programme, supporting the migration from SAP ECC to S/4HANA and the modernisation of a large-scale integration landscape.<br> <br> Working within the integration team, you will define integration architecture, lead migration and API modernisation initiatives, and help embed modern engineering practices across a complex technology estate.<br> <br> <b>Key Responsibilities</b></p><ul><li>Design and deliver enterprise integration solutions aligned to architectural standards.</li><li>Lead migration from legacy middleware and integration platforms to strategic target solutions.</li><li>Define API specifications, integration patterns, and service contracts.</li><li>Support the transition from SOAP-based services to modern RESTful APIs.</li><li>Promote API-first and domain-driven design approaches.</li><li>Drive integration standardisation, simplification, and reuse.</li><li>Embed best practices in CI/CD, automated testing, quality engineering, and automation.</li><li>Contribute to architecture governance, technical assurance, and design reviews.</li><li>Work closely with architects, engineers, product teams, and business stakeholders.</li></ul><p><br> <b>Essential Experience:</b></p><ul><li>Proven experience as a Senior Integration Architect, Solution Architect, or similar role within large transformation programmes.</li><li>Strong expertise in enterprise integration architecture and API-led design.</li><li>Experience designing REST APIs and working with OpenAPI specifications.</li><li>Knowledge of integration patterns, distributed systems, and service-oriented architecture.</li><li>Experience with SAP Integration Suite, API Management platforms, SAP PI/PO, or comparable technologies.</li><li>Experience leading integration migration or modernisation programmes.</li><li>Strong stakeholder engagement and communication skills.</li></ul><p><br> <b>Desirable Experience:</b></p><ul><li>SAP S/4HANA transformation programmes.</li><li>Legacy middleware migration projects.</li><li>CI/CD and automated testing within integration environments.</li><li>Observability, monitoring, and operational excellence practices.</li><li>AI-assisted engineering and delivery approaches.</li><li>Experience in large enterprise, public sector, or regulated environments.</li></ul>]]></description>
+    <salary><![CDATA[£700 Per Day]]></salary>
+    <category><![CDATA[Architecture]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[55.378051]]></latitude>
+    <longitude><![CDATA[-3.435973]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Platform Security Engineer (AWS)]]></title>
+    <date><![CDATA[Mon, 21 Sep 2026 13:46:57 +0000]]></date>
+    <referencenumber><![CDATA[14546]]></referencenumber>
+    <url><![CDATA[https://www.hanoverdigital.co.uk/job-details/platform-security-engineer-aws-in-software-development-jobs-1729339]]></url>
+    <company><![CDATA[Hanover]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[We are looking for an experienced Platform Security Engineer for a role that combines hands-on engineering with consultancy, helping internal teams adopt secure-by-design approaches while developing and maintaining security tooling and services.<br>
+<br>
+Working within a collaborative, multi-disciplinary team, you will provide technical guidance, conduct security reviews, evaluate new technologies, and build solutions that improve the security posture of a complex AWS platform.<br>
+<br>
+The work is varied and fast-paced, spanning security reviews, proof-of-concept activities, tooling development, operational support, and stakeholder engagement.<br>
+<br>
+<strong>Key Responsibilities:</strong>
+<ul>
+	<li>Provide security consultancy and technical guidance to platform and engineering teams.
+	<li>Conduct security assessments and reviews of cloud services, applications, and tooling.
+	<li>Design, develop, and maintain security tooling and services using AWS-native and open-source technologies.
+	<li>Investigate, evaluate, and prototype new tools and security capabilities.
+	<li>Support teams in adopting secure engineering practices and making effective use of platform security services.
+	<li>Respond to technical queries and provide expert advice on cloud security matters.
+	<li>Contribute to the operation and continuous improvement of CI/CD pipelines and automation capabilities.
+	<li>Support and mentor less experienced engineers, helping to build capability across the organisation.
+</ul>
+<br>
+<strong>Essential Skills & Experience:</strong><br>
+<br>
+<strong>Cloud & Security</strong>
+
+<ul>
+	<li>Strong experience securing AWS environments.
+	<li>Hands-on knowledge of AWS security services, including:
+	<ul>
+		<li>GuardDuty
+		<li>Security Hub
+		<li>AWS Config
+		<li>Service Control Policies (SCPs)
+	</ul>
+	
+	<li>Experience building, managing, and operating cloud infrastructure in AWS.
+</ul>
+<br>
+<strong>Automation & Infrastructure</strong>
+
+<ul>
+	<li>Strong experience with Infrastructure as Code using Terraform.
+	<li>Experience developing and maintaining CI/CD pipelines.
+	<li>Knowledge of containerisation technologies, particularly Docker.
+	<li>Experience working with version control systems such as Git.
+</ul>
+<br>
+<strong>Software Engineering</strong><br>
+Strong coding skills in Python.
+<ul>
+	<li>Experience writing, testing, troubleshooting, and refactoring code using object-oriented principles.
+	<li>Understanding of scripting using Bash.
+	<li>Exposure to Golang and/or Java would be advantageous.
+</ul>
+<br>
+<strong>Tooling & Technology</strong><br>
+Experience with some or all of the following:
+<ul>
+	<li>AWS
+	<li>Terraform / Terragrunt
+	<li>Jenkins
+	<li>Docker
+	<li>Git
+	<li>Bitwarden
+	<li>Python
+	<li>JSON
+	<li>YAML
+</ul>
+]]></description>
+    <salary><![CDATA[£700 Per Day]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[0]]></latitude>
+    <longitude><![CDATA[0]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[SAP Integration Analyst]]></title>
+    <date><![CDATA[Mon, 21 Sep 2026 14:01:59 +0000]]></date>
+    <referencenumber><![CDATA[14547]]></referencenumber>
+    <url><![CDATA[https://www.hanoverdigital.co.uk/job-details/sap-integration-analyst-in-product-delivery-jobs-1729354]]></url>
+    <company><![CDATA[Hanover]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[            ]]></postalcode>
+    <description><![CDATA[<p>We are looking for an experienced Integration Analyst to support the discovery, assessment, migration, modernisation and decommissioning of enterprise applications and integration services within a large and complex technology environment.<br> <br> Working closely with architecture, engineering and delivery teams, you will analyse applications, APIs, integrations, data flows and dependencies, helping organisations understand their current technology estate and deliver successful transformation programmes.<br> <br> <b>Key Responsibilities:</b></p><ul><li>Conduct technical discovery across applications, APIs, integration platforms and supporting services.</li><li>Facilitate workshops with technical and business stakeholders.</li><li>Document integration landscapes, dependencies, risks and technical processes.</li><li>Analyse APIs, interfaces, messaging solutions and system integrations.</li><li>Assess integration patterns and identify opportunities for simplification and modernisation.</li><li>Support migration planning, dependency analysis, transition activities and decommissioning programmes.</li><li>Produce technical documentation, inventories, process maps and assessment outputs.</li><li>Translate technical findings into clear recommendations for both technical and non-technical audiences.</li><li>Support delivery planning, backlog management and governance activities.</li></ul><p><br> <b>Essential Experience:</b></p><ul><li>Experience as an Integration Analyst, Technical Analyst, Systems Analyst or similar role.</li><li>Strong understanding of APIs, system integrations and enterprise application landscapes.</li><li>Experience conducting discovery activities and stakeholder workshops.</li><li>Ability to analyse technical architectures, interfaces and dependencies.</li><li>Experience producing high-quality technical documentation and analysis artefacts.</li><li>Knowledge of Agile delivery approaches and backlog management.</li><li>Strong communication, facilitation and stakeholder management skills.</li></ul><p><br> <b>Desirable Experience:</b></p><ul><li>API-led and event-driven architectures.</li><li>REST, SOAP, messaging and file-based integrations.</li><li>API management platforms and OpenAPI specifications.</li><li>Cloud migration, application modernisation or transformation programmes.</li><li>Application portfolio assessment and dependency mapping.</li><li>Jira, Azure DevOps, Confluence or similar tools.</li><li>Experience within large-scale transformation or public sector environments.</li></ul><p><br> <b>About You:</b><br> <br> You are naturally curious, analytical and organised, with the ability to work through complexity and ambiguity. You enjoy collaborating with stakeholders, identifying dependencies and risks, and producing clear, actionable insights that support successful technology transformation.</p>]]></description>
+    <salary><![CDATA[£400 Per Day]]></salary>
+    <category><![CDATA[Product & Delivery]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[55.378051]]></latitude>
+    <longitude><![CDATA[-3.435973]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Technical Architect (SAP) ]]></title>
+    <date><![CDATA[Mon, 21 Sep 2026 14:06:57 +0000]]></date>
+    <referencenumber><![CDATA[14548]]></referencenumber>
+    <url><![CDATA[https://www.hanoverdigital.co.uk/job-details/technical-architect-sap-in-architecture-jobs-1729362]]></url>
+    <company><![CDATA[Hanover]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[            ]]></postalcode>
+    <description><![CDATA[We are looking for an experienced Technical Architect to join a specialist team focused on improving SAP integration delivery through automation, AI, and modern engineering practices.<br>
+<br>
+Working closely with SAP delivery teams, you will identify opportunities to reduce effort, improve quality, and accelerate delivery across the integration lifecycle. This is a hands-on role combining architecture, prototyping, and technical leadership, with a strong focus on delivering measurable outcomes and demonstrating value through proof-of-concepts and automation.<br>
+<br>
+<strong>Key responsibilities:</strong>
+<ul>
+	<li>Provide technical leadership across SAP integration delivery.
+	<li>Design and implement automation, tooling, and AI-driven solutions.
+	<li>Lead technical discovery, prototyping, and proof-of-concept activities.
+	<li>Improve processes such as specification creation, API development, testing, deployment, and code generation.
+	<li>Champion modern engineering practices and developer enablement.
+	<li>Build business cases and demonstrate ROI for new approaches and technologies.
+</ul>
+<br>
+<strong>Essential skills:</strong>
+
+<ul>
+	<li>Experience as a Technical Architect, Solution Architect, or Senior Engineer within SAP integration environments.
+	<li>Strong knowledge of SAP integration technologies, APIs, PI/PO (or equivalent), and ABAP.
+	<li>Experience developing automation, tooling, developer platforms, or CI/CD solutions.
+	<li>Proven ability to lead technical spikes, innovation initiatives, and proof-of-concepts.
+	<li>Strong stakeholder engagement and communication skills.
+	<li>Experience using metrics and evidence to demonstrate delivery improvements.
+</ul>
+<br>
+<strong>Desirable:</strong>
+
+<ul>
+	<li>OpenAPI and contract-first API development.
+	<li>API testing and automation frameworks.
+	<li>AI-assisted software development and code generation tools.
+	<li>Platform engineering or developer experience backgrounds.
+	<li>Cloud integration architectures and API management.
+	<li>Experience working on complex transformation programmes.
+</ul>
+<br>
+<strong>We're looking for someone who is:</strong>
+
+<ul>
+	<li>Curious, pragmatic, and outcome focused.
+	<li>Passionate about automation and continuous improvement.
+	<li>Comfortable working in fast-paced, experimental environments.
+	<li>Able to translate innovative ideas into practical, scalable solutions.
+</ul>
+<br>
+This is an opportunity to shape how SAP integrations are delivered by introducing automation, AI, and engineering best practice into a large-scale enterprise environment.]]></description>
+    <salary><![CDATA[£650 Per Day]]></salary>
+    <category><![CDATA[Architecture]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[55.378051]]></latitude>
+    <longitude><![CDATA[-3.435973]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[DevOps/DataOps Engineers]]></title>
+    <date><![CDATA[Tue, 18 Aug 2026 15:46:57 +0000]]></date>
+    <referencenumber><![CDATA[14531]]></referencenumber>
+    <url><![CDATA[https://www.hanoverdigital.co.uk/job-details/devopsdataops-engineers-in-software-development-jobs-1688609]]></url>
+    <company><![CDATA[Hanover]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Remote]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[We're hiring experienced DevOps/DataOps Engineers to support major UK public sector digital programmes. You’ll work within multidisciplinary engineering teams to build, operate and improve secure, cloud-based data platforms supporting data, analytics and AI at scale.<br>
+<br>
+<strong>What You'll Do:</strong>
+<ul>
+	<li>Build and support DevOps/DataOps capabilities.
+	<li>Develop automated CI/CD pipelines and data workflows.
+	<li>Work with Kubernetes, Docker and cloud platforms.
+	<li>Automate infrastructure using Terraform and/or Ansible.
+	<li>Implement monitoring, observability and platform reliability.
+	<li>Support secure deployments, including restricted environments.
+	<li>Work with engineers, architects and delivery teams to deliver scalable solutions.
+</ul>
+<br>
+<strong>What We're Looking For:</strong>
+
+<ul>
+	<li>Strong commercial DevOps/DataOps experience.
+	<li>Experience with Airflow, Prefect or Dagster.
+	<li>Kubernetes and Docker experience.
+	<li>Strong CI/CD and Infrastructure as Code skills.
+	<li>Experience with AWS, Azure and/or GCP.
+	<li>Knowledge of technologies such as Spark, Kafka or PostgreSQL.
+	<li>Active SC Clearance is essential.
+</ul>
+<br>
+Experience in UK Government, regulated environments, data/AI platforms, Databricks or Snowflake would be advantageous.]]></description>
+    <salary><![CDATA[£700 Per Day]]></salary>
+    <category><![CDATA[Software Development]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[43.0059455]]></latitude>
+    <longitude><![CDATA[-123.8925908]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Lead Technical Architect]]></title>
+    <date><![CDATA[Mon, 03 Aug 2026 15:57:59 +0000]]></date>
+    <referencenumber><![CDATA[14518]]></referencenumber>
+    <url><![CDATA[https://www.hanoverdigital.co.uk/job-details/lead-technical-architect-in-architecture-jobs-1660100]]></url>
+    <company><![CDATA[Hanover]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Telford]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[
+<p>We are seeking an experienced Lead Technical Architect to provide technical leadership on a major public sector cloud migration and hosting transformation programme.</p>
+
+<p>This role will lead the technical disposition and migration strategy for a complex application estate transitioning from legacy data centre environments into cloud and hosted platforms. You will guide architectural decisions from discovery and design through migration, cutover, and operational acceptance.</p>
+
+<h4><strong>Key Responsibilities</strong></h4>
+
+<ul>
+	<li>Define and lead migration and technical disposition strategies.
+	<li>Assess application dependencies, infrastructure requirements, and migration constraints.
+	<li>Provide technical leadership across discovery, design, migration, and cutover activities.
+	<li>Drive decisions around re-hosting, re-platforming, and migration approaches.
+	<li>Manage technical risks, assumptions, and architectural governance.
+	<li>Collaborate with cloud, hosting, security, network, and engineering teams to ensure migration readiness.
+	<li>Lead technical governance reviews and provide senior stakeholder reporting.
+</ul>
+
+<h4><strong>Essential Experience</strong></h4>
+
+<ul>
+	<li>Extensive experience as a Lead, Enterprise, Technical, or Migration Architect.
+	<li>Proven delivery of large-scale cloud migration, hosting transformation, or data programmes.
+	<li>Strong cloud architecture and migration expertise.
+	<li>Experience managing complex application estates within multi-supplier environments.
+	<li>Strong understanding of infrastructure, networking, security, resilience, and operational readiness.
+	<li>Excellent stakeholder management and communication skills.
+	<li>Active SC Clearance (or ability to obtain it).
+</ul>
+
+<h4><strong>Desirable Experience</strong></h4>
+
+<ul>
+	<li>Experience delivering programmes within Central Government or highly regulated environments.
+	<li>Knowledge of legacy technologies including Oracle, WebLogic, AIX, Solaris, Windows, Linux, COBOL, and IIS.
+	<li>Experience with large-scale lift-and-shift migration programmes.
+</ul>
+
+<p> </p>
+]]></description>
+    <salary><![CDATA[£1,000 Per Day]]></salary>
+    <category><![CDATA[Architecture]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[40.324992]]></latitude>
+    <longitude><![CDATA[-75.3281748]]></longitude>
+  </job>
+</source>
