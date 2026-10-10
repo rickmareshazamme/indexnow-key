@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sat, 10 Oct 2026 17:22:05 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Demo 2]]></title>
+    <date><![CDATA[Tue, 06 Oct 2026 12:24:36 +0000]]></date>
+    <referencenumber><![CDATA[944e38b4-0976-4c2b-85dc-215152aa6ae3]]></referencenumber>
+    <url><![CDATA[https://cassonx.shazamme.site/job-details/demo-2-in-jobs-1747575]]></url>
+    <company><![CDATA[CassonX]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>]]></description>
+    <salary><![CDATA[£-1 - £-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Demo 4]]></title>
+    <date><![CDATA[Tue, 06 Oct 2026 12:25:30 +0000]]></date>
+    <referencenumber><![CDATA[48cf2b2e-7bcd-4f73-b8fc-522565b94cd6]]></referencenumber>
+    <url><![CDATA[https://cassonx.shazamme.site/job-details/demo-4-in-jobs-1747577]]></url>
+    <company><![CDATA[CassonX]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>]]></description>
+    <salary><![CDATA[£-1 - £-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Demo 1]]></title>
+    <date><![CDATA[Tue, 06 Oct 2026 12:23:57 +0000]]></date>
+    <referencenumber><![CDATA[9d98b219-2f87-4ec3-a788-da78c8e545b7]]></referencenumber>
+    <url><![CDATA[https://cassonx.shazamme.site/job-details/demo-1-in-jobs-1747573]]></url>
+    <company><![CDATA[CassonX]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>]]></description>
+    <salary><![CDATA[£-1 - £-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Demo 3]]></title>
+    <date><![CDATA[Tue, 06 Oct 2026 12:25:01 +0000]]></date>
+    <referencenumber><![CDATA[7dbc76c8-2093-471e-b82a-de3a36be5492]]></referencenumber>
+    <url><![CDATA[https://cassonx.shazamme.site/job-details/demo-3-in-jobs-1747576]]></url>
+    <company><![CDATA[CassonX]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>]]></description>
+    <salary><![CDATA[£-1 - £-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+</source>

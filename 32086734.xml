@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sat, 10 Oct 2026 17:22:31 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Demo 1]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 13:11:33 +0000]]></date>
+    <referencenumber><![CDATA[0686507e-e81b-4575-94c8-5c6144906682]]></referencenumber>
+    <url><![CDATA[https://www.strategenius.org/job-details/demo-1-in-jobs-1751181]]></url>
+    <company><![CDATA[Strategenius]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>]]></description>
+    <salary><![CDATA[-1 - -1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Demo 3]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 13:12:46 +0000]]></date>
+    <referencenumber><![CDATA[8a37410d-e04e-46c1-b395-93b54e5ceca7]]></referencenumber>
+    <url><![CDATA[https://www.strategenius.org/job-details/demo-3-in-jobs-1751183]]></url>
+    <company><![CDATA[Strategenius]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>]]></description>
+    <salary><![CDATA[-1 - -1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Demo 2]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 13:12:12 +0000]]></date>
+    <referencenumber><![CDATA[097b6b8c-18af-46c2-9a96-9ee19ad35972]]></referencenumber>
+    <url><![CDATA[https://www.strategenius.org/job-details/demo-2-in-jobs-1751182]]></url>
+    <company><![CDATA[Strategenius]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>]]></description>
+    <salary><![CDATA[-1 - -1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+</source>

@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sat, 10 Oct 2026 17:31:48 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Junior AI Engineer]]></title>
+    <date><![CDATA[Fri, 09 Oct 2026 14:34:59 +0000]]></date>
+    <referencenumber><![CDATA[45563]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/junior-ai-engineer-in-data-ai-jobs-1752774]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Jersey City]]></city>
+    <state><![CDATA[New Jersey]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[ ]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading technology innovator, is looking for a skilled software engineer with expertise in Python and LLM applications.</p><p><b>Position Summary:</b> This role requires a seasoned developer with over three years of experience in Python, specializing in LLM applications such as prompting, tool calling, and RAG. The candidate will work on cutting-edge projects involving embeddings and vector search, designing and optimizing retrieval pipelines, and implementing OpenTelemetry for enhanced observability.</p><p><b>What the right candidate will enjoy:</b></p><ul><li>Collaborating with a dynamic team on innovative projects</li><li>Opportunities to work with the latest technologies in machine learning and data retrieval</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li>3+ years of Python programming</li><li>Experience with LLM applications and related technologies</li><li>Familiarity with OpenTelemetry</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li>Develop and optimize retrieval pipelines</li><li>Implement and evaluate embeddings and vector search methodologies</li><li>Enhance observability through OpenTelemetry integration</li></ul>]]></description>
+    <salary><![CDATA[65]]></salary>
+    <category><![CDATA[Data & AI]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[onsite]]></remotetype>
+    <latitude><![CDATA[40.7195342]]></latitude>
+    <longitude><![CDATA[-74.0430133]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Software Engineer]]></title>
+    <date><![CDATA[Fri, 09 Oct 2026 14:49:59 +0000]]></date>
+    <referencenumber><![CDATA[45558]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/senior-software-engineer-in-application-innovation-jobs-1752794]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Orlando]]></city>
+    <state><![CDATA[Florida]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[32819]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading entertainment company, is seeking a Senior Software Engineer to support the development of scalable, high-performance software systems and cloud infrastructure.</p><p><b>Position Summary</b></p><p>The Senior Software Engineer will be responsible for designing, developing, and optimizing reliable, high-throughput, low-latency software solutions. This individual will leverage deep expertise in Python, AWS, distributed systems, and DevOps practices to build scalable applications and cloud infrastructure components.<br> The ideal candidate is an expert hands-on developer with strong problem-solving abilities, experience working across complex data architectures, and the ability to independently drive technical solutions from design through implementation.<br> This role will collaborate closely with engineers, data scientists, and cross-functional partners to improve system performance, implement architectural enhancements, and establish scalable engineering practices.</p><p><b>What the right candidate will enjoy:</b></p><ul><li>Building complex, scalable software solutions within a large enterprise technology environment.</li><li>Working with Python, AWS, distributed systems, and modern DevOps technologies.</li><li>Solving challenging engineering problems involving performance, scalability, and data management.</li><li>Collaborating with software engineers, data scientists, and technical stakeholders.</li><li>Contributing to architecture decisions and identifying opportunities to improve existing systems.</li><li>Providing technical mentorship and helping establish engineering best practices.</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li>5+ years of professional software development experience, including distributed systems and data management.</li><li>Expert-level Python programming skills with strong knowledge of algorithms, data structures, and code optimization.</li><li>Hands-on experience developing and deploying cloud-based solutions using AWS services such as IAM, S3, Kinesis, Lambda, and SNS.</li><li>Strong DevOps experience, including CI/CD, Docker, automated testing, and deployment automation.</li><li>Experience with Infrastructure as Code using Terraform, CloudFormation, AWS CDK, or similar technologies.</li><li>Proficiency in TypeScript, Java, or another strongly typed programming language.</li><li>Understanding of database architectures, including SQL, NoSQL, data warehouses, partitioning, and storage trade-offs.</li><li>Experience designing and optimizing reliable, scalable, high-throughput, low-latency applications.</li><li>Strong technical problem-solving abilities and experience making architectural recommendations.</li><li>Bachelor's degree or 17 years of relevant experience.</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li>Design, develop, and maintain reliable, scalable, high-performance software applications and cloud infrastructure components.</li><li>Build production-quality Python code to solve complex engineering and data management challenges.</li><li>Design low-level software implementations, including data structures, algorithms, class structures, and code organization.</li><li>Develop and implement cloud-based solutions leveraging AWS services and modern infrastructure automation tools.</li><li>Apply DevOps best practices, including CI/CD, containerization, automated testing, and deployment automation.</li><li>Identify and resolve system performance, scalability, and reliability challenges.</li><li>Evaluate existing architectures and propose technical improvements to support growing system demands.</li><li>Identify opportunities to reuse, generalize, or optimize existing services and implementations.</li><li>Collaborate with engineers, data scientists, and other stakeholders to define and implement technical solutions.</li><li>Conduct thorough code reviews to maintain code quality, performance, and engineering standards.</li><li>Provide technical mentorship and guidance to other engineering team members.</li><li>Stay current with emerging software engineering, cloud infrastructure, and data management technologies.</li></ul>]]></description>
+    <salary><![CDATA[85]]></salary>
+    <category><![CDATA[Application Innovation]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[28.460223]]></latitude>
+    <longitude><![CDATA[-81.4579587]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[SOC L2 Analyst]]></title>
+    <date><![CDATA[Fri, 09 Oct 2026 13:54:59 +0000]]></date>
+    <referencenumber><![CDATA[45029]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/soc-l2-analyst-in-cybersecurity-jobs-1752718]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Charlotte]]></city>
+    <state><![CDATA[North Carolina]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[28202]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading digital financial services company, is looking for a SOC L2 Analyst.<br> <br> <b>Position Summary:</b> The SOC L2 Analyst is a crucial part of the Information Protection and Risk Management team, contributing to the Security Operations Center (SOC) to manage security risks comprehensively. This role involves responding to security events, performing complex investigations, and ensuring compliance with audit and legal requirements. The analyst will work closely with the IPRM program to develop security risk management strategies.<br> <br> <b>What the right candidate will enjoy:</b></p><ul><li>Working in a hybrid environment with flexible onsite requirements</li><li>Engaging in cutting-edge cloud security initiatives</li><li>Collaborating with a dynamic and innovative IT team</li></ul><p><br> <b>What type of experience does the right candidate have:</b></p><ul><li>Minimum of four years in information security</li><li>Practical understanding of network protocols and operating systems</li><li>Experience with Azure/AWS security and GIAC certifications</li></ul><p><br> <b>What the responsibilities are of the right candidate:</b></p><ul><li>First-level response for real-time security alerts and events</li><li>Assisting the Incident Response team with security events/incidents</li><li>Performing complex security investigations and root cause analysis</li><li>Generating reports around security events and metrics</li><li>Developing documentation in support of response processes and/or procedures</li></ul>]]></description>
+    <salary><![CDATA[50-60]]></salary>
+    <category><![CDATA[Cybersecurity]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[35.2326781]]></latitude>
+    <longitude><![CDATA[-80.8460822]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior AI Engineer]]></title>
+    <date><![CDATA[Fri, 09 Oct 2026 14:34:59 +0000]]></date>
+    <referencenumber><![CDATA[45561]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/senior-ai-engineer-in-application-innovation-jobs-1752773]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Jersey City]]></city>
+    <state><![CDATA[New Jersey]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[ ]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading technology firm, is looking for a skilled AI/ML Engineer.</p><p><b>Position Summary:</b> This role demands a professional with over 7 years of experience, including 4 years specifically in AI/ML. The ideal candidate will possess deep practical knowledge of the 'AI game,' contributing to the client's confidence in AI initiatives. The role involves working with Python, Graph RAG, agent memory, evaluations/guardrails, and various data management platforms including Databricks and SageMaker.</p><p><b>What the right candidate will enjoy:</b></p><ul><li>Engaging with cutting-edge AI technologies</li><li>Collaborating with a dynamic team</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li>7+ years in the field with a focus on AI/ML</li><li>Proficiency in Python and related AI technologies</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li>Develop and implement AI/ML solutions</li><li>Manage data platforms such as Databricks and SageMaker</li><li>Ensure robust evaluations and guardrails in AI systems</li></ul>]]></description>
+    <salary><![CDATA[70]]></salary>
+    <category><![CDATA[Application Innovation]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[onsite]]></remotetype>
+    <latitude><![CDATA[40.7195342]]></latitude>
+    <longitude><![CDATA[-74.0430133]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Sr. Technology Enablement Engineer]]></title>
+    <date><![CDATA[Fri, 09 Oct 2026 14:59:59 +0000]]></date>
+    <referencenumber><![CDATA[45494]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/sr-technology-enablement-engineer-in-application-innovation-jobs-1752809]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Ann Arbor]]></city>
+    <state><![CDATA[Michigan]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[48105]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading technology firm, is looking for a Solutions Architect to join their dynamic and innovative team.</p><p><b>Position Summary:</b> The Solutions Architect will play a pivotal role in driving the development and implementation of agentic architectures, focusing on AI, generative AI, and LLMs. This role requires hands-on coding and architecture design, engaging with business stakeholders to build prototypes and MVPs. The architect will mentor junior team members and manage the team's data engineering and infrastructure, utilizing on-prem GPUs and Google Cloud Platform.</p><p><b>What the right candidate will enjoy:</b></p><ul><li>Working in a flexible, startup-style environment across global time zones</li><li>Leading projects from ideation to completion with a team-oriented approach</li><li>Engaging in continuous learning and growth opportunities</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li>Extensive experience with agentic architecture and AI/ML deployments</li><li>Proficiency in Google Cloud Platform and on-prem infrastructures</li><li>Background in production-level AI and ML projects</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li>Design and develop architectural solutions, prototypes, and MVPs</li><li>Mentor junior team members and foster a collaborative team culture</li><li>Engage with business partners to understand and meet project requirements</li><li>Manage data engineering and infrastructure effectively</li></ul>]]></description>
+    <salary><![CDATA[180,000]]></salary>
+    <category><![CDATA[Application Innovation]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[42.3295957]]></latitude>
+    <longitude><![CDATA[-83.7092861]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[UI Developer]]></title>
+    <date><![CDATA[Fri, 09 Oct 2026 14:54:59 +0000]]></date>
+    <referencenumber><![CDATA[45520]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/ui-developer-in-application-innovation-jobs-1752801]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[St. Louis]]></city>
+    <state><![CDATA[Missouri]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[63105]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a healthcare client is seeking a UI Developer specializing in Streamlit. <br> <br> Designs, develops, and implements complex enterprise software solutions. Collaborates closely with technical and non-technical roles such as data modelers, architects, business analysts, data stewards, and subject matter experts (SMEs) to provide design, technical analysis, development/configuration, testing, implementation, and support expertise representing the interest of the business across the enterprise.<br> <br> Education/Experience:</p><ul><li>Bachelor's degree in a quantitative or business field (e.g., statistics, mathematics, engineering, computer science) and Requires 4 – 6 years of related experience.</li><li>Or equivalent experience acquired through accomplishments of applicable knowledge, duties, scope and skill reflective of the level of this position.</li></ul><p><br> Responsibilities:</p><ul><li>Develops or prototypes software modules at various levels of complexity, including but not limited to: service interfaces, process flows, service messages, SOA components, business logic, UI/UX, or data access logic</li><li>Designs, develops, tests, and deploys software solutions and process flows complying with standards, guidelines, and best practices</li><li>Identifies, assesses, and formulates architectural impacts and solutions from business requirements</li><li>Collaborates to ensure application designs utilize appropriate patterns and standards</li><li>Analyzes user needs and software requirements to determine feasibility of design within time and cost constraints, including the ability to estimate work needed</li><li>Assesses functional and nonfunctional requirements and creates designs to meet both business and technical needs</li><li>Creates conceptual and detailed technical design documents and works with the business to update, as needed</li><li>Identifies and resolves problems, often anticipating issues before they occur or before they grow, develops and evaluates options, and implements solutions</li><li>Utilizes and contribute to the development of application coding techniques and standards</li><li>Collaborates with Application Solution Architects, IS Business Analysts and other technical resources on the delivery of application functionality</li><li>Participates in tier 3 application support activities including incident management and the assessment and delivery of application upgrades and patches</li><li>Performs other duties as assigned</li><li>Complies with all policies and standards</li></ul>]]></description>
+    <salary><![CDATA[60]]></salary>
+    <category><![CDATA[Application Innovation]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[38.6446552]]></latitude>
+    <longitude><![CDATA[-90.3301342]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Application Analyst]]></title>
+    <date><![CDATA[Fri, 09 Oct 2026 14:39:59 +0000]]></date>
+    <referencenumber><![CDATA[45560]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/application-analyst-in-application-innovation-jobs-1752780]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Charlotte]]></city>
+    <state><![CDATA[North Carolina]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[27545]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a utilities client, is seeking an Application Analyst to join a collaborative and driven team. This role will serve as a key project resource for the Enhancements initiative, partnering closely with the Firewall Compliance team to drive operational excellence, data integrity, and continuous improvement.<br> <br> Key Responsibilities<br> • Assist with the health, performance, and reliability of the application.<br> • Design and develop complex software solutions to address business challenges.<br> • Translate ideas into actionable user stories and deliver high-quality outcomes.<br> • Provide insights and solutions to product owners and business users.<br> • Ensure regulatory compliance and apply Human Performance tools during testing and implementation.<br> • Lead design/code reviews and uphold best practices in source control and documentation.<br> • Communicate complex technical concepts clearly across diverse audiences.<br> • Thrive in a fast-paced environment with a growth mindset and passion for learning.<br> <br> Required Qualifications<br> • Bachelor’s degree in Computer Science or a related field.<br> • 10+ years of experience in application development and support.<br> • Strong communication and interpersonal skills.<br> • Proven problem-solving and analytical abilities.<br> • Experience managing multiple priorities and user stories.<br> • Familiarity with the full application lifecycle.<br> <br> Preferred Qualifications<br> (Listed in order of importance)<br> • Solid SQL background; comfortable with DBA tasks and stored procedures.<br> • Proficiency in C#.<br> • Python experience, especially for data extraction tasks.<br> • GUI development experience with Angular; strong JavaScript skills; basic HTML/CSS.<br> • RESTful APIs<br> • Familiarity with firewall policies or a networking background.<br> • Experience with Palo Alto or Fortinet firewalls.<br> • Knowledge of Archer platform.<br> • Comfort working with transactional and denormalized databases.<br> • Kafka experience.<br> <br> Additional Desired Attributes<br> • Embrace Agile principles and value strong documentation.<br> • Self-motivated and capable of working independently.<br> • Excellent time management and organizational skills.<br> • Ability to manage multiple efforts confidently.<br> • Understanding of IT security standards and deliverables.</p>]]></description>
+    <salary><![CDATA[73]]></salary>
+    <category><![CDATA[Application Innovation]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[35.2270768]]></latitude>
+    <longitude><![CDATA[-80.8408933]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Python Developer ]]></title>
+    <date><![CDATA[Fri, 09 Oct 2026 14:59:59 +0000]]></date>
+    <referencenumber><![CDATA[45384]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/python-developer-in-application-innovation-jobs-1752808]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Jersey City]]></city>
+    <state><![CDATA[New Jersey]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[ ]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading fintech company, is looking for a Python Developer to join the finance data modernization project.</p><p><b>Position Summary:</b> The selected candidate will be responsible for building a custom framework using Python, focusing on backend development with FastAPI and Flask. The role involves developing scalable applications, deploying APIs to AWS, and orchestrating AWS services like step functions, ECS, and lambda. A growth mindset and understanding of CI/CD pipelines are essential.</p><p><b>What the right candidate will enjoy:</b></p><ul><li>Working on cutting-edge fintech projects</li><li>Opportunity to build scalable applications and frameworks</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li>Strong proficiency in Python and object-oriented programming</li><li>Experience with backend development using FastAPI and Flask</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li>Build and deploy APIs to AWS</li><li>Develop scalable frameworks for data ingestion, processing, and loading</li><li>Collaborate with a team undergoing upscaling</li><li>Leverage Agentic coding tools and Copilot AI</li></ul>]]></description>
+    <salary><![CDATA[75]]></salary>
+    <category><![CDATA[Application Innovation]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[onsite]]></remotetype>
+    <latitude><![CDATA[40.7195342]]></latitude>
+    <longitude><![CDATA[-74.0430133]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Automation engineer]]></title>
+    <date><![CDATA[Fri, 09 Oct 2026 14:59:59 +0000]]></date>
+    <referencenumber><![CDATA[45340]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/automation-engineer-in-application-innovation-jobs-1752807]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Detroit]]></city>
+    <state><![CDATA[Michigan]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[48226]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading financial client, is looking for an Automation Engineer.</p><p><b>Position Summary:</b> We are seeking a skilled Automation Engineer to join our quality engineering team. The ideal candidate will have hands-on experience building and maintaining automated test frameworks using JavaScript and modern testing tools such as Playwright and/or Cypress. This role is pivotal in improving test coverage, increasing release confidence, and supporting continuous delivery through reliable automation practices. The candidate will collaborate closely with developers, QA engineers, product managers, and other stakeholders to define and execute test strategies, ensuring high-quality software delivery.</p><p><b>What the right candidate will enjoy:</b></p><ul><li>Engaging in a collaborative environment with developers, QA engineers, and product managers.</li><li>Working with cutting-edge testing tools and technologies.</li><li>Opportunities to innovate and improve automation frameworks and processes.</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li>Strong experience with JavaScript or TypeScript.</li><li>Hands-on experience with Playwright, Cypress, or similar end-to-end testing frameworks.</li><li>Familiarity with CI/CD tools such as GitHub Actions, Jenkins, or GitLab CI.</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li>Design, develop, and maintain automated test scripts using JavaScript, Playwright, Cypress, or similar tools.</li><li>Build and enhance end-to-end, integration, regression, and smoke test suites.</li><li>Integrate automated tests into CI/CD pipelines and analyze test results to improve test reliability.</li></ul>]]></description>
+    <salary><![CDATA[41]]></salary>
+    <category><![CDATA[Application Innovation]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[42.3301406]]></latitude>
+    <longitude><![CDATA[-83.0449692]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Data Engineer]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 17:54:59 +0000]]></date>
+    <referencenumber><![CDATA[45523]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/data-engineer-in-data-ai-jobs-1751541]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[St. Louis]]></city>
+    <state><![CDATA[Missouri]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[63105]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partenership with a national leader in managed healthcare services, is currently hiring for a Data Engineer!<br> <br> <b>About the Position / Current Initiatives:</b><br> Support a risk-adjustment data validation and auditing initiative by ingesting source data from CMS, Optum, and CDAT into Snowflake and building the supporting ETL/data pipelines. The Data Engineer will help prepare and organize data for the Streamlit audit interface and Power BI dashboards. The work supports Phase 1 of the auditing application, with a January 25 go-live and additional enhancements planned for Phase 2 in June 2027.</p><p><b>About the Team Structure + Culture:</b><br> The team is approximately 15+ people, plus contractors. The Data Engineer will report directly to the hiring manager and work closely with the UI and Power BI developers, business partners, and coding analysts. The team is working on an aggressive timeline and needs someone who can take ownership of the data pipelines and move quickly.</p><p><b>Job Must Haves:</b></p><ul><li>Strong Snowflake experience</li><li>Snowflake ETL/data pipeline experience</li><li>Experience ingesting and transforming source data</li><li>Strong data engineering background</li><li>Experience building and supporting data pipelines</li></ul><p><b>Job Nice to Haves:</b></p><ul><li>Python</li><li>Talend or IDMC Informatica</li><li>Snowpipe</li><li>Healthcare/risk-adjustment data experience</li></ul>]]></description>
+    <salary><![CDATA[54]]></salary>
+    <category><![CDATA[Data & AI]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[38.6446552]]></latitude>
+    <longitude><![CDATA[-90.3301342]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Fiber Engineer]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 18:09:59 +0000]]></date>
+    <referencenumber><![CDATA[45478]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/fiber-engineer-in-cloud-infrastructure-jobs-1751565]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Raleigh]]></city>
+    <state><![CDATA[North Carolina]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[28202]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading energy provider, is looking for a Telecom Engineer II to support outside plant fiber engineering and telecom project delivery across the Carolinas East region.</p><p><b>Position Summary:</b></p><p>The Telecom Engineer II will support the planning, design, and construction oversight of outside plant (OSP) fiber optic network infrastructure supporting critical utility operations. This role focuses on fiber network reliability, capacity, and connectivity while coordinating with internal engineering teams and external contractors.</p><p>This is an individual contributor role requiring strong OSP fiber engineering experience, project delivery skills, and the ability to work independently in a collaborative environment.</p><p><b>What the right candidate will enjoy:</b></p><ul><li>Working on critical fiber infrastructure supporting utility and energy operations.</li><li>Collaborating with engineering teams, field crews, and external contractors.</li><li>Supporting fiber network expansion, upgrades, and construction projects.</li><li>Balancing office-based engineering work with field visits and project implementation.</li><li>Contributing to reliable, scalable communications infrastructure.</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li>Strong outside plant (OSP) fiber engineering experience, including fiber network design, construction, splicing, or repair.</li><li>Experience supporting telecommunications engineering projects and project delivery.</li><li>Understanding of fiber optic network architecture, construction methods, and testing procedures, including OTDR and power meter testing.</li><li>Ability to interpret engineering drawings, maps, and GIS data.</li><li>Experience coordinating with contractors, vendors, and field crews.</li><li>Ability to work independently while collaborating with cross-functional engineering teams.</li><li>Proficiency with Microsoft Office tools, including Word, Excel, PowerPoint, Visio, SharePoint, and Teams.</li></ul><p><b>What are the responsibilities of the right candidate:</b></p><ul><li>Develop and maintain fiber optic network designs, including backbone, lateral, and access networks.</li><li>Perform fiber route selection, capacity planning, and redundancy design.</li><li>Prepare engineering drawings, splice schematics, and construction documentation.</li><li>Oversee OSP fiber construction and installation to ensure compliance with design specifications, safety requirements, and industry standards.</li><li>Coordinate contractors responsible for fiber installation, splicing, and testing.</li><li>Conduct field inspections and resolve construction issues or design discrepancies.</li><li>Collaborate with Transmission, Distribution, and Relay teams to support utility communications and grid modernization initiatives.</li><li>Coordinate telecom infrastructure integration with substations, protection systems, and control systems.</li><li>Review contractor deliverables, schedules, and performance to ensure project quality and timely completion.</li><li>Maintain accurate network records, as-built drawings, and asset documentation.</li><li>Support permitting, easement coordination, and right-of-way requirements.</li></ul>]]></description>
+    <salary><![CDATA[45]]></salary>
+    <category><![CDATA[Cloud & Infrastructure]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[35.2326781]]></latitude>
+    <longitude><![CDATA[-80.8460822]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Infrastructure Analyst IV]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 18:09:59 +0000]]></date>
+    <referencenumber><![CDATA[45456]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/infrastructure-analyst-iv-in-cloud-infrastructure-jobs-1751564]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Charlotte]]></city>
+    <state><![CDATA[North Carolina]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[28202]]></postalcode>
+    <description><![CDATA[<p><b>Infrastructure Analyst IV (Charlotte, NC)</b></p><p>Optomi, in partnership with a leading energy organization, is seeking an experienced Infrastructure Analyst IV for their Charlotte, NC location! This position is ideal for a hands-on infrastructure professional with strong experience in automation, scripting, and Infrastructure as Code. The right candidate will support and improve enterprise infrastructure across cloud and on-premises environments, working with technologies including Python, PowerShell, Terraform, Linux, and API-based integrations. This role will be heavily focused on designing and implementing scalable infrastructure automation solutions, improving operational processes, and supporting the performance and reliability of enterprise systems. The right candidate will enjoy working in a large enterprise environment with the opportunity to make an impact on infrastructure strategy and automation!</p><p><b>What the right candidate will enjoy!</b></p><ul><li>The opportunity to work with a large and established energy organization!</li><li>The ability to work on highly visible enterprise infrastructure and automation initiatives!</li><li>The opportunity to design and implement infrastructure automation solutions from the ground up!</li><li>The ability to work across both cloud and on-premises environments!</li><li>The opportunity to make an impact by improving the scalability, reliability, and efficiency of enterprise infrastructure!</li></ul><p><b>Experience of the right candidate:</b></p><ul><li>3+ years of experience working in infrastructure engineering, systems engineering, cloud engineering, DevOps, or a related field.</li><li>Strong hands-on experience with Python and/or PowerShell for infrastructure automation and scripting.</li><li>Experience with Terraform and Infrastructure as Code (IaC).</li><li>Strong experience working with Linux-based technologies.</li><li>Experience designing and implementing infrastructure automation solutions.</li><li>Experience developing or supporting API-based integrations.</li><li>Experience automating infrastructure provisioning, configuration, monitoring, or operational processes.</li><li>Experience working with cloud and/or on-premises infrastructure, preferably within hybrid environments.</li><li>Exposure to AWS and/or Azure.</li><li>Strong understanding of enterprise infrastructure technologies including servers, storage, networking, and platform services.</li><li>Strong written and verbal communication skills with the ability to explain technical concepts to different audiences.</li><li>Ability to work independently, research complex issues, and develop solutions with minimal supervision.</li><li>Strong organizational skills with the ability to prioritize multiple projects and deadlines.</li><li>Bachelor's degree in Computer Science, a related discipline, or equivalent experience.</li></ul><p><b>Responsibilities of the right candidate:</b></p><ul><li>Design and implement automation solutions for enterprise infrastructure using Python, PowerShell, Terraform, and Linux-based technologies.</li><li>Automate infrastructure provisioning, configuration, deployment, monitoring, and operational processes.</li><li>Develop and maintain Infrastructure as Code solutions to create repeatable and scalable infrastructure deployments.</li><li>Develop and support API-based integrations between infrastructure platforms and enterprise systems.</li><li>Plan, design, install, integrate, and support computer systems and infrastructure technologies.</li><li>Support infrastructure across cloud and on-premises environments, including hybrid architectures.</li><li>Develop and maintain standard installation, configuration, upgrade, and operational procedures.</li><li>Evaluate new infrastructure technologies and recommend solutions that improve performance, scalability, and operational efficiency.</li><li>Coordinate hardware and software upgrades with IT teams and other business units.</li><li>Provide technical guidance and support to other members of the IT organization.</li><li>Assist with developing and maintaining standards for enterprise hardware, software, and infrastructure technologies.</li><li>Troubleshoot complex infrastructure issues and research solutions independently.</li><li>Document technical processes, solutions, and project activities.</li><li>Communicate project status, technical recommendations, and complex infrastructure concepts to technical and business stakeholders.</li><li>Work collaboratively across infrastructure, application, and business teams to support enterprise initiatives.</li><li>Self-starter with a strong sense of ownership and ability to work independently with minimal supervision.</li></ul>]]></description>
+    <salary><![CDATA[55]]></salary>
+    <category><![CDATA[Cloud & Infrastructure]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[35.2240001]]></latitude>
+    <longitude><![CDATA[-80.8484952]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Snowflake Backend Developer]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 20:30:00 +0000]]></date>
+    <referencenumber><![CDATA[45505]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/snowflake-backend-developer-in-data-ai-jobs-1751775]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Charlotte]]></city>
+    <state><![CDATA[North Carolina]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[28202]]></postalcode>
+    <description><![CDATA[<p><b>Position Summary:</b><br> Optomi, in partnership with a leading financial services company, is looking for a <b>Snowflake Backend Developer</b> to join their data engineering team. The Snowflake Backend Developer will focus on building and supporting backend data solutions within Snowflake. This person will work hands-on with Snowflake, SQL, and Python to develop scalable data pipelines, transform and optimize data, and support applications and downstream data consumers. The role will collaborate closely with data engineering, architecture, and business teams to deliver reliable data solutions in a large enterprise environment.</p><p><b>What the right candidate will enjoy:</b></p><ul><li>Working hands-on within a large-scale Snowflake environment.</li><li>Building backend data solutions and pipelines using Snowflake, SQL, and Python.</li><li>Collaborating with data engineering and architecture teams on enterprise data initiatives.</li><li>Working in a fast-paced financial services environment with opportunities to solve complex data problems.</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li>Strong hands-on Snowflake backend development experience.</li><li>Advanced SQL experience, including complex queries and data transformations.</li><li>Hands-on Python experience for data development and automation.</li><li>Experience developing and supporting ETL/ELT pipelines.</li><li>Experience working with large-scale enterprise data environments.</li><li>Understanding of data modeling, performance optimization, and data quality.</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li>Develop and maintain backend data solutions within Snowflake.</li><li>Build and optimize SQL transformations, pipelines, and data processing workflows.</li><li>Use Python to support data processing, automation, and backend development.</li><li>Troubleshoot and optimize Snowflake workloads for performance and reliability.</li><li>Support the movement and transformation of data across enterprise systems.</li></ul>]]></description>
+    <salary><![CDATA[40-45]]></salary>
+    <category><![CDATA[Data & AI]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[35.2326781]]></latitude>
+    <longitude><![CDATA[-80.8460822]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Engineering Manager ]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 17:00:02 +0000]]></date>
+    <referencenumber><![CDATA[45343]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/engineering-manager-in-data-ai-jobs-1751496]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[New York]]></city>
+    <state><![CDATA[NY]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[10112]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading media technology company, is looking for an Engineering Manager to spearhead a critical project.</p><p><b>Position Summary:</b> The Engineering Manager will lead an initiative to consolidate disparate telemetry systems into a unified platform, enhancing automation, root-cause analysis, and self-healing capabilities with AI. This role involves interfacing with various teams, including SSAI, player, and CDM teams, to streamline video operations and KPI analysis. The successful candidate will be a highly technical leader — part architect, part developer, and part engineering manager — who can work across multiple teams and systems to drive innovation in video engineering.</p><p><b>What the right candidate will enjoy:</b></p><ul><li>Leading a high-impact project at the intersection of media, data, architecture, AI, and technology</li><li>Architecting a solution that brings together telemetry and data from multiple platforms and systems</li><li>Collaborating with multiple teams to solve complex technical challenges</li><li>Building a new team and helping shape its technical direction</li><li>Working on automation, AI, and self-healing capabilities</li><li>Being part of a dynamic and innovative team environment</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li>Proven experience with observability, monitoring, and telemetry tools</li><li>Strong architecture and technical leadership background</li><li>Experience integrating or consolidating disparate platforms, systems, or data sources</li><li>Strong understanding of data architecture, data harmonization, and distributed systems</li><li>Hands-on engineering experience and willingness to remain technically involved</li><li>Experience with automation, AI, or self-healing operational capabilities</li><li>Experience in media or streaming industries is a plus, but NOT required</li><li>Staff, Principal, Distinguished Engineer, Architect, or highly technical Engineering Manager backgrounds could be strong fits</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li>Lead the consolidation of telemetry systems across teams</li><li>Architect and help build a unified platform for video operations, monitoring, and KPI analysis</li><li>Determine the appropriate data points and telemetry to pull from underlying component systems</li><li>Structure and harmonize data from multiple sources to support automation and AI</li><li>Implement AI-driven automation and self-healing capabilities for enhanced operational efficiency</li><li>Work closely with SSAI, player, CDM, and other engineering teams to integrate their systems and telemetry</li><li>Drive deeper root-cause analysis beyond surface-level alerts</li><li>Lead and develop a newly formed team, potentially including offshore support</li><li>Participate in hiring and help define the technical capabilities of the new team</li><li>Communicate effectively with technical and business stakeholders to achieve project goals</li></ul>]]></description>
+    <salary><![CDATA[98]]></salary>
+    <category><![CDATA[Data & AI]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[40.7591116]]></latitude>
+    <longitude><![CDATA[-73.978997]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Machine Learning Engineer]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 17:54:59 +0000]]></date>
+    <referencenumber><![CDATA[43585]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/machine-learning-engineer-in-data-ai-jobs-1751539]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Atlanta]]></city>
+    <state><![CDATA[Georgia]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[30339]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading retail company, is seeking a ML Engineer to join their team! This role is crucial for supporting the migration of AI and ML models from the analytics phase to a full-scale IT environment. The successful candidate will work closely with data science partners to productionize pricing models, ensuring they are scalable, secure, and integrated with IT systems. This involves building data engineering pipelines and utilizing a tech stack including Airflow, Vertex AI, and Kubernetes. The position requires a strong foundation in SQL and Python, with a collaborative mindset to work across functions.<br> <br> <b>What the right candidate will enjoy:</b></p><ul><li>Engaging in cross-functional collaboration with data science and IT teams.</li><li>Working in a dynamic environment that encourages learning and adapting to new technologies.</li><li>Being part of a team that values open communication and innovation.</li></ul><p><br> <b>What type of experience does the right candidate have:</b></p><ul><li>2-6 years of experience in AI, ML, or data engineering roles.</li><li>Proficiency in SQL, Python, and CI/CD processes.</li><li>Familiarity with tools such as Airflow, Vertex AI, Dataform, and Kubernetes.</li></ul><p><br> <b>What the responsibilities are of the right candidate:</b></p><ul><li>Supporting the migration and productionization of AI and ML models.</li><li>Building and maintaining data engineering pipelines.</li><li>Collaborating with cross-functional teams to ensure model scalability and security.</li><li>Participating in live coding interviews and technical discussions.</li></ul>]]></description>
+    <salary><![CDATA[60]]></salary>
+    <category><![CDATA[Data & AI]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[33.8676889]]></latitude>
+    <longitude><![CDATA[-84.4645184]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Product Manager]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 17:49:59 +0000]]></date>
+    <referencenumber><![CDATA[45504]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/product-manager-in-business-enablement-jobs-1751533]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Kissimmee]]></city>
+    <state><![CDATA[Florida]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[34747]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading entertainment and residential community business, is looking for a Product Manager.</p><p><b>Position Summary:</b> The Product Manager will partner across business, technology, creative, legal, marketing, finance, operations, and external vendors to define product strategy, roadmaps, requirements, features, and priorities. They will also own day-to-day product activities including backlog management, QA/production validation, defect triage, launch coordination, stakeholder communication, and ongoing product support.</p><p><b>What the right candidate will enjoy:</b></p><ul><li>Owning meaningful products supporting a newer and growing business</li><li>Working on consumer-facing experiences that connect technology, residential real estate, Sales &amp; Marketing, and the guest experience</li><li>Working across both business and technical teams rather than functioning solely as a delivery/project manager</li><li>Evaluating and using emerging technologies, including AI</li><li>Operating in an entrepreneurial environment where products and processes are continuing to evolve</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li>The strongest candidate will be a true Product Manager who has personally owned products from business need through delivery and ongoing optimization.</li><li>They should be comfortable defining strategy and roadmaps while also being hands-on with user stories, acceptance criteria, backlog prioritization, QA, launches, defects, and stakeholder communication.</li><li>Consumer-facing digital product experience is particularly relevant.</li><li>Experience with real estate/PropTech, marketplace or inventory platforms, Sales &amp; Marketing technology, vendor/API integrations, analytics, and AI-enabled product workflows would make a candidate especially compelling.</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li>Define and maintain product strategies and roadmaps</li><li>Translate business requirements into product features, user stories, acceptance criteria, project briefs, strategy decks, and go-to-market plans</li><li>Manage and prioritize the Jira product backlog</li><li>Serve as the day-to-day Product Management POC</li><li>Partner with business, technology, creative, marketing, legal, finance, operations, and vendor teams</li></ul>]]></description>
+    <salary><![CDATA[70 - 80]]></salary>
+    <category><![CDATA[Business Enablement]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[28.3302859]]></latitude>
+    <longitude><![CDATA[-81.534675]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Product Manager]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 15:55:00 +0000]]></date>
+    <referencenumber><![CDATA[45457]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/product-manager-in-business-enablement-jobs-1751383]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Kissimmee]]></city>
+    <state><![CDATA[Florida]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[91201]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading entertainment and experiences organization, is seeking a Product Manager for a 22-month contract in Orlando. This hybrid position requires onsite attendance on Tuesdays and Thursdays and availability during Eastern Time business hours.</p><p><b>Position Summary:</b> This role blends tactical product management with CMS and digital content experience. The Product Manager will gather business needs, develop requirements and user stories, and coordinate delivery with development and content teams. The ideal candidate understands the software development lifecycle and the core functions of a CMS, including content organization, translations, and internationalization. Product Owners with relevant experience are encouraged to apply.</p><p><b>What the right candidate will enjoy:</b></p><ul><li><br>Supporting digital experiences through both product delivery and content initiatives</li><li><br>Helping shape new ways of working as content and product functions become more closely aligned</li><li><br>Collaborating with business partners, developers, and content teams</li><li><br>Identifying practical opportunities to improve workflows and efficiency</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li><br>Approximately 3+ years of relevant experience, including hands-on Product Manager or Product Owner responsibilities</li><li><br>Experience supporting digital products or enhancements through the software development lifecycle</li><li><br>Ability to translate business needs into clear requirements, user stories, and PRDs</li><li><br>Working knowledge of Agile practices, Scrum ceremonies, and Jira</li><li><br>Experience with a CMS and familiarity with content structure, hierarchy, translations, and internationalization</li><li><br>Strong communication and coordination skills across business and technical teams</li><li><br>Tridion and WorldServer experience is a plus</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li><br>Gather and clarify business partner requests for digital content and product enhancements</li><li><br>Translate requests into actionable requirements and user stories</li><li><br>Coordinate work across onshore developers and offshore content resources</li><li><br>Participate in Scrum ceremonies and track delivery through Jira</li><li><br>Account for CMS dependencies, content organization, translations, and internationalization when defining work</li><li><br>Support content initiatives while applying established product delivery practices</li><li><br>Identify workflow improvements, including potential uses of AI or automation where appropriate</li></ul>]]></description>
+    <salary><![CDATA[60.40]]></salary>
+    <category><![CDATA[Business Enablement]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[28.3289346]]></latitude>
+    <longitude><![CDATA[-81.533277]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Staff Software Engineer, Server Infrastructure & Automation]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 16:24:59 +0000]]></date>
+    <referencenumber><![CDATA[44651]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/staff-software-engineer-server-infrastructure-automation-in-cloud-infrastructure-jobs-1751457]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Fort Worth]]></city>
+    <state><![CDATA[Texas]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[-]]></postalcode>
+    <description><![CDATA[<p><b>Staff Software Engineer, Server Infrastructure &amp; Automation</b></p><p>Optomi, in partnership with a leading organization, is seeking a Staff Software Engineer – Server Infrastructure &amp; Automation to help modernize and automate enterprise data center infrastructure. This role will focus heavily on infrastructure automation and software engineering, with approximately 80% of the work centered around automation and 10–20% focused on physical infrastructure. The ideal candidate will understand server infrastructure at a deep technical level while using Python, Ansible, and software engineering practices to automate provisioning, monitoring, maintenance, ticketing, and lifecycle management.</p><p><b>What the Right Candidate Will Enjoy:</b></p><ul><li>Building automation for enterprise server infrastructure!</li><li>Modernizing legacy infrastructure and operational processes!</li><li>Developing self-monitoring and self-healing infrastructure capabilities!</li><li>Automating bare-metal server and operating system environments!</li><li>Working across Windows and Linux infrastructure!</li><li>Building playbooks and infrastructure automation solutions!</li><li>Helping transition a traditionally contractor-heavy organization toward modern, automated infrastructure operations!</li></ul><p><b>Experience of the Right Candidate:</b></p><ul><li>Strong infrastructure software engineering background</li><li>Experience building software and automation within an infrastructure domain</li><li>Deep understanding of enterprise server infrastructure and operating systems</li><li>Strong Python and/or Ansible experience</li><li>Experience automating infrastructure provisioning, monitoring, maintenance, or remediation</li><li>Experience working with legacy infrastructure and modernizing existing environments</li><li>Understanding of Windows and Linux operating systems</li><li>Experience with bare-metal infrastructure and data center environments</li><li>Strong troubleshooting and systems engineering skills</li></ul><p><b>Responsibilities:</b></p><ul><li>Develop automation solutions for enterprise server infrastructure and data center operations</li><li>Automate server provisioning, configuration, maintenance, monitoring, and lifecycle activities</li><li>Build and maintain Python and Ansible playbooks and automation frameworks</li><li>Develop self-monitoring and automated remediation capabilities</li><li>Automate incident detection and ticket creation through infrastructure monitoring</li><li>Support bare-metal operating system deployments and lifecycle management</li><li>Analyze legacy infrastructure and identify opportunities for automation and modernization</li><li>Develop infrastructure standards, procedures, and automation playbooks</li><li>Troubleshoot server, operating system, and infrastructure issues</li><li>Collaborate with data center, network, security, and infrastructure teams</li><li>Commit automation and infrastructure playbooks into established repositories and operational frameworks</li><li>Help establish scalable, repeatable infrastructure management processes</li><li>Support the transition toward a hybrid cloud infrastructure strategy</li></ul><p><b>Preferred Qualifications:</b></p><ul><li>Experience with Python, Ansible, Go, or Java</li><li>Experience with Linux infrastructure</li><li>Windows Server administration experience</li><li>Infrastructure-as-Code experience</li><li>Git and CI/CD experience</li><li>Experience with server hardware, firmware, drivers, and out-of-band management</li><li>Experience with monitoring, alerting, and ITSM platforms</li><li>Experience with hybrid cloud infrastructure</li><li>Experience developing self-healing or autonomous infrastructure</li></ul>]]></description>
+    <salary><![CDATA[100]]></salary>
+    <category><![CDATA[Cloud & Infrastructure]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[32.7554883]]></latitude>
+    <longitude><![CDATA[-97.3307658]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[IT Project Manager]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 17:09:59 +0000]]></date>
+    <referencenumber><![CDATA[45535]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/it-project-manager-in-business-enablement-jobs-1751503]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[ ]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[- None Specified -]]></country>
+    <postalcode><![CDATA[ ]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading technology enablement firm, is looking for a Senior Technical Program Manager to join their team in NYC.</p><p><b>Position Summary:</b> A Senior Technical Program Manager within the Technology Enablement Alliance reports into Business Operations while partnering with engineering teams on their most critical programs. You will have the opportunity to refine processes around delivery while building a sense of community and engagement within our talented group of engineers. Initiatives around scaling, reliability/SRE, and developer tooling are commonly assigned as programs for this Senior TPM role.</p><p><b>What the right candidate will enjoy:</b></p><ul><li>Working onsite in a dynamic NYC environment</li><li>Collaborating with top engineering teams</li><li>Engaging in high-visibility programs from planning through delivery</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li>Experience managing technical projects in a fast-paced and dynamic environment</li><li>Engineering background or extensive experience in the engineering space</li><li>Familiarity with Claude, Jira, and Airtables</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li>Own complex, high-visibility programs from planning through delivery</li><li>Coordinate across teams, programs, and organizational boundaries</li><li>Drive risk identification, mitigation, and stakeholder alignment</li><li>Scale agile and project management practices across team-of-teams environments</li><li>Assist with estimation and planning of team resourcing</li></ul>]]></description>
+    <salary><![CDATA[77-87]]></salary>
+    <category><![CDATA[Business Enablement]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Senior DevOps / Platform Engineer (Contract/Remote)]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 18:09:59 +0000]]></date>
+    <referencenumber><![CDATA[45553]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/senior-devops-platform-engineer-contractremote-in-cloud-infrastructure-jobs-1751566]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Arlington]]></city>
+    <state><![CDATA[Virginia]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[ 22203]]></postalcode>
+    <description><![CDATA[<p><b>Platform Operations &amp; Tooling Engineer (Full Time, Long-Term Contract;Remote)</b></p><p>Optomi, in partnership with one of our clients, is seeking a Platform Operations and Tooling Engineer to support the development, modernization, and automation of enterprise platforms used by software development teams. This role will focus on designing and maintaining CI/CD pipelines, automating AWS cloud infrastructure, managing artifact repositories, and improving developer workflows through scalable and reusable solutions. The Platform Operations and Tooling Engineer will leverage technologies such as TeamCity, GitHub Actions, Artifactory, Terraform, Ansible, Docker, and Kubernetes to enhance platform reliability, security, and operational efficiency. This individual will collaborate with development, infrastructure, and security teams to troubleshoot complex build and deployment issues, implement automation, and support ongoing platform improvements. The ideal candidate brings extensive hands-on experience in DevOps and platform engineering, strong AWS and infrastructure-as-code expertise, and excellent troubleshooting, communication, and cross-functional collaboration skills.</p><p><b>Responsibilities</b>:</p><ul><li>Build, automate, and manage AWS cloud infrastructure using Terraform, Ansible, Packer, and infrastructure-as-code best practices.</li><li>Design, implement, and maintain enterprise CI/CD pipelines using TeamCity, GitHub Actions, Artifactory, and related development tools to streamline software delivery.</li><li>Develop reusable automation scripts, GitHub Actions workflows, and infrastructure modules to standardize deployment processes and improve developer productivity.</li><li>Configure, administer, and optimize artifact repositories, source control systems, and build environments to ensure reliable and secure software delivery.</li><li>Support containerized applications and cloud platforms using Docker, Kubernetes/EKS, Helm, and Argo CD, including platform modernization and migration initiatives.</li><li>Collaborate with development, infrastructure, and security teams to troubleshoot complex build, deployment, and integration issues while implementing sustainable solutions.</li><li>Improve platform reliability, security, and operational efficiency through monitoring, automation, documentation, technical guidance, and continuous improvement initiatives.</li></ul><p><b>Apply today if your background includes:</b></p><ul><li>8+ years of hands-on experience in DevOps, platform engineering, CI/CD, and enterprise software development environments.</li><li>Strong experience designing, implementing, administering, and troubleshooting enterprise CI/CD pipelines using TeamCity, GitHub Actions, and related development tools.</li><li>Extensive experience designing, deploying, and supporting AWS cloud infrastructure, including infrastructure automation and cloud security best practices.</li><li>Hands-on experience with infrastructure as code (IaC) and configuration management tools, including Terraform, Ansible, and Packer.</li><li>Experience configuring and administering JFrog Artifactory, including artifact repositories, permissions, authentication, and artifact management processes.</li><li>Strong experience with Docker, Kubernetes/EKS, Helm, and Argo CD for containerization, orchestration, and automated application deployments.</li><li>Proficiency in scripting and automation using Python, PowerShell, Bash, and YAML, with demonstrated experience troubleshooting complex technical issues and collaborating across development, infrastructure, and security teams.</li></ul>]]></description>
+    <salary><![CDATA[$55-60/hr]]></salary>
+    <category><![CDATA[Cloud & Infrastructure]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[38.8804719]]></latitude>
+    <longitude><![CDATA[-77.1128927]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[AI Engineer ]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 17:54:59 +0000]]></date>
+    <referencenumber><![CDATA[44949]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/ai-engineer-in-data-ai-jobs-1751540]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Atlanta]]></city>
+    <state><![CDATA[GA]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[30319]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading enterprise organization, is looking for an AI Engineer – Generative AI &amp; RAG.</p><p><b>Position Summary:</b> Optomi is seeking a hands-on AI Engineer to design, build, test, and support Generative AI applications using Retrieval-Augmented Generation, vector databases, and agentic AI workflows. This role is focused on executing and delivering working, production-ready AI solutions rather than serving as a high-level solution architecture lead. The ideal candidate demonstrates initiative, solves complex technical problems, and can quickly learn and apply emerging AI technologies. Experience building Text-to-SQL solutions is highly preferred.</p><p><b>What the right candidate will enjoy:</b></p><ul><li><br>Building production-ready solutions with cutting-edge Generative AI technologies</li><li><br>Solving complex problems involving enterprise data, retrieval, and agentic workflows</li><li><br>Designing and optimizing vector search and RAG solutions</li><li><br>Collaborating with technical and business stakeholders</li><li><br>Helping establish reusable AI-development practices across an engineering team</li><li><br>Evaluating and improving the accuracy, reliability, performance, and cost of AI applications</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li><br>Hands-on experience building and deploying production Generative AI applications using RAG</li><li><br>Strong experience designing vector databases and optimizing vector search</li><li><br>Production-grade Python experience with async programming, Pydantic, pytest, and modern packaging tools</li><li><br>Experience building agentic workflows using LangChain and/or LangGraph</li><li><br>Strong knowledge of chunking, embeddings, metadata design, and retrieval strategies</li><li><br>Experience ingesting data from platforms such as SQL Server and Snowflake into vector or search databases</li><li><br>Experience supporting incremental loads and evolving schemas</li><li><br>Daily experience using AI-assisted development tools such as Claude Code, GitHub Copilot, Codex, or Windsurf</li><li><br>Experience with Git-based workflows and CI/CD</li><li><br>Ideally, experience building and validating Text-to-SQL solutions</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li><br>Design, build, test, and support production-ready Generative AI applications</li><li><br>Develop RAG solutions that retrieve relevant enterprise information and generate accurate, grounded responses</li><li><br>Design and optimize vector database indexes, schemas, filters, and search queries</li><li><br>Select and implement appropriate chunking, embedding, metadata, and retrieval strategies</li><li><br>Build data-ingestion pipelines connecting relational platforms such as SQL Server and Snowflake with search and vector stores</li><li><br>Develop agentic workflows using LangChain and/or LangGraph</li><li><br>Implement state management, conditional routing, memory, checkpointing, and tool-calling capabilities</li><li><br>Create automated tests and evaluation processes for AI applications</li><li><br>Use AI-assisted development tools to accelerate delivery while maintaining code quality</li><li><br>Establish reusable agent instructions, repository rules, and development context for the broader engineering team</li><li><br>Participate in Git-based code reviews, CI/CD, deployment, and production support</li><li><br>Monitor and improve the accuracy, performance, reliability, and cost of AI solutions</li><li><br>Collaborate with technical and business stakeholders to translate use cases into working applications</li></ul>]]></description>
+    <salary><![CDATA[85 /hr]]></salary>
+    <category><![CDATA[Data & AI]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[33.849512]]></latitude>
+    <longitude><![CDATA[-84.3466444]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Program Workstream Lead]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 17:44:59 +0000]]></date>
+    <referencenumber><![CDATA[45485]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/program-workstream-lead-in-business-enablement-jobs-1751527]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Dearborn]]></city>
+    <state><![CDATA[Michigan]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[48126]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading organization in membership services, is looking for a Technical Program Workstream Lead to join their team.</p><p><b>Position Summary:</b> The Membership Modernization Program is transforming the membership platform by consolidating three legacy systems into a single Salesforce-based solution. As the Technical Program Workstream Lead, you will coordinate and drive delivery across multiple technology and business workstreams impacted by this transformation. You will work closely with the Salesforce Platform Project Manager, Product Owners, Solution Architects, and business stakeholders to provide end-to-end oversight of cross-functional workstreams, manage dependencies, risks, and delivery plans, and ensure alignment to program objectives and timelines.</p><p><b>What the right candidate will enjoy:</b></p><ul><li>Leading a high-impact program that consolidates legacy systems into a modern Salesforce-based solution.</li><li>Working remotely with a preference for EST hours, offering flexibility and work-life balance.</li><li>Engaging with a dynamic team and stakeholders across various business and technology units.</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li>7+ years in leadership roles for large-scale business and technology transformation programs.</li><li>Strong expertise in Scrum Master, Agile delivery, and project management.</li><li>Technical knowledge in Salesforce Platform, Google Cloud Platform (GCP), Apigee, Data Integration and ETL Technologies, Master Data Management (MDM), and Data Conversions.</li><li>Exceptional communication and stakeholder management skills.</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li>Own delivery readiness across assigned workstreams and proactively identify risks to program milestones.</li><li>Establish and maintain integrated project plans that align work across business and technology teams.</li><li>Drive accountability for commitments, deliverables, and milestone achievement.</li><li>Serve as Scrum Master for the Batch Data Flows / ETLs and Data Conversion workstreams, facilitating Agile delivery, sprint planning, backlog readiness, and removal of delivery impediments.</li><li>Coordinate release readiness, cut-over activities, and production deployment activities across assigned workstreams.</li></ul>]]></description>
+    <salary><![CDATA[69-75]]></salary>
+    <category><![CDATA[Business Enablement]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[42.3240799]]></latitude>
+    <longitude><![CDATA[-83.2178836]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Kahua Business Analyst ]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 17:24:59 +0000]]></date>
+    <referencenumber><![CDATA[45525]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/kahua-business-analyst-in-business-enablement-jobs-1751514]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Miami]]></city>
+    <state><![CDATA[Florida]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[33126]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading infrastructure firm, is looking for a Kahua Business Analyst.</p><p><b>Position Summary:</b> The Kahua Business Analyst will lead Kahua implementations, modernize project delivery environments, and collaborate with stakeholders to develop scalable solutions that enhance efficiency and transparency across capital programs. This is a remote role with responsibilities including designing, configuring, and deploying Kahua applications to support infrastructure projects.</p><p><b>What the right candidate will enjoy:</b></p><ul><li>Opportunity to work remotely</li><li>Leading implementations for high-impact infrastructure projects</li><li>Collaborating with diverse teams and stakeholders</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li>3+ years of experience with Kahua platform</li><li>Strong understanding of business process automation and workflow configuration</li><li>Experience in PMIS solutions for capital improvement programs</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li>Design and configure Kahua applications and workflows</li><li>Collaborate with stakeholders to translate business needs into solutions</li><li>Perform application testing and optimization</li><li>Support data migration and system upgrades</li><li>Provide production support and issue resolution</li></ul>]]></description>
+    <salary><![CDATA[110,000 - 150,000]]></salary>
+    <category><![CDATA[Business Enablement]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[25.7907073]]></latitude>
+    <longitude><![CDATA[-80.319439]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Transport Planning Engineer III]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 18:34:59 +0000]]></date>
+    <referencenumber><![CDATA[45374]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/transport-planning-engineer-iii-in-cloud-infrastructure-jobs-1751592]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[-]]></city>
+    <state><![CDATA[Texas]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[-]]></postalcode>
+    <description><![CDATA[<p><b>Planning Engineer III (Sr. Transport Planning Engineer)<br> Optomi, in partnership with a leading telecommunications organization, is seeking a Planning Engineer III (Sr. Transport Planning Engineer) to support network growth, capacity planning, and modernization initiatives across national core and metropolitan transport networks. This role will develop implementation-ready planning packages, perform network data analysis and forecasting, manage project funding and budgets, and collaborate with engineering and operations teams to drive network evolution. The ideal candidate brings broad, end-to-end transport planning experience across SONET, Ethernet, DWDM, and optical transport networks, along with strong problem-solving skills and the ability to independently drive projects forward.<br> What the Right Candidate Will Enjoy:</b></p><ul><li>Supporting large-scale network growth, capacity, and modernization initiatives!</li><li>Working across national core and metropolitan transport networks!</li><li>Developing planning solutions that directly support network evolution and expansion!</li><li>Collaborating with engineering, operations, and cross-functional stakeholders on complex network initiatives!</li><li>Taking ownership of projects and driving work forward with minimal direction!</li><li>Mentoring junior engineers while expanding knowledge across different areas of the network!</li></ul><p><b>Experience of the Right Candidate:</b></p><ul><li>5+ years of transport planning or telecommunications network engineering experience</li><li>Strong end-to-end network planning experience across SONET, Ethernet, DWDM, and optical transport networks</li><li>Experience with core backbone and metropolitan network growth and capacity planning</li><li>Experience developing implementation-ready engineering and planning packages</li><li>Strong understanding of telecommunications network design and transport engineering principles</li><li>Experience with network data analysis, capacity planning, and forecasting</li><li>Knowledge of Central Office infrastructure, including power, alarms, and common systems</li><li>Familiarity with Outside Plant (OSP) engineering and telecommunications infrastructure</li><li>Experience coordinating with engineering, operations, and other cross-functional stakeholders</li><li>Strong problem-solving, communication, and interpersonal skills</li><li>Self-sufficient, adaptable, and comfortable taking initiative with minimal direction</li><li>Previous Lumen experience is strongly preferred</li></ul><p><b>Key Responsibilities:</b></p><ul><li>Develop network growth, capacity, and evolution plans for national core and metropolitan transport networks</li><li>Perform SONET network planning and capacity management activities</li><li>Analyze network data and develop capacity forecasts to support future network requirements</li><li>Create implementation-ready planning and engineering packages for design and field engineering teams</li><li>Support network modernization, expansion, and migration initiatives</li><li>Coordinate with engineering, operations, and project stakeholders to drive planning activities forward</li><li>Manage project funding, capital and expense budgets, and related planning documentation</li><li>Ensure network planning activities align with applicable telecommunications standards and regulations</li><li>Provide technical leadership, mentoring, and training to junior engineers</li><li>Proactively identify opportunities, engage stakeholders, and drive projects with minimal supervision</li></ul><p><b>Systems &amp; Tools:</b></p><ul><li>TIRKS</li><li>CNDC ASPEN Portal</li><li>LCAM</li><li>MetaSolv</li><li>Fireworks</li><li>CORE</li><li>Microsoft Excel, PowerPoint, Word, Outlook, and Teams</li></ul><p><b>Preferred Qualifications:</b></p><ul><li>Previous Lumen experience in transport planning or network engineering</li><li>Experience supporting large-scale telecommunications or carrier network environments</li><li>Experience with Optical Transport Networks</li><li>Experience managing project budgets and funding</li><li>Experience leading cross-functional network initiatives</li><li>Strong ability to learn new areas of the network and adapt to evolving priorities</li></ul>]]></description>
+    <salary><![CDATA[45-47]]></salary>
+    <category><![CDATA[Cloud & Infrastructure]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[31.9685988]]></latitude>
+    <longitude><![CDATA[-99.9018131]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Production Support Engineer]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 17:04:59 +0000]]></date>
+    <referencenumber><![CDATA[45075]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/productionsupport-engineer-in-cloud-infrastructure-jobs-1751499]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[walnut creek]]></city>
+    <state><![CDATA[California]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[94597]]></postalcode>
+    <description><![CDATA[<p><b>Production Support Engineer (Remote)</b></p><p>Optomi, in partnership with a leading provider of embedded software solutions, is seeking a Senior Product Support Engineer to provide advanced technical support across embedded software technologies and customer environments. This role will troubleshoot complex software and system-level issues, perform root cause analysis, manage technical escalations, reproduce customer environments, and collaborate with engineering and product teams to drive resolution. The ideal candidate brings strong technical troubleshooting skills, customer-facing experience, and the ability to support enterprise customers and mission-critical deployments.</p><p><b>What the Right Candidate Will Enjoy:</b></p><ul><li>Serving as a technical expert for enterprise customers and technical stakeholders!</li><li>Troubleshooting complex issues across embedded systems, operating systems, virtualization, and cloud environments!</li><li>Collaborating with software engineering and product teams to resolve technical challenges!</li><li>Mentoring junior support engineers and sharing technical knowledge!</li><li>Working remotely with flexible hours and potential travel opportunities!</li></ul><p><b>Experience of the Right Candidate:</b></p><ul><li>Bachelor's or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or a related field.</li><li>3–8 years of experience supporting or developing embedded systems, RTOS, Linux, cloud platforms, or related technologies.</li><li>3–5 years of customer-facing technical support experience.</li><li>Experience troubleshooting complex software and system-level issues.</li><li>Experience supporting enterprise customers and collaborating with technical stakeholders.</li><li>Experience working with software engineering and product organizations.</li><li>Strong communication, problem-solving, and technical documentation skills.</li></ul><p><b>Responsibilities:</b></p><ul><li>Provide advanced technical support for embedded software products and related technologies.</li><li>Manage technical incidents, escalations, and defect investigations.</li><li>Investigate, reproduce, and troubleshoot complex customer issues across software and system environments.</li><li>Perform root cause analysis across hardware, operating systems, networking, virtualization, and cloud layers.</li><li>Develop and communicate technical solutions, workarounds, and remediation recommendations.</li><li>Partner with software engineering and product teams to investigate defects and drive resolution.</li><li>Maintain clear customer communication, including technical findings, status updates, and resolution plans.</li><li>Support strategic enterprise customers and mission-critical deployments.</li><li>Share technical expertise and mentor junior support engineers as needed.</li></ul><p><b>Preferred Qualifications:</b></p><ul><li>Experience supporting Wind River products and technologies.</li><li>Familiarity with VxWorks RTOS and Wind River Linux.</li><li>Experience with WRCP, HVP, Simics, or Wind River Linux.</li><li>Experience with OpenStack and Kubernetes deployments.</li><li>Background supporting aerospace, defense, telecommunications, industrial, or embedded software customers.</li><li>Experience as a Premium Support Engineer or designated technical account resource.</li><li>Active security clearance is a plus, but not required.</li></ul>]]></description>
+    <salary><![CDATA[$50/hr-$58/hr]]></salary>
+    <category><![CDATA[Cloud & Infrastructure]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[37.9193365]]></latitude>
+    <longitude><![CDATA[-122.0780632]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Scrum Master]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 17:15:00 +0000]]></date>
+    <referencenumber><![CDATA[45536]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/scrum-master-in-business-enablement-jobs-1751509]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Charlotte]]></city>
+    <state><![CDATA[North Carolina]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[28202]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leading organization in the Secure Identity Access Management (SIAM) sector, is looking for a Scrum Master to join their team in Charlotte, NC.</p><p><b>Position Summary:</b> The Scrum Master will oversee delivery across multiple development teams focused on authentication, login security, and customer-facing cybersecurity capabilities. The role involves facilitating Scrum and/or Kanban delivery processes, managing dependencies, supporting quarterly planning activities, and driving continuous improvement efforts.</p><p><b>What the right candidate will enjoy:</b></p><ul><li>A collaborative and highly communicative team environment.</li><li>Opportunities to engage in strategic initiatives and organizational change.</li><li>A supportive leadership structure focused on removing roadblocks.</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li>3-5+ years of experience in Scrum Master roles.</li><li>Strong understanding of Agile methodologies and the software development lifecycle.</li><li>Experience with Jira and VersionOne, and managing cross-team dependencies.</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li>Facilitate Scrum and/or Kanban delivery processes and manage team dependencies.</li><li>Support roadmap execution and delivery planning.</li><li>Coordinate delivery efforts across multiple stakeholders and ensure a healthy delivery pipeline.</li><li>Drive continuous improvement and lead teams through organizational changes.</li></ul>]]></description>
+    <salary><![CDATA[45]]></salary>
+    <category><![CDATA[Business Enablement]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[35.2326781]]></latitude>
+    <longitude><![CDATA[-80.8460822]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Network Engineer]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 18:34:59 +0000]]></date>
+    <referencenumber><![CDATA[45338]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/senior-network-engineer-in-cloud-infrastructure-jobs-1751591]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Plano]]></city>
+    <state><![CDATA[Texas]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[75024]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with an industry-leading manufacturing organization, is seeking a highly experienced Senior Network Engineer to serve as the primary technical resource for network infrastructure at a manufacturing site. This is a hands-on role for a senior-level network engineer who can take ownership of the site’s network environment, lead technical activities, and serve as the key liaison between plant operations and centralized IT teams.<br> <br> The ideal candidate will have deep enterprise networking experience, particularly with Cisco LAN, wireless, ACI, ISE, and Catalyst Center. Experience supporting OT, industrial, or manufacturing environments is highly preferred, but candidates with exceptional enterprise networking skills and limited OT experience will also be considered.<br> <br> This is not an architecture-only position. The successful engineer will be hands-on, comfortable owning technical activities from start to finish, and capable of making decisions and driving work independently at the site.<br> <br> Key Responsibilities</p><ul><li>Serve as the primary network engineering resource and technical point of contact for an assigned manufacturing location.</li><li>Take ownership of the site's network environment, including day-to-day operations, troubleshooting, upgrades, deployments, and project activities.</li><li>Design, implement, maintain, and troubleshoot Cisco enterprise network infrastructure across LAN, wireless, and related technologies.</li><li>Support Cisco ACI, Cisco ISE, Catalyst Center, and Cisco SDA environments as applicable.</li><li>Lead network software upgrades, infrastructure changes, maintenance activities, and technical deployments.</li><li>Provide hands-on support for network incidents and complex technical issues, including escalation and root-cause analysis.</li><li>Work directly with plant engineering, operations, maintenance, and local IT teams to understand business and production requirements and deliver effective network solutions.</li><li>Serve as the primary liaison between the manufacturing site and centralized IT/network teams, building strong relationships and ensuring corporate solutions account for the realities of the plant environment.</li><li>Support network infrastructure connected to manufacturing equipment, plant-floor systems, automation, and other operational technologies.</li><li>Participate in network design and senior-level projects, providing technical direction and hands-on execution.</li><li>Coordinate with vendors, internal engineering teams, and other technical stakeholders to drive projects and issues through completion.</li><li>Develop and maintain network standards, documentation, implementation procedures, and operational processes.</li><li>Mentor and provide technical guidance to local IT and support personnel.</li><li>Travel to other company locations and international sites as needed, primarily within Mexico, with occasional travel to Canada or other locations.</li></ul><p><br> Technical Environment</p><ul><li>Cisco LAN/WAN</li><li>Cisco routing and switching</li><li>Cisco Wireless</li><li>Cisco ACI</li><li>Cisco ISE</li><li>Cisco Catalyst Center</li><li>Cisco SDA</li><li>Network segmentation</li><li>VLANs and routing</li><li>Network security and access control</li><li>High-availability network environments</li><li>Network monitoring and troubleshooting</li><li>Manufacturing and plant-floor networks</li><li>OT / industrial networking</li><li>Manufacturing equipment and automation connectivity</li></ul><p><br> Required Qualifications</p><ul><li>10+ years of progressive network engineering experience.</li><li>Strong hands-on expertise with Cisco enterprise networking technologies.</li><li>Strong experience with Cisco LAN, routing, switching, and wireless environments.</li><li>Experience with Cisco ACI, ISE, and/or Catalyst Center.</li><li>Demonstrated experience working on network designs, implementations, upgrades, migrations, or senior-level technical projects.</li><li>Ability to independently own technical activities and drive work through completion.</li><li>Strong troubleshooting and problem-solving skills in complex, high-availability environments.</li><li>Strong communication and interpersonal skills with the ability to work effectively with both technical and non-technical stakeholders.</li><li>Ability to work onsite five days per week in a manufacturing/plant environment.</li><li>Ability and willingness to travel approximately 20–25%, including international travel to Mexico.</li><li>Must be authorized to work in the U.S. without H-1B sponsorship.</li></ul><p><br> Preferred Qualifications</p><ul><li>Experience supporting OT, industrial, or manufacturing network environments.</li><li>Experience working directly with plant engineering, production, maintenance, or operations teams.</li><li>Experience with Cisco SDA.</li><li>Experience supporting manufacturing equipment, automation, or plant-floor network infrastructure.</li><li>Knowledge of OT networking, segmentation, IDMZ, and industrial network security.</li><li>Experience supporting large-scale manufacturing network deployments or plant modernization initiatives.</li><li>Cisco certifications such as CCNA, CCNP, or equivalent technical experience.</li><li>Experience working across multiple manufacturing locations or geographically distributed environments.</li></ul><p><br> Position Type / Work Environment</p><ul><li>Long-term contract engagement.</li><li>Onsite five days per week.</li><li>Approximately 20–25% travel, primarily to Mexico, with occasional travel to Canada or other locations.</li><li>Travel requirements may increase periodically based on project needs.</li><li>Occasional after-hours or weekend work may be required for maintenance windows, upgrades, and cutovers.</li></ul>]]></description>
+    <salary><![CDATA[90]]></salary>
+    <category><![CDATA[Cloud & Infrastructure]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[onsite]]></remotetype>
+    <latitude><![CDATA[33.0871658]]></latitude>
+    <longitude><![CDATA[-96.8217855]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Product Manager]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 17:29:59 +0000]]></date>
+    <referencenumber><![CDATA[45539]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/product-manager-in-business-enablement-jobs-1751518]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Fort Worth]]></city>
+    <state><![CDATA[Texas]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[76131]]></postalcode>
+    <description><![CDATA[<p>Optomi, in partnership with a leader in logistics, is looking for a Product Manager to join our team.</p><p><b>Position Summary:</b> We are seeking a Product Manager to help develop and expand our internal governance, risk, and compliance solution. This role involves managing the product roadmap, planning, and customer engagement. The product is currently in beta.</p><p><b>What the right candidate will enjoy:</b></p><ul><li>Opportunity to work on a cutting-edge GRC product</li><li>Collaborating with a dynamic team of engineers and stakeholders</li><li>Engaging with executive-level stakeholders</li></ul><p><b>What type of experience does the right candidate have:</b></p><ul><li>Experience with governance, risk, and compliance solutions</li><li>Ability to capture and document product requirements</li><li>Familiarity with integrating products with work management systems like Jira or GitHub</li></ul><p><b>What the responsibilities are of the right candidate:</b></p><ul><li>Manage the product roadmap and planning</li><li>Engage with customers and stakeholders to gather requirements</li><li>Work with the engineering team to ensure successful product development and integration</li><li>Collaborate with internal audit and engineering teams to address risks and controls</li></ul>]]></description>
+    <salary><![CDATA[75-85]]></salary>
+    <category><![CDATA[Business Enablement]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[telecommute]]></remotetype>
+    <latitude><![CDATA[32.8638279]]></latitude>
+    <longitude><![CDATA[-97.3264698]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[AI Security Detection Engineer]]></title>
+    <date><![CDATA[Tue, 16 Jun 2026 12:10:02 +0000]]></date>
+    <referencenumber><![CDATA[43580]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/ai-security-detection-engineer-in-cybersecurity-jobs-1600675]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Charlotte]]></city>
+    <state><![CDATA[North Carolina]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[ ]]></postalcode>
+    <description><![CDATA[<p><b>Optomi</b>, in partnership with a leading organization within the media space is seeking an A<b>I Security Engineer</b> (Detection &amp; Response) to help secure AI systems across the enterprise. This role focuses on detecting, investigating, and responding to threats targeting or leveraging AI, including LLMs, APIs, and AI-driven applications.</p><p><i>This is a hands-on role at the intersection of AI and security engineering. The ideal candidate is a builder who can develop detection capabilities, automate workflows, and respond to emerging threats in a rapidly evolving landscape</i></p><p><b>What the right Security Engineer will Enjoy</b></p><p><i>AI Threat Detection &amp; Monitoring</i></p><ul><li>Design and implement detection logic for AI-specific threats, including prompt injection, adversarial inputs, model misuse, and data poisoning.</li><li>Monitor AI systems for anomalous behavior, misuse patterns, and indicators of compromise.</li><li>Build and maintain detection pipelines integrated with SIEM/SOAR platform</li></ul><p><i>Incident Response</i></p><ul><li>Investigate and respond to AI-related security incidents, including model manipulation, API abuse, and unauthorized AI usage</li><li>Develop and maintain incident response runbooks tailored to AI system</li><li>Perform forensic analysis on AI applications, models, and associated data</li><li><i>Security Engineering &amp; Automation</i></li><li>Develop tools and automation to support AI security monitoring, testing, and response workflow</li><li>Integrate security controls into AI/ML development pipelines (MLSecOps</li><li>Evaluate third-party AI tools, APIs, and integrations for security ris</li></ul><p><i>k.Research &amp; Threat Intelligence</i></p><ul><li>Track emerging AI attack techniques, jailbreaks, and adversarial method</li><li>Contribute to internal threat intelligence and detection use case</li><li>Participate in red team exercises targeting AI systems and LLM-based application</li></ul><p><b>Required Qualificatio</b></p><ul><li>Bachelor’s degree in a related field or equivalent experience</li><li>3–6 years of experience in security engineering, detection &amp; response, or a related discipline</li><li>Strong Python skills; familiarity with scripting or backend languages is a plus</li><li>Hands-on experience with AI/ML systems, APIs, or LLM-based applications</li><li>Understanding of prompt engineering concepts and LLM behavi</li><li>Experience with SIEM platforms (e.g., Splunk, Elastic) and detection development</li><li>Familiarity with MITRE ATT&amp;CK and threat modeling techniques</li><li>Strong analytical and investigative skills</li><li>Ability to communicate technical findings clearly to diverse stakeholders</li></ul><p><b>Prefer</b>red</p><ul><li>Experience building or securing LLM-integrated applications</li><li>Familiarity with agent frameworks (LangChain, AutoGen, CrewAI)</li><li>Understanding of MLOps pipelines and associated security risks</li><li>Experience with adversarial ML techniques (e.g., model extraction, evasion</li><li>Knowledge of AI governance frameworks (e.g., NIST AI RMF, EU AI Acts)</li><li>Experience with cloud AI platforms (AWS, Azure, GC</li><li>Security certifications (e.g., CISSP, GCIH, GCIA) or equivalent experience</li><li>Contributions to open-source or security research</li><li>Build a strong understanding of the AI environment and identify key detection gaps</li><li>Contribute to detection logic and participate in an AI-related incident or simulation.</li></ul>]]></description>
+    <salary><![CDATA[85]]></salary>
+    <category><![CDATA[Cybersecurity]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+  </job>
+  <job>
+    <title><![CDATA[Software Engineer]]></title>
+    <date><![CDATA[Fri, 20 Feb 2026 00:00:00 +0000]]></date>
+    <referencenumber><![CDATA[41640]]></referencenumber>
+    <url><![CDATA[https://www.optomi.com/job-details/software-engineer-in-application-innovation-jobs-1436685]]></url>
+    <company><![CDATA[Optomi]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Atlanta]]></city>
+    <state><![CDATA[Georgia]]></state>
+    <country><![CDATA[United States]]></country>
+    <postalcode><![CDATA[30328]]></postalcode>
+    <description><![CDATA[<p>Software Engineer needed for Optomi, LLC located in Atlanta, GA. Work on Embedded Banking systems, developing Digital Account Opening (DAO) processes, and utilizing various KYC providers for decisioning engine purposes. Engineer core ACH payment functionality, enabling fund transfers to and from external sources. Engineer communications between payment gateway systems and acquiring banks. Develop debit/credit card issuance and processing systems in alignment with PCI DSS regulation. Will provide services to clients throughout the U.S. Master’s degree in Financial Technology, Engineering or Computer Science and 2 years of experience utilizing the skills listed above. Must be willing to travel and relocate.</p>
+
+<p> </p>
+
+<p>Send resumes to: <u><a href="mailto:brooklynncheney@optomi.com">brooklynncheney@optomi.com</a></u></p>
+]]></description>
+    <salary><![CDATA[100,000 - 150,000 ]]></salary>
+    <category><![CDATA[Application Innovation]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[onsite]]></remotetype>
+    <latitude><![CDATA[33.9253024]]></latitude>
+    <longitude><![CDATA[-84.3857442]]></longitude>
+  </job>
+</source>

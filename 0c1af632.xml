@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sat, 10 Oct 2026 17:37:04 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Salesforce Developer]]></title>
+    <date><![CDATA[Fri, 09 Oct 2026 13:25:18 +0000]]></date>
+    <referencenumber><![CDATA[295118]]></referencenumber>
+    <url><![CDATA[https://www.eitr.com.au/job-details/salesforce-developer-in-information-communication-technology-jobs-1752691]]></url>
+    <company><![CDATA[EITR]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney CBD]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>Senior Salesforce Developers (Contractors)</strong>&nbsp;are required for an immediate start to join a major Salesforce Flow Migration project team. This is a full-time contract role offering a daily rate of&nbsp;<strong>$969 per day including super</strong>, running until the&nbsp;<strong>end of December 2026</strong>&nbsp;with the&nbsp;<strong>potential for extension</strong>.<br /><br />The position operates under a hybrid working model, requiring a minimum of&nbsp;<strong>2 days per week</strong>&nbsp;in the Sydney CBD office.<br />&nbsp;<br /><strong>About the Organisation</strong><br />a NSW Government department who manage complex, high-stakes democratic and administrative processes. Our technology division is currently undergoing significant modernization, offering a dynamic and complex application environment where your expertise will directly impact critical public infrastructure.<br />&nbsp;<br /><strong>The Role</strong><br />As a Senior Salesforce Developer, you will focus on high-volume automation technology within a dedicated project team. You will report directly to the Salesforce Development Team Lead while collaborating closely with the Program Manager to deliver robust, scalable solutions under tight timeframes.<br />&nbsp;<br /><strong>Key Responsibilities</strong></p>
+<ul>
+<li style="list-style-type: disc;"><strong>Develop, configure, and test</strong>&nbsp;Salesforce solutions with a primary focus on Salesforce automation technology and Flow migrations.</li>
+<li style="list-style-type: disc;"><strong>Deliver high-quality code</strong>&nbsp;and development services that strictly align with established technical standards and architectural directions.</li>
+<li style="list-style-type: disc;"><strong>Manage automated deployments</strong>&nbsp;and version control within a structured pipeline.</li>
+<li style="list-style-type: disc;"><strong>Navigate system interdependencies</strong>&nbsp;to anticipate and mitigate technical problems in a dynamic environment with conflicting user needs. &nbsp;&nbsp;<br />&nbsp;&nbsp;</li>
+<li style="list-style-type: disc;"><strong>Provide concise technical advice</strong>&nbsp;to team leaders and stakeholders to ensure seamless data management and external integrations.</li>
+</ul>
+<p>&nbsp;<br /><strong>Key Requirements</strong></p>
+<ul>
+<li style="list-style-type: disc;"><strong>Salesforce Automation Expertise:</strong>&nbsp;Extensive experience with Apex, Lightning Web Components (LWC), and migrating Process Builders/Workflows to Salesforce Flows.</li>
+<li style="list-style-type: disc;"><strong>Data &amp; Integration Skills:</strong>&nbsp;Strong understanding of the Salesforce data model (objects, fields, relationships) alongside proven experience developing Salesforce APIs and web services for external integrations.</li>
+<li style="list-style-type: disc;"><strong>CI/CD Tools:</strong>&nbsp;Proficient in managing deployments using tools like Azure DevOps or Gearset.</li>
+<li style="list-style-type: disc;"><strong>Quality Focus:</strong>&nbsp;Proven track record of ensuring code quality through comprehensive unit testing.</li>
+<li style="list-style-type: disc;"><strong>Certifications:</strong>&nbsp;Salesforce Platform Developer I or II certification is highly desirable, or equivalent deep professional experience acting as a platform SME.</li>
+<li style="list-style-type: disc;"><strong>Education:</strong>&nbsp;Relevant tertiary qualifications in Computer Science or a related field, or equivalent industry experience.</li>
+</ul>
+<p>&nbsp;<br /><strong>What&rsquo;s on Offer</strong></p>
+<ul>
+<li style="list-style-type: disc;">Highly competitive market rate of&nbsp;<strong>$969/day inc. super</strong></li>
+<li style="list-style-type: disc;">Initial contract until the <strong>end of December 2026</strong>&nbsp;with potential extension.</li>
+<li style="list-style-type: disc;">Immediate start (standard agency notice periods respected).</li>
+<li style="list-style-type: disc;">Hybrid work flexibility.</li>
+</ul>
+<p>&nbsp;<br />titob@eitr.com.au I 0434418729</p>]]></description>
+    <salary><![CDATA[$969 per day ]]></salary>
+    <category><![CDATA[Information & Communication Technology]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-33.8688197]]></latitude>
+    <longitude><![CDATA[151.2092955]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Cyber Security Engineer]]></title>
+    <date><![CDATA[Fri, 02 Oct 2026 13:25:19 +0000]]></date>
+    <referencenumber><![CDATA[294925]]></referencenumber>
+    <url><![CDATA[https://www.eitr.com.au/job-details/senior-cyber-security-engineer-in-information-communication-technology-jobs-1744162]]></url>
+    <company><![CDATA[EITR]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Parramatta]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>Senior Cyber Security Engineer</strong><br /><strong>Location: Western Sydney</strong><br /><strong>Contract: 12 months</strong></p>
+<p>We are seeking an experienced Senior Cyber Security Engineer to support a major cyber resilience and security uplift program within a large, complex enterprise environment.</p>
+<p>This is a senior, hands-on engineering role with a strong focus on network security, segmentation, DNS security, identity, security architecture, monitoring, hardening and recovery. You will work across multiple security initiatives, taking solutions from technical design through implementation, testing and transition into operations.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li>Design and implement enterprise network security controls, including segmentation, firewalls, secure remote access and security zones</li>
+<li>Engineer security capabilities across WAF, protective DNS, DNS filtering, NDR, SIEM/MDR, MFA, IGA and PAM<br />Develop secure network architectures across cloud and on-premises environments</li>
+<li>Perform technical security assurance, vulnerability assessment, configuration reviews and control testing<br />Support security automation using PowerShell, Python, Terraform and APIs</li>
+<li>Work closely with architecture, network, cloud, infrastructure, identity and application teams</li>
+</ul>
+<p><strong>About You</strong></p>
+<p>You will bring senior-level experience designing and implementing enterprise security solutions in complex hybrid environments, with strong knowledge of TCP/IP, routing, switching, firewalls, VPNs, WAF, network access controls and DNS security. Experience delivering security controls across large cyber uplift or resilience programs will be highly regarded.</p>
+<p>Hands-on experience with logging/SOC environments, operating system hardening and identity/access integration is also required.</p>
+<p>Relevant certifications such as CISSP, GIAC, Microsoft Security or AWS/Azure Security certifications are desirable.</p>
+<p>This is an excellent 12-month opportunity for a senior cyber security engineer who enjoys remaining hands-on while contributing to large-scale security and resilience initiatives.</p>
+<p><strong>To apply or discuss the opportunity further, please contact Tim Moynihan at tim.moynihan@eitr.com.au.</strong></p>]]></description>
+    <salary><![CDATA[$900 - $1,100 Daily]]></salary>
+    <category><![CDATA[Information & Communication Technology]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-33.814785]]></latitude>
+    <longitude><![CDATA[151.0017218]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Information Protection Specialist - Purview]]></title>
+    <date><![CDATA[Wed, 30 Sep 2026 04:27:55 +0000]]></date>
+    <referencenumber><![CDATA[294878]]></referencenumber>
+    <url><![CDATA[https://www.eitr.com.au/job-details/information-protection-specialist-purview-in-information-communication-technology-jobs-1740662]]></url>
+    <company><![CDATA[EITR]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney CBD]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>Information Protection Specialist</strong></p>
+<p>We are seeking an experienced Information Protection Specialist to lead the establishment and maturity of enterprise information classification and protection capabilities, with a focus on Microsoft Purview, unstructured data, governance and compliance outcomes.</p>
+<p>This role will act as the SME responsible for designing, embedding and operationalising information protection controls, ensuring they become sustainable business capabilities rather than standalone technical solutions.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li>Establish and mature enterprise information classification and protection capabilities.</li>
+<li>Configure and optimise Microsoft Purview information protection solutions.</li>
+<li>Align information protection controls with governance, risk, privacy and compliance requirements.</li>
+<li>Develop reporting and insights to measure classification coverage, protection effectiveness and risk trends.</li>
+<li>Support control assurance activities and audit readiness.</li>
+<li>Deliver knowledge transfer and establish sustainable operating model processes.</li>
+</ul>
+<p><br /><strong>About You</strong></p>
+<ul>
+<li>Proven experience implementing information protection and information classification frameworks within large or complex organisations.</li>
+<li>Strong Microsoft Purview expertise, particularly sensitivity labels, auto-classification, governance and unstructured data protection.</li>
+<li>Experience across data governance, risk and compliance initiatives.</li>
+<li>Ability to translate technical capabilities into practical business and regulatory outcomes.</li>
+<li>Strong stakeholder engagement and influencing skills.</li>
+</ul>
+<p>Ideal candidates will demonstrate evidence-based delivery of Information Protection, Data Governance, Risk and Compliance outcomes, with experience embedding sustainable operational capabilities and driving organisational adoption.</p>
+<p><br />For more information please contact Tim Moynihan on tim.moynihan@eitr.com.au</p>]]></description>
+    <salary><![CDATA[$100,000 - $120,000 Annual Salary]]></salary>
+    <category><![CDATA[Information & Communication Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-33.8688197]]></latitude>
+    <longitude><![CDATA[151.2092955]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Change Manager]]></title>
+    <date><![CDATA[Mon, 28 Sep 2026 23:40:25 +0000]]></date>
+    <referencenumber><![CDATA[294719]]></referencenumber>
+    <url><![CDATA[https://www.eitr.com.au/job-details/senior-change-manager-in-information-communication-technology-jobs-1738681]]></url>
+    <company><![CDATA[EITR]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney CBD]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>Senior Change Manager</b></p>
+<p><b>&nbsp;</b><b>Sydney | Hybrid | 6 Month Contract</b><br /><b>Enterprise Group | Programme Delivery</b>&nbsp;</p>
+<p><b>The Opportunity</b><b>&nbsp;</b></p>
+<p>Enterprise Group is supporting a major business transformation programme within a large and complex Sydney-based organisation and is seeking an experienced Senior <b>Change Manager</b> to drive successful change outcomes across multiple strategic initiatives.</p>
+<p>&nbsp;</p>
+<p>The Change Manager will drive enterprise-wide transformation initiatives, ensuring successful adoption of new systems, processes, and ways of working. You will partner with senior stakeholders, project teams, and business leaders to develop and implement effective change strategies, build organisational readiness, and embed sustainable change outcomes.</p>
+<p>&nbsp;</p>
+<p>With a strong focus on stakeholder engagement, communication, and capability uplift, you will help navigate complex digital, operational, cultural, and business transformations while aligning change activities to strategic objectives.</p>
+<p>This opportunity offers the chance to contribute to a high-profile programme with broad organisational impact.</p>
+<p>&nbsp;</p>
+<p><b>What You'll Be Doing</b></p>
+<ul type="disc">
+<li>Lead and deliver end-to-end business transformation and change initiatives across multiple workstreams.</li>
+<li>Develop and execute change strategies, business readiness plans, and stakeholder engagement activities.</li>
+<li>Conduct change impact assessments and identify organisational risks, dependencies, and readiness gaps.</li>
+<li>Partner with senior leaders, programme teams, and business stakeholders to drive adoption and sustainable business outcomes.</li>
+<li>Design and deliver communications, engagement initiatives, and capability uplift activities.</li>
+<li>Monitor readiness, adoption, and benefits realisation outcomes, ensuring successful transition into business-as-usual operations.</li>
+<li>Contribute to transformation governance, planning, and continuous improvement initiatives.</li>
+</ul>
+<p>&nbsp;</p>
+<p><b>What We're Looking For</b></p>
+<ul type="disc">
+<li>8+ years' experience delivering complex, multi-stream change initiatives within matrix environments.</li>
+<li>Proven experience supporting large-scale transformation programmes involving technology, process, operating model, or organisational change.</li>
+<li>Strong stakeholder engagement and influencing skills, including experience working with executive and senior leadership teams.</li>
+<li>Demonstrated capability in change planning, impact assessment, readiness, communications, and adoption activities.</li>
+<li>Excellent communication, facilitation, and relationship-building skills.</li>
+<li>Experience working within complex, multi-stakeholder environments.</li>
+</ul>
+<p>&nbsp;</p>
+<p><b>Senior-level transformation and executive stakeholder management experience will be highly regarded.</b></p>
+<p><b>Why This Opportunity</b></p>
+<p><b>&nbsp;</b></p>
+<p>This is an opportunity to play a key role in a significant business transformation programme within a complex enterprise environment. You'll work alongside experienced programme delivery professionals, partnering with senior stakeholders to drive meaningful change, influence business outcomes, and contribute to initiatives with genuine organisational impact.</p>
+<p>&nbsp;</p>
+<p><b>Apply Now</b></p>
+<p><b>&nbsp;</b></p>
+<p>If you're passionate about helping organisations navigate complex change and transformation, we'd welcome a confidential conversation.</p>
+<p>&nbsp;</p>
+<p><b>Apply now with your resume, or contact Helen Aprim via <a href="mailto:helen.aprim@enterprisegc.com.au">helen.aprim@enterprisegc.com.au</a> for a confidential discussion.</b></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+    <salary><![CDATA[$1,100 - $1,300 Daily]]></salary>
+    <category><![CDATA[Information & Communication Technology]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-33.8688197]]></latitude>
+    <longitude><![CDATA[151.2092955]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Change Analyst]]></title>
+    <date><![CDATA[Mon, 28 Sep 2026 23:40:25 +0000]]></date>
+    <referencenumber><![CDATA[294720]]></referencenumber>
+    <url><![CDATA[https://www.eitr.com.au/job-details/change-analyst-in-information-communication-technology-jobs-1738682]]></url>
+    <company><![CDATA[EITR]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney CBD]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>Change Analyst</b></p>
+<p><b>&nbsp;</b></p>
+<p><b>Sydney | Hybrid | 6 Month Contract</b><br /><b>Enterprise Group | Programme Delivery</b></p>
+<p>&nbsp;</p>
+<p><b>The Opportunity</b></p>
+<p><b>&nbsp;</b></p>
+<p>Enterprise Group is supporting a large-scale transformation programme and is seeking a <b>Change Analyst</b> to help drive stakeholder engagement, business readiness, communications, and adoption activities.</p>
+<p>&nbsp;</p>
+<p>As a Change Analyst, you will support the planning and delivery of change initiatives that enable successful business transformation across people, processes, technology, and policy. Partnering with project teams, business leaders, and stakeholders, you will assess change impacts, drive business readiness activities, and help embed sustainable new ways of working.</p>
+<p>&nbsp;</p>
+<p>You will play a key role in promoting consistent change management practices and supporting the successful transition of initiatives into business-as-usual operations.</p>
+<p>This is an excellent opportunity for a hands-on change professional looking to work alongside experienced programme teams and contribute to meaningful organisational change.</p>
+<p>&nbsp;</p>
+<p><b>What You'll Be Doing</b></p>
+<ul type="disc">
+<li>Conduct change impact assessments and stakeholder analysis.</li>
+<li>Support communications, engagement, and training activities.</li>
+<li>Facilitate workshops and gather business insights.</li>
+<li>Assess organisational readiness and identify adoption risks.</li>
+<li>Support user acceptance testing and transition activities.</li>
+<li>Track change metrics and provide reporting and insights to project teams.</li>
+<li>Contribute to the development and implementation of change management plans and deliverables.</li>
+</ul>
+<p>&nbsp;</p>
+<p><b>What We're Looking For</b></p>
+<ul type="disc">
+<li>3-5+ years' experience in change management, business readiness, and supporting multiple initiatives within complex project environments.</li>
+<li>Experience supporting transformation, technology, or business change initiatives.</li>
+<li>Strong analytical and problem-solving skills.</li>
+<li>Excellent written communication and stakeholder engagement capability.</li>
+<li>Ability to work collaboratively across business and project teams.</li>
+<li>Experience developing communication, learning, or training materials will be highly regarded.</li>
+</ul>
+<p>&nbsp;</p>
+<p><b>Why This Opportunity</b></p>
+<p>This is an opportunity to play a key role in a significant business transformation programme within a complex enterprise environment. You'll work alongside experienced programme delivery professionals, partnering with stakeholders across the business to support meaningful change, build valuable transformation experience, and contribute to initiatives with genuine organisational impact.</p>
+<p>&nbsp;</p>
+<p><b>Apply Now</b></p>
+<p><b>&nbsp;</b></p>
+<p>If you're passionate about helping organisations navigate change and transformation and are looking to further develop your career within complex programme environments, we'd welcome a confidential conversation.</p>
+<p>&nbsp;</p>
+<p><b>Apply now with your resume, or contact Helen Aprim via <a href="mailto:helen.aprim@enterprisegc.com.au">helen.aprim@enterprisegc.com.au</a> for a confidential discussion.</b></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></description>
+    <salary><![CDATA[$900 - $1,100 Daily]]></salary>
+    <category><![CDATA[Information & Communication Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-33.8688197]]></latitude>
+    <longitude><![CDATA[151.2092955]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[IT Business Analyst - NSW Central Coast]]></title>
+    <date><![CDATA[Tue, 22 Sep 2026 12:25:27 +0000]]></date>
+    <referencenumber><![CDATA[294658]]></referencenumber>
+    <url><![CDATA[https://www.eitr.com.au/job-details/it-business-analyst-nsw-central-coast-in-information-communication-technology-jobs-1731088]]></url>
+    <company><![CDATA[EITR]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Gosford]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div style="border: 0px; font-stretch: inherit; font-size: 12pt; line-height: inherit; font-family: Calibri, Helvetica, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: #000000; white-space: normal; background-color: #ffffff; direction: ltr; text-align: left;" data-olk-copy-source="MessageBody"><strong>IT Business Analyst</strong></div>
+<div style="border: 0px; font-stretch: inherit; font-size: 12pt; line-height: inherit; font-family: Calibri, Helvetica, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: #000000; white-space: normal; background-color: #ffffff; direction: ltr; text-align: left;" data-olk-copy-source="MessageBody"><span style="font-family: calibri;">Permanent role</span></div>
+<div style="border: 0px; font-stretch: inherit; font-size: 12pt; line-height: inherit; font-family: Calibri, Helvetica, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: #000000; white-space: normal; background-color: #ffffff; direction: ltr; text-align: left;" data-olk-copy-source="MessageBody"><span style="font-family: calibri;">3 days on site - 2 days WFH</span></div>
+<div style="border: 0px; font-stretch: inherit; font-size: 12pt; line-height: inherit; font-family: Calibri, Helvetica, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: #000000; white-space: normal; background-color: #ffffff; direction: ltr; text-align: left;" data-olk-copy-source="MessageBody"><span style="font-family: calibri;">Our client is a well known organisation with offices on the NSW Central Coast.</span></div>
+<div style="border: 0px; font-stretch: inherit; font-size: 12pt; line-height: inherit; font-family: Calibri, Helvetica, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: #000000; white-space: normal; background-color: #ffffff; direction: ltr; text-align: left;">&nbsp;</div>
+<div style="border: 0px; font-stretch: inherit; font-size: 12pt; line-height: inherit; font-family: Calibri, Helvetica, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: #000000; white-space: normal; background-color: #ffffff; direction: ltr; text-align: left;"><span style="font-family: calibri;">They are currently seeking an IT Business Analyst who will be responsible for identifying and documenting business processes and software requirements to support IT&rsquo;s involvement in broader business-driven projects. </span></div>
+<div style="border: 0px; font-stretch: inherit; font-size: 12pt; line-height: inherit; font-family: Calibri, Helvetica, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: #000000; white-space: normal; background-color: #ffffff; direction: ltr; text-align: left;"><span style="font-family: calibri;">You&rsquo;ll act as a strategic partner to various business units, ensuring IT solutions are aligned with organisational goals and deliver real value.&nbsp;</span></div>
+<div style="border: 0px; font-stretch: inherit; font-size: 12pt; line-height: inherit; font-family: Calibri, Helvetica, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: #000000; white-space: normal; background-color: #ffffff; direction: ltr; text-align: left;">&nbsp;</div>
+<div style="border: 0px; font-stretch: inherit; font-size: 12pt; line-height: inherit; font-family: Calibri, Helvetica, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: #000000; white-space: normal; background-color: #ffffff; direction: ltr; text-align: left;"><strong><span style="font-family: calibri;">Key Responsibilities:&nbsp;</span></strong></div>
+<ul style="color: #242424; font-family: 'Segoe UI', 'Segoe UI Web (West European)', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', sans-serif; font-size: 15px; white-space: normal; background-color: #ffffff; direction: ltr; text-align: left; margin: 16px 0px 0px 24px; padding-left: 0px;">
+<li style="font-family: Calibri, Helvetica, sans-serif; font-size: 12pt; color: #000000; margin: 0px; list-style-type: disc;">
+<div style="border: 0px; font-style: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit; direction: ltr; text-align: left;" role="presentation"><span style="font-family: calibri;">Analyse and document business processes and software requirements.&nbsp;</span></div>
+</li>
+<li style="font-family: Calibri, Helvetica, sans-serif; font-size: 12pt; color: #000000; margin: 0px; list-style-type: disc;">
+<div style="border: 0px; font-style: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit; direction: ltr; text-align: left;" role="presentation"><span style="font-family: calibri;">Collaborate with stakeholders to gather and translate business needs into actionable IT deliverables.&nbsp;</span></div>
+</li>
+<li style="font-family: Calibri, Helvetica, sans-serif; font-size: 12pt; color: #000000; margin: 0px; list-style-type: disc;">
+<div style="border: 0px; font-style: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit; direction: ltr; text-align: left;" role="presentation"><span style="font-family: calibri;">Prepare project documentation including briefs, business cases, and RFPs.&nbsp;</span></div>
+</li>
+<li style="font-family: Calibri, Helvetica, sans-serif; font-size: 12pt; color: #000000; margin: 0px; list-style-type: disc;">
+<div style="border: 0px; font-style: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit; direction: ltr; text-align: left;" role="presentation"><span style="font-family: calibri;">Support solution design and validate alignment with business strategies.&nbsp;</span></div>
+</li>
+<li style="font-family: Calibri, Helvetica, sans-serif; font-size: 12pt; color: #000000; margin: 0px; list-style-type: disc;">
+<div style="border: 0px; font-style: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit; direction: ltr; text-align: left;" role="presentation"><span style="font-family: calibri;">Maintain strong relationships across business units and IT teams.&nbsp;</span></div>
+</li>
+<li style="font-family: Calibri, Helvetica, sans-serif; font-size: 12pt; color: #000000; margin: 0px; list-style-type: disc;">
+<div style="border: 0px; font-style: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit; direction: ltr; text-align: left;" role="presentation"><span style="font-family: calibri;">Identify risks and opportunities for improvement in systems and processes.&nbsp;</span></div>
+</li>
+</ul>
+<div style="border: 0px; font-stretch: inherit; font-size: 12pt; line-height: inherit; font-family: Calibri, Helvetica, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: #000000; white-space: normal; background-color: #ffffff; direction: ltr; text-align: left;">&nbsp;</div>
+<div style="border: 0px; font-stretch: inherit; font-size: 12pt; line-height: inherit; font-family: Calibri, Helvetica, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: #000000; white-space: normal; background-color: #ffffff; direction: ltr; text-align: left;"><strong><span style="font-family: calibri;">What You&rsquo;ll Bring:&nbsp;</span></strong></div>
+<ul style="color: #242424; font-family: 'Segoe UI', 'Segoe UI Web (West European)', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', sans-serif; font-size: 15px; white-space: normal; background-color: #ffffff; direction: ltr; text-align: left; margin: 16px 0px 0px 24px; padding-left: 0px;">
+<li style="font-family: Calibri, Helvetica, sans-serif; font-size: 12pt; color: #000000; margin: 0px; list-style-type: disc;">
+<div style="border: 0px; font-style: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit; direction: ltr; text-align: left;" role="presentation"><span style="font-family: calibri;">5+ years&rsquo; experience in a Business Analyst or Solutions Partner role</span></div>
+</li>
+<li style="font-family: Calibri, Helvetica, sans-serif; font-size: 12pt; color: #000000; margin: 0px; list-style-type: disc;">
+<div style="border: 0px; font-style: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit; direction: ltr; text-align: left;" role="presentation"><span style="font-family: calibri;">Strong analytical and documentation skills.&nbsp;</span></div>
+</li>
+<li style="font-family: Calibri, Helvetica, sans-serif; font-size: 12pt; color: #000000; margin: 0px; list-style-type: disc;">
+<div style="border: 0px; font-style: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit; direction: ltr; text-align: left;" role="presentation"><span style="font-family: calibri;">Excellent communication and stakeholder engagement abilities</span></div>
+</li>
+<li><span style="font-family: calibri;">FMCG, manufacturing or pharmaceutical industry experience is highly desired</span></li>
+</ul>
+<p><strong><span style="font-family: calibri;">For more information please contact Tim Moynihan via tim.moynihan@eitr.com.au</span></strong></p>]]></description>
+    <salary><![CDATA[$130,000 - $150,000 Annual Salary]]></salary>
+    <category><![CDATA[Information & Communication Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-33.426667]]></latitude>
+    <longitude><![CDATA[151.341667]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Change Manager - Digital Transformation]]></title>
+    <date><![CDATA[Fri, 18 Sep 2026 12:25:28 +0000]]></date>
+    <referencenumber><![CDATA[294557]]></referencenumber>
+    <url><![CDATA[https://www.eitr.com.au/job-details/senior-change-manager-digital-transformation-in-information-communication-technology-jobs-1727654]]></url>
+    <company><![CDATA[EITR]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Parramatta]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<h1>Senior Change Manager<br />Digital Modernisation Program&nbsp;</h1>
+<p><strong>11-Month Contract | Parramatta Square | Hybrid | Up to $950/day + super</strong></p>
+<p>This is an exciting opportunity to lead business change across a significant digital transformation program, supporting the successful adoption of new systems, processes and ways of working across the organisation.</p>
+<h3>The Opportunity</h3>
+<p>The Digital team is delivering a multi-year <strong>Digital Modernisation Strategy</strong> focused on transforming customer services, improving business operations and delivering better digital experiences.</p>
+<p><strong>With multiple product go-lives planned over the next 12 months and beyond, you will play a key role in ensuring business areas are ready to adopt and embed new digital capabilities.</strong></p>
+<p>You will work closely with business leaders, project and product teams, business analysts, delivery partners and end users to identify change impacts, build readiness, support adoption and ensure the benefits of digital investment are realised and sustained.</p>
+<p><strong>This role suits a hands-on, highly motivated,&nbsp;and influential change professional with experience delivering change across complex digital transformation programs and an understanding of modern CRM or business workflow platforms.</strong></p>
+<h3>About You</h3>
+<p>To be successful in this role, you will have:</p>
+<ul data-spread="false">
+<li>- Strong experience leading business change associated with the implementation of new digital systems and technologies.</li>
+<li>- Proven experience delivering change across complex digital transformation programs.</li>
+<li>- Excellent written and verbal communication skills, including stakeholder engagement, negotiation and development of change artefacts.</li>
+<li>- Strong stakeholder management skills and the ability to influence at executive, business and delivery levels.</li>
+<li>- A hands-on approach, with the resilience and adaptability to operate effectively in a fast-paced program environment.</li>
+<li>- Experience working within hybrid Agile technology delivery environments.</li>
+<li>- Strong understanding of change management, business readiness, adoption and governance practices.</li>
+<li>- The ability to manage competing priorities and deliver outcomes within tight deadlines without compromising quality.</li>
+<li>- Knowledge of, or the ability to quickly adapt to, NSW Government practices and standards.</li>
+<li>- Experience with modern CRM or business workflow platforms will be highly regarded.</li>
+<li>- Experience leading change within a regulated organisation will also be highly regarded.</li>
+</ul>
+<p><strong>Contact Tito Tealdo from Enterprise IT Resources I titob@eitr.com.au&nbsp;</strong></p>]]></description>
+    <salary><![CDATA[$950 + super ]]></salary>
+    <category><![CDATA[Information & Communication Technology]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-33.814785]]></latitude>
+    <longitude><![CDATA[151.0017218]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Project Manager / Delivery Lead - Cyber]]></title>
+    <date><![CDATA[Tue, 15 Sep 2026 12:25:27 +0000]]></date>
+    <referencenumber><![CDATA[294432]]></referencenumber>
+    <url><![CDATA[https://www.eitr.com.au/job-details/project-manager-delivery-lead-cyber-in-information-communication-technology-jobs-1722486]]></url>
+    <company><![CDATA[EITR]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney CBD]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>Project Manager / Delivery Lead - Cyber</strong><br /><strong>Sydney CBD</strong><br /><strong>12 month Fixed term hire</strong></p>
+<p><strong>Lead the delivery of high-impact cyber security and technology projects.</strong></p>
+<p>We are seeking an experienced Project Manager - Cyber to join a dynamic delivery team and drive the successful execution of complex cyber and technology initiatives. This role will oversee projects from planning through to implementation, ensuring outcomes are delivered on time, within budget, and aligned to business objectives.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li>Manage the end-to-end delivery of cyber and technology projects.</li>
+<li>Develop and maintain project plans, schedules, budgets, and roadmaps.</li>
+<li>Lead cross-functional teams and coordinate multiple project workstreams.</li>
+<li>Manage project risks, issues, dependencies, and governance requirements.</li>
+<li>Engage with senior stakeholders, vendors, and executive sponsors.</li>
+<li>Oversee procurement activities and vendor performance where required.</li>
+<li>Ensure compliance with cyber security, risk, privacy, and regulatory requirements.</li>
+<li>Provide regular project reporting and clear communication on project progress and outcomes.</li>
+</ul>
+<p><strong>About You</strong></p>
+<ul>
+<li>Proven experience delivering complex IT, cyber security, or business transformation projects.</li>
+<li>Strong stakeholder management and communication skills.</li>
+<li>Experience managing project budgets, resources, and third-party vendors.</li>
+<li>Demonstrated ability to lead multidisciplinary teams and manage competing priorities.</li>
+<li>Knowledge of Agile, Waterfall, or hybrid delivery methodologies.</li>
+<li>Experience with Jira and Confluence.</li>
+<li>Project Management certification (PMP, PRINCE2, Agile or similar) highly regarded.</li>
+</ul>
+<p><strong>Why Apply?</strong></p>
+<ul>
+<li>Deliver strategic, enterprise-wide cyber initiatives.</li>
+<li>Work with senior business and technology leaders.</li>
+<li>Join a collaborative and high-performing delivery environment.</li>
+<li>Competitive remuneration and career development opportunities.</li>
+</ul>
+<p>If you're an experienced Project Manager with a track record of delivering complex technology or cyber projects, we'd love to hear from you.</p>
+<p>Please contact Tim Moynihan (tim.moynihan@eitr.com.au) for more details</p>]]></description>
+    <salary><![CDATA[$180,000 - $200,000 Annual Salary]]></salary>
+    <category><![CDATA[Information & Communication Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-33.8688197]]></latitude>
+    <longitude><![CDATA[151.2092955]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Cyber Technical Business Analyst]]></title>
+    <date><![CDATA[Fri, 11 Sep 2026 12:25:27 +0000]]></date>
+    <referencenumber><![CDATA[294332]]></referencenumber>
+    <url><![CDATA[https://www.eitr.com.au/job-details/cyber-technical-business-analyst-in-information-communication-technology-jobs-1717551]]></url>
+    <company><![CDATA[EITR]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Parramatta]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>12 Month Contract | Parramatta | Hybrid Working</strong><br /><strong>Network Segmentation | Cyber Security | Technology Transformation</strong></p>
+<p>Want to work on a program that's helping to reshape an enterprise's security and technology landscape?</p>
+<p>We're seeking an experienced Business Analyst to join a major technology transformation initiative focused on network segmentation, cyber security uplift, and infrastructure modernisation.</p>
+<p>This role offers the opportunity to work across a range of technical and business stakeholders, helping translate complex requirements into practical outcomes that support security, operational resilience, and future-state technology capabilities.</p>
+<p>Whether you've worked on network segmentation programs before or have a strong background delivering cyber security and infrastructure initiatives, we'd love to hear from you.</p>
+<h2>What You'll Be Doing</h2>
+<ul>
+<li>Working with business and technical stakeholders to elicit, analyse, and document requirements</li>
+<li>Supporting delivery of network segmentation and cyber security-related initiatives</li>
+<li>Facilitating workshops, process mapping, and requirements gathering activities</li>
+<li>Translating complex technical concepts into clear business outcomes</li>
+<li>Producing high-quality business, functional, and process documentation</li>
+<li>Supporting solution design, testing, implementation, and change activities</li>
+<li>Managing stakeholder engagement across multiple teams and workstreams</li>
+<li>Identifying risks, dependencies, and opportunities for continuous improvement</li>
+</ul>
+<h2>What We're Looking For</h2>
+<ul>
+<li>Proven experience as a Business Analyst within complex technology environments</li>
+<li>Experience delivering infrastructure, cyber security, networking, or technology transformation projects</li>
+<li>Must have experience with network segmentation or network transformation initiatives</li>
+<li>Strong requirements gathering, process mapping, and documentation skills</li>
+<li>Ability to engage effectively with both technical and non-technical stakeholders</li>
+<li>Experience working within large enterprise or transformational programs</li>
+<li>Strong analytical and problem-solving capabilities</li>
+</ul>
+<h3>Highly Regarded</h3>
+<ul>
+<li>Network segmentation project experience</li>
+<li>Cyber Security program experience</li>
+<li>Infrastructure or networking project exposure</li>
+<li>Experience working across multiple technical delivery teams</li>
+</ul>
+<h2>Why Apply?</h2>
+<ul>
+<li>Join a significant security and technology transformation program</li>
+<li>Work on complex and impactful initiatives</li>
+<li>Collaborate with experienced technology and cyber security professionals</li>
+<li>Hybrid working model based in Parramatta</li>
+<li>Exposure to enterprise-scale environments and strategic projects</li>
+<li>Opportunity to influence key business and technology outcomes</li>
+</ul>
+<p>If you're a Business Analyst who enjoys delivering complex technology programs and wants to be part of a significant transformation journey, we'd love to hear from you.</p>
+<p><strong>Apply now with your resume, or contact Tim Moynihan via tim.moynihan@eitr.com.au for a confidential discussion.</strong></p>]]></description>
+    <salary><![CDATA[$950 - $1,200 Daily]]></salary>
+    <category><![CDATA[Information & Communication Technology]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-33.814785]]></latitude>
+    <longitude><![CDATA[151.0017218]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Network Engineer]]></title>
+    <date><![CDATA[Fri, 11 Sep 2026 12:25:27 +0000]]></date>
+    <referencenumber><![CDATA[294333]]></referencenumber>
+    <url><![CDATA[https://www.eitr.com.au/job-details/senior-network-engineer-in-information-communication-technology-jobs-1717550]]></url>
+    <company><![CDATA[EITR]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Parramatta]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<h3><strong>12 Month Contract | Parramatta | Hybrid Working</strong></h3>
+<h3><strong>Network Transformation | Security Uplift | Enterprise Environment</strong></h3>
+<p>Join a major network transformation program focused on modernising infrastructure, strengthening security controls, and delivering a future-state network environment.</p>
+<p>This is an opportunity to play a key role in network segmentation, Zero Trust initiatives, secure access, and infrastructure uplift projects. Working alongside engineering, infrastructure, and cyber security teams, you'll help deliver a more secure, resilient, and scalable technology environment.</p>
+<h2><strong>What You'll Be Doing</strong></h2>
+<ul>
+<li>Design and implement enterprise network solutions</li>
+<li>Deliver network upgrades, refreshes, and transformation initiatives</li>
+<li>Support network segmentation and Zero Trust programs</li>
+<li>Implement and support Network Access Control (NAC) solutions</li>
+<li>Contribute to secure access, SD-WAN, and hybrid connectivity initiatives</li>
+<li>Collaborate with Cyber Security and Infrastructure teams</li>
+<li>Improve network visibility, monitoring, and performance</li>
+</ul>
+<h2><strong>What You'll Bring</strong></h2>
+<ul>
+<li>Experience within complex enterprise network environments</li>
+<li>Strong routing, switching, wireless, and network security expertise</li>
+<li>Exposure to network transformation or security uplift programs</li>
+<li>Experience with Cisco, Aruba, Palo Alto, or similar technologies</li>
+<li>Strong problem-solving and stakeholder engagement skills</li>
+<li>A collaborative approach and passion for delivering quality outcomes</li>
+</ul>
+<h2><strong>Why Apply?</strong></h2>
+<ul>
+<li>Major network transformation program</li>
+<li>Exposure to modern networking and Zero Trust initiatives</li>
+<li>Hybrid working model based in Parramatta</li>
+<li>Collaborative and highly capable technology team</li>
+<li>Opportunity to influence long-term network strategy</li>
+</ul>
+<p>If you're looking for a role where you can make a genuine impact while working with modern technologies and experienced professionals, we'd love to hear from you.</p>
+<p><strong>Apply now with your resume, or contact Tim Moynihan via tim.moynihan@eitr.com.au for a confidential discussion.</strong></p>]]></description>
+    <salary><![CDATA[$900 - $1,300 Daily]]></salary>
+    <category><![CDATA[Information & Communication Technology]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-33.814785]]></latitude>
+    <longitude><![CDATA[151.0017218]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Network Engineer]]></title>
+    <date><![CDATA[Fri, 11 Sep 2026 12:25:27 +0000]]></date>
+    <referencenumber><![CDATA[294335]]></referencenumber>
+    <url><![CDATA[https://www.eitr.com.au/job-details/senior-network-engineer-in-information-communication-technology-jobs-1717552]]></url>
+    <company><![CDATA[EITR]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Parramatta]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>
+<h1><strong>Senior Network Engineer</strong></h1>
+<h3><strong>12 Month Contract | Parramatta | Hybrid Working</strong></h3>
+<h3><strong>Network Transformation | Security Uplift | Enterprise Environment</strong></h3>
+<p>Join a major network transformation program focused on modernising infrastructure, strengthening security controls, and delivering a future-state network environment.</p>
+<p>This is an opportunity to play a key role in network segmentation, Zero Trust initiatives, secure access, and infrastructure uplift projects. Working alongside engineering, infrastructure, and cyber security teams, you'll help deliver a more secure, resilient, and scalable technology environment.</p>
+<h2><strong>What You'll Be Doing</strong></h2>
+<ul>
+<li>Design and implement enterprise network solutions</li>
+<li>Deliver network upgrades, refreshes, and transformation initiatives</li>
+<li>Support network segmentation and Zero Trust programs</li>
+<li>Implement and support Network Access Control (NAC) solutions</li>
+<li>Contribute to secure access, SD-WAN, and hybrid connectivity initiatives</li>
+<li>Collaborate with Cyber Security and Infrastructure teams</li>
+<li>Improve network visibility, monitoring, and performance</li>
+</ul>
+<h2><strong>What You'll Bring</strong></h2>
+<ul>
+<li>Experience within complex enterprise network environments</li>
+<li>Strong routing, switching, wireless, and network security expertise</li>
+<li>Exposure to network transformation or security uplift programs</li>
+<li>Experience with Cisco, Aruba, Palo Alto, or similar technologies</li>
+<li>Strong problem-solving and stakeholder engagement skills</li>
+<li>A collaborative approach and passion for delivering quality outcomes</li>
+</ul>
+<h2><strong>Why Apply?</strong></h2>
+<ul>
+<li>Major network transformation program</li>
+<li>Exposure to modern networking and Zero Trust initiatives</li>
+<li>Hybrid working model based in Parramatta</li>
+<li>Collaborative and highly capable technology team</li>
+<li>Opportunity to influence long-term network strategy</li>
+</ul>
+<p>If you're looking for a role where you can make a genuine impact while working with modern technologies and experienced professionals, we'd love to hear from you.</p>
+<p><strong>Apply now with your resume, or contact Tim Moynihan via tim.moynihan@eitr.com.au for a confidential discussion.</strong></p>
+</div>]]></description>
+    <salary><![CDATA[$950 - $1,200 Daily]]></salary>
+    <category><![CDATA[Information & Communication Technology]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-33.814785]]></latitude>
+    <longitude><![CDATA[151.0017218]]></longitude>
+  </job>
+</source>
