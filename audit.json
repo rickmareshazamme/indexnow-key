@@ -1,0 +1,6252 @@
+{
+  "summary": {
+    "last_run": "2026-10-31T12:40:25.114045+00:00",
+    "total_sites": 624,
+    "total_urls": 66768,
+    "submitted_urls": 26140,
+    "missing_urls": 40628,
+    "overall_coverage": 0.3915049125329499
+  },
+  "sites": [
+    {
+      "site_id": "a7f4beeb",
+      "domain": "transition-partners.shazamme.site",
+      "pages": 22,
+      "jobs": 4,
+      "total": 26,
+      "submitted": 0,
+      "missing": 26,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "36c9c754",
+      "domain": "wow-recruitment-editor2.shazamme.site",
+      "pages": 105,
+      "jobs": 21,
+      "total": 126,
+      "submitted": 0,
+      "missing": 126,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "0a4561eb",
+      "domain": "www-consolpartners-co-uk.shazamme.site",
+      "pages": 31,
+      "jobs": 0,
+      "total": 31,
+      "submitted": 0,
+      "missing": 31,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "169df54d",
+      "domain": "www.ajps.co.nz",
+      "pages": 32,
+      "jobs": 4,
+      "total": 36,
+      "submitted": 0,
+      "missing": 36,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "8361e274",
+      "domain": "test-autosite-19oct.shazamme.site",
+      "pages": 62,
+      "jobs": 0,
+      "total": 62,
+      "submitted": 0,
+      "missing": 62,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "a499de3f",
+      "domain": "animal-people-us.shazamme.site",
+      "pages": 87,
+      "jobs": 5,
+      "total": 92,
+      "submitted": 0,
+      "missing": 92,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "fc37aa84",
+      "domain": "kienbaum-nl-27.shazamme.site",
+      "pages": 131,
+      "jobs": 9,
+      "total": 140,
+      "submitted": 4,
+      "missing": 136,
+      "coverage": 0.02857142857142857
+    },
+    {
+      "site_id": "f172bfe9",
+      "domain": "https-fundraisingtalent-co-nz.shazamme.site",
+      "pages": 23,
+      "jobs": 0,
+      "total": 23,
+      "submitted": 0,
+      "missing": 23,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "d4aff204",
+      "domain": "https-mwmigration-com-au.shazamme.site",
+      "pages": 65,
+      "jobs": 0,
+      "total": 65,
+      "submitted": 0,
+      "missing": 65,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "c957c4fc",
+      "domain": "cassonx.shazamme.site",
+      "pages": 28,
+      "jobs": 4,
+      "total": 32,
+      "submitted": 0,
+      "missing": 32,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "5bb2e341",
+      "domain": "www.staffingtv.live",
+      "pages": 3,
+      "jobs": 0,
+      "total": 3,
+      "submitted": 0,
+      "missing": 3,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "b5e7888c",
+      "domain": "www.clearnorth.co.uk",
+      "pages": 42,
+      "jobs": 5,
+      "total": 47,
+      "submitted": 11,
+      "missing": 36,
+      "coverage": 0.23404255319148937
+    },
+    {
+      "site_id": "11184d35",
+      "domain": "shazamme.shazamme.site",
+      "pages": 1,
+      "jobs": 0,
+      "total": 1,
+      "submitted": 0,
+      "missing": 1,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "8fb916be",
+      "domain": "german-auto-haus-8c38.shazamme.site",
+      "pages": 1,
+      "jobs": 0,
+      "total": 1,
+      "submitted": 0,
+      "missing": 1,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "b06e34c0",
+      "domain": "starfish-redesign.shazamme.site",
+      "pages": 30,
+      "jobs": 0,
+      "total": 30,
+      "submitted": 0,
+      "missing": 30,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "32926975",
+      "domain": "merrifield.shazamme.site",
+      "pages": 21,
+      "jobs": 0,
+      "total": 21,
+      "submitted": 0,
+      "missing": 21,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "ebaece2f",
+      "domain": "trisearchrefresh.shazamme.site",
+      "pages": 45,
+      "jobs": 1,
+      "total": 46,
+      "submitted": 0,
+      "missing": 46,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "d70a51e3",
+      "domain": "www.shardassociates.com",
+      "pages": 25,
+      "jobs": 3,
+      "total": 28,
+      "submitted": 0,
+      "missing": 28,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "65465779",
+      "domain": "www.jbrecruitment.co.uk",
+      "pages": 34,
+      "jobs": 30,
+      "total": 64,
+      "submitted": 0,
+      "missing": 64,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "8f0b18b5",
+      "domain": "www.davidsonwp.com",
+      "pages": 64,
+      "jobs": 93,
+      "total": 157,
+      "submitted": 27,
+      "missing": 130,
+      "coverage": 0.17197452229299362
+    },
+    {
+      "site_id": "e8461e8b",
+      "domain": "www.southwestpersonnel.com.au",
+      "pages": 31,
+      "jobs": 10,
+      "total": 41,
+      "submitted": 0,
+      "missing": 41,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "37162901",
+      "domain": "www.recruitit.co.nz",
+      "pages": 38,
+      "jobs": 2,
+      "total": 40,
+      "submitted": 20,
+      "missing": 20,
+      "coverage": 0.5
+    },
+    {
+      "site_id": "89450d86",
+      "domain": "jobwire.shazamme.site",
+      "pages": 44,
+      "jobs": 0,
+      "total": 44,
+      "submitted": 0,
+      "missing": 44,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "1b921694",
+      "domain": "projectusconsulting-2026.shazamme.site",
+      "pages": 85,
+      "jobs": 0,
+      "total": 85,
+      "submitted": 0,
+      "missing": 85,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "89814961",
+      "domain": "veritas-refresh.shazamme.site",
+      "pages": 70,
+      "jobs": 24,
+      "total": 94,
+      "submitted": 0,
+      "missing": 94,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "f685ddfb",
+      "domain": "ingeniacommunities.shazamme.site",
+      "pages": 38,
+      "jobs": 0,
+      "total": 38,
+      "submitted": 0,
+      "missing": 38,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "dbf9d333",
+      "domain": "nurseline-v2.shazamme.site",
+      "pages": 29,
+      "jobs": 44,
+      "total": 73,
+      "submitted": 1,
+      "missing": 72,
+      "coverage": 0.0136986301369863
+    },
+    {
+      "site_id": "8aaae798",
+      "domain": "searsonbuck-v2.shazamme.site",
+      "pages": 48,
+      "jobs": 44,
+      "total": 92,
+      "submitted": 1,
+      "missing": 91,
+      "coverage": 0.010869565217391304
+    },
+    {
+      "site_id": "74ef97fb",
+      "domain": "www.techprorecruiting.com",
+      "pages": 34,
+      "jobs": 4,
+      "total": 38,
+      "submitted": 0,
+      "missing": 38,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "32086734",
+      "domain": "strategenius.shazamme.site",
+      "pages": 47,
+      "jobs": 3,
+      "total": 50,
+      "submitted": 0,
+      "missing": 50,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "a9be11c4",
+      "domain": "www.provalus.com",
+      "pages": 82,
+      "jobs": 29,
+      "total": 111,
+      "submitted": 39,
+      "missing": 72,
+      "coverage": 0.35135135135135137
+    },
+    {
+      "site_id": "a19b0b0c",
+      "domain": "www.marshallharmony.co.uk",
+      "pages": 59,
+      "jobs": 1,
+      "total": 60,
+      "submitted": 0,
+      "missing": 60,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "ae66804d",
+      "domain": "mlcgroup-redesign.shazamme.site",
+      "pages": 59,
+      "jobs": 983,
+      "total": 1042,
+      "submitted": 0,
+      "missing": 1042,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "2109a788",
+      "domain": "www.vestedtalent.co.uk",
+      "pages": 43,
+      "jobs": 3,
+      "total": 46,
+      "submitted": 0,
+      "missing": 46,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "23b36b99",
+      "domain": "www.stellify.io",
+      "pages": 58,
+      "jobs": 9,
+      "total": 67,
+      "submitted": 0,
+      "missing": 67,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "ba1c862c",
+      "domain": "www.networkrecruitmentgroup.com.au",
+      "pages": 23,
+      "jobs": 4,
+      "total": 27,
+      "submitted": 0,
+      "missing": 27,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "899e7e1c",
+      "domain": "www.lorgtalent.com",
+      "pages": 41,
+      "jobs": 20,
+      "total": 61,
+      "submitted": 15,
+      "missing": 46,
+      "coverage": 0.2459016393442623
+    },
+    {
+      "site_id": "6b07c41b",
+      "domain": "emearecruitment.shazamme.site",
+      "pages": 52,
+      "jobs": 298,
+      "total": 350,
+      "submitted": 0,
+      "missing": 350,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "bf506984",
+      "domain": "www.hra-recruitment.co.uk",
+      "pages": 28,
+      "jobs": 0,
+      "total": 28,
+      "submitted": 0,
+      "missing": 28,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "28983ace",
+      "domain": "www.perigongroup.com.au",
+      "pages": 40,
+      "jobs": 102,
+      "total": 142,
+      "submitted": 0,
+      "missing": 142,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "a7334e44",
+      "domain": "www.energysyncrecruitment.com.au",
+      "pages": 35,
+      "jobs": 0,
+      "total": 35,
+      "submitted": 0,
+      "missing": 35,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "e5c84174",
+      "domain": "www.peakrecruitment.co.nz",
+      "pages": 49,
+      "jobs": 29,
+      "total": 78,
+      "submitted": 0,
+      "missing": 78,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "811c9ed1",
+      "domain": "www.calleoindigenous.com.au",
+      "pages": 44,
+      "jobs": 0,
+      "total": 44,
+      "submitted": 0,
+      "missing": 44,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "6e4ed954",
+      "domain": "zoom.shazamme.com",
+      "pages": 16,
+      "jobs": 18,
+      "total": 34,
+      "submitted": 0,
+      "missing": 34,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "a48c2d61",
+      "domain": "www.bmsrecruitment.ie",
+      "pages": 25,
+      "jobs": 69,
+      "total": 94,
+      "submitted": 0,
+      "missing": 94,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "935576eb",
+      "domain": "www.alexcorreaexecutive.com.au",
+      "pages": 42,
+      "jobs": 25,
+      "total": 67,
+      "submitted": 12,
+      "missing": 55,
+      "coverage": 0.1791044776119403
+    },
+    {
+      "site_id": "131d5f8c",
+      "domain": "hydrogen-v2.shazamme.site",
+      "pages": 22,
+      "jobs": 152,
+      "total": 174,
+      "submitted": 0,
+      "missing": 174,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "90b0f098",
+      "domain": "brisaluminium.shazamme.site",
+      "pages": 13,
+      "jobs": 2,
+      "total": 15,
+      "submitted": 0,
+      "missing": 15,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "e0c2e845",
+      "domain": "www.truenorthpersonnel.com.au",
+      "pages": 43,
+      "jobs": 0,
+      "total": 43,
+      "submitted": 23,
+      "missing": 20,
+      "coverage": 0.5348837209302325
+    },
+    {
+      "site_id": "6877a6bd",
+      "domain": "www.partnerexecutive.com.au",
+      "pages": 44,
+      "jobs": 10,
+      "total": 54,
+      "submitted": 0,
+      "missing": 54,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "823dd1b9",
+      "domain": "ceilingsbydesign.shazamme.site",
+      "pages": 21,
+      "jobs": 2,
+      "total": 23,
+      "submitted": 0,
+      "missing": 23,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "b79143a9",
+      "domain": "coxpurtell-v2.shazamme.site",
+      "pages": 70,
+      "jobs": 7,
+      "total": 77,
+      "submitted": 0,
+      "missing": 77,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "8ec04c6f",
+      "domain": "www.capstonegovernment.com.au",
+      "pages": 187,
+      "jobs": 136,
+      "total": 323,
+      "submitted": 0,
+      "missing": 323,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "d4a1f537",
+      "domain": "www.mayvunarc.com",
+      "pages": 48,
+      "jobs": 3,
+      "total": 51,
+      "submitted": 14,
+      "missing": 37,
+      "coverage": 0.27450980392156865
+    },
+    {
+      "site_id": "e251d6c2",
+      "domain": "www.consciatalent.com",
+      "pages": 52,
+      "jobs": 10,
+      "total": 62,
+      "submitted": 19,
+      "missing": 43,
+      "coverage": 0.3064516129032258
+    },
+    {
+      "site_id": "db3853cc",
+      "domain": "www.barkerross.co.uk",
+      "pages": 82,
+      "jobs": 148,
+      "total": 230,
+      "submitted": 0,
+      "missing": 230,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "80a3a607",
+      "domain": "ap-group.shazamme.site",
+      "pages": 32,
+      "jobs": 0,
+      "total": 32,
+      "submitted": 32,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "408daf15",
+      "domain": "www.calleo.com.au",
+      "pages": 40,
+      "jobs": 33,
+      "total": 73,
+      "submitted": 0,
+      "missing": 73,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "391f9b23",
+      "domain": "theminagroup.shazamme.site",
+      "pages": 34,
+      "jobs": 0,
+      "total": 34,
+      "submitted": 0,
+      "missing": 34,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "27737868",
+      "domain": "www.bradshawconsulting.com.au",
+      "pages": 15,
+      "jobs": 3,
+      "total": 18,
+      "submitted": 0,
+      "missing": 18,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "563651b8",
+      "domain": "www.kitsonassociates.co.uk",
+      "pages": 52,
+      "jobs": 19,
+      "total": 71,
+      "submitted": 0,
+      "missing": 71,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "35bcc732",
+      "domain": "www.claritypartners.au",
+      "pages": 51,
+      "jobs": 51,
+      "total": 102,
+      "submitted": 0,
+      "missing": 102,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "0e8a9b03",
+      "domain": "www.fourpillarsgroup.com",
+      "pages": 49,
+      "jobs": 0,
+      "total": 49,
+      "submitted": 49,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "7d282376",
+      "domain": "giide.shazamme.site",
+      "pages": 47,
+      "jobs": 1,
+      "total": 48,
+      "submitted": 16,
+      "missing": 32,
+      "coverage": 0.3333333333333333
+    },
+    {
+      "site_id": "3e620e87",
+      "domain": "www.maydaytechnology.com.au",
+      "pages": 52,
+      "jobs": 11,
+      "total": 63,
+      "submitted": 0,
+      "missing": 63,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "2ca5c6ff",
+      "domain": "www.furststaffing.com",
+      "pages": 82,
+      "jobs": 0,
+      "total": 82,
+      "submitted": 82,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "9714f356",
+      "domain": "www.equippeople.co.nz",
+      "pages": 25,
+      "jobs": 8,
+      "total": 33,
+      "submitted": 0,
+      "missing": 33,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "71e6f062",
+      "domain": "www.w3northamerica.com",
+      "pages": 23,
+      "jobs": 4,
+      "total": 27,
+      "submitted": 27,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "c4a380c8",
+      "domain": "www.i-intro.com",
+      "pages": 48,
+      "jobs": 0,
+      "total": 48,
+      "submitted": 44,
+      "missing": 4,
+      "coverage": 0.9166666666666666
+    },
+    {
+      "site_id": "fb7d43a9",
+      "domain": "www.we-talent.co.uk",
+      "pages": 64,
+      "jobs": 22,
+      "total": 86,
+      "submitted": 0,
+      "missing": 86,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "22d89a44",
+      "domain": "www.careers.zoom.us",
+      "pages": 82,
+      "jobs": 82,
+      "total": 164,
+      "submitted": 0,
+      "missing": 164,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "d78ca19f",
+      "domain": "www.redpathpartners.com",
+      "pages": 37,
+      "jobs": 110,
+      "total": 146,
+      "submitted": 35,
+      "missing": 111,
+      "coverage": 0.23972602739726026
+    },
+    {
+      "site_id": "02e574c1",
+      "domain": "www.procureonesearch.com",
+      "pages": 20,
+      "jobs": 6,
+      "total": 26,
+      "submitted": 20,
+      "missing": 6,
+      "coverage": 0.7692307692307693
+    },
+    {
+      "site_id": "912ea958",
+      "domain": "www.dcsearchgroup.com.au",
+      "pages": 24,
+      "jobs": 4,
+      "total": 28,
+      "submitted": 0,
+      "missing": 28,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "eeb0f5b1",
+      "domain": "www.aequor.com",
+      "pages": 55,
+      "jobs": 0,
+      "total": 55,
+      "submitted": 0,
+      "missing": 55,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "dfb4c509",
+      "domain": "amplifi-talent-e2.shazamme.site",
+      "pages": 23,
+      "jobs": 8,
+      "total": 31,
+      "submitted": 0,
+      "missing": 31,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "2f97e3a8",
+      "domain": "www.tardis-indigenous.com",
+      "pages": 47,
+      "jobs": 0,
+      "total": 47,
+      "submitted": 47,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "19c33114",
+      "domain": "www.profilegroup.co.nz",
+      "pages": 36,
+      "jobs": 20,
+      "total": 56,
+      "submitted": 0,
+      "missing": 56,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "671ba7bf",
+      "domain": "www.kinbridge.com.au",
+      "pages": 26,
+      "jobs": 5,
+      "total": 31,
+      "submitted": 25,
+      "missing": 6,
+      "coverage": 0.8064516129032258
+    },
+    {
+      "site_id": "72a07b96",
+      "domain": "www.imaginghq.com",
+      "pages": 70,
+      "jobs": 83,
+      "total": 153,
+      "submitted": 0,
+      "missing": 153,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "28326c3d",
+      "domain": "andersenjames.shazamme.site",
+      "pages": 76,
+      "jobs": 134,
+      "total": 210,
+      "submitted": 0,
+      "missing": 210,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "03eb4556",
+      "domain": "www.quinnallan.com.au",
+      "pages": 62,
+      "jobs": 16,
+      "total": 78,
+      "submitted": 0,
+      "missing": 78,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "292f16ca",
+      "domain": "www.mttalentsolutions.com",
+      "pages": 39,
+      "jobs": 59,
+      "total": 98,
+      "submitted": 0,
+      "missing": 98,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "e3a481ef",
+      "domain": "www.barrattgalvin.com",
+      "pages": 33,
+      "jobs": 2,
+      "total": 35,
+      "submitted": 0,
+      "missing": 35,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "7480c32f",
+      "domain": "www.nescoresource.com",
+      "pages": 70,
+      "jobs": 1890,
+      "total": 1960,
+      "submitted": 1960,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "f9464de5",
+      "domain": "www.beaumontlegalrecruitment.co.uk",
+      "pages": 22,
+      "jobs": 29,
+      "total": 51,
+      "submitted": 0,
+      "missing": 51,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "51df9187",
+      "domain": "www.newwayrecruitment.com",
+      "pages": 31,
+      "jobs": 18,
+      "total": 49,
+      "submitted": 3,
+      "missing": 46,
+      "coverage": 0.061224489795918366
+    },
+    {
+      "site_id": "3f1420ae",
+      "domain": "www.christy-media.com",
+      "pages": 26,
+      "jobs": 40,
+      "total": 66,
+      "submitted": 0,
+      "missing": 66,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "4da58f82",
+      "domain": "11investments.shazamme.site",
+      "pages": 35,
+      "jobs": 0,
+      "total": 35,
+      "submitted": 0,
+      "missing": 35,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "516c8ffa",
+      "domain": "www.tenzingsearch.com",
+      "pages": 29,
+      "jobs": 0,
+      "total": 29,
+      "submitted": 29,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "65eaa3bb",
+      "domain": "www.neartechsearch.com",
+      "pages": 26,
+      "jobs": 6,
+      "total": 32,
+      "submitted": 25,
+      "missing": 7,
+      "coverage": 0.78125
+    },
+    {
+      "site_id": "92b7033a",
+      "domain": "www.pbsearch.com",
+      "pages": 27,
+      "jobs": 32,
+      "total": 59,
+      "submitted": 50,
+      "missing": 9,
+      "coverage": 0.847457627118644
+    },
+    {
+      "site_id": "610e0cf6",
+      "domain": "www.talentgroups.com",
+      "pages": 64,
+      "jobs": 25,
+      "total": 89,
+      "submitted": 59,
+      "missing": 30,
+      "coverage": 0.6629213483146067
+    },
+    {
+      "site_id": "0f3647f3",
+      "domain": "www.orchardtalent.com.au",
+      "pages": 52,
+      "jobs": 34,
+      "total": 86,
+      "submitted": 47,
+      "missing": 39,
+      "coverage": 0.5465116279069767
+    },
+    {
+      "site_id": "1c8d825b",
+      "domain": "www.teamforcelabour.co.uk",
+      "pages": 31,
+      "jobs": 104,
+      "total": 135,
+      "submitted": 0,
+      "missing": 135,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "25493f60",
+      "domain": "www.people2people.co.uk",
+      "pages": 38,
+      "jobs": 129,
+      "total": 167,
+      "submitted": 0,
+      "missing": 167,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "3869c800",
+      "domain": "frog-editor2.shazamme.site",
+      "pages": 46,
+      "jobs": 0,
+      "total": 46,
+      "submitted": 34,
+      "missing": 12,
+      "coverage": 0.7391304347826086
+    },
+    {
+      "site_id": "c5e9a166",
+      "domain": "jobs.yoh.com",
+      "pages": 29,
+      "jobs": 220,
+      "total": 249,
+      "submitted": 0,
+      "missing": 249,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "499b62b8",
+      "domain": "www.kellygordine.com.au",
+      "pages": 48,
+      "jobs": 0,
+      "total": 48,
+      "submitted": 0,
+      "missing": 48,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "88eebc3b",
+      "domain": "peoplebrandcollective.shazamme.site",
+      "pages": 9,
+      "jobs": 0,
+      "total": 9,
+      "submitted": 9,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "486e653c",
+      "domain": "dmt-v1.shazamme.site",
+      "pages": 42,
+      "jobs": 0,
+      "total": 42,
+      "submitted": 42,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "6212caf0",
+      "domain": "www.accruepartners.com",
+      "pages": 67,
+      "jobs": 94,
+      "total": 161,
+      "submitted": 64,
+      "missing": 97,
+      "coverage": 0.39751552795031053
+    },
+    {
+      "site_id": "93bbca33",
+      "domain": "bradshawconsulting.shazamme.site",
+      "pages": 23,
+      "jobs": 3,
+      "total": 26,
+      "submitted": 0,
+      "missing": 26,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "82737890",
+      "domain": "www.storyrecruitment.com.au",
+      "pages": 33,
+      "jobs": 0,
+      "total": 33,
+      "submitted": 32,
+      "missing": 1,
+      "coverage": 0.9696969696969697
+    },
+    {
+      "site_id": "0ca97dfb",
+      "domain": "www.meetgbs.com",
+      "pages": 34,
+      "jobs": 0,
+      "total": 34,
+      "submitted": 34,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "793de970",
+      "domain": "www.thedentelegroup.com",
+      "pages": 31,
+      "jobs": 0,
+      "total": 31,
+      "submitted": 31,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "93c84fad",
+      "domain": "s7-e2.shazamme.com",
+      "pages": 22,
+      "jobs": 5,
+      "total": 27,
+      "submitted": 22,
+      "missing": 5,
+      "coverage": 0.8148148148148148
+    },
+    {
+      "site_id": "a729437c",
+      "domain": "www.scale-tech.com",
+      "pages": 29,
+      "jobs": 14,
+      "total": 43,
+      "submitted": 41,
+      "missing": 2,
+      "coverage": 0.9534883720930233
+    },
+    {
+      "site_id": "40e08336",
+      "domain": "www.maydaytechnical.com",
+      "pages": 50,
+      "jobs": 25,
+      "total": 65,
+      "submitted": 50,
+      "missing": 15,
+      "coverage": 0.7692307692307693
+    },
+    {
+      "site_id": "2ad569e7",
+      "domain": "www.jhrecruitment.co.uk",
+      "pages": 65,
+      "jobs": 13,
+      "total": 78,
+      "submitted": 21,
+      "missing": 57,
+      "coverage": 0.2692307692307692
+    },
+    {
+      "site_id": "c975bfb2",
+      "domain": "www.maydayhealthcare.com.au",
+      "pages": 58,
+      "jobs": 16,
+      "total": 74,
+      "submitted": 56,
+      "missing": 18,
+      "coverage": 0.7567567567567568
+    },
+    {
+      "site_id": "fd6a8fa8",
+      "domain": "edgerecruit-refresh.shazamme.site",
+      "pages": 48,
+      "jobs": 0,
+      "total": 48,
+      "submitted": 16,
+      "missing": 32,
+      "coverage": 0.3333333333333333
+    },
+    {
+      "site_id": "e4c10456",
+      "domain": "www.weareprominence.com",
+      "pages": 178,
+      "jobs": 0,
+      "total": 178,
+      "submitted": 151,
+      "missing": 27,
+      "coverage": 0.848314606741573
+    },
+    {
+      "site_id": "d545be2c",
+      "domain": "planningrecruitment.com",
+      "pages": 31,
+      "jobs": 315,
+      "total": 346,
+      "submitted": 0,
+      "missing": 346,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "0270dca3",
+      "domain": "www.hunttalentpartners.com",
+      "pages": 26,
+      "jobs": 10,
+      "total": 36,
+      "submitted": 26,
+      "missing": 10,
+      "coverage": 0.7222222222222222
+    },
+    {
+      "site_id": "51844ad3",
+      "domain": "www.awx.com.au",
+      "pages": 88,
+      "jobs": 165,
+      "total": 253,
+      "submitted": 0,
+      "missing": 253,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "f01c710d",
+      "domain": "www.nextstepresources.net",
+      "pages": 20,
+      "jobs": 0,
+      "total": 20,
+      "submitted": 20,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "7b84db35",
+      "domain": "www.hospoworld.com",
+      "pages": 41,
+      "jobs": 44,
+      "total": 85,
+      "submitted": 40,
+      "missing": 45,
+      "coverage": 0.47058823529411764
+    },
+    {
+      "site_id": "a0ff9513",
+      "domain": "www.professionalsearchgroup.com.au",
+      "pages": 39,
+      "jobs": 75,
+      "total": 114,
+      "submitted": 0,
+      "missing": 114,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "769eb72a",
+      "domain": "www.harrishillschools.co.uk",
+      "pages": 23,
+      "jobs": 9,
+      "total": 32,
+      "submitted": 23,
+      "missing": 9,
+      "coverage": 0.71875
+    },
+    {
+      "site_id": "19dc084b",
+      "domain": "www.harrishill.co.uk",
+      "pages": 87,
+      "jobs": 30,
+      "total": 117,
+      "submitted": 76,
+      "missing": 41,
+      "coverage": 0.6495726495726496
+    },
+    {
+      "site_id": "04874a37",
+      "domain": "indigeco.shazamme.site",
+      "pages": 41,
+      "jobs": 0,
+      "total": 41,
+      "submitted": 41,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "13856a43",
+      "domain": "www.talentcount.org",
+      "pages": 33,
+      "jobs": 8,
+      "total": 41,
+      "submitted": 31,
+      "missing": 10,
+      "coverage": 0.7560975609756098
+    },
+    {
+      "site_id": "6018bebe",
+      "domain": "www.methodrecruitment.com.au",
+      "pages": 55,
+      "jobs": 52,
+      "total": 107,
+      "submitted": 56,
+      "missing": 51,
+      "coverage": 0.5233644859813084
+    },
+    {
+      "site_id": "a6dbb2ef",
+      "domain": "www.kcgsearch.com",
+      "pages": 29,
+      "jobs": 0,
+      "total": 29,
+      "submitted": 29,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "7b1c6ab6",
+      "domain": "www.people2people.com.au",
+      "pages": 64,
+      "jobs": 195,
+      "total": 259,
+      "submitted": 0,
+      "missing": 259,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "472ec671",
+      "domain": "www.ngorecruitment.com",
+      "pages": 82,
+      "jobs": 23,
+      "total": 105,
+      "submitted": 78,
+      "missing": 27,
+      "coverage": 0.7428571428571429
+    },
+    {
+      "site_id": "61ea2429",
+      "domain": "petersan.shazamme.site",
+      "pages": 44,
+      "jobs": 0,
+      "total": 44,
+      "submitted": 44,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "f74d34fa",
+      "domain": "www.resourcefulwomen.com.au",
+      "pages": 39,
+      "jobs": 0,
+      "total": 39,
+      "submitted": 34,
+      "missing": 5,
+      "coverage": 0.8717948717948718
+    },
+    {
+      "site_id": "ce996ec4",
+      "domain": "www.maydayrecruitment.com",
+      "pages": 75,
+      "jobs": 84,
+      "total": 159,
+      "submitted": 0,
+      "missing": 159,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "4a9edfcf",
+      "domain": "www.aimrecruit.com.au",
+      "pages": 52,
+      "jobs": 16,
+      "total": 68,
+      "submitted": 52,
+      "missing": 16,
+      "coverage": 0.7647058823529411
+    },
+    {
+      "site_id": "0fff8044",
+      "domain": "www.pbgportal.com.au",
+      "pages": 29,
+      "jobs": 5,
+      "total": 34,
+      "submitted": 34,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "2c157f6c",
+      "domain": "s10-e2.shazamme.com",
+      "pages": 21,
+      "jobs": 5,
+      "total": 26,
+      "submitted": 21,
+      "missing": 5,
+      "coverage": 0.8076923076923077
+    },
+    {
+      "site_id": "47141998",
+      "domain": "www.firstforsupport.co.uk",
+      "pages": 56,
+      "jobs": 8,
+      "total": 64,
+      "submitted": 0,
+      "missing": 64,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "24fad76c",
+      "domain": "www.rec-partners.com.au",
+      "pages": 34,
+      "jobs": 6,
+      "total": 40,
+      "submitted": 34,
+      "missing": 6,
+      "coverage": 0.85
+    },
+    {
+      "site_id": "426f89fb",
+      "domain": "www.bobcheck.io",
+      "pages": 13,
+      "jobs": 0,
+      "total": 13,
+      "submitted": 13,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "46b41b22",
+      "domain": "greatexpressions.shazamme.site",
+      "pages": 15,
+      "jobs": 0,
+      "total": 15,
+      "submitted": 15,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "aaf98f69",
+      "domain": "zesthospitality.com.au",
+      "pages": 25,
+      "jobs": 0,
+      "total": 25,
+      "submitted": 25,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "64980842",
+      "domain": "s4-e2.shazamme.com",
+      "pages": 22,
+      "jobs": 5,
+      "total": 27,
+      "submitted": 22,
+      "missing": 5,
+      "coverage": 0.8148148148148148
+    },
+    {
+      "site_id": "a59570d5",
+      "domain": "www.axr.com.au",
+      "pages": 68,
+      "jobs": 27,
+      "total": 95,
+      "submitted": 65,
+      "missing": 30,
+      "coverage": 0.6842105263157895
+    },
+    {
+      "site_id": "afc5dfbb",
+      "domain": "s8-e2.shazamme.com",
+      "pages": 21,
+      "jobs": 5,
+      "total": 26,
+      "submitted": 21,
+      "missing": 5,
+      "coverage": 0.8076923076923077
+    },
+    {
+      "site_id": "b14fa2bf",
+      "domain": "beaumontexec.shazamme.site",
+      "pages": 62,
+      "jobs": 0,
+      "total": 62,
+      "submitted": 26,
+      "missing": 36,
+      "coverage": 0.41935483870967744
+    },
+    {
+      "site_id": "84b773c3",
+      "domain": "s6-e2.shazamme.com",
+      "pages": 21,
+      "jobs": 5,
+      "total": 26,
+      "submitted": 21,
+      "missing": 5,
+      "coverage": 0.8076923076923077
+    },
+    {
+      "site_id": "76ee03fb",
+      "domain": "www.wavecrest-talent.com",
+      "pages": 50,
+      "jobs": 0,
+      "total": 50,
+      "submitted": 50,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "b12c7623",
+      "domain": "www.capstonerecruitment.co.nz",
+      "pages": 125,
+      "jobs": 136,
+      "total": 261,
+      "submitted": 0,
+      "missing": 261,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "f8997e4b",
+      "domain": "www.compositespeople.com",
+      "pages": 25,
+      "jobs": 0,
+      "total": 25,
+      "submitted": 25,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "3ec2fb69",
+      "domain": "www.jellytechnical.com",
+      "pages": 34,
+      "jobs": 34,
+      "total": 68,
+      "submitted": 0,
+      "missing": 68,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "b2e9a3de",
+      "domain": "dentalpersonnel.shazamme.site",
+      "pages": 40,
+      "jobs": 4,
+      "total": 44,
+      "submitted": 0,
+      "missing": 44,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "87426f13",
+      "domain": "sosnz.shazamme.site",
+      "pages": 47,
+      "jobs": 0,
+      "total": 47,
+      "submitted": 47,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "87be67ce",
+      "domain": "www.retailworldresourcing.com",
+      "pages": 47,
+      "jobs": 74,
+      "total": 121,
+      "submitted": 47,
+      "missing": 74,
+      "coverage": 0.3884297520661157
+    },
+    {
+      "site_id": "13675243",
+      "domain": "www.ethosbc.com",
+      "pages": 163,
+      "jobs": 219,
+      "total": 382,
+      "submitted": 174,
+      "missing": 208,
+      "coverage": 0.45549738219895286
+    },
+    {
+      "site_id": "97b6be9f",
+      "domain": "www.zaleoconsulting.com.au",
+      "pages": 36,
+      "jobs": 0,
+      "total": 36,
+      "submitted": 36,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "cebfad96",
+      "domain": "www.curamoir-hr.com.au",
+      "pages": 94,
+      "jobs": 108,
+      "total": 202,
+      "submitted": 0,
+      "missing": 202,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "68eef07e",
+      "domain": "techforcechatbot.shazamme.site",
+      "pages": 94,
+      "jobs": 0,
+      "total": 94,
+      "submitted": 94,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "beafd758",
+      "domain": "www.rezonaterecruitment.com",
+      "pages": 61,
+      "jobs": 33,
+      "total": 94,
+      "submitted": 49,
+      "missing": 45,
+      "coverage": 0.5212765957446809
+    },
+    {
+      "site_id": "b684db34",
+      "domain": "www.apactalentsolutions.com",
+      "pages": 34,
+      "jobs": 1,
+      "total": 35,
+      "submitted": 34,
+      "missing": 1,
+      "coverage": 0.9714285714285714
+    },
+    {
+      "site_id": "1f6c522a",
+      "domain": "www.ergnz.co.nz",
+      "pages": 35,
+      "jobs": 0,
+      "total": 35,
+      "submitted": 35,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "34ecab2e",
+      "domain": "www.macpeople.com.au",
+      "pages": 46,
+      "jobs": 2,
+      "total": 48,
+      "submitted": 46,
+      "missing": 2,
+      "coverage": 0.9583333333333334
+    },
+    {
+      "site_id": "1f5405f0",
+      "domain": "www.medicacare.com.au",
+      "pages": 19,
+      "jobs": 3,
+      "total": 22,
+      "submitted": 22,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "5a9bf328",
+      "domain": "www.lucasgroup.com.au",
+      "pages": 34,
+      "jobs": 14,
+      "total": 48,
+      "submitted": 36,
+      "missing": 12,
+      "coverage": 0.75
+    },
+    {
+      "site_id": "2276c10f",
+      "domain": "www.onemd-od.com.au",
+      "pages": 12,
+      "jobs": 0,
+      "total": 12,
+      "submitted": 12,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "37509a5c",
+      "domain": "www.v7recruitment.com",
+      "pages": 49,
+      "jobs": 146,
+      "total": 195,
+      "submitted": 48,
+      "missing": 147,
+      "coverage": 0.24615384615384617
+    },
+    {
+      "site_id": "0a09278c",
+      "domain": "www.theojamesrecruitment.com",
+      "pages": 45,
+      "jobs": 43,
+      "total": 88,
+      "submitted": 39,
+      "missing": 49,
+      "coverage": 0.4431818181818182
+    },
+    {
+      "site_id": "aabe2984",
+      "domain": "www.walkerlovell.com",
+      "pages": 41,
+      "jobs": 98,
+      "total": 139,
+      "submitted": 35,
+      "missing": 104,
+      "coverage": 0.2517985611510791
+    },
+    {
+      "site_id": "1df28d2b",
+      "domain": "www.initialize-it.com",
+      "pages": 36,
+      "jobs": 4,
+      "total": 40,
+      "submitted": 36,
+      "missing": 4,
+      "coverage": 0.9
+    },
+    {
+      "site_id": "dbaa9ac1",
+      "domain": "www.elite-employ.com",
+      "pages": 33,
+      "jobs": 0,
+      "total": 33,
+      "submitted": 29,
+      "missing": 4,
+      "coverage": 0.8787878787878788
+    },
+    {
+      "site_id": "422ffb76",
+      "domain": "www.cposearch.com.au",
+      "pages": 34,
+      "jobs": 0,
+      "total": 34,
+      "submitted": 32,
+      "missing": 2,
+      "coverage": 0.9411764705882353
+    },
+    {
+      "site_id": "8e2963fd",
+      "domain": "www.thegolfinglink.com",
+      "pages": 26,
+      "jobs": 0,
+      "total": 26,
+      "submitted": 26,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "42371413",
+      "domain": "www.kennedyreid.com.au",
+      "pages": 65,
+      "jobs": 32,
+      "total": 97,
+      "submitted": 65,
+      "missing": 32,
+      "coverage": 0.6701030927835051
+    },
+    {
+      "site_id": "15898318",
+      "domain": "www.shazamme.com",
+      "pages": 228,
+      "jobs": 0,
+      "total": 228,
+      "submitted": 0,
+      "missing": 228,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "da643f31",
+      "domain": "www.dbgtalent.com.au",
+      "pages": 29,
+      "jobs": 0,
+      "total": 29,
+      "submitted": 29,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "c40416df",
+      "domain": "www.offshorelegaljobs.com",
+      "pages": 33,
+      "jobs": 13,
+      "total": 46,
+      "submitted": 33,
+      "missing": 13,
+      "coverage": 0.717391304347826
+    },
+    {
+      "site_id": "89b1bb2e",
+      "domain": "youthactivation.shazamme.site",
+      "pages": 32,
+      "jobs": 0,
+      "total": 32,
+      "submitted": 32,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "4d35ecda",
+      "domain": "www.roundtablerecruitment.com",
+      "pages": 33,
+      "jobs": 0,
+      "total": 33,
+      "submitted": 33,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "6b93995d",
+      "domain": "www.mycaretalent.com.au",
+      "pages": 32,
+      "jobs": 19,
+      "total": 51,
+      "submitted": 32,
+      "missing": 19,
+      "coverage": 0.6274509803921569
+    },
+    {
+      "site_id": "0a62e2d0",
+      "domain": "www.rwrgroupglobal.com",
+      "pages": 11,
+      "jobs": 0,
+      "total": 11,
+      "submitted": 10,
+      "missing": 1,
+      "coverage": 0.9090909090909091
+    },
+    {
+      "site_id": "f3b9da31",
+      "domain": "www.sourcepoint.com.au",
+      "pages": 27,
+      "jobs": 0,
+      "total": 27,
+      "submitted": 27,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "7a004c28",
+      "domain": "s12-e2.shazamme.com",
+      "pages": 21,
+      "jobs": 5,
+      "total": 26,
+      "submitted": 21,
+      "missing": 5,
+      "coverage": 0.8076923076923077
+    },
+    {
+      "site_id": "33998c83",
+      "domain": "ww-saulrecruitment-com-au-0v5tikuqt-v1.shazamme.com",
+      "pages": 28,
+      "jobs": 0,
+      "total": 28,
+      "submitted": 28,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "ebc85508",
+      "domain": "www.cgrecruitment.com.au",
+      "pages": 48,
+      "jobs": 45,
+      "total": 93,
+      "submitted": 48,
+      "missing": 45,
+      "coverage": 0.5161290322580645
+    },
+    {
+      "site_id": "086bd340",
+      "domain": "www.bluhealthcare.com.au",
+      "pages": 31,
+      "jobs": 20,
+      "total": 51,
+      "submitted": 31,
+      "missing": 20,
+      "coverage": 0.6078431372549019
+    },
+    {
+      "site_id": "8b2d374e",
+      "domain": "www.blubyadcorp.com.au",
+      "pages": 49,
+      "jobs": 7,
+      "total": 56,
+      "submitted": 48,
+      "missing": 8,
+      "coverage": 0.8571428571428571
+    },
+    {
+      "site_id": "970bd13f",
+      "domain": "tqsocialcare.shazamme.site",
+      "pages": 38,
+      "jobs": 0,
+      "total": 38,
+      "submitted": 38,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "75ec4239",
+      "domain": "www.choiceone.com.au",
+      "pages": 38,
+      "jobs": 119,
+      "total": 157,
+      "submitted": 64,
+      "missing": 93,
+      "coverage": 0.40764331210191085
+    },
+    {
+      "site_id": "e33a62df",
+      "domain": "www.roblawmax.co.nz",
+      "pages": 52,
+      "jobs": 81,
+      "total": 133,
+      "submitted": 0,
+      "missing": 133,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "159a7538",
+      "domain": "www.kingstonhumancapital.com.au",
+      "pages": 304,
+      "jobs": 28,
+      "total": 332,
+      "submitted": 0,
+      "missing": 332,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "36262ef8",
+      "domain": "workboxbeta.shazamme.site",
+      "pages": 22,
+      "jobs": 6,
+      "total": 28,
+      "submitted": 28,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "d91cd39b",
+      "domain": "justhr.shazamme.site",
+      "pages": 25,
+      "jobs": 0,
+      "total": 25,
+      "submitted": 25,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "a47b89b9",
+      "domain": "www.handsonrc.com.au",
+      "pages": 25,
+      "jobs": 0,
+      "total": 25,
+      "submitted": 24,
+      "missing": 1,
+      "coverage": 0.96
+    },
+    {
+      "site_id": "e6153d90",
+      "domain": "www.amiqus.com",
+      "pages": 63,
+      "jobs": 10,
+      "total": 73,
+      "submitted": 63,
+      "missing": 10,
+      "coverage": 0.863013698630137
+    },
+    {
+      "site_id": "e9f55efd",
+      "domain": "www.rwrhealth.com",
+      "pages": 41,
+      "jobs": 26,
+      "total": 67,
+      "submitted": 40,
+      "missing": 27,
+      "coverage": 0.5970149253731343
+    },
+    {
+      "site_id": "f486931c",
+      "domain": "www.hazelexecutive.com.au",
+      "pages": 32,
+      "jobs": 4,
+      "total": 36,
+      "submitted": 32,
+      "missing": 4,
+      "coverage": 0.8888888888888888
+    },
+    {
+      "site_id": "2b17bf9e",
+      "domain": "www.opraas.com",
+      "pages": 25,
+      "jobs": 235,
+      "total": 260,
+      "submitted": 23,
+      "missing": 237,
+      "coverage": 0.08846153846153847
+    },
+    {
+      "site_id": "4a3b699c",
+      "domain": "www.shk.com.au",
+      "pages": 60,
+      "jobs": 16,
+      "total": 76,
+      "submitted": 58,
+      "missing": 18,
+      "coverage": 0.7631578947368421
+    },
+    {
+      "site_id": "c8e75a14",
+      "domain": "www.paxus.com.au",
+      "pages": 91,
+      "jobs": 57,
+      "total": 148,
+      "submitted": 82,
+      "missing": 66,
+      "coverage": 0.5540540540540541
+    },
+    {
+      "site_id": "08975377",
+      "domain": "www.balancerecruitment.com",
+      "pages": 27,
+      "jobs": 12,
+      "total": 39,
+      "submitted": 0,
+      "missing": 39,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "a9b27ddc",
+      "domain": "www.ref-me.com",
+      "pages": 9,
+      "jobs": 0,
+      "total": 9,
+      "submitted": 9,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "2680bbc2",
+      "domain": "www.fifteenwest.com",
+      "pages": 44,
+      "jobs": 0,
+      "total": 44,
+      "submitted": 44,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "ed47cc3f",
+      "domain": "www.embankmentgroup.co.uk",
+      "pages": 36,
+      "jobs": 61,
+      "total": 97,
+      "submitted": 42,
+      "missing": 55,
+      "coverage": 0.4329896907216495
+    },
+    {
+      "site_id": "ab759df1",
+      "domain": "www.regalevolve.com",
+      "pages": 37,
+      "jobs": 0,
+      "total": 37,
+      "submitted": 37,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "6283ffb1",
+      "domain": "www.inspiredrec.com",
+      "pages": 50,
+      "jobs": 19,
+      "total": 69,
+      "submitted": 48,
+      "missing": 21,
+      "coverage": 0.6956521739130435
+    },
+    {
+      "site_id": "281507d0",
+      "domain": "www.candidex.co.nz",
+      "pages": 31,
+      "jobs": 0,
+      "total": 31,
+      "submitted": 31,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "e7e1a721",
+      "domain": "www.mobready.com.au",
+      "pages": 27,
+      "jobs": 3,
+      "total": 30,
+      "submitted": 27,
+      "missing": 3,
+      "coverage": 0.9
+    },
+    {
+      "site_id": "5ee610cc",
+      "domain": "www.wsrs.co.uk",
+      "pages": 51,
+      "jobs": 23,
+      "total": 74,
+      "submitted": 51,
+      "missing": 23,
+      "coverage": 0.6891891891891891
+    },
+    {
+      "site_id": "6c75b48a",
+      "domain": "www.thekcgroup.co.uk",
+      "pages": 41,
+      "jobs": 14,
+      "total": 55,
+      "submitted": 40,
+      "missing": 15,
+      "coverage": 0.7272727272727273
+    },
+    {
+      "site_id": "9212e388",
+      "domain": "www.pathwaytalent.org.au",
+      "pages": 33,
+      "jobs": 15,
+      "total": 48,
+      "submitted": 27,
+      "missing": 21,
+      "coverage": 0.5625
+    },
+    {
+      "site_id": "e4ca2989",
+      "domain": "www.talentquarter.com",
+      "pages": 73,
+      "jobs": 133,
+      "total": 206,
+      "submitted": 74,
+      "missing": 132,
+      "coverage": 0.3592233009708738
+    },
+    {
+      "site_id": "87d80a9a",
+      "domain": "www.justsearchgroup.com",
+      "pages": 186,
+      "jobs": 27,
+      "total": 213,
+      "submitted": 140,
+      "missing": 73,
+      "coverage": 0.6572769953051644
+    },
+    {
+      "site_id": "97e3a58b",
+      "domain": "s9-e2.shazamme.com",
+      "pages": 23,
+      "jobs": 5,
+      "total": 28,
+      "submitted": 0,
+      "missing": 28,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "7ce74405",
+      "domain": "p2p-flex2.shazamme.com",
+      "pages": 8,
+      "jobs": 0,
+      "total": 8,
+      "submitted": 8,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "b3e1c557",
+      "domain": "www.people360.com.sg",
+      "pages": 50,
+      "jobs": 11,
+      "total": 61,
+      "submitted": 58,
+      "missing": 3,
+      "coverage": 0.9508196721311475
+    },
+    {
+      "site_id": "4eaf944d",
+      "domain": "www.thameslabs.co.uk",
+      "pages": 28,
+      "jobs": 0,
+      "total": 28,
+      "submitted": 28,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "3a2a1d6c",
+      "domain": "www.employmesolutions.com",
+      "pages": 31,
+      "jobs": 48,
+      "total": 79,
+      "submitted": 39,
+      "missing": 40,
+      "coverage": 0.4936708860759494
+    },
+    {
+      "site_id": "188243dd",
+      "domain": "candidate.healthstaff.org",
+      "pages": 67,
+      "jobs": 0,
+      "total": 67,
+      "submitted": 67,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "e5c81483",
+      "domain": "interindustrialsite.shazamme.site",
+      "pages": 41,
+      "jobs": 13,
+      "total": 54,
+      "submitted": 0,
+      "missing": 54,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "616273e8",
+      "domain": "www.jobs.ronsongears.com.au",
+      "pages": 28,
+      "jobs": 1,
+      "total": 29,
+      "submitted": 29,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "6b319c5f",
+      "domain": "www.edwardjacobsrecruitment.com",
+      "pages": 94,
+      "jobs": 533,
+      "total": 627,
+      "submitted": 0,
+      "missing": 627,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "debe9d96",
+      "domain": "aceglobal.shazamme.com",
+      "pages": 23,
+      "jobs": 0,
+      "total": 23,
+      "submitted": 23,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "4da1db9d",
+      "domain": "www.virtuerecruitment.com.au",
+      "pages": 17,
+      "jobs": 13,
+      "total": 30,
+      "submitted": 17,
+      "missing": 13,
+      "coverage": 0.5666666666666667
+    },
+    {
+      "site_id": "8a6b506d",
+      "domain": "www.rwmgroup.com.au",
+      "pages": 93,
+      "jobs": 16,
+      "total": 109,
+      "submitted": 76,
+      "missing": 33,
+      "coverage": 0.6972477064220184
+    },
+    {
+      "site_id": "93149be8",
+      "domain": "www.lotuspeople.com.au",
+      "pages": 107,
+      "jobs": 20,
+      "total": 127,
+      "submitted": 105,
+      "missing": 22,
+      "coverage": 0.8267716535433071
+    },
+    {
+      "site_id": "a3df17a7",
+      "domain": "www.andfoundeducate.com.au",
+      "pages": 28,
+      "jobs": 7,
+      "total": 35,
+      "submitted": 28,
+      "missing": 7,
+      "coverage": 0.8
+    },
+    {
+      "site_id": "930f83fe",
+      "domain": "www.foundme.ai",
+      "pages": 12,
+      "jobs": 0,
+      "total": 12,
+      "submitted": 12,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "1bf9bf3f",
+      "domain": "www.mackenziejones.com",
+      "pages": 54,
+      "jobs": 3,
+      "total": 57,
+      "submitted": 57,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "8d6fe0d1",
+      "domain": "www.naturalselectiongroup.com.au",
+      "pages": 47,
+      "jobs": 15,
+      "total": 62,
+      "submitted": 42,
+      "missing": 20,
+      "coverage": 0.6774193548387096
+    },
+    {
+      "site_id": "48bfe4fa",
+      "domain": "s3-e2.shazamme.com",
+      "pages": 22,
+      "jobs": 5,
+      "total": 27,
+      "submitted": 0,
+      "missing": 27,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "bd26c27a",
+      "domain": "s5-e2.shazamme.com",
+      "pages": 21,
+      "jobs": 49,
+      "total": 70,
+      "submitted": 0,
+      "missing": 70,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "a950788d",
+      "domain": "s1-e2.shazamme.com",
+      "pages": 20,
+      "jobs": 5,
+      "total": 25,
+      "submitted": 0,
+      "missing": 25,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "a9d29702",
+      "domain": "s2-e2.shazamme.com",
+      "pages": 22,
+      "jobs": 5,
+      "total": 27,
+      "submitted": 0,
+      "missing": 27,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "e50b2aa6",
+      "domain": "www.peoplebank.com.hk",
+      "pages": 150,
+      "jobs": 31,
+      "total": 181,
+      "submitted": 146,
+      "missing": 35,
+      "coverage": 0.8066298342541437
+    },
+    {
+      "site_id": "6907a45e",
+      "domain": "www.elementsrecruitment.com.au",
+      "pages": 68,
+      "jobs": 12,
+      "total": 80,
+      "submitted": 67,
+      "missing": 13,
+      "coverage": 0.8375
+    },
+    {
+      "site_id": "772158c5",
+      "domain": "vitalityhs.shazamme.com",
+      "pages": 32,
+      "jobs": 0,
+      "total": 32,
+      "submitted": 32,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "65f88502",
+      "domain": "www.zrc.com.au",
+      "pages": 119,
+      "jobs": 0,
+      "total": 119,
+      "submitted": 119,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "2d3804ca",
+      "domain": "www.lyneersearch.com",
+      "pages": 72,
+      "jobs": 12,
+      "total": 84,
+      "submitted": 59,
+      "missing": 25,
+      "coverage": 0.7023809523809523
+    },
+    {
+      "site_id": "7c32806a",
+      "domain": "www.whizdom.com.au",
+      "pages": 69,
+      "jobs": 83,
+      "total": 152,
+      "submitted": 0,
+      "missing": 152,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "098810e6",
+      "domain": "www.levyl.com.au",
+      "pages": 55,
+      "jobs": 8,
+      "total": 63,
+      "submitted": 50,
+      "missing": 13,
+      "coverage": 0.7936507936507936
+    },
+    {
+      "site_id": "38665073",
+      "domain": "www.emanatetechnology.com.au",
+      "pages": 123,
+      "jobs": 27,
+      "total": 150,
+      "submitted": 89,
+      "missing": 61,
+      "coverage": 0.5933333333333334
+    },
+    {
+      "site_id": "f36a985b",
+      "domain": "mlcgroup.shazamme.com",
+      "pages": 26,
+      "jobs": 983,
+      "total": 1009,
+      "submitted": 26,
+      "missing": 983,
+      "coverage": 0.02576808721506442
+    },
+    {
+      "site_id": "e896d3bd",
+      "domain": "www.amphib-digital.com",
+      "pages": 34,
+      "jobs": 0,
+      "total": 34,
+      "submitted": 34,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "1ca1cfa8",
+      "domain": "www.corepersonnelstaffing.com",
+      "pages": 153,
+      "jobs": 177,
+      "total": 330,
+      "submitted": 115,
+      "missing": 215,
+      "coverage": 0.3484848484848485
+    },
+    {
+      "site_id": "89ba10ed",
+      "domain": "www.omegamedical.com.au",
+      "pages": 69,
+      "jobs": 188,
+      "total": 257,
+      "submitted": 0,
+      "missing": 257,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "c64ea891",
+      "domain": "www.cml.ky",
+      "pages": 134,
+      "jobs": 29,
+      "total": 163,
+      "submitted": 137,
+      "missing": 26,
+      "coverage": 0.8404907975460123
+    },
+    {
+      "site_id": "7f773f65",
+      "domain": "www.horizonrecruit.com",
+      "pages": 82,
+      "jobs": 67,
+      "total": 149,
+      "submitted": 84,
+      "missing": 65,
+      "coverage": 0.5637583892617449
+    },
+    {
+      "site_id": "a9f6ad6f",
+      "domain": "www.medipeople.com.au",
+      "pages": 98,
+      "jobs": 84,
+      "total": 182,
+      "submitted": 148,
+      "missing": 34,
+      "coverage": 0.8131868131868132
+    },
+    {
+      "site_id": "24c1ca88",
+      "domain": "www.aimcare.com.au",
+      "pages": 23,
+      "jobs": 0,
+      "total": 23,
+      "submitted": 23,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "a98f24f1",
+      "domain": "www.peoplebank.com.sg",
+      "pages": 112,
+      "jobs": 47,
+      "total": 159,
+      "submitted": 112,
+      "missing": 47,
+      "coverage": 0.7044025157232704
+    },
+    {
+      "site_id": "b5c580c6",
+      "domain": "www.culture-fits.com",
+      "pages": 19,
+      "jobs": 12,
+      "total": 31,
+      "submitted": 29,
+      "missing": 2,
+      "coverage": 0.9354838709677419
+    },
+    {
+      "site_id": "a5a67a7f",
+      "domain": "www.savvyrecruitment.com",
+      "pages": 42,
+      "jobs": 0,
+      "total": 42,
+      "submitted": 42,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "d9af49c1",
+      "domain": "www.fetchrecruitment.com.au",
+      "pages": 127,
+      "jobs": 130,
+      "total": 257,
+      "submitted": 0,
+      "missing": 257,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "5b0dad28",
+      "domain": "client.healthstaff.org",
+      "pages": 163,
+      "jobs": 1,
+      "total": 164,
+      "submitted": 160,
+      "missing": 4,
+      "coverage": 0.975609756097561
+    },
+    {
+      "site_id": "b32ab940",
+      "domain": "www.code-search.ai",
+      "pages": 32,
+      "jobs": 0,
+      "total": 32,
+      "submitted": 32,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "7cfb0eeb",
+      "domain": "www.onemd.com.au",
+      "pages": 32,
+      "jobs": 14,
+      "total": 46,
+      "submitted": 32,
+      "missing": 14,
+      "coverage": 0.6956521739130435
+    },
+    {
+      "site_id": "9a73acc6",
+      "domain": "www.santos.chandlermacleod.com",
+      "pages": 16,
+      "jobs": 0,
+      "total": 16,
+      "submitted": 16,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "f5fcd94d",
+      "domain": "www.edgerecruit.com.au",
+      "pages": 104,
+      "jobs": 29,
+      "total": 133,
+      "submitted": 107,
+      "missing": 26,
+      "coverage": 0.8045112781954887
+    },
+    {
+      "site_id": "17067b43",
+      "domain": "www.hanoverdigital.co.uk",
+      "pages": 99,
+      "jobs": 13,
+      "total": 112,
+      "submitted": 0,
+      "missing": 112,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "65e83c2e",
+      "domain": "www.careers.tandymgroup.com",
+      "pages": 33,
+      "jobs": 0,
+      "total": 33,
+      "submitted": 33,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "915ce634",
+      "domain": "www.aspectpersonnel.com.au",
+      "pages": 83,
+      "jobs": 44,
+      "total": 127,
+      "submitted": 79,
+      "missing": 48,
+      "coverage": 0.6220472440944882
+    },
+    {
+      "site_id": "877fae4b",
+      "domain": "www.goalis.com.au",
+      "pages": 22,
+      "jobs": 17,
+      "total": 39,
+      "submitted": 22,
+      "missing": 17,
+      "coverage": 0.5641025641025641
+    },
+    {
+      "site_id": "0025905f",
+      "domain": "www.meridian-recruitment.com.au",
+      "pages": 34,
+      "jobs": 1,
+      "total": 35,
+      "submitted": 34,
+      "missing": 1,
+      "coverage": 0.9714285714285714
+    },
+    {
+      "site_id": "f0a5e274",
+      "domain": "www.tradestaffglobal.com",
+      "pages": 65,
+      "jobs": 1,
+      "total": 66,
+      "submitted": 66,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "8f8b06ce",
+      "domain": "www.procurementinstitute.edu.au",
+      "pages": 42,
+      "jobs": 0,
+      "total": 42,
+      "submitted": 42,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "9c17b0aa",
+      "domain": "www.dispatchnursingagency.com.au",
+      "pages": 21,
+      "jobs": 0,
+      "total": 21,
+      "submitted": 21,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "0292ef92",
+      "domain": "www.surematch.com.au",
+      "pages": 39,
+      "jobs": 1,
+      "total": 40,
+      "submitted": 37,
+      "missing": 3,
+      "coverage": 0.925
+    },
+    {
+      "site_id": "7cd71f0f",
+      "domain": "www.tarrays.com.au",
+      "pages": 26,
+      "jobs": 0,
+      "total": 26,
+      "submitted": 26,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "4624bc35",
+      "domain": "www.axistalent.io",
+      "pages": 45,
+      "jobs": 0,
+      "total": 45,
+      "submitted": 45,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "ea0e8560",
+      "domain": "www.quidditytalent.com",
+      "pages": 48,
+      "jobs": 25,
+      "total": 73,
+      "submitted": 47,
+      "missing": 26,
+      "coverage": 0.6438356164383562
+    },
+    {
+      "site_id": "fe05c948",
+      "domain": "www.optomiservices.com",
+      "pages": 58,
+      "jobs": 0,
+      "total": 58,
+      "submitted": 44,
+      "missing": 14,
+      "coverage": 0.7586206896551724
+    },
+    {
+      "site_id": "3bb7d9b9",
+      "domain": "www.peoplein.com.au",
+      "pages": 70,
+      "jobs": 18,
+      "total": 88,
+      "submitted": 70,
+      "missing": 18,
+      "coverage": 0.7954545454545454
+    },
+    {
+      "site_id": "af29e094",
+      "domain": "www.wowrecruitment.com",
+      "pages": 515,
+      "jobs": 21,
+      "total": 536,
+      "submitted": 0,
+      "missing": 536,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "1888191a",
+      "domain": "www.apprenticehq.org",
+      "pages": 65,
+      "jobs": 0,
+      "total": 65,
+      "submitted": 65,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "fe05c032",
+      "domain": "www.inkrecruitment.com.au",
+      "pages": 36,
+      "jobs": 8,
+      "total": 44,
+      "submitted": 36,
+      "missing": 8,
+      "coverage": 0.8181818181818182
+    },
+    {
+      "site_id": "8a695030",
+      "domain": "www.rdlcpirates.com",
+      "pages": 28,
+      "jobs": 0,
+      "total": 28,
+      "submitted": 27,
+      "missing": 1,
+      "coverage": 0.9642857142857143
+    },
+    {
+      "site_id": "40e27049",
+      "domain": "www.tardis-group.com",
+      "pages": 49,
+      "jobs": 21,
+      "total": 70,
+      "submitted": 64,
+      "missing": 6,
+      "coverage": 0.9142857142857143
+    },
+    {
+      "site_id": "0da81f14",
+      "domain": "www.firstchoicecare.com.au",
+      "pages": 142,
+      "jobs": 9,
+      "total": 151,
+      "submitted": 131,
+      "missing": 20,
+      "coverage": 0.8675496688741722
+    },
+    {
+      "site_id": "71608555",
+      "domain": "www.chainreactionrecruitment.com.au",
+      "pages": 90,
+      "jobs": 0,
+      "total": 90,
+      "submitted": 89,
+      "missing": 1,
+      "coverage": 0.9888888888888889
+    },
+    {
+      "site_id": "bd5c0ca0",
+      "domain": "www.leaders.com.au",
+      "pages": 74,
+      "jobs": 50,
+      "total": 124,
+      "submitted": 70,
+      "missing": 54,
+      "coverage": 0.5645161290322581
+    },
+    {
+      "site_id": "24895079",
+      "domain": "www.arkadiatalent.com.au",
+      "pages": 25,
+      "jobs": 5,
+      "total": 30,
+      "submitted": 0,
+      "missing": 30,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "0a1418ad",
+      "domain": "www.space-exec.com",
+      "pages": 60,
+      "jobs": 62,
+      "total": 122,
+      "submitted": 112,
+      "missing": 10,
+      "coverage": 0.9180327868852459
+    },
+    {
+      "site_id": "5f4ba5f2",
+      "domain": "www.norwestrecruitment.com.au",
+      "pages": 72,
+      "jobs": 28,
+      "total": 100,
+      "submitted": 72,
+      "missing": 28,
+      "coverage": 0.72
+    },
+    {
+      "site_id": "f51f1976",
+      "domain": "www.tcbrecruitment.com",
+      "pages": 69,
+      "jobs": 9,
+      "total": 78,
+      "submitted": 70,
+      "missing": 8,
+      "coverage": 0.8974358974358975
+    },
+    {
+      "site_id": "38e893e0",
+      "domain": "www.objectiveerp.com",
+      "pages": 30,
+      "jobs": 0,
+      "total": 30,
+      "submitted": 30,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "30541b37",
+      "domain": "www.infratechsolutions.com",
+      "pages": 33,
+      "jobs": 7,
+      "total": 40,
+      "submitted": 32,
+      "missing": 8,
+      "coverage": 0.8
+    },
+    {
+      "site_id": "286e949b",
+      "domain": "www.oprecruiting.com",
+      "pages": 32,
+      "jobs": 30,
+      "total": 62,
+      "submitted": 44,
+      "missing": 18,
+      "coverage": 0.7096774193548387
+    },
+    {
+      "site_id": "8febdf4d",
+      "domain": "www.game7staffing.com",
+      "pages": 55,
+      "jobs": 4,
+      "total": 59,
+      "submitted": 58,
+      "missing": 1,
+      "coverage": 0.9830508474576272
+    },
+    {
+      "site_id": "aa899a12",
+      "domain": "www.opcybertalent.com",
+      "pages": 30,
+      "jobs": 0,
+      "total": 30,
+      "submitted": 30,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "c51e3a00",
+      "domain": "www.talution.com",
+      "pages": 23,
+      "jobs": 12,
+      "total": 35,
+      "submitted": 21,
+      "missing": 14,
+      "coverage": 0.6
+    },
+    {
+      "site_id": "a0787260",
+      "domain": "www.paceglobal.org",
+      "pages": 61,
+      "jobs": 25,
+      "total": 86,
+      "submitted": 57,
+      "missing": 29,
+      "coverage": 0.6627906976744186
+    },
+    {
+      "site_id": "b07ded41",
+      "domain": "www.ivorygroup.com.au",
+      "pages": 47,
+      "jobs": 77,
+      "total": 124,
+      "submitted": 49,
+      "missing": 75,
+      "coverage": 0.3951612903225806
+    },
+    {
+      "site_id": "a47d959a",
+      "domain": "www.markjamessearch.com",
+      "pages": 11,
+      "jobs": 0,
+      "total": 11,
+      "submitted": 10,
+      "missing": 1,
+      "coverage": 0.9090909090909091
+    },
+    {
+      "site_id": "a6d3109a",
+      "domain": "www.searchworks.com.au",
+      "pages": 47,
+      "jobs": 2,
+      "total": 49,
+      "submitted": 47,
+      "missing": 2,
+      "coverage": 0.9591836734693877
+    },
+    {
+      "site_id": "4ba78e27",
+      "domain": "www.greatlakesskilledtrades.com",
+      "pages": 29,
+      "jobs": 42,
+      "total": 71,
+      "submitted": 29,
+      "missing": 42,
+      "coverage": 0.4084507042253521
+    },
+    {
+      "site_id": "a56a2a4c",
+      "domain": "www.sabcrecruitment.harrisonmcmillan.com.au",
+      "pages": 37,
+      "jobs": 0,
+      "total": 37,
+      "submitted": 0,
+      "missing": 37,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "5e6bdda5",
+      "domain": "www.objectivepartners.co",
+      "pages": 35,
+      "jobs": 49,
+      "total": 84,
+      "submitted": 47,
+      "missing": 37,
+      "coverage": 0.5595238095238095
+    },
+    {
+      "site_id": "918a1c52",
+      "domain": "www.gatherrecruitment.com.au",
+      "pages": 50,
+      "jobs": 48,
+      "total": 98,
+      "submitted": 73,
+      "missing": 25,
+      "coverage": 0.7448979591836735
+    },
+    {
+      "site_id": "7670deac",
+      "domain": "www.corestaff.com.au",
+      "pages": 48,
+      "jobs": 85,
+      "total": 133,
+      "submitted": 49,
+      "missing": 84,
+      "coverage": 0.3684210526315789
+    },
+    {
+      "site_id": "21117486",
+      "domain": "www.versegroup.com.au",
+      "pages": 48,
+      "jobs": 18,
+      "total": 66,
+      "submitted": 43,
+      "missing": 23,
+      "coverage": 0.6515151515151515
+    },
+    {
+      "site_id": "1bf63fb7",
+      "domain": "www.workboxstaffing.com",
+      "pages": 100,
+      "jobs": 363,
+      "total": 463,
+      "submitted": 0,
+      "missing": 463,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "fd900a05",
+      "domain": "www.csi4jobs.com",
+      "pages": 45,
+      "jobs": 267,
+      "total": 312,
+      "submitted": 0,
+      "missing": 312,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "01757bf8",
+      "domain": "www.ccjobs.com.au",
+      "pages": 78,
+      "jobs": 3416,
+      "total": 3494,
+      "submitted": 0,
+      "missing": 3494,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "5c2becab",
+      "domain": "www.brittmedical.com",
+      "pages": 31,
+      "jobs": 0,
+      "total": 31,
+      "submitted": 0,
+      "missing": 31,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "cdbcc4ba",
+      "domain": "www.frsrecruitment.com",
+      "pages": 143,
+      "jobs": 243,
+      "total": 384,
+      "submitted": 136,
+      "missing": 248,
+      "coverage": 0.3541666666666667
+    },
+    {
+      "site_id": "442d5676",
+      "domain": "www.skillhouse.co.jp",
+      "pages": 79,
+      "jobs": 396,
+      "total": 475,
+      "submitted": 0,
+      "missing": 475,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "7b1130fc",
+      "domain": "www.symbioti.ca",
+      "pages": 113,
+      "jobs": 45,
+      "total": 158,
+      "submitted": 152,
+      "missing": 6,
+      "coverage": 0.9620253164556962
+    },
+    {
+      "site_id": "a347222d",
+      "domain": "www.reuben-sinclair.com",
+      "pages": 75,
+      "jobs": 81,
+      "total": 156,
+      "submitted": 140,
+      "missing": 16,
+      "coverage": 0.8974358974358975
+    },
+    {
+      "site_id": "cc38b9a0",
+      "domain": "www.meritustalent.com",
+      "pages": 55,
+      "jobs": 82,
+      "total": 137,
+      "submitted": 53,
+      "missing": 84,
+      "coverage": 0.38686131386861317
+    },
+    {
+      "site_id": "ef1022e9",
+      "domain": "www.peoplebank.com.au",
+      "pages": 173,
+      "jobs": 97,
+      "total": 270,
+      "submitted": 0,
+      "missing": 270,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "8acfaeb6",
+      "domain": "www.healthstaff.org",
+      "pages": 22,
+      "jobs": 0,
+      "total": 22,
+      "submitted": 22,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "eef0a55f",
+      "domain": "www.shotlandconsulting.com.au",
+      "pages": 25,
+      "jobs": 0,
+      "total": 25,
+      "submitted": 25,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "c79c559f",
+      "domain": "no.grafton.com",
+      "pages": 89,
+      "jobs": 0,
+      "total": 89,
+      "submitted": 89,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "fa7c0b2e",
+      "domain": "dk.grafton.com",
+      "pages": 94,
+      "jobs": 3,
+      "total": 97,
+      "submitted": 97,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "00b42c8c",
+      "domain": "www.saulrecruitment.com.au",
+      "pages": 31,
+      "jobs": 14,
+      "total": 45,
+      "submitted": 30,
+      "missing": 15,
+      "coverage": 0.6666666666666666
+    },
+    {
+      "site_id": "20b5c141",
+      "domain": "www.infinitystaffblue.com.au",
+      "pages": 23,
+      "jobs": 0,
+      "total": 23,
+      "submitted": 23,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "3d5e06a2",
+      "domain": "www.rosemaeprocurement.com",
+      "pages": 39,
+      "jobs": 0,
+      "total": 39,
+      "submitted": 39,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "0454984b",
+      "domain": "www.masonalexander.ie",
+      "pages": 214,
+      "jobs": 20,
+      "total": 234,
+      "submitted": 0,
+      "missing": 234,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "247da267",
+      "domain": "www.veruspeople.com",
+      "pages": 139,
+      "jobs": 43,
+      "total": 182,
+      "submitted": 128,
+      "missing": 54,
+      "coverage": 0.7032967032967034
+    },
+    {
+      "site_id": "f013be89",
+      "domain": "www.sublimetalent.com.au",
+      "pages": 33,
+      "jobs": 0,
+      "total": 33,
+      "submitted": 33,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "782264d3",
+      "domain": "www.edmencss.com.au",
+      "pages": 91,
+      "jobs": 17,
+      "total": 108,
+      "submitted": 88,
+      "missing": 20,
+      "coverage": 0.8148148148148148
+    },
+    {
+      "site_id": "ea4ef277",
+      "domain": "www.harrisonmcmillan.com.au",
+      "pages": 96,
+      "jobs": 36,
+      "total": 130,
+      "submitted": 88,
+      "missing": 42,
+      "coverage": 0.676923076923077
+    },
+    {
+      "site_id": "83472902",
+      "domain": "www.matchtraceconnect.com",
+      "pages": 39,
+      "jobs": 6,
+      "total": 45,
+      "submitted": 45,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "2a713f44",
+      "domain": "www.corm.au",
+      "pages": 36,
+      "jobs": 1,
+      "total": 37,
+      "submitted": 0,
+      "missing": 37,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "ee16f8ca",
+      "domain": "www.search-4.com.au",
+      "pages": 82,
+      "jobs": 326,
+      "total": 408,
+      "submitted": 0,
+      "missing": 408,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "ca55bf6f",
+      "domain": "www.marinesearchassociates.com",
+      "pages": 46,
+      "jobs": 11,
+      "total": 57,
+      "submitted": 54,
+      "missing": 3,
+      "coverage": 0.9473684210526315
+    },
+    {
+      "site_id": "0c78f184",
+      "domain": "www.beilbydt.com.au",
+      "pages": 43,
+      "jobs": 8,
+      "total": 51,
+      "submitted": 42,
+      "missing": 9,
+      "coverage": 0.8235294117647058
+    },
+    {
+      "site_id": "ebd83095",
+      "domain": "www.dsr-global.com",
+      "pages": 47,
+      "jobs": 11,
+      "total": 58,
+      "submitted": 43,
+      "missing": 15,
+      "coverage": 0.7413793103448276
+    },
+    {
+      "site_id": "ee600a9b",
+      "domain": "de.grafton.com",
+      "pages": 144,
+      "jobs": 167,
+      "total": 311,
+      "submitted": 0,
+      "missing": 311,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "b3c6a94b",
+      "domain": "www.pqepartners.com.au",
+      "pages": 33,
+      "jobs": 7,
+      "total": 40,
+      "submitted": 27,
+      "missing": 13,
+      "coverage": 0.675
+    },
+    {
+      "site_id": "5353422d",
+      "domain": "www.careers.modernwoodmen.org",
+      "pages": 19,
+      "jobs": 557,
+      "total": 576,
+      "submitted": 0,
+      "missing": 576,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "c2138bf5",
+      "domain": "www.onsidenz.co.nz",
+      "pages": 29,
+      "jobs": 0,
+      "total": 29,
+      "submitted": 29,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "da5a5511",
+      "domain": "www.lmarecruitment.asia",
+      "pages": 1,
+      "jobs": 0,
+      "total": 1,
+      "submitted": 1,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "5e2cc904",
+      "domain": "www.vivir.com.au",
+      "pages": 128,
+      "jobs": 0,
+      "total": 128,
+      "submitted": 91,
+      "missing": 37,
+      "coverage": 0.7109375
+    },
+    {
+      "site_id": "5b7b9cc5",
+      "domain": "www.fbitalent.co",
+      "pages": 34,
+      "jobs": 0,
+      "total": 34,
+      "submitted": 34,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "b1f09f98",
+      "domain": "www.davisjames.com.au",
+      "pages": 28,
+      "jobs": 0,
+      "total": 28,
+      "submitted": 28,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "1435998a",
+      "domain": "www.silverbackconnects.com",
+      "pages": 61,
+      "jobs": 24,
+      "total": 85,
+      "submitted": 61,
+      "missing": 24,
+      "coverage": 0.7176470588235294
+    },
+    {
+      "site_id": "3c67ed8b",
+      "domain": "www.harke.com.au",
+      "pages": 72,
+      "jobs": 32,
+      "total": 104,
+      "submitted": 0,
+      "missing": 104,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "cc526661",
+      "domain": "www.argyllscott.vn",
+      "pages": 65,
+      "jobs": 0,
+      "total": 65,
+      "submitted": 62,
+      "missing": 3,
+      "coverage": 0.9538461538461539
+    },
+    {
+      "site_id": "e61f8729",
+      "domain": "www.argyllscott.com.hk",
+      "pages": 65,
+      "jobs": 0,
+      "total": 65,
+      "submitted": 62,
+      "missing": 3,
+      "coverage": 0.9538461538461539
+    },
+    {
+      "site_id": "a8cc4f34",
+      "domain": "www.argyllscott.co.th",
+      "pages": 63,
+      "jobs": 0,
+      "total": 63,
+      "submitted": 60,
+      "missing": 3,
+      "coverage": 0.9523809523809523
+    },
+    {
+      "site_id": "ccf820d7",
+      "domain": "www.argyllscott.sg",
+      "pages": 64,
+      "jobs": 0,
+      "total": 64,
+      "submitted": 61,
+      "missing": 3,
+      "coverage": 0.953125
+    },
+    {
+      "site_id": "67c278f3",
+      "domain": "www.homeaidesnow.com",
+      "pages": 36,
+      "jobs": 0,
+      "total": 36,
+      "submitted": 34,
+      "missing": 2,
+      "coverage": 0.9444444444444444
+    },
+    {
+      "site_id": "9c0caad4",
+      "domain": "www.optomi.com",
+      "pages": 145,
+      "jobs": 22,
+      "total": 167,
+      "submitted": 129,
+      "missing": 38,
+      "coverage": 0.7724550898203593
+    },
+    {
+      "site_id": "2799913b",
+      "domain": "www.techanddatapeople.com.au",
+      "pages": 101,
+      "jobs": 1,
+      "total": 102,
+      "submitted": 89,
+      "missing": 13,
+      "coverage": 0.8725490196078431
+    },
+    {
+      "site_id": "82047184",
+      "domain": "www.deltapersonnel.com",
+      "pages": 76,
+      "jobs": 0,
+      "total": 76,
+      "submitted": 76,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "d064877d",
+      "domain": "www.societastalent.com",
+      "pages": 23,
+      "jobs": 0,
+      "total": 23,
+      "submitted": 23,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "d32aff19",
+      "domain": "www.evolvewith.us",
+      "pages": 21,
+      "jobs": 0,
+      "total": 21,
+      "submitted": 21,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "d0a4f404",
+      "domain": "www.randaconsultants.co.uk",
+      "pages": 21,
+      "jobs": 5,
+      "total": 26,
+      "submitted": 21,
+      "missing": 5,
+      "coverage": 0.8076923076923077
+    },
+    {
+      "site_id": "f4153b9e",
+      "domain": "www.theteamnetwork.co.uk",
+      "pages": 85,
+      "jobs": 0,
+      "total": 85,
+      "submitted": 73,
+      "missing": 12,
+      "coverage": 0.8588235294117647
+    },
+    {
+      "site_id": "12a5759a",
+      "domain": "www.rgfstaffinghksg.com",
+      "pages": 35,
+      "jobs": 0,
+      "total": 35,
+      "submitted": 35,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "50013143",
+      "domain": "www.dynamixrecruitment.co.nz",
+      "pages": 41,
+      "jobs": 8,
+      "total": 49,
+      "submitted": 41,
+      "missing": 8,
+      "coverage": 0.8367346938775511
+    },
+    {
+      "site_id": "2e019907",
+      "domain": "www.sorciety.com",
+      "pages": 20,
+      "jobs": 4,
+      "total": 24,
+      "submitted": 18,
+      "missing": 6,
+      "coverage": 0.75
+    },
+    {
+      "site_id": "9084e978",
+      "domain": "www.iconsultancy.sg",
+      "pages": 40,
+      "jobs": 79,
+      "total": 119,
+      "submitted": 119,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "d2980217",
+      "domain": "www.gigroup.ie",
+      "pages": 138,
+      "jobs": 27,
+      "total": 165,
+      "submitted": 138,
+      "missing": 27,
+      "coverage": 0.8363636363636363
+    },
+    {
+      "site_id": "fa0157c9",
+      "domain": "www.rwrconstruction.co.nz",
+      "pages": 55,
+      "jobs": 10,
+      "total": 65,
+      "submitted": 55,
+      "missing": 10,
+      "coverage": 0.8461538461538461
+    },
+    {
+      "site_id": "be377d0a",
+      "domain": "www.consolpartners.com",
+      "pages": 56,
+      "jobs": 11,
+      "total": 67,
+      "submitted": 66,
+      "missing": 1,
+      "coverage": 0.9850746268656716
+    },
+    {
+      "site_id": "03e0e447",
+      "domain": "www.consolpartners.co.uk",
+      "pages": 57,
+      "jobs": 12,
+      "total": 69,
+      "submitted": 57,
+      "missing": 12,
+      "coverage": 0.8260869565217391
+    },
+    {
+      "site_id": "ea085650",
+      "domain": "www.empresaria.com",
+      "pages": 64,
+      "jobs": 387,
+      "total": 451,
+      "submitted": 0,
+      "missing": 451,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "7ead632f",
+      "domain": "www.pathfinderrecruitment.com.au",
+      "pages": 23,
+      "jobs": 3,
+      "total": 26,
+      "submitted": 23,
+      "missing": 3,
+      "coverage": 0.8846153846153846
+    },
+    {
+      "site_id": "561e81cf",
+      "domain": "www.infinitystaffglobal.com",
+      "pages": 22,
+      "jobs": 0,
+      "total": 22,
+      "submitted": 19,
+      "missing": 3,
+      "coverage": 0.8636363636363636
+    },
+    {
+      "site_id": "94a56af1",
+      "domain": "calleo.shazamme.site",
+      "pages": 58,
+      "jobs": 33,
+      "total": 91,
+      "submitted": 0,
+      "missing": 91,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "aea10bea",
+      "domain": "www.appointmentspersonnel.co.uk",
+      "pages": 203,
+      "jobs": 33,
+      "total": 236,
+      "submitted": 0,
+      "missing": 236,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "aaf88c87",
+      "domain": "www.lmarecruitment.com.sg",
+      "pages": 82,
+      "jobs": 16,
+      "total": 98,
+      "submitted": 83,
+      "missing": 15,
+      "coverage": 0.8469387755102041
+    },
+    {
+      "site_id": "f71dd262",
+      "domain": "www.demo1.shazamme.com",
+      "pages": 274,
+      "jobs": 49,
+      "total": 323,
+      "submitted": 0,
+      "missing": 323,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "550fcf47",
+      "domain": "www.epaustralia.com.au",
+      "pages": 32,
+      "jobs": 0,
+      "total": 32,
+      "submitted": 31,
+      "missing": 1,
+      "coverage": 0.96875
+    },
+    {
+      "site_id": "59a509a7",
+      "domain": "www.zenergygroup.com.au",
+      "pages": 50,
+      "jobs": 15,
+      "total": 65,
+      "submitted": 39,
+      "missing": 26,
+      "coverage": 0.6
+    },
+    {
+      "site_id": "77639439",
+      "domain": "www.practicepeople.co",
+      "pages": 64,
+      "jobs": 69,
+      "total": 133,
+      "submitted": 92,
+      "missing": 41,
+      "coverage": 0.6917293233082706
+    },
+    {
+      "site_id": "7ba85cf9",
+      "domain": "www.brookrecruitment.com.au",
+      "pages": 61,
+      "jobs": 39,
+      "total": 100,
+      "submitted": 0,
+      "missing": 100,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "f289b868",
+      "domain": "www.infrontsports.com.au",
+      "pages": 69,
+      "jobs": 2,
+      "total": 71,
+      "submitted": 70,
+      "missing": 1,
+      "coverage": 0.9859154929577465
+    },
+    {
+      "site_id": "b7ba8971",
+      "domain": "www.james-partners.com",
+      "pages": 32,
+      "jobs": 23,
+      "total": 55,
+      "submitted": 35,
+      "missing": 20,
+      "coverage": 0.6363636363636364
+    },
+    {
+      "site_id": "f326ff26",
+      "domain": "www.warnerrecruitment.co.uk",
+      "pages": 43,
+      "jobs": 2,
+      "total": 45,
+      "submitted": 40,
+      "missing": 5,
+      "coverage": 0.8888888888888888
+    },
+    {
+      "site_id": "a8a71678",
+      "domain": "s27.shazamme.com",
+      "pages": 24,
+      "jobs": 0,
+      "total": 24,
+      "submitted": 24,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "ba825fb6",
+      "domain": "www.ahsservicesgroup.co.nz",
+      "pages": 57,
+      "jobs": 7,
+      "total": 64,
+      "submitted": 0,
+      "missing": 64,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "e9d3130d",
+      "domain": "www.ahsservicesgroup.com.au",
+      "pages": 73,
+      "jobs": 26,
+      "total": 99,
+      "submitted": 0,
+      "missing": 99,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "97798dda",
+      "domain": "www.signalsolutions.thisishr.com",
+      "pages": 19,
+      "jobs": 0,
+      "total": 19,
+      "submitted": 19,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "f696ee98",
+      "domain": "www.theindustryclub.co.uk",
+      "pages": 120,
+      "jobs": 11,
+      "total": 131,
+      "submitted": 112,
+      "missing": 19,
+      "coverage": 0.8549618320610687
+    },
+    {
+      "site_id": "95dd0604",
+      "domain": "www.huntermanning.com",
+      "pages": 28,
+      "jobs": 4,
+      "total": 32,
+      "submitted": 28,
+      "missing": 4,
+      "coverage": 0.875
+    },
+    {
+      "site_id": "bf99e7db",
+      "domain": "www.blackbearsolutions.com.au",
+      "pages": 42,
+      "jobs": 0,
+      "total": 42,
+      "submitted": 41,
+      "missing": 1,
+      "coverage": 0.9761904761904762
+    },
+    {
+      "site_id": "d74b3c41",
+      "domain": "www.amplifi-talent.com",
+      "pages": 103,
+      "jobs": 8,
+      "total": 111,
+      "submitted": 101,
+      "missing": 10,
+      "coverage": 0.9099099099099099
+    },
+    {
+      "site_id": "9905aabf",
+      "domain": "www.nextleveltechnician.com",
+      "pages": 41,
+      "jobs": 131,
+      "total": 172,
+      "submitted": 0,
+      "missing": 172,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "f4d19f00",
+      "domain": "www.vantagerecruitmentgroup.co.uk",
+      "pages": 32,
+      "jobs": 0,
+      "total": 32,
+      "submitted": 32,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "4bd9ae75",
+      "domain": "www.adaltaglobal.com",
+      "pages": 31,
+      "jobs": 0,
+      "total": 31,
+      "submitted": 31,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "73da57a7",
+      "domain": "www.argyllscott.com",
+      "pages": 73,
+      "jobs": 89,
+      "total": 162,
+      "submitted": 0,
+      "missing": 162,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "3abae393",
+      "domain": "www.hydrogengroup.com",
+      "pages": 479,
+      "jobs": 152,
+      "total": 631,
+      "submitted": 0,
+      "missing": 631,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "161e1b3b",
+      "domain": "www.advanzea.com.au",
+      "pages": 19,
+      "jobs": 7,
+      "total": 26,
+      "submitted": 0,
+      "missing": 26,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "18e8e18e",
+      "domain": "www.vividrecruitment.com.au",
+      "pages": 54,
+      "jobs": 7,
+      "total": 61,
+      "submitted": 52,
+      "missing": 9,
+      "coverage": 0.8524590163934426
+    },
+    {
+      "site_id": "85714a08",
+      "domain": "www.careers.summerset.co.nz",
+      "pages": 37,
+      "jobs": 64,
+      "total": 101,
+      "submitted": 37,
+      "missing": 64,
+      "coverage": 0.36633663366336633
+    },
+    {
+      "site_id": "fcf0dabb",
+      "domain": "www.elastic-ltd.com",
+      "pages": 35,
+      "jobs": 7,
+      "total": 42,
+      "submitted": 41,
+      "missing": 1,
+      "coverage": 0.9761904761904762
+    },
+    {
+      "site_id": "f817c8a1",
+      "domain": "www.deanling.com.au",
+      "pages": 86,
+      "jobs": 7,
+      "total": 93,
+      "submitted": 78,
+      "missing": 15,
+      "coverage": 0.8387096774193549
+    },
+    {
+      "site_id": "28b25dc8",
+      "domain": "www.kienbaum.nl",
+      "pages": 127,
+      "jobs": 9,
+      "total": 136,
+      "submitted": 130,
+      "missing": 6,
+      "coverage": 0.9558823529411765
+    },
+    {
+      "site_id": "d76ad683",
+      "domain": "www.newchaptertalent.com.au",
+      "pages": 63,
+      "jobs": 1,
+      "total": 64,
+      "submitted": 62,
+      "missing": 2,
+      "coverage": 0.96875
+    },
+    {
+      "site_id": "5765a0ee",
+      "domain": "www.barker-morris.com",
+      "pages": 31,
+      "jobs": 1,
+      "total": 32,
+      "submitted": 31,
+      "missing": 1,
+      "coverage": 0.96875
+    },
+    {
+      "site_id": "924a07ca",
+      "domain": "www.flaunttalent.com.au",
+      "pages": 29,
+      "jobs": 18,
+      "total": 47,
+      "submitted": 43,
+      "missing": 4,
+      "coverage": 0.9148936170212766
+    },
+    {
+      "site_id": "19063527",
+      "domain": "www.gowrecruitment.com",
+      "pages": 28,
+      "jobs": 10,
+      "total": 38,
+      "submitted": 28,
+      "missing": 10,
+      "coverage": 0.7368421052631579
+    },
+    {
+      "site_id": "00aa3197",
+      "domain": "www.connectedpeople.com.au",
+      "pages": 52,
+      "jobs": 13,
+      "total": 65,
+      "submitted": 52,
+      "missing": 13,
+      "coverage": 0.8
+    },
+    {
+      "site_id": "ff76b18b",
+      "domain": "www.lmarecruitment.com",
+      "pages": 81,
+      "jobs": 0,
+      "total": 81,
+      "submitted": 81,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "e8c0fc39",
+      "domain": "www.lodestonerecruitment.co.uk",
+      "pages": 36,
+      "jobs": 26,
+      "total": 62,
+      "submitted": 39,
+      "missing": 23,
+      "coverage": 0.6290322580645161
+    },
+    {
+      "site_id": "2cce4485",
+      "domain": "www.just-constructionrec.com",
+      "pages": 150,
+      "jobs": 204,
+      "total": 354,
+      "submitted": 0,
+      "missing": 354,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "fcaa1d22",
+      "domain": "www.just-hr.ca",
+      "pages": 48,
+      "jobs": 67,
+      "total": 115,
+      "submitted": 46,
+      "missing": 69,
+      "coverage": 0.4
+    },
+    {
+      "site_id": "7f5fe628",
+      "domain": "www.enterprise.co.nz",
+      "pages": 32,
+      "jobs": 41,
+      "total": 73,
+      "submitted": 32,
+      "missing": 41,
+      "coverage": 0.4383561643835616
+    },
+    {
+      "site_id": "0f337479",
+      "domain": "www.expectastar.com.au",
+      "pages": 94,
+      "jobs": 29,
+      "total": 123,
+      "submitted": 89,
+      "missing": 34,
+      "coverage": 0.7235772357723578
+    },
+    {
+      "site_id": "7fb43fce",
+      "domain": "www.oceansgroup.com.au",
+      "pages": 75,
+      "jobs": 1,
+      "total": 76,
+      "submitted": 76,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "dc529e0d",
+      "domain": "www.oneeighty.co.nz",
+      "pages": 65,
+      "jobs": 0,
+      "total": 65,
+      "submitted": 65,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "db83f00f",
+      "domain": "www.attunedtalent.com.au",
+      "pages": 37,
+      "jobs": 2,
+      "total": 39,
+      "submitted": 33,
+      "missing": 6,
+      "coverage": 0.8461538461538461
+    },
+    {
+      "site_id": "8b62365d",
+      "domain": "www.cirrusrecruitment.com.ph",
+      "pages": 64,
+      "jobs": 0,
+      "total": 64,
+      "submitted": 64,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "38775d8a",
+      "domain": "www.ballandhoolahan.co.uk",
+      "pages": 19,
+      "jobs": 0,
+      "total": 19,
+      "submitted": 19,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "9e10a3dc",
+      "domain": "www.thisishr.com",
+      "pages": 37,
+      "jobs": 7,
+      "total": 44,
+      "submitted": 34,
+      "missing": 10,
+      "coverage": 0.7727272727272727
+    },
+    {
+      "site_id": "f067ee37",
+      "domain": "www.zatori-consulting.co.uk",
+      "pages": 41,
+      "jobs": 0,
+      "total": 41,
+      "submitted": 41,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "d211532b",
+      "domain": "intelligengroup2023-v2.shazamme.com",
+      "pages": 92,
+      "jobs": 0,
+      "total": 92,
+      "submitted": 92,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "221d8609",
+      "domain": "www.summitcareersinc.com",
+      "pages": 58,
+      "jobs": 53,
+      "total": 111,
+      "submitted": 68,
+      "missing": 43,
+      "coverage": 0.6126126126126126
+    },
+    {
+      "site_id": "c327aa80",
+      "domain": "www.ondemandresources.com",
+      "pages": 42,
+      "jobs": 0,
+      "total": 42,
+      "submitted": 42,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "29efb9f5",
+      "domain": "www.cywaas.com",
+      "pages": 40,
+      "jobs": 0,
+      "total": 40,
+      "submitted": 40,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "165881dd",
+      "domain": "www.ashdownpeople.com.au",
+      "pages": 65,
+      "jobs": 1,
+      "total": 66,
+      "submitted": 65,
+      "missing": 1,
+      "coverage": 0.9848484848484849
+    },
+    {
+      "site_id": "f7745fa0",
+      "domain": "www.firegroup.uk",
+      "pages": 64,
+      "jobs": 9,
+      "total": 73,
+      "submitted": 58,
+      "missing": 15,
+      "coverage": 0.7945205479452054
+    },
+    {
+      "site_id": "f722ecb9",
+      "domain": "www.hollingsgate.com",
+      "pages": 46,
+      "jobs": 3,
+      "total": 49,
+      "submitted": 46,
+      "missing": 3,
+      "coverage": 0.9387755102040817
+    },
+    {
+      "site_id": "66c50284",
+      "domain": "www.stantonedge.com",
+      "pages": 29,
+      "jobs": 0,
+      "total": 29,
+      "submitted": 29,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "fdaeea1e",
+      "domain": "jobs.jacksonphysiciansearch.com",
+      "pages": 24,
+      "jobs": 1172,
+      "total": 1196,
+      "submitted": 1196,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "8e982387",
+      "domain": "www.nestrecruitment.com.au",
+      "pages": 43,
+      "jobs": 1,
+      "total": 44,
+      "submitted": 43,
+      "missing": 1,
+      "coverage": 0.9772727272727273
+    },
+    {
+      "site_id": "148ae5e7",
+      "domain": "www.skylinehrsolutions.com",
+      "pages": 31,
+      "jobs": 0,
+      "total": 31,
+      "submitted": 31,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "3374e36a",
+      "domain": "www.beaumontpeople.com.au",
+      "pages": 78,
+      "jobs": 48,
+      "total": 126,
+      "submitted": 83,
+      "missing": 43,
+      "coverage": 0.6587301587301587
+    },
+    {
+      "site_id": "acc7a862",
+      "domain": "www.rimfireresources.com.au",
+      "pages": 37,
+      "jobs": 28,
+      "total": 65,
+      "submitted": 36,
+      "missing": 29,
+      "coverage": 0.5538461538461539
+    },
+    {
+      "site_id": "ea011efd",
+      "domain": "www.freshtechit.com",
+      "pages": 34,
+      "jobs": 1,
+      "total": 35,
+      "submitted": 34,
+      "missing": 1,
+      "coverage": 0.9714285714285714
+    },
+    {
+      "site_id": "d92c43cd",
+      "domain": "www.momentumsearch.com.au",
+      "pages": 39,
+      "jobs": 0,
+      "total": 39,
+      "submitted": 36,
+      "missing": 3,
+      "coverage": 0.9230769230769231
+    },
+    {
+      "site_id": "684656fc",
+      "domain": "perigongroupold.shazamme.com",
+      "pages": 45,
+      "jobs": 102,
+      "total": 147,
+      "submitted": 0,
+      "missing": 147,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "51f3afe2",
+      "domain": "www.collarcare.com.au",
+      "pages": 55,
+      "jobs": 116,
+      "total": 171,
+      "submitted": 55,
+      "missing": 116,
+      "coverage": 0.3216374269005848
+    },
+    {
+      "site_id": "41aa59a1",
+      "domain": "www.peopleequity.com.au",
+      "pages": 58,
+      "jobs": 6,
+      "total": 64,
+      "submitted": 60,
+      "missing": 4,
+      "coverage": 0.9375
+    },
+    {
+      "site_id": "9e507b0f",
+      "domain": "www.360talent.com.au",
+      "pages": 25,
+      "jobs": 0,
+      "total": 25,
+      "submitted": 25,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "8f53569f",
+      "domain": "www.claritycbs.com",
+      "pages": 38,
+      "jobs": 0,
+      "total": 38,
+      "submitted": 38,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "6c7d44cb",
+      "domain": "www.skilledresources.net.au",
+      "pages": 31,
+      "jobs": 33,
+      "total": 64,
+      "submitted": 37,
+      "missing": 27,
+      "coverage": 0.578125
+    },
+    {
+      "site_id": "a9a065d8",
+      "domain": "www.hatrixrecruitment.com",
+      "pages": 46,
+      "jobs": 4,
+      "total": 50,
+      "submitted": 45,
+      "missing": 5,
+      "coverage": 0.9
+    },
+    {
+      "site_id": "0ff6c1a1",
+      "domain": "www.thryvetalent.com",
+      "pages": 53,
+      "jobs": 28,
+      "total": 81,
+      "submitted": 52,
+      "missing": 29,
+      "coverage": 0.6419753086419753
+    },
+    {
+      "site_id": "33e5b3bf",
+      "domain": "www.additionsolutions.co.uk",
+      "pages": 119,
+      "jobs": 26,
+      "total": 145,
+      "submitted": 0,
+      "missing": 145,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "4be6479f",
+      "domain": "www.procurementco.com.au",
+      "pages": 38,
+      "jobs": 0,
+      "total": 38,
+      "submitted": 38,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "490b4698",
+      "domain": "www.procurement-people.com.au",
+      "pages": 39,
+      "jobs": 4,
+      "total": 43,
+      "submitted": 39,
+      "missing": 4,
+      "coverage": 0.9069767441860465
+    },
+    {
+      "site_id": "1f9f026f",
+      "domain": "www.ppdsearch.com.au",
+      "pages": 64,
+      "jobs": 9,
+      "total": 73,
+      "submitted": 54,
+      "missing": 19,
+      "coverage": 0.7397260273972602
+    },
+    {
+      "site_id": "b30db684",
+      "domain": "www.equilibrium-rec.com",
+      "pages": 63,
+      "jobs": 12,
+      "total": 75,
+      "submitted": 75,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "784d666e",
+      "domain": "www.totemtalent.ca",
+      "pages": 67,
+      "jobs": 209,
+      "total": 276,
+      "submitted": 0,
+      "missing": 276,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "4d6947ca",
+      "domain": "www.recmate.com.au",
+      "pages": 13,
+      "jobs": 0,
+      "total": 13,
+      "submitted": 13,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "a394e389",
+      "domain": "www.ninewire.com.au",
+      "pages": 26,
+      "jobs": 0,
+      "total": 26,
+      "submitted": 26,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "2dfd63c9",
+      "domain": "www.magpierecruitment.com",
+      "pages": 14,
+      "jobs": 0,
+      "total": 14,
+      "submitted": 13,
+      "missing": 1,
+      "coverage": 0.9285714285714286
+    },
+    {
+      "site_id": "bff5cbb5",
+      "domain": "www.iss-careers.com",
+      "pages": 59,
+      "jobs": 17,
+      "total": 76,
+      "submitted": 0,
+      "missing": 76,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "f334519f",
+      "domain": "www.mttalent.ca",
+      "pages": 48,
+      "jobs": 59,
+      "total": 107,
+      "submitted": 48,
+      "missing": 59,
+      "coverage": 0.4485981308411215
+    },
+    {
+      "site_id": "1af408aa",
+      "domain": "www.curerecruitment.com.au",
+      "pages": 27,
+      "jobs": 0,
+      "total": 27,
+      "submitted": 27,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "c673caf1",
+      "domain": "www.lmarecruitment.co.uk",
+      "pages": 89,
+      "jobs": 3,
+      "total": 92,
+      "submitted": 89,
+      "missing": 3,
+      "coverage": 0.967391304347826
+    },
+    {
+      "site_id": "280caff7",
+      "domain": "ir-jobs.dzconnex.com",
+      "pages": 15,
+      "jobs": 692,
+      "total": 707,
+      "submitted": 33,
+      "missing": 674,
+      "coverage": 0.04667609618104668
+    },
+    {
+      "site_id": "ba7479bd",
+      "domain": "www.klcrecruitment.com.au",
+      "pages": 80,
+      "jobs": 17,
+      "total": 97,
+      "submitted": 82,
+      "missing": 15,
+      "coverage": 0.845360824742268
+    },
+    {
+      "site_id": "7c70d602",
+      "domain": "www.collinspropertyrecruitment.com",
+      "pages": 70,
+      "jobs": 33,
+      "total": 103,
+      "submitted": 77,
+      "missing": 26,
+      "coverage": 0.7475728155339806
+    },
+    {
+      "site_id": "1e96218e",
+      "domain": "www.turasnua.ie",
+      "pages": 48,
+      "jobs": 0,
+      "total": 48,
+      "submitted": 47,
+      "missing": 1,
+      "coverage": 0.9791666666666666
+    },
+    {
+      "site_id": "99e11708",
+      "domain": "www.trisearch.com",
+      "pages": 62,
+      "jobs": 100,
+      "total": 162,
+      "submitted": 79,
+      "missing": 83,
+      "coverage": 0.4876543209876543
+    },
+    {
+      "site_id": "1848a090",
+      "domain": "www.hinchen.com.au",
+      "pages": 62,
+      "jobs": 22,
+      "total": 84,
+      "submitted": 57,
+      "missing": 27,
+      "coverage": 0.6785714285714286
+    },
+    {
+      "site_id": "7a3af1f5",
+      "domain": "www.heartilyhealthcare.com.au",
+      "pages": 37,
+      "jobs": 0,
+      "total": 37,
+      "submitted": 37,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "d3feaffe",
+      "domain": "www.publicsectorpeople.com.au",
+      "pages": 78,
+      "jobs": 81,
+      "total": 159,
+      "submitted": 0,
+      "missing": 159,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "dfe6d30a",
+      "domain": "www.recruitmint.com",
+      "pages": 68,
+      "jobs": 23,
+      "total": 91,
+      "submitted": 24,
+      "missing": 67,
+      "coverage": 0.26373626373626374
+    },
+    {
+      "site_id": "1c373d6b",
+      "domain": "www.becruit.nl",
+      "pages": 71,
+      "jobs": 18,
+      "total": 89,
+      "submitted": 67,
+      "missing": 22,
+      "coverage": 0.7528089887640449
+    },
+    {
+      "site_id": "86eac5dc",
+      "domain": "www.chandlermacleod.co.nz",
+      "pages": 120,
+      "jobs": 0,
+      "total": 120,
+      "submitted": 120,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "eda4ad32",
+      "domain": "www.chandlermacleod.com.hk",
+      "pages": 106,
+      "jobs": 0,
+      "total": 106,
+      "submitted": 105,
+      "missing": 1,
+      "coverage": 0.9905660377358491
+    },
+    {
+      "site_id": "88b8b5bd",
+      "domain": "www.missioncriticalrecruit.com",
+      "pages": 35,
+      "jobs": 16,
+      "total": 51,
+      "submitted": 35,
+      "missing": 16,
+      "coverage": 0.6862745098039216
+    },
+    {
+      "site_id": "b57cc1be",
+      "domain": "www.capstonerecruitment.com.au",
+      "pages": 191,
+      "jobs": 136,
+      "total": 327,
+      "submitted": 0,
+      "missing": 327,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "a94bade1",
+      "domain": "www.stk.co.uk",
+      "pages": 49,
+      "jobs": 3,
+      "total": 52,
+      "submitted": 49,
+      "missing": 3,
+      "coverage": 0.9423076923076923
+    },
+    {
+      "site_id": "34fbf661",
+      "domain": "www.bairdcg.com",
+      "pages": 32,
+      "jobs": 0,
+      "total": 32,
+      "submitted": 32,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "f1febf6d",
+      "domain": "www.rmallcga.com",
+      "pages": 32,
+      "jobs": 217,
+      "total": 249,
+      "submitted": 0,
+      "missing": 249,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "dc6e9ba8",
+      "domain": "careers.integritystaffing.com",
+      "pages": 162,
+      "jobs": 241,
+      "total": 403,
+      "submitted": 188,
+      "missing": 215,
+      "coverage": 0.4665012406947891
+    },
+    {
+      "site_id": "834cbf1d",
+      "domain": "www.nova.ky",
+      "pages": 62,
+      "jobs": 23,
+      "total": 85,
+      "submitted": 71,
+      "missing": 14,
+      "coverage": 0.8352941176470589
+    },
+    {
+      "site_id": "d5c8c8eb",
+      "domain": "www.valor.au",
+      "pages": 33,
+      "jobs": 0,
+      "total": 33,
+      "submitted": 33,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "6a36aaec",
+      "domain": "www.techresources.com.au",
+      "pages": 32,
+      "jobs": 130,
+      "total": 162,
+      "submitted": 31,
+      "missing": 131,
+      "coverage": 0.19135802469135801
+    },
+    {
+      "site_id": "2df48d22",
+      "domain": "msc-npe.dzconnex.com",
+      "pages": 26,
+      "jobs": 86,
+      "total": 112,
+      "submitted": 0,
+      "missing": 112,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "cbc909fd",
+      "domain": "skf-internaljobs.dzconnex.com",
+      "pages": 19,
+      "jobs": 0,
+      "total": 19,
+      "submitted": 19,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "99649aa8",
+      "domain": "www.staffingagency.co.nz",
+      "pages": 64,
+      "jobs": 60,
+      "total": 124,
+      "submitted": 64,
+      "missing": 60,
+      "coverage": 0.5161290322580645
+    },
+    {
+      "site_id": "8f4ab43d",
+      "domain": "www.tandempartners.com.au",
+      "pages": 69,
+      "jobs": 20,
+      "total": 89,
+      "submitted": 64,
+      "missing": 25,
+      "coverage": 0.7191011235955056
+    },
+    {
+      "site_id": "8116cac1",
+      "domain": "www.talent-table.com",
+      "pages": 48,
+      "jobs": 0,
+      "total": 48,
+      "submitted": 47,
+      "missing": 1,
+      "coverage": 0.9791666666666666
+    },
+    {
+      "site_id": "84c84223",
+      "domain": "www.anglerecruitment.com",
+      "pages": 81,
+      "jobs": 20,
+      "total": 101,
+      "submitted": 75,
+      "missing": 26,
+      "coverage": 0.7425742574257426
+    },
+    {
+      "site_id": "736e45fc",
+      "domain": "www.bkcon.com.au",
+      "pages": 32,
+      "jobs": 2,
+      "total": 34,
+      "submitted": 32,
+      "missing": 2,
+      "coverage": 0.9411764705882353
+    },
+    {
+      "site_id": "8ddf2ae6",
+      "domain": "www.abyssenergyold.fr",
+      "pages": 23,
+      "jobs": 0,
+      "total": 23,
+      "submitted": 23,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "a410df6b",
+      "domain": "www.hubbul.com",
+      "pages": 47,
+      "jobs": 0,
+      "total": 47,
+      "submitted": 47,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "28430ee4",
+      "domain": "www.careers.toorakcollege.vic.edu.au",
+      "pages": 31,
+      "jobs": 0,
+      "total": 31,
+      "submitted": 31,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "a9c33dfb",
+      "domain": "www.in2saasrecruitment.com",
+      "pages": 64,
+      "jobs": 0,
+      "total": 64,
+      "submitted": 64,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "b242c914",
+      "domain": "www.tdrsrecruitment.com",
+      "pages": 37,
+      "jobs": 21,
+      "total": 58,
+      "submitted": 0,
+      "missing": 58,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "043eea2c",
+      "domain": "urencousa-internaljobs.dzconnex.com",
+      "pages": 15,
+      "jobs": 23,
+      "total": 38,
+      "submitted": 17,
+      "missing": 21,
+      "coverage": 0.4473684210526316
+    },
+    {
+      "site_id": "f481df15",
+      "domain": "www.mansfieldandco.com.au",
+      "pages": 75,
+      "jobs": 8,
+      "total": 83,
+      "submitted": 56,
+      "missing": 27,
+      "coverage": 0.6746987951807228
+    },
+    {
+      "site_id": "18b45492",
+      "domain": "www.iknowho.com.au",
+      "pages": 53,
+      "jobs": 3,
+      "total": 56,
+      "submitted": 53,
+      "missing": 3,
+      "coverage": 0.9464285714285714
+    },
+    {
+      "site_id": "26e2ca0b",
+      "domain": "www.north-search.com",
+      "pages": 48,
+      "jobs": 0,
+      "total": 48,
+      "submitted": 48,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "bb0ac900",
+      "domain": "www.predictussearch.com",
+      "pages": 81,
+      "jobs": 7,
+      "total": 88,
+      "submitted": 84,
+      "missing": 4,
+      "coverage": 0.9545454545454546
+    },
+    {
+      "site_id": "97e82a93",
+      "domain": "www.asc-connections.com",
+      "pages": 76,
+      "jobs": 147,
+      "total": 223,
+      "submitted": 0,
+      "missing": 223,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "e557dfdd",
+      "domain": "www.professional-technical.com",
+      "pages": 73,
+      "jobs": 102,
+      "total": 167,
+      "submitted": 0,
+      "missing": 167,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "c21236b4",
+      "domain": "urencousa-jobs.dzconnex.com",
+      "pages": 18,
+      "jobs": 28,
+      "total": 46,
+      "submitted": 20,
+      "missing": 26,
+      "coverage": 0.43478260869565216
+    },
+    {
+      "site_id": "8c288006",
+      "domain": "www.designandbuild.com.au",
+      "pages": 123,
+      "jobs": 244,
+      "total": 367,
+      "submitted": 0,
+      "missing": 367,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "ba533466",
+      "domain": "www.musterrecruit.co.nz",
+      "pages": 25,
+      "jobs": 35,
+      "total": 60,
+      "submitted": 25,
+      "missing": 35,
+      "coverage": 0.4166666666666667
+    },
+    {
+      "site_id": "8140c423",
+      "domain": "www.kdrtalentsolutions.com",
+      "pages": 163,
+      "jobs": 18,
+      "total": 181,
+      "submitted": 69,
+      "missing": 112,
+      "coverage": 0.3812154696132597
+    },
+    {
+      "site_id": "f7d5cea2",
+      "domain": "www.in2resourcing.com",
+      "pages": 13,
+      "jobs": 0,
+      "total": 13,
+      "submitted": 13,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "17ecad6d",
+      "domain": "www.augmenthr.com",
+      "pages": 34,
+      "jobs": 1,
+      "total": 35,
+      "submitted": 33,
+      "missing": 2,
+      "coverage": 0.9428571428571428
+    },
+    {
+      "site_id": "b113c48c",
+      "domain": "www.csglobaltalent.com",
+      "pages": 31,
+      "jobs": 0,
+      "total": 31,
+      "submitted": 31,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "bc0b804f",
+      "domain": "www.recolutiongroup.com",
+      "pages": 32,
+      "jobs": 7,
+      "total": 39,
+      "submitted": 28,
+      "missing": 11,
+      "coverage": 0.717948717948718
+    },
+    {
+      "site_id": "2daf8b65",
+      "domain": "www.hassett.com.au",
+      "pages": 47,
+      "jobs": 18,
+      "total": 65,
+      "submitted": 47,
+      "missing": 18,
+      "coverage": 0.7230769230769231
+    },
+    {
+      "site_id": "7caff46d",
+      "domain": "www.eurekapg.com",
+      "pages": 51,
+      "jobs": 0,
+      "total": 51,
+      "submitted": 51,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "ca5a536c",
+      "domain": "mscdirect-jobs.dzconnex.com",
+      "pages": 28,
+      "jobs": 232,
+      "total": 260,
+      "submitted": 0,
+      "missing": 260,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "dbfb13fb",
+      "domain": "www.granitegroup.com.au",
+      "pages": 84,
+      "jobs": 9,
+      "total": 93,
+      "submitted": 84,
+      "missing": 9,
+      "coverage": 0.9032258064516129
+    },
+    {
+      "site_id": "9a5748a0",
+      "domain": "www.e2cyber.com.au",
+      "pages": 63,
+      "jobs": 5,
+      "total": 68,
+      "submitted": 60,
+      "missing": 8,
+      "coverage": 0.8823529411764706
+    },
+    {
+      "site_id": "b57a0f09",
+      "domain": "www.scctalent.com.au",
+      "pages": 44,
+      "jobs": 0,
+      "total": 44,
+      "submitted": 43,
+      "missing": 1,
+      "coverage": 0.9772727272727273
+    },
+    {
+      "site_id": "815720b9",
+      "domain": "skf-jobs.dzconnex.com",
+      "pages": 17,
+      "jobs": 0,
+      "total": 17,
+      "submitted": 17,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "f8e9466c",
+      "domain": "www.in2avrecruitment.com",
+      "pages": 62,
+      "jobs": 0,
+      "total": 62,
+      "submitted": 62,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "d8b417ae",
+      "domain": "www.nobletalentsolutions.com.au",
+      "pages": 23,
+      "jobs": 0,
+      "total": 23,
+      "submitted": 21,
+      "missing": 2,
+      "coverage": 0.9130434782608695
+    },
+    {
+      "site_id": "0ba2c165",
+      "domain": "www.chandlermacleod.com",
+      "pages": 240,
+      "jobs": 315,
+      "total": 555,
+      "submitted": 219,
+      "missing": 336,
+      "coverage": 0.3945945945945946
+    },
+    {
+      "site_id": "d3c06092",
+      "domain": "www.athlete2business.com",
+      "pages": 65,
+      "jobs": 38,
+      "total": 103,
+      "submitted": 0,
+      "missing": 103,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "762987e3",
+      "domain": "www.rethinkrecruitment.com.au",
+      "pages": 46,
+      "jobs": 0,
+      "total": 46,
+      "submitted": 46,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "2fb2acc7",
+      "domain": "talentgroupsold2.shazamme.site",
+      "pages": 30,
+      "jobs": 0,
+      "total": 30,
+      "submitted": 30,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "3434bb1a",
+      "domain": "www.pros2.work",
+      "pages": 21,
+      "jobs": 0,
+      "total": 21,
+      "submitted": 21,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "7caacbd3",
+      "domain": "www.advanceinit.io",
+      "pages": 56,
+      "jobs": 2,
+      "total": 58,
+      "submitted": 56,
+      "missing": 2,
+      "coverage": 0.9655172413793104
+    },
+    {
+      "site_id": "9efe6ca5",
+      "domain": "www.johnstonsearch.com",
+      "pages": 21,
+      "jobs": 0,
+      "total": 21,
+      "submitted": 21,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "a46876bf",
+      "domain": "www.thejobsquad.com",
+      "pages": 204,
+      "jobs": 317,
+      "total": 521,
+      "submitted": 0,
+      "missing": 521,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "b43321b4",
+      "domain": "www.populouspeople.nz",
+      "pages": 27,
+      "jobs": 5,
+      "total": 32,
+      "submitted": 26,
+      "missing": 6,
+      "coverage": 0.8125
+    },
+    {
+      "site_id": "d3f4969f",
+      "domain": "www.technicalresources.co.uk",
+      "pages": 87,
+      "jobs": 0,
+      "total": 87,
+      "submitted": 87,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "ebd677a8",
+      "domain": "www.vanguarddigitalconsulting.com",
+      "pages": 26,
+      "jobs": 0,
+      "total": 26,
+      "submitted": 26,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "efc618c9",
+      "domain": "www.firesoftpeople.com",
+      "pages": 60,
+      "jobs": 0,
+      "total": 60,
+      "submitted": 60,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "62ac85c1",
+      "domain": "www.plr.ltd",
+      "pages": 32,
+      "jobs": 84,
+      "total": 116,
+      "submitted": 33,
+      "missing": 83,
+      "coverage": 0.28448275862068967
+    },
+    {
+      "site_id": "24664039",
+      "domain": "www.b-radical.co.uk",
+      "pages": 74,
+      "jobs": 0,
+      "total": 74,
+      "submitted": 74,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "6cd40903",
+      "domain": "www.veritasrecruitment.com.au",
+      "pages": 55,
+      "jobs": 24,
+      "total": 79,
+      "submitted": 55,
+      "missing": 24,
+      "coverage": 0.6962025316455697
+    },
+    {
+      "site_id": "95e1cefa",
+      "domain": "thesafestep.com.au",
+      "pages": 78,
+      "jobs": 21,
+      "total": 99,
+      "submitted": 75,
+      "missing": 24,
+      "coverage": 0.7575757575757576
+    },
+    {
+      "site_id": "adf707fb",
+      "domain": "www.gtm-search.com",
+      "pages": 20,
+      "jobs": 0,
+      "total": 20,
+      "submitted": 20,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "84a1dcb1",
+      "domain": "www.thenextgroup.com.au",
+      "pages": 17,
+      "jobs": 0,
+      "total": 17,
+      "submitted": 17,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "0a62edd5",
+      "domain": "www.searsonbuck.com.au",
+      "pages": 87,
+      "jobs": 44,
+      "total": 131,
+      "submitted": 83,
+      "missing": 48,
+      "coverage": 0.6335877862595419
+    },
+    {
+      "site_id": "06991745",
+      "domain": "jobs.geco-group.com",
+      "pages": 58,
+      "jobs": 56,
+      "total": 114,
+      "submitted": 0,
+      "missing": 114,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "23579862",
+      "domain": "www.aandco.au",
+      "pages": 52,
+      "jobs": 11,
+      "total": 63,
+      "submitted": 50,
+      "missing": 13,
+      "coverage": 0.7936507936507936
+    },
+    {
+      "site_id": "9f9d5991",
+      "domain": "www.deployrecruit.com",
+      "pages": 106,
+      "jobs": 44,
+      "total": 148,
+      "submitted": 99,
+      "missing": 49,
+      "coverage": 0.668918918918919
+    },
+    {
+      "site_id": "6b71399f",
+      "domain": "www.kassen.ca",
+      "pages": 24,
+      "jobs": 50,
+      "total": 74,
+      "submitted": 27,
+      "missing": 47,
+      "coverage": 0.36486486486486486
+    },
+    {
+      "site_id": "0c1af632",
+      "domain": "www.eitr.com.au",
+      "pages": 53,
+      "jobs": 11,
+      "total": 64,
+      "submitted": 53,
+      "missing": 11,
+      "coverage": 0.828125
+    },
+    {
+      "site_id": "cfcc7219",
+      "domain": "www.enterprisegc.com.au",
+      "pages": 35,
+      "jobs": 0,
+      "total": 35,
+      "submitted": 31,
+      "missing": 4,
+      "coverage": 0.8857142857142857
+    },
+    {
+      "site_id": "3a5e7d83",
+      "domain": "www.recruitmentdrive.com.au",
+      "pages": 29,
+      "jobs": 0,
+      "total": 29,
+      "submitted": 29,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "f0d0c0c4",
+      "domain": "www.profusiongroup.com",
+      "pages": 119,
+      "jobs": 25,
+      "total": 144,
+      "submitted": 0,
+      "missing": 144,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "8649451e",
+      "domain": "www.careerconcepts.com",
+      "pages": 62,
+      "jobs": 64,
+      "total": 126,
+      "submitted": 64,
+      "missing": 62,
+      "coverage": 0.5079365079365079
+    },
+    {
+      "site_id": "e23a898a",
+      "domain": "www.js-selection.co.uk",
+      "pages": 37,
+      "jobs": 14,
+      "total": 51,
+      "submitted": 37,
+      "missing": 14,
+      "coverage": 0.7254901960784313
+    },
+    {
+      "site_id": "1bca8a68",
+      "domain": "www.bluestreakpartners.com",
+      "pages": 28,
+      "jobs": 0,
+      "total": 28,
+      "submitted": 28,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "fbfb19d7",
+      "domain": "www.alexanderjames.co.nz",
+      "pages": 45,
+      "jobs": 4,
+      "total": 49,
+      "submitted": 44,
+      "missing": 5,
+      "coverage": 0.8979591836734694
+    },
+    {
+      "site_id": "b0e5dbbf",
+      "domain": "www.permanser.com.au",
+      "pages": 46,
+      "jobs": 5,
+      "total": 51,
+      "submitted": 46,
+      "missing": 5,
+      "coverage": 0.9019607843137255
+    },
+    {
+      "site_id": "fdf6b806",
+      "domain": "www.thenextstep.com.au",
+      "pages": 72,
+      "jobs": 18,
+      "total": 90,
+      "submitted": 63,
+      "missing": 27,
+      "coverage": 0.7
+    },
+    {
+      "site_id": "8ad68f20",
+      "domain": "www.morganconsulting.com.au",
+      "pages": 117,
+      "jobs": 73,
+      "total": 190,
+      "submitted": 105,
+      "missing": 85,
+      "coverage": 0.5526315789473685
+    },
+    {
+      "site_id": "8fab2a25",
+      "domain": "www.capturerecruitment.com.au",
+      "pages": 57,
+      "jobs": 6,
+      "total": 63,
+      "submitted": 57,
+      "missing": 6,
+      "coverage": 0.9047619047619048
+    },
+    {
+      "site_id": "b57febc2",
+      "domain": "www.interstaffing.com.au",
+      "pages": 41,
+      "jobs": 11,
+      "total": 52,
+      "submitted": 41,
+      "missing": 11,
+      "coverage": 0.7884615384615384
+    },
+    {
+      "site_id": "5e3d703f",
+      "domain": "www.careers.tollgroup.com",
+      "pages": 85,
+      "jobs": 0,
+      "total": 85,
+      "submitted": 85,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "16a1e3a7",
+      "domain": "www.yourcompany-jobs.dzconnex.com",
+      "pages": 17,
+      "jobs": 0,
+      "total": 17,
+      "submitted": 17,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "60a85cc5",
+      "domain": "www.rydcareercoaching.com",
+      "pages": 20,
+      "jobs": 0,
+      "total": 20,
+      "submitted": 20,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "4c18a4e0",
+      "domain": "www.mariscg.com",
+      "pages": 58,
+      "jobs": 0,
+      "total": 58,
+      "submitted": 55,
+      "missing": 3,
+      "coverage": 0.9482758620689655
+    },
+    {
+      "site_id": "8de41ecf",
+      "domain": "w3associates.com.au",
+      "pages": 20,
+      "jobs": 0,
+      "total": 20,
+      "submitted": 20,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "4dabb08e",
+      "domain": "orchardold.shazamme.site",
+      "pages": 45,
+      "jobs": 34,
+      "total": 79,
+      "submitted": 45,
+      "missing": 34,
+      "coverage": 0.569620253164557
+    },
+    {
+      "site_id": "32d5d799",
+      "domain": "www.hugo.com.au",
+      "pages": 47,
+      "jobs": 11,
+      "total": 58,
+      "submitted": 0,
+      "missing": 58,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "4b7b0f00",
+      "domain": "www.jaycegrayyeconsulting.com",
+      "pages": 87,
+      "jobs": 8,
+      "total": 95,
+      "submitted": 84,
+      "missing": 11,
+      "coverage": 0.8842105263157894
+    },
+    {
+      "site_id": "0aeacf91",
+      "domain": "www.animalpeoplerecruitment.com",
+      "pages": 43,
+      "jobs": 5,
+      "total": 48,
+      "submitted": 39,
+      "missing": 9,
+      "coverage": 0.8125
+    },
+    {
+      "site_id": "cf238206",
+      "domain": "www.dewintergroup.com",
+      "pages": 190,
+      "jobs": 208,
+      "total": 398,
+      "submitted": 0,
+      "missing": 398,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "96dad37b",
+      "domain": "www.camdenvalleyrecruitment.com.au",
+      "pages": 18,
+      "jobs": 0,
+      "total": 18,
+      "submitted": 18,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "85208aa7",
+      "domain": "www.tdm-assoc.com",
+      "pages": 33,
+      "jobs": 0,
+      "total": 33,
+      "submitted": 33,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "c02878c5",
+      "domain": "www.brycoconsulting.com.au",
+      "pages": 34,
+      "jobs": 0,
+      "total": 34,
+      "submitted": 34,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "388125aa",
+      "domain": "e6ca53f4.shazamme.site",
+      "pages": 43,
+      "jobs": 0,
+      "total": 43,
+      "submitted": 43,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "173f207f",
+      "domain": "www.recruit4good.com",
+      "pages": 41,
+      "jobs": 16,
+      "total": 57,
+      "submitted": 39,
+      "missing": 18,
+      "coverage": 0.6842105263157895
+    },
+    {
+      "site_id": "8c89b860",
+      "domain": "www.fundspartnership.com",
+      "pages": 49,
+      "jobs": 29,
+      "total": 78,
+      "submitted": 59,
+      "missing": 19,
+      "coverage": 0.7564102564102564
+    },
+    {
+      "site_id": "0f8502c0",
+      "domain": "www.connectedgroup.com",
+      "pages": 74,
+      "jobs": 77,
+      "total": 151,
+      "submitted": 0,
+      "missing": 151,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "34bbfd69",
+      "domain": "www.levelequals.com",
+      "pages": 47,
+      "jobs": 1,
+      "total": 48,
+      "submitted": 47,
+      "missing": 1,
+      "coverage": 0.9791666666666666
+    },
+    {
+      "site_id": "e6edda82",
+      "domain": "www.gravitaterecruitment.co.uk",
+      "pages": 27,
+      "jobs": 2,
+      "total": 29,
+      "submitted": 28,
+      "missing": 1,
+      "coverage": 0.9655172413793104
+    },
+    {
+      "site_id": "1085299b",
+      "domain": "www.elevaterecruitment.com.au",
+      "pages": 26,
+      "jobs": 0,
+      "total": 26,
+      "submitted": 24,
+      "missing": 2,
+      "coverage": 0.9230769230769231
+    },
+    {
+      "site_id": "a0213a71",
+      "domain": "www.jenkinbeattie.com",
+      "pages": 50,
+      "jobs": 8,
+      "total": 58,
+      "submitted": 50,
+      "missing": 8,
+      "coverage": 0.8620689655172413
+    },
+    {
+      "site_id": "3bbffcb4",
+      "domain": "www.pronexus.com.au",
+      "pages": 42,
+      "jobs": 0,
+      "total": 42,
+      "submitted": 42,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "e44f8413",
+      "domain": "www.resourcingassociates.com",
+      "pages": 34,
+      "jobs": 17,
+      "total": 51,
+      "submitted": 51,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "217d4148",
+      "domain": "www.starfishconsulting.co.nz",
+      "pages": 32,
+      "jobs": 4,
+      "total": 36,
+      "submitted": 32,
+      "missing": 4,
+      "coverage": 0.8888888888888888
+    },
+    {
+      "site_id": "702d27aa",
+      "domain": "www.odysseyrecruitment.com",
+      "pages": 615,
+      "jobs": 30,
+      "total": 645,
+      "submitted": 0,
+      "missing": 645,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "3ece20e2",
+      "domain": "www.tech5.co.nz",
+      "pages": 70,
+      "jobs": 22,
+      "total": 92,
+      "submitted": 70,
+      "missing": 22,
+      "coverage": 0.7608695652173914
+    },
+    {
+      "site_id": "62176deb",
+      "domain": "www.farrowjamieson.com",
+      "pages": 22,
+      "jobs": 2,
+      "total": 24,
+      "submitted": 21,
+      "missing": 3,
+      "coverage": 0.875
+    },
+    {
+      "site_id": "c08fbd34",
+      "domain": "www.onqrecruitment.com.au",
+      "pages": 70,
+      "jobs": 12,
+      "total": 82,
+      "submitted": 68,
+      "missing": 14,
+      "coverage": 0.8292682926829268
+    },
+    {
+      "site_id": "b8914bd2",
+      "domain": "www.earnandlearn.com.au",
+      "pages": 49,
+      "jobs": 18,
+      "total": 67,
+      "submitted": 48,
+      "missing": 19,
+      "coverage": 0.7164179104477612
+    },
+    {
+      "site_id": "7746db40",
+      "domain": "www.relianceworkforce.com.au",
+      "pages": 18,
+      "jobs": 0,
+      "total": 18,
+      "submitted": 18,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "a99ceb50",
+      "domain": "www.talenza.com.au",
+      "pages": 108,
+      "jobs": 0,
+      "total": 108,
+      "submitted": 108,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "6239503b",
+      "domain": "www.icsp.co.nz",
+      "pages": 15,
+      "jobs": 0,
+      "total": 15,
+      "submitted": 15,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "1ca84d33",
+      "domain": "www.baysidegroup.com.au",
+      "pages": 205,
+      "jobs": 37,
+      "total": 242,
+      "submitted": 0,
+      "missing": 242,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "76755cce",
+      "domain": "www.jobs.sutherlandglobal.com",
+      "pages": 826,
+      "jobs": 429,
+      "total": 1255,
+      "submitted": 0,
+      "missing": 1255,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "49a73fcb",
+      "domain": "www.advisa.co.nz",
+      "pages": 16,
+      "jobs": 0,
+      "total": 16,
+      "submitted": 16,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "e6b3d4da",
+      "domain": "www.tcqrecruitment.com.au",
+      "pages": 29,
+      "jobs": 5,
+      "total": 34,
+      "submitted": 30,
+      "missing": 4,
+      "coverage": 0.8823529411764706
+    },
+    {
+      "site_id": "fc850207",
+      "domain": "www.foundationrec.com.au",
+      "pages": 26,
+      "jobs": 30,
+      "total": 56,
+      "submitted": 26,
+      "missing": 30,
+      "coverage": 0.4642857142857143
+    },
+    {
+      "site_id": "d0d80e61",
+      "domain": "www.drdgroup.com.au",
+      "pages": 40,
+      "jobs": 34,
+      "total": 74,
+      "submitted": 40,
+      "missing": 34,
+      "coverage": 0.5405405405405406
+    },
+    {
+      "site_id": "d992bce2",
+      "domain": "www.quayappointments.com.au",
+      "pages": 41,
+      "jobs": 5,
+      "total": 46,
+      "submitted": 41,
+      "missing": 5,
+      "coverage": 0.8913043478260869
+    },
+    {
+      "site_id": "b2e15e9e",
+      "domain": "www.raasnz.co.nz",
+      "pages": 19,
+      "jobs": 0,
+      "total": 19,
+      "submitted": 19,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "25e7fea1",
+      "domain": "www.coxpurtell.com.au",
+      "pages": 106,
+      "jobs": 7,
+      "total": 113,
+      "submitted": 99,
+      "missing": 14,
+      "coverage": 0.8761061946902655
+    },
+    {
+      "site_id": "448ef405",
+      "domain": "www.projectusconsulting.com",
+      "pages": 126,
+      "jobs": 0,
+      "total": 126,
+      "submitted": 126,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "19fc2c47",
+      "domain": "www.designfinancialadvisory.com.au",
+      "pages": 29,
+      "jobs": 0,
+      "total": 29,
+      "submitted": 28,
+      "missing": 1,
+      "coverage": 0.9655172413793104
+    },
+    {
+      "site_id": "796c4e87",
+      "domain": "roblawmax-aus.shazamme.site",
+      "pages": 334,
+      "jobs": 1,
+      "total": 335,
+      "submitted": 0,
+      "missing": 335,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "3c36dd85",
+      "domain": "www.cbwstaffingsolutions.com",
+      "pages": 52,
+      "jobs": 240,
+      "total": 275,
+      "submitted": 0,
+      "missing": 275,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "b0744816",
+      "domain": "www.alexanderappointments.com.au",
+      "pages": 155,
+      "jobs": 21,
+      "total": 176,
+      "submitted": 153,
+      "missing": 23,
+      "coverage": 0.8693181818181818
+    },
+    {
+      "site_id": "61312724",
+      "domain": "www.inside.co.nz",
+      "pages": 116,
+      "jobs": 15,
+      "total": 127,
+      "submitted": 102,
+      "missing": 25,
+      "coverage": 0.8031496062992126
+    },
+    {
+      "site_id": "278d92a0",
+      "domain": "www.projectresourcepartners.com.au",
+      "pages": 37,
+      "jobs": 0,
+      "total": 37,
+      "submitted": 37,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "745aed43",
+      "domain": "roblawmax-nz-old.shazamme.com",
+      "pages": 424,
+      "jobs": 81,
+      "total": 505,
+      "submitted": 0,
+      "missing": 505,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "f486b0a8",
+      "domain": "www.silicon-fen.com",
+      "pages": 38,
+      "jobs": 0,
+      "total": 38,
+      "submitted": 38,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "7c928616",
+      "domain": "www.thinktalent.com.au",
+      "pages": 66,
+      "jobs": 3,
+      "total": 69,
+      "submitted": 66,
+      "missing": 3,
+      "coverage": 0.9565217391304348
+    },
+    {
+      "site_id": "f62388d9",
+      "domain": "barkerross-old.shazamme.com",
+      "pages": 83,
+      "jobs": 148,
+      "total": 231,
+      "submitted": 0,
+      "missing": 231,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "d5467d68",
+      "domain": "www.momentum.co.nz",
+      "pages": 40,
+      "jobs": 15,
+      "total": 55,
+      "submitted": 40,
+      "missing": 15,
+      "coverage": 0.7272727272727273
+    },
+    {
+      "site_id": "8289ae6b",
+      "domain": "www.fuserecruitment.com",
+      "pages": 113,
+      "jobs": 0,
+      "total": 113,
+      "submitted": 113,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "1234ba7d",
+      "domain": "www.stellarrecruitment.com",
+      "pages": 211,
+      "jobs": 200,
+      "total": 411,
+      "submitted": 0,
+      "missing": 411,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "a0abbe88",
+      "domain": "www.smaart.com.au",
+      "pages": 200,
+      "jobs": 36,
+      "total": 236,
+      "submitted": 0,
+      "missing": 236,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "b62ac2ab",
+      "domain": "www.techforce.com.au",
+      "pages": 93,
+      "jobs": 121,
+      "total": 214,
+      "submitted": 96,
+      "missing": 118,
+      "coverage": 0.4485981308411215
+    },
+    {
+      "site_id": "4ee98af0",
+      "domain": "www.celottiworkforce.com.au",
+      "pages": 267,
+      "jobs": 45,
+      "total": 312,
+      "submitted": 0,
+      "missing": 312,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "db106e64",
+      "domain": "www.siteforcerecruitment.com.au",
+      "pages": 25,
+      "jobs": 5,
+      "total": 30,
+      "submitted": 25,
+      "missing": 5,
+      "coverage": 0.8333333333333334
+    },
+    {
+      "site_id": "7ce19d71",
+      "domain": "www.sbrecruitment.com",
+      "pages": 35,
+      "jobs": 20,
+      "total": 55,
+      "submitted": 35,
+      "missing": 20,
+      "coverage": 0.6363636363636364
+    },
+    {
+      "site_id": "c921b92e",
+      "domain": "www.talentvault.co.nz",
+      "pages": 45,
+      "jobs": 8,
+      "total": 53,
+      "submitted": 45,
+      "missing": 8,
+      "coverage": 0.8490566037735849
+    },
+    {
+      "site_id": "f1dd9155",
+      "domain": "www.talenthive.nz",
+      "pages": 53,
+      "jobs": 7,
+      "total": 60,
+      "submitted": 53,
+      "missing": 7,
+      "coverage": 0.8833333333333333
+    },
+    {
+      "site_id": "b59bec93",
+      "domain": "www.healthstaff.au",
+      "pages": 55,
+      "jobs": 0,
+      "total": 55,
+      "submitted": 54,
+      "missing": 1,
+      "coverage": 0.9818181818181818
+    },
+    {
+      "site_id": "314df94c",
+      "domain": "fae6e3b2.shazamme.site",
+      "pages": 49,
+      "jobs": 0,
+      "total": 49,
+      "submitted": 49,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "3105d4dd",
+      "domain": "www.pra.com.au",
+      "pages": 185,
+      "jobs": 32,
+      "total": 217,
+      "submitted": 0,
+      "missing": 217,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "a2cd8af7",
+      "domain": "www.3xpartners.com",
+      "pages": 35,
+      "jobs": 0,
+      "total": 35,
+      "submitted": 32,
+      "missing": 3,
+      "coverage": 0.9142857142857143
+    },
+    {
+      "site_id": "ebab4714",
+      "domain": "www.bullhorn.shazamme.us",
+      "pages": 26,
+      "jobs": 124,
+      "total": 150,
+      "submitted": 0,
+      "missing": 150,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "13240e19",
+      "domain": "www.jvrecruitment.com.au",
+      "pages": 112,
+      "jobs": 63,
+      "total": 175,
+      "submitted": 112,
+      "missing": 63,
+      "coverage": 0.64
+    },
+    {
+      "site_id": "adb40814",
+      "domain": "www.pyramidcg.com",
+      "pages": 81,
+      "jobs": 91,
+      "total": 172,
+      "submitted": 82,
+      "missing": 90,
+      "coverage": 0.47674418604651164
+    },
+    {
+      "site_id": "79e9d791",
+      "domain": "www.kaliba.com.au",
+      "pages": 76,
+      "jobs": 0,
+      "total": 76,
+      "submitted": 75,
+      "missing": 1,
+      "coverage": 0.9868421052631579
+    },
+    {
+      "site_id": "b2ccec2c",
+      "domain": "www.carestaffnursing.com.au",
+      "pages": 116,
+      "jobs": 0,
+      "total": 116,
+      "submitted": 116,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "61b48004",
+      "domain": "www.acclaimedworkforce.com.au",
+      "pages": 130,
+      "jobs": 17,
+      "total": 147,
+      "submitted": 123,
+      "missing": 24,
+      "coverage": 0.8367346938775511
+    },
+    {
+      "site_id": "d2f1ec25",
+      "domain": "www.btasales.com.au",
+      "pages": 42,
+      "jobs": 0,
+      "total": 42,
+      "submitted": 42,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "a3623ff3",
+      "domain": "www.careersforpurpose.com.au",
+      "pages": 40,
+      "jobs": 0,
+      "total": 40,
+      "submitted": 40,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "7f640917",
+      "domain": "www.dev2.shazamme.com",
+      "pages": 55,
+      "jobs": 3,
+      "total": 58,
+      "submitted": 58,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "39f3ab35",
+      "domain": "www.archer-connections.com",
+      "pages": 27,
+      "jobs": 0,
+      "total": 27,
+      "submitted": 27,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "6e88e35e",
+      "domain": "www.frogrecruitment.co.nz",
+      "pages": 51,
+      "jobs": 156,
+      "total": 207,
+      "submitted": 0,
+      "missing": 207,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "2401f7b2",
+      "domain": "www.halcyonknights.com.au",
+      "pages": 83,
+      "jobs": 38,
+      "total": 121,
+      "submitted": 77,
+      "missing": 44,
+      "coverage": 0.6363636363636364
+    },
+    {
+      "site_id": "725d8017",
+      "domain": "www.integritystaffing.net.au",
+      "pages": 37,
+      "jobs": 20,
+      "total": 57,
+      "submitted": 37,
+      "missing": 20,
+      "coverage": 0.6491228070175439
+    },
+    {
+      "site_id": "550710b5",
+      "domain": "alexcorreaexecutiveold.multiscreensite.com",
+      "pages": 44,
+      "jobs": 25,
+      "total": 69,
+      "submitted": 0,
+      "missing": 69,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "d22ff93a",
+      "domain": "www.alliedonesource.com",
+      "pages": 91,
+      "jobs": 167,
+      "total": 258,
+      "submitted": 81,
+      "missing": 177,
+      "coverage": 0.313953488372093
+    },
+    {
+      "site_id": "7b96e8f1",
+      "domain": "www.legalpersonnel.co.nz",
+      "pages": 36,
+      "jobs": 8,
+      "total": 44,
+      "submitted": 36,
+      "missing": 8,
+      "coverage": 0.8181818181818182
+    },
+    {
+      "site_id": "6923cdd7",
+      "domain": "www.s2m.com.au",
+      "pages": 355,
+      "jobs": 4,
+      "total": 359,
+      "submitted": 0,
+      "missing": 359,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "d7b9088f",
+      "domain": "www.balpara.com.au",
+      "pages": 71,
+      "jobs": 5,
+      "total": 76,
+      "submitted": 70,
+      "missing": 6,
+      "coverage": 0.9210526315789473
+    },
+    {
+      "site_id": "8ac2a06e",
+      "domain": "www.legalpeople.com.au",
+      "pages": 49,
+      "jobs": 24,
+      "total": 73,
+      "submitted": 49,
+      "missing": 24,
+      "coverage": 0.6712328767123288
+    },
+    {
+      "site_id": "d3d2a58b",
+      "domain": "www.extendconsulting.com.au",
+      "pages": 34,
+      "jobs": 0,
+      "total": 34,
+      "submitted": 34,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "c270aae8",
+      "domain": "jobs.rciars.com",
+      "pages": 27,
+      "jobs": 10,
+      "total": 37,
+      "submitted": 27,
+      "missing": 10,
+      "coverage": 0.7297297297297297
+    },
+    {
+      "site_id": "f4acdc09",
+      "domain": "www.dev.shazamme.com",
+      "pages": 134,
+      "jobs": 7,
+      "total": 141,
+      "submitted": 0,
+      "missing": 141,
+      "coverage": 0.0
+    },
+    {
+      "site_id": "2110c0a3",
+      "domain": "www.nicole-clarke.com.au",
+      "pages": 4,
+      "jobs": 0,
+      "total": 4,
+      "submitted": 4,
+      "missing": 0,
+      "coverage": 1.0
+    },
+    {
+      "site_id": "0bba6185",
+      "domain": "www.rickmare.com",
+      "pages": 1,
+      "jobs": 0,
+      "total": 1,
+      "submitted": 1,
+      "missing": 0,
+      "coverage": 1.0
+    }
+  ]
+}

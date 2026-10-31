@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sat, 31 Oct 2026 13:09:46 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Engineering Manager]]></title>
+    <date><![CDATA[Tue, 15 Sep 2026 12:10:04 +0000]]></date>
+    <referencenumber><![CDATA[9209]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/engineering-manager-in-technology-jobs-1722475]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Dublin]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[Ireland]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>Ready to spearhead a new market expansion and build a top-tier team from the ground up?</p><p>We have exclusively partnered with a leading UK travel business on this fantastic opportunity as they are creating a new Engineering team in Dublin and this will be their first expansion outside of the UK market.</p><p>I'm looking to speak with experienced <b>Engineering Managers</b> from a development background that will lead a team of 5-6 engineers while driving both technical execution and operational excellence while hiring and scaling a high-performing engineering team. The Irish office will have full ownership on the Inventory side of the platform which includes supplier integrations, inventory management, and booking reliability.</p><p>This is a remote friendly opportunity looking for people to come into the office once a fortnight in their city centre location.</p><p>What You'll Be Doing Day to Day</p><p>Our platform processes supplier connectivity, data acquisition, distribution, and booking workflows to ensure fresh, high-quality travel inventory with minimal latency in a high-traffic environment.</p><ul><li>Team Leadership &amp; Mentorship: Lead, grow, and mentor a team of engineers to deliver high-quality software while developing their careers.</li><li>Technical Strategy: Own the technical architecture for inventory management, ensuring scalability, resilience, and performance.</li><li>Backlog &amp; Product Delivery: Own the team backlog, facilitating technical and product decisions in partnership with Architects, Designers, and Product Managers.</li><li>Cross-Functional Collaboration: Work closely with cross-functional teams to improve supplier integrations, enhance data freshness, and streamline booking processes.</li><li>Engineering Best Practices: Champion standards for operational excellence, from CI/CD pipelines to system monitoring and incident response.</li><li>Hands-on Contribution: Contribute directly when needed by reviewing code, guiding system design, and tackling complex technical challenges.</li></ul><p>What We're Looking For</p><ul><li><br>Leadership Experience: Proven track record leading high-performing engineering teams, ideally within high-scale, distributed environments.</li><li>Core Technical Stack: Strong background in C# .NET (or Kotlin, Scala, or Java) with hands-on experience building cloud-native services on AWS.</li><li>Infrastructure &amp; Automation: Experience using Kubernetes, Terraform, and CI/CD pipelines for scalable, automated deployments.</li><li>Data Processing &amp; Architecture: Background in large-scale data processing, internet-scale real-time data workflows, transactional systems, and GraphQL / modern API-driven architectures.</li><li>Observability &amp; Reliability: Strong focus on monitoring, observability, system uptime, and performance optimization.</li><li>Pragmatic Mindset: Balanced approach to technical debt, feature velocity, and operational stability, combined with a passion for data-driven experimentation and decision-making.</li></ul>]]></description>
+    <salary><![CDATA[120000]]></salary>
+    <category><![CDATA[Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[53.3498053]]></latitude>
+    <longitude><![CDATA[-6.2603097]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Investment Associate (Corporate Credit)]]></title>
+    <date><![CDATA[Tue, 09 Jun 2026 11:25:04 +0000]]></date>
+    <referencenumber><![CDATA[9057]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/investment-associate-corporate-credit-in-financial-services-jobs-1590683]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Dublin]]></city>
+    <state><![CDATA[Dublin]]></state>
+    <country><![CDATA[- None Specified -]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>Our client is one of the world’s largest and most successful investment firms with a 40+ year track record of investment excellence. They are seeking an <b>Investment Analyst (Corporate Credit)</b> to join their team.<br></p><p><b>Responsibilities:</b></p><ul><li>Monitoring portfolio company trading performance through detailed financial statements analysis &amp; dialogue with the company.</li><li>Investment analysis.</li><li>Financial modelling and sensitivity analysis.</li><li>Preparation of quarterly reviews and presentation to Investment Committee.</li></ul><p><b>Requirements:</b></p><ul><li>4-6 years relevant experience at minimum.</li><li>Excellent academic background.</li><li>ACA or CFA qualified not essential but preferred.</li><li>Strong commercial awareness.</li><li>A deep understanding of financial statements/financial modelling.</li></ul><p>This role pays a market leading compensation package.</p>]]></description>
+    <salary><![CDATA[€-1 - €-1]]></salary>
+    <category><![CDATA[Financial Services]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Senior Software Engineer]]></title>
+    <date><![CDATA[Tue, 15 Sep 2026 12:15:13 +0000]]></date>
+    <referencenumber><![CDATA[9214]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/senior-software-engineer-in-technology-jobs-1722483]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Dublin]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[Ireland]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>Senior Backend Engineer (.NET / AWS)</b></p><p><b>Location:</b> Dublin (Hybrid – 1 day in office every 2 weeks)</p><p><b>Salary:</b> Competitive + Package</p><p>We are partnering with a leading digital travel platform that connects over two million holidaymakers to their dream destinations every year. Combining an entrepreneurial culture with high-scale proprietary technology, they are expanding their core engineering team to build next-generation travel experiences and are looking for strong engineers that can raise the bar of the existing platforms.</p><p><b>The Opportunity</b></p><p>Our client is seeking a <b>Senior Software Engineer (Backend)</b> to design, build, and scale resilient microservices and distributed systems.</p><p>In this role, you will take ownership of backend engineering, system architecture, and platform performance. You will solve complex problems around high-volume inventory processing, live pricing engines, customer search optimization, and transactional booking workflows.</p><p><b>Key Responsibilities:</b></p><ul><li><br>Architect, build, and maintain scalable backend applications, APIs, and microservices.</li><li><br>Design event-driven, distributed systems capable of handling heavy data traffic and external integrations.</li><li><br>Deploy, containerise, and operate services within an AWS cloud environment.</li><li><br>Optimise application performance, system latency, caching strategies, and data access.</li><li><br>Drive engineering best practices, mentor junior engineers, and champion maintainable architecture.</li></ul><p><b>Requirements:</b></p><ul><li><br>Solid commercial background in backend software engineering (<b>C# / .NET</b> or equivalent modern frameworks).</li><li><br>Demonstrated experience with cloud-native architectures (<b>AWS</b> preferred).</li><li><br>Hands-on expertise with API design (GraphQL), asynchronous messaging, and SQL/NoSQL databases.</li><li><br>Familiarity with containerisation tooling (Docker, Kubernetes) and CI/CD/observability practices.</li><li><br>Strong pragmatic mindset—ability to weigh trade-offs between delivery speed, system resilience, and code quality.</li></ul><p><b>Workplace &amp; Culture:</b></p><ul><li><br><b>Hybrid Model:</b> Mostly WFH, requiring just 1 day every two weeks in their Dublin workspace.</li><li><br><b>Flexible Working:</b> 37.5-hour work week with core collaboration hours between 10 AM – 4 PM.</li></ul>]]></description>
+    <salary><![CDATA[90000]]></salary>
+    <category><![CDATA[Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[53.3498053]]></latitude>
+    <longitude><![CDATA[-6.2603097]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Procurement Lawyer]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 21:29:46 +0000]]></date>
+    <referencenumber><![CDATA[9289]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/procurement-lawyer-in-legal-jobs-1773789]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Dublin ]]></city>
+    <state><![CDATA[Dublin]]></state>
+    <country><![CDATA[- None Specified -]]></country>
+    <postalcode><![CDATA[Dublin 2]]></postalcode>
+    <description><![CDATA[<p>Our client a leading law firm is seeking to recruit two experienced <b>Procurement Associates / Senior Associates</b> to join their rapidly expanding <b>Projects, Infrastructure and Energy</b> group. The team has gone from strength to strength over the past 24 months with further growth and new business projected.<br> <br> Work will include advising public sector bodies, utilities and local authorities, as well as private sector organisations, on a wide range of contentious and non-contentious procurement matters. Working across sectors, the group advise on all aspects of the procurement and contracting process. The team is also heavily involved in procurement disputes and litigation before the Irish Courts. You will be joining a dynamic practice group where hard work, collaboration and innovation are rewarded. Plenty of scope for progression.<br> <br> <b>Key Responsibilities:</b></p><ul><li>Advising public and utility sector clients on all aspects of EU and Irish procurement law and national guidelines;</li><li>Supporting clients on strategic and high value projects in various sectors including energy, housing, transport and health.</li><li>Drafting and advising on complex procurement documentation and guiding clients through procurement processes, advising on evaluation methodologies, clarifications, debriefing and contract modifications;</li><li>Advising on contract drafting and negotiation;</li><li>Advising on Foreign Subsidies Regulation;</li><li>Advising private sector tenderers on bidding for public projects and contracts;</li><li>Advising clients (public and private) on procurement remedies and legal challenges before the Courts;</li><li>Delivering client training; and</li><li>Keeping up to date with legal developments in the procurement sphere and contributing to knowledge sharing and business development.</li></ul><p><b>The Candidate</b><br> The ideal candidate will have 3-6 years’ PQE, with experience of advising on Irish and EU procurement law. You will be a highly motivated team player and have strong organisational and interpersonal skills as well as a good work ethic, energy, and enthusiasm.</p>]]></description>
+    <salary><![CDATA[€-1 - €-1]]></salary>
+    <category><![CDATA[Legal]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[53.3398938]]></latitude>
+    <longitude><![CDATA[-6.2542734]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Platform Engineer]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 21:29:46 +0000]]></date>
+    <referencenumber><![CDATA[9279]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/platform-engineer-in-technology-jobs-1773788]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Co. Louth]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[- None Specified -]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>Ready to take ownership of cloud infrastructure for a growing, multi-region SaaS platform?</p><p>I'm exclusively partnering with an ambitious Irish software business looking for a hands-on <b>Platform Engineer</b> to help build, automate and scale the infrastructure powering its next generation of cloud-based ERP solutions.</p><p><b>What you'll be working with:</b></p><ul><li>AWS cloud infrastructure and multi-region environments</li><li>Python, Bash and PowerShell automation</li><li>CI/CD pipelines, Infrastructure as Code and Docker</li><li>SQL Server, PostgreSQL, DocumentDB and data platforms</li><li>High availability, disaster recovery, monitoring and platform reliability</li></ul><p><b>What they're looking for:</b></p><ul><li>3+ years' experience in Platform Engineering or Cloud Infrastructure</li><li>Strong AWS and Python skills</li><li>Experience with CI/CD, containers, scripting and databases</li><li>An automation-first mindset and a passion for solving complex technical challenges</li></ul><p>📍 <b>Location:</b> Dundalk. Co Louth. Hybrid or remote options, depending on individual circumstances, with an initial office-based onboarding period.</p><p>Please note: the role will include participation in a structured shift and on-call rota, including occasional Saturday coverage.</p><p>This is a great opportunity for an engineer who enjoys getting hands-on, taking ownership and helping shape the reliability and scalability of a growing cloud platform.</p><p>📩 <b>Interested, or know someone who could be a great fit? Get in touch for a confidential chat and further details.</b></p>]]></description>
+    <salary><![CDATA[70000]]></salary>
+    <category><![CDATA[Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[54.0024774]]></latitude>
+    <longitude><![CDATA[-6.3883001]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Backend Engineer (TypeScript),]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 21:29:46 +0000]]></date>
+    <referencenumber><![CDATA[9275]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/backend-engineer-typescript-in-technology-jobs-1773786]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Dublin]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[Ireland]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>We've partnered with an early stage company scaling in Ireland who are looking to hire a <b>Backend Engineer.</b></p><p>They are building a project-scoped, AI-assisted platform designed to ingest heavy project documentation, reason across complex data, and automate critical industry workflows (like RFIs, variation drafting, and site reporting). This isn't about building a fragile AI chatbot wrapper; it’s about architecting a robust, scalable B2B SaaS platform that solves messy, real-world operational problems.</p><p>This is a great opportunity for someone looking to build a product from the ground up with a small high performing team.</p><p><b>Location:</b> Dublin, Ireland (Hybrid)</p><p><b>Backend Engineer (TypeScript), permanent.</b></p><p><b>Background:</b></p><ul><li>5 to 8 years’ experience, with TypeScript as their main language and some Python experience.</li><li>Postgres or another relational database</li><li>Strong at hands-on delivery: able to take work from a conversation to production on their own</li><li>Nice to have: LLM or RAG work, document parsing</li><li>Cloud experience (we use GCP, but AWS is fine)</li></ul>]]></description>
+    <salary><![CDATA[80000]]></salary>
+    <category><![CDATA[Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[53.3498053]]></latitude>
+    <longitude><![CDATA[-6.2603097]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Corporate Senior Associate (Equity Capital Markets and Public Company Advisory)]]></title>
+    <date><![CDATA[Mon, 01 Jun 2026 00:50:43 +0000]]></date>
+    <referencenumber><![CDATA[9086]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/corporate-senior-associate-equity-capital-markets-and-public-company-advisory-in-legal-jobs-1579063]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Dublin]]></city>
+    <state><![CDATA[Dublin]]></state>
+    <country><![CDATA[- None Specified -]]></country>
+    <postalcode><![CDATA[2]]></postalcode>
+    <description><![CDATA[<p>Our client, a leading mid-tier firm is looking to recruit a <b>senior associate</b> to join its corporate group. The role will primarily focus on <b>Equity Capital Markets and Public Company Advisory</b>, an area that the firm has developed significantly. <br> <br> This is a great opportunity for an ambitious solicitor with a clear progression path.<br> <br> <b>Equity Capital Markets</b></p><ul><li>Advising on a full range of ECM transactions including:</li><li>IPOs (including AIM and other growth markets)</li><li>Secondary fundraisings (placings, rights issues, open offers, accelerated bookbuilds)</li><li>Reverse takeovers and admission transactions</li><li>Dual listings and cross-border capital raisings</li><li>Drafting and negotiating key transaction documentation, including:</li><li>Prospectuses / admission documents</li><li>Placing agreements and underwriting agreements</li><li>Lock-in and orderly market agreements</li><li>Advising on listing rules and regulatory requirements, including:</li><li>Euronext Rules/AIM Rules / UK Listing Rules (as applicable)</li><li>MAR compliance (inside information, disclosure obligations)</li><li>Corporate governance frameworks (QCA / UK Corporate Governance Code)</li><li>Euroclear requirements</li><li>Working closely with nominated advisers, brokers and other transaction stakeholders</li></ul><p><b>Corporate and Public Company Advisory</b></p><ul><li>Advising listed companies and boards on:</li><li>Ongoing disclosure obligations and governance</li><li>Share issuances, buy-backs and capital reorganisations</li><li>Directors’ duties and shareholder issues</li><li>Supporting public and private M&amp;A transactions, including:</li><li>Share purchase agreements and investment agreements</li><li>Due diligence and transaction structuring</li><li>Contributing to cross-border transactions, particularly involving UK and Irish structures</li></ul>]]></description>
+    <salary><![CDATA[€-1 - €-1]]></salary>
+    <category><![CDATA[Legal]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Funds Professional Support Lawyer ]]></title>
+    <date><![CDATA[Fri, 01 May 2026 11:29:49 +0000]]></date>
+    <referencenumber><![CDATA[8832]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/funds-professional-support-lawyer-in-legal-jobs-1353944]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Dublin]]></city>
+    <state><![CDATA[Dublin]]></state>
+    <country><![CDATA[- None Specified -]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>Asset Management and Investment Funds Professional Support Lawyer</b></p><p>Our client a top tier firm is seeking to recruit a <b>Professional Support Lawyer </b>to join its Tier 1 Asset Management and Investment Funds (AMIF) department.</p><p><b>Responsibilities:</b></p><ul><li>To keep fee earners in the AMIF group up to speed on legal and regulatory developments, including pipeline developments.</li><li>To assist AMIF fee earners in respect of technical and/or practical legal issues raised by clients, and to assist in the development of practice notes, toolkits and other legal know how.</li><li>To develop and promote the expertise of our AMIF group in the market, including preparing client legal updates and other communications.</li><li>To capture and disseminate relevant legal knowledge to ensure that the collective expertise and knowledge of the AMIF group is supported, increased, understood, and shared.</li><li>To input into the design and delivery of training for both fee earners, trainees, and external and client training initiatives.</li><li>To assist with the development, production, and maintenance of AMIF precedents and Know How.</li><li>To develop appropriate knowledge tools for the AMIF group and the Knowledge and Practice Development team that are aligned with, and informed by, the business needs of the AMIF group, the Knowledge and Practice Development team and the firm’s client base.</li><li>Participation in other knowledge initiatives and projects, as appropriate, and the provision of assistance to the Knowledge and Practice Development Partner and the broader Knowledge and Practice Development team regarding specific Know How or Knowledge Management initiatives.</li><li>Exhibits an ability to use knowledge as a gateway from supporting client knowledge requirements.</li></ul><p><b>Requirements:</b></p><p>• Lawyer with legal practice or in-house legal experience in asset management and investment funds.<br> • Strong technical, legal and analytical skills.<br> • Proficient drafting skills.<br> • Excellent communication skills, in the context of both formal 'podium' and training presentations and, more generally, the ability to sell ideas and initiatives to people.<br> • Strong collaboration and teamwork skills.<br> • A keen interest in knowledge and continuous development.</p>]]></description>
+    <salary><![CDATA[€-1 - €-1]]></salary>
+    <category><![CDATA[Legal]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[NPI Quality Engineer III]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 21:29:46 +0000]]></date>
+    <referencenumber><![CDATA[9276]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/npi-quality-engineer-iii-in-quality-assurance-jobs-1773787]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Wexford]]></city>
+    <state><![CDATA[Wexford]]></state>
+    <country><![CDATA[Ireland]]></country>
+    <postalcode><![CDATA[Y21 XA38]]></postalcode>
+    <description><![CDATA[<p>Global Medical Device development &amp; manufacturing company with a site in New Ross Wexford are seeking an experienced <b>NPI Quality Engineer</b> to join their Design Assurance Team on a permanent basis.</p><p>The role focuses on supporting various product development projects from a quality perspective. You would be working as part of a core team through the PD phases, including test method development, process validation (IQ,OQ,PQ), DV testing and report writing.</p><p>As the NPI Quality Engineer III, you would also research and introduce new innovative technologies and equipment.</p><p><b>Responsibilities:</b></p><ul><li>New Product Introduction Support: apply engineering concepts for complex problem solving, design &amp; carry out new tooling, testing, fixtures and templates.</li><li>Carry out testing and validation of new test methods including gage R&amp;R studies and statistical analysis of data through software packages such as Minitab.</li><li>Support Site Quality Activities: support internal audits &amp; readiness, CAPAs, QMS.</li><li>Support planning execution of risk management activities per ISO14971.</li><li>Lead continuous improvement projects.</li><li>Remain up to date with latest technologies, tools and equipment relevant to NPI, testing, design assurance to improve efficiency of NPI quality activities.</li></ul><p><b>Requirements:</b></p><ul><li>Bachelors Degree in an Engineering discipline or related degree maybe considered based on additional years of relevant experience.</li><li>At least 3 years of experience in an engineering role in a medical device manufacturing company with focus on R&amp;D, product development, process or quality engineering.</li><li>Experience with test method development and process validation is critical to be considered for this role.</li><li>Complex problem solving skills.</li><li>Strong communication skills for internal &amp; external stakeholder &amp; project management.</li></ul><p>Permanent role</p><p>Salary €60-80K (depending on experience)</p><p>On-site role</p>]]></description>
+    <salary><![CDATA[60000]]></salary>
+    <category><![CDATA[Quality Assurance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[52.4426882]]></latitude>
+    <longitude><![CDATA[-6.845986]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Ops Manager]]></title>
+    <date><![CDATA[Fri, 09 Oct 2026 10:39:30 +0000]]></date>
+    <referencenumber><![CDATA[9272]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/ops-manager-in-technology-jobs-1752613]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Ireland (Remote)]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[- None Specified -]]></country>
+    <postalcode><![CDATA[Ireland (Remote)]]></postalcode>
+    <description><![CDATA[<p><b>Fully Remote | €65,000–€75,000</b></p><p>We’re partnering with an exciting, growing business to recruit an <b>Operations Manager</b> to join their fully remote team. This is an excellent opportunity for a hands-on, proactive operator who enjoys bringing structure to a business, improving processes and making a tangible impact.</p><p>With a team of approximately 25 people, the business is looking for someone who can take ownership of day-to-day operations, supporting both finance and HR functions, with a particular focus on finance operations. This role offers the opportunity to step in, take responsibility and make an immediate impact.</p><p><b>The Role</b></p><p>Reporting to the COO, you’ll play a key role in ensuring the business runs smoothly and efficiently. Working closely with the finance team you’ll provide essential operational support while overseeing a range of HR and wider business activities.</p><p><b>Key responsibilities will include:</b></p><ul><li><b>Finance Operations:</b> Support the CFO and finance team with day-to-day operational requirements, ensuring processes run efficiently and the team has what it needs to succeed.</li><li><b>HR Operations:</b> Coordinate and manage day-to-day HR processes, helping ensure a smooth employee experience.</li><li><b>Team &amp; Business Logistics:</b> Organise team logistics and coordinate the practicalities that keep a fully remote business running effectively.</li><li><b>Process Improvement:</b> Identify opportunities to streamline workflows, improve efficiencies and introduce better ways of working.</li><li><b>AI &amp; Technology:</b> Make effective use of AI tools and emerging technologies to automate tasks, improve productivity and enhance operational processes.</li><li><b>General Business Support:</b> Take ownership of operational priorities, anticipate requirements and ensure important tasks are followed through to completion.</li></ul><p><b>Requirements:</b></p><p>We’re keen to speak with candidates who are practical, solutions-focused and comfortable working in a fast-paced, growing business where no two days are necessarily the same.</p><p>You’ll ideally bring:</p><ul><li>Previous experience in a similar Operations Manager or business operations role within a small or medium-sized company.</li><li>Strong experience across finance operations, with additional exposure to HR operations.</li><li>Experience working in a fully remote environment and the ability to manage your workload independently.</li><li>A proactive approach to AI, automation and using technology to work smarter.</li><li>Excellent organisational skills and the ability to manage competing priorities.</li><li>Strong initiative, sound judgement and a common-sense approach to problem-solving.</li><li>A hands-on mindset, someone who rolls up their sleeves, takes ownership and gets things done.</li><li>The confidence to work with senior stakeholders and support a finance function without needing to manage a team directly.</li></ul><p><b>What’s on Offer?</b></p><ul><li><b>Salary of €65,000–€75,000</b>, depending on experience.</li><li>Fully remote working.</li><li>The opportunity to make a meaningful impact in a growing business.</li><li>A broad, varied role with real ownership across finance, HR and business operations.</li><li>The chance to introduce new ideas, improve processes and help shape how the business operates.</li></ul><p><b>Interested?</b></p><p>If you’re an ambitious, hands-on operations professional who enjoys taking initiative, improving how businesses work and making things happen, we’d love to hear from you.</p><p>Apply today to find out more about this opportunity.</p>]]></description>
+    <salary><![CDATA[65000]]></salary>
+    <category><![CDATA[Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[53.7797554]]></latitude>
+    <longitude><![CDATA[-7.3055309]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior NPI Engineer]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 15:44:30 +0000]]></date>
+    <referencenumber><![CDATA[9247]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/senior-npi-engineer-in-medical-device-jobs-1751371]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Dublin]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[- None Specified -]]></country>
+    <postalcode><![CDATA[Dublin]]></postalcode>
+    <description><![CDATA[<p>A growing medical device company with a facility based in Dublin are seeking an experienced medical device development engineer to join their team. This is a permanent role.</p><p>As the <b>Senior New Product Introduction (NPI) Engineer</b> you will lead the production oversight and develop the manufacturing processes for an implantable device. You will support a team of operators &amp; product builders to meet production objectives and troubleshoot on the line.</p><p>This is a hands-on engineering role and is ideal for an experienced engineer who is passionate about designing &amp; building components &amp; fixtures and implementing new processes into a manufacturing line.</p><p><b>Responsibilities:</b></p><ul><li>Design &amp; develop manufacturing processes including FMEAs, equipment qualifications, process validations, test methods.</li><li>Oversee production on a daily basis including support &amp; training to operators.</li><li>Source, design and implement tooling, instruments and technologies into the manufacturing process.</li><li>Develop process &amp; materials specifications and associated documentation.</li><li>Design &amp; execute DoEs for manufacturing processes.</li><li>Work with suppliers and contract manufacturers related to manufacturing processes and materials.</li><li>Continuous improvement activities.</li></ul><p><b>Requirements:</b></p><ul><li>Bachelors or Masters in engineering such as mechanical, biomedical or related.</li><li>A minimum of 5 years experience as an engineer in the medical device industry within NPI, manufacturing, R&amp;D, process engineering or related.</li><li>Use of Solidworks</li><li>DoE, root cause analysis and problem solving skills</li><li>Process validation experience is an advantage</li></ul>]]></description>
+    <salary><![CDATA[65000]]></salary>
+    <category><![CDATA[Medical Device]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[53.3498053]]></latitude>
+    <longitude><![CDATA[-6.2603097]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Cybersecurity Analyst]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 16:04:30 +0000]]></date>
+    <referencenumber><![CDATA[9162]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/cybersecurity-analyst-in-technology-jobs-1751391]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Ireland (Remote) ]]></city>
+    <state><![CDATA[County Kerry]]></state>
+    <country><![CDATA[- None Specified -]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>We're looking for a<b> Senior Cybersecurity Analyst </b>to join a growing security team and play a pivotal role in protecting the business from today's evolving cyber threats.</p><p>If you're passionate about <b>threat detection, cloud security, incident response, and automation</b>, this is your opportunity to work with cutting-edge technologies while shaping the future of our security capability.</p><p><b>What You'll Do:</b></p><ul><li>🔍 Build and optimise SIEM, SOAR, and EDR detection capabilities</li><li>☁️ Secure Azure, AWS, and GCP environments</li><li>🚨 Investigate complex security incidents and improve response capabilities</li><li>🤖 Automate security workflows and enhance operational efficiency</li><li>🛡️ Design and implement robust security controls</li><li>🤝 Partner with IT, Cloud, and DevOps teams to embed security by design</li><li>📈 Mentor colleagues and help mature our security operations</li></ul><p><b>What You'll Bring:</b></p><ul><li>5+ years' experience in cybersecurity engineering or security operations</li><li>Hands-on expertise with platforms such as <b>Microsoft Sentinel, CrowdStrike, Splunk, Microsoft Defender, Palo Alto XSIAM</b>, or similar</li><li>Strong knowledge of <b>MITRE ATT&amp;CK, NIST frameworks, incident response, and vulnerability management</b></li><li>Experience securing cloud environments and implementing technical security controls</li><li>Scripting or automation skills (PowerShell, Python, Bash) are a plus</li><li>Security certifications such as <b>CISSP, CCSP, SC-200, AZ-500, or GIAC</b> are highly regarded.</li></ul><p><b>All applicants must be located in Ireland and have full working rights, Stamp 4 /1G or EU citizenship in order to be considered for this opportunity.</b></p>]]></description>
+    <salary><![CDATA[70000]]></salary>
+    <category><![CDATA[Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[52.1544607]]></latitude>
+    <longitude><![CDATA[-9.5668632]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Digital Project Delivery Lead]]></title>
+    <date><![CDATA[Fri, 24 Jul 2026 15:55:02 +0000]]></date>
+    <referencenumber><![CDATA[9161]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/digital-project-delivery-lead-in-technology-jobs-1654624]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Dublin]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[Ireland]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>We’re Hiring: Digital Project Delivery Lead</b> 🚀</p><p>📍 <b>Location:</b> Dublin, Ireland</p><p>💼 <b>Type:</b> Permanent</p><p>📈 <b>Reports To:</b> Chief Operating Officer</p><p><br><b>About the Role</b></p><p>Are you a practical construction troubleshooter who knows how sites <i>actually</i> run?</p><p>We are a vertically integrated residential developer-builder with a large pipeline of active schemes across Ireland. We’re looking for a <b>Digital Project Delivery Lead</b> to fill an unusual, high-impact dual mandate: solve real operational friction on live sites, and turn those solutions into software.</p><p>You’ll sit at the intersection of live construction site operations and product engineering—embedding alongside QSs, construction managers, and site leads to fix bottlenecks, while translating those hard-won learnings into structured requirements for an affiliated AI/proptech engineering team.</p><p><b>Responsibilities:</b></p><ul><li>🛠️ <b>Troubleshoot on Site:</b> Embed into live residential schemes to identify and fix high-cost, high-friction operational bottlenecks from tender through to handover.</li><li>🌉 <b>Bridge Operations &amp; Tech:</b> Translate real-world construction challenges into structured workflows and product requirements for software/AI engineering teams.</li><li>🤖 <b>Drive AI Adoption:</b> Roll out in-house digital and AI tools directly into site workflows, measuring success by actual productivity gains—not just tool deployment.</li><li>📊 <b>Deliver Clear Insights:</b> Surface data-driven insights that give site leads and executive management clear visibility on time and cost metrics.</li></ul><p><b>Requirements:</b></p><ul><li><b>10+ years</b> in construction delivery, digital construction, or project controls (residential or large-scale build experience preferred).</li><li>A proven track record of stepping onto a live site, diagnosing operational friction, and fixing it fast.</li><li>Ability to speak both "site" and "software"—translating messy site realities into clear product specs.</li><li>Deep familiarity with standard construction stacks: <b>BIM/CDE (ISO 19650), ACC, Asta Powerproject, CostX, and Power BI</b>.</li><li>Practical understanding of the Irish construction market and delivery environment.</li></ul><p><b>Why Join?</b></p><ul><li><b>Direct Impact:</b> See your site fixes directly hit the P&amp;L and shape next-generation construction tech.</li><li><b>Flexibility:</b> A fractional arrangement that can adapt to fit around your commitments as the platform scales.</li><li><b>Cutting-Edge Stack:</b> Work directly at the intersection of live developer-builder operations and agentic AI.</li></ul>]]></description>
+    <salary><![CDATA[80000]]></salary>
+    <category><![CDATA[Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[53.3498053]]></latitude>
+    <longitude><![CDATA[-6.2603097]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Investment Associate (Asset Backed Finance)]]></title>
+    <date><![CDATA[Wed, 22 Apr 2026 15:48:44 +0000]]></date>
+    <referencenumber><![CDATA[9027]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/investment-associate-asset-backed-finance-in-financial-services-jobs-1492153]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Dublin]]></city>
+    <state><![CDATA[Dublin]]></state>
+    <country><![CDATA[- None Specified -]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>Our client is one of the world’s largest and most successful investment firms with a 40+ year track record of investment excellence and they are currently looking to hire and <b>Investment Associate / Senior Associate</b> to join their team. This position will sit on a team that is responsible for the analysis of their <b>Asset-Based Finance (ABF) portfolio</b>.</p><p><b>Responsibilities will include:</b></p><ul><li>Monitoring of Asset Based Finance trading performance through detailed financial statements analysis &amp; dialogue with the company</li><li>Asset Based Finance, Asset-Backed Securitisation, Asset-Backed Securities (ABS), Asset-Based Lending</li><li>Investment analysis</li><li>Financial modelling and sensitivity analysis</li><li>Preparation of quarterly reviews and presentation to Investment Committees</li></ul><p><b>Key requirements:</b></p><ul><li>4-7 years relevant experience (i.e. investment banking, infrastructure, real estate, aircraft leasing, corporate finance, private equity, transaction services or restructuring)</li><li>Excellent academic background</li><li>ACA or CFA qualified not essential but prefered</li><li>Strong commercial awareness and a deep understanding of financial statements / financial modelling</li></ul><p>This role pays a market leading compensation package.</p><p>If you are interested in discussing this role further, please feel free to contact Dylan Philpott at d.philpott@masonalexander.ie or +353 1 522 2943.</p>]]></description>
+    <salary><![CDATA[€-1 - €-1]]></salary>
+    <category><![CDATA[Financial Services]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Platform Engineering Lead]]></title>
+    <date><![CDATA[Fri, 17 Jul 2026 09:15:03 +0000]]></date>
+    <referencenumber><![CDATA[9153]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/platform-engineering-lead-in-technology-jobs-1645839]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Ireland (Remote)]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[Ireland]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>I've exclusively partnered with a venture-backed <b>HealthTech startup</b> building a revolutionary new operating model for healthcare. They are a remote-first, asynchronous digital platform is transforming patient care—improving patient outcomes, optimising clinical workflows, and saving valuable time for medical staff.</p><p>Their platform already supports <b>over 25% of a major national healthcare system</b> and processes <b>millions of clinical submissions</b> annually. Now, they are preparing for <b>100% YoY growth</b>, and need a technical powerhouse to lead the charge.</p><p><b><i>***Applicants must be living in Ireland and have either EU citizenship or a Stamp 4 visa to be considered***</i></b></p><p>If you are a builder who thrives on high-stakes platform stability, loves mentoring talent, and wants to exercise true technical ownership, this is your next move.</p><p><b>The Role at a Glance</b></p><ul><li><b>Role:</b> Tech Lead (Backend) / Platform Engineering Lead</li><li><b>Salary:</b> €92,000 - €110,000 + Equity Options</li><li><b>Location:</b> Remote (Ireland)</li><li><b>Tech Stack:</b> Node.js, TypeScript, GCP, Terraform</li></ul><p><b>Responsibilities:</b></p><p>As the Platform Engineering Lead, you will report directly to the Director of Engineering and act as the technical authority for our backend team.</p><ul><li><b>Own the Platform:</b> Architect, secure, and scale our GCP infrastructure to seamlessly handle 100% YoY user growth.</li><li><b>Lead &amp; Mentor:</b> Manage a high-performing, lean team of 3–5 senior and mid-level backend engineers, fostering a culture of high velocity and uncompromising quality.</li><li><b>Drive Platform Efficiency:</b> Act as the primary steward for cost-optimisation and resource management as we scale globally.</li><li><b>Integrate &amp; Innovate:</b> Design resilient data patterns and deep integrations with external partner APIs.</li><li><b>Pioneer AI Workflows:</b> Act as the internal champion for driving <b>agentic AI workflows</b> forward across the team.</li><li><b>Collaborate closely with leadership:</b> Partner with our executive team to align technical execution with business strategy.</li></ul><p><b>Requirements:</b></p><p>They are looking for a hands-on leader who knows how to balance velocity with engineering excellence.</p><ul><li><b>A Proven Technical Leader:</b> You have experience as a Lead or Senior Engineer, ideally navigating the scaling pains of a fast-growing startup.</li><li><b>GCP &amp; Infrastructure Expert:</b> You have deep hands-on experience with cloud platforms and Infrastructure-as-Code (<b>Terraform</b>).</li><li><b>Backend Specialist:</b> You have expert-level knowledge of <b>Node.js</b> and <b>TypeScript</b>.</li><li><b>Collaborative &amp; Mentorship-driven:</b> You genuinely love helping engineers grow and thrive.</li></ul><p><b>Why Join Us?</b></p><ul><li><b>True Remote-First Flexibility:</b> Work from where you are most productive.</li><li><b>Financial Upside:</b> Competitive salary + equity options &amp; pension contributions.</li><li><b>Time to Recharge:</b> 25 days annual leave, your birthday off, plus an extra "significant day" of your choice.</li><li><b>Growth-Oriented:</b> An annual learning budget to support your technical and leadership journey.</li><li><b>Wellness &amp; Impact:</b> Generous wellbeing perks, and the knowledge that your code is directly improving millions of lives.</li></ul>]]></description>
+    <salary><![CDATA[92000]]></salary>
+    <category><![CDATA[Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[53.7797554]]></latitude>
+    <longitude><![CDATA[-7.3055309]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Software Engineer]]></title>
+    <date><![CDATA[Thu, 09 Jul 2026 10:47:21 +0000]]></date>
+    <referencenumber><![CDATA[8628]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/senior-software-engineer-in-technology-jobs-1633451]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Dublin]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[- None Specified -]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>We are looking for skilled <b>Software Developers</b> to work with a core FinTech client of ours based in Dublin. The teams create, engineer, develop, test and enhance key applications. The roles are hybrid are required onsite presence in the office based in Dublin.</p><p><b>Experience:</b></p><ul><li><br>Development of applications using Java/J2EE technologies.</li><li><br>Excellent communication skills with strong Agile knowledge.</li><li><br>Development of Java based applications using Spring boot, Angular and Micro-Services architecture</li><li><br>Strong knowledge of all types of data storage techniques.</li><li><br>Experience of developing Microservices in Cloud based environment.</li><li><br>Experience working with continuous integration tools such as Bamboo, Jenkins and Chef.</li><li><br>Knowledge of advanced authentication techniques on mobile and web-based platforms i.e. Web Services REST/XML.</li><li><br>Key knowledge of Spring.</li><li><br>Key knowledge of Cloud Development Experience.</li><li><br>Key experience in developing Microservices.</li><li><br>Has excellent communication skills.</li></ul>]]></description>
+    <salary><![CDATA[€-1 - €-1 Hourly]]></salary>
+    <category><![CDATA[Technology]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[53.3498053]]></latitude>
+    <longitude><![CDATA[-6.2603097]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Full Stack Engineer (Python/React)]]></title>
+    <date><![CDATA[Mon, 28 Sep 2026 15:15:04 +0000]]></date>
+    <referencenumber><![CDATA[9242]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/senior-full-stack-engineer-pythonreact-in-technology-jobs-1737929]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Dublin]]></city>
+    <state><![CDATA[Dublin]]></state>
+    <country><![CDATA[Ireland]]></country>
+    <postalcode><![CDATA[Dublin]]></postalcode>
+    <description><![CDATA[<p>I'm working an exciting <b>Full Stack Engineer </b>opportunity based in <b>Dublin city centre</b> and this is a <b>hybrid role.</b></p><p>This is a great opportunity to join a growing multinational organisation expanding their Irish operations that have a progressive tech stack when solving problems.</p><p>***Applicants must hold Irish or EU citizenship to be considered for this client.***</p><p><b>Responsibilities:</b></p><ul><li><b>Technical Design &amp; Delivery:</b> Translate business requirements with architects and product owners into secure, scalable backend services and APIs using .NET or Python.</li><li><b>Frontend Development:</b> Build responsive, user-friendly UIs using Angular or React, TypeScript/JavaScript, and HTML/CSS.</li><li><b>AI Integration:</b> Partner with the AI Architect to implement and manage AI APIs and components (LLMs, document analysis, recommendations).</li><li><b>Code Quality &amp; Testing:</b> Maintain high engineering standards through automated unit/integration testing, code reviews, and security best practices.</li><li><b>DevOps &amp; Delivery:</b> Leverage Git/TFS to manage code and contribute to automated CI/CD deployment pipelines.</li><li><b>Production Support:</b> Investigate and resolve production issues within SLAs, driving root cause analysis and improvements.</li><li><b>Platform Customization:</b> Support the integration and tailoring of third-party platforms and carrier systems.</li></ul><p><b>Requirements:</b></p><ul><li>Solid experience (typically 4–7 years) in enterprise application development, ideally on workflow-heavy or B2B platforms.• Strong hands-on skills in .NET / Entity Framework and/or Python, plus a modern frontend framework (Angular).</li><li>Experience with form.io or similar schema-driven dynamic form frameworks (JSON-based forms, conditional logic, reusable components) is a strong plus.</li><li>Good understanding of how AI systems work and prior experience integrating AI/ML/LLM services via APIs or SDKs.</li></ul>]]></description>
+    <salary><![CDATA[70000]]></salary>
+    <category><![CDATA[Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[53.3498053]]></latitude>
+    <longitude><![CDATA[-6.2603097]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[QA Manager / QP]]></title>
+    <date><![CDATA[Mon, 28 Sep 2026 15:20:04 +0000]]></date>
+    <referencenumber><![CDATA[9236]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/qa-manager-qp-in-quality-assurance-jobs-1737947]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Dublin]]></city>
+    <state><![CDATA[County Dublin]]></state>
+    <country><![CDATA[- None Specified -]]></country>
+    <postalcode><![CDATA[Dublin]]></postalcode>
+    <description><![CDATA[<p>Global pharmaceutical company with a production facility in South Dublin are seeking an experienced <b>QA Manager &amp; Qualified Person</b> to join their team.</p><p>This is an exciting opportunity for an experienced QP to take ownership of batch release, the QMS and managing a team of 5 across QA/QC function.</p><p>As QA Manager &amp; Qualified Person, you will have responsibility for the batch release of sterile injectable products and ensure ongoing compliance with product licences and international regulatory requirements.</p><p><b>Responsibilities:</b></p><ul><li>Product Release, approving batch documentation, quality control and related (master) templates.</li><li>Reviewing compliance of production and analytical methods with GMP/HPRA guidelines, EP and SmPC.</li><li>Reviewing and approving deviations, QC tests and results, managing Out of specification results.</li><li>Investigate manufactured products in case of complaints or externally reported deviations.</li><li>Implement a Quality Culture: influence the site personnel and management and promote a culture of excellence.</li><li>Oversight of the Quality System, managing deviations, incidents and investigations, OOS, CAPA, Change control and release of incoming materials.</li><li>Continuous improvement of the QMS for purpose of regular gathering and trending of all quality related data.</li><li>Managing the continual improvement plan to ensure the site is always improving on quality.</li><li>Delivering and managing of the site Validation Master Plan, ensuring production occurs in a validated state.</li><li>Quality point of contact of regulatory inspectorates and ensuring inspection readiness at all times.</li><li>Assist the Production Manager and Site Lead to meet company objective and targets both commercially and ensuring operating with budgets whilst maintaining compliance.</li><li>Manage and develop QA/QC teams, including coaching, performance reviews, career development and succession planning.</li></ul><p><b>Requirements:</b></p><ul><li>Educated to degree level in Pharmacy, Chemistry, Pharmaceutical Chemistry, Biology or related.</li><li>Qualified Person and experience as QP on a HPRA license.</li><li>5-10 Years Experience in QMS.</li><li>Experience in the overall management of staff.</li><li>Project leadership skills.</li><li>High technical aptitude as well as good communicative and interpersonal skills.</li><li>Excellent and up to date working knowledge of current EU GMP and HPRA requirement for medicinal products.</li></ul><p>It is a permanent role, 5 days on site.</p><ul><li><br><b>Seniority Level</b> <br>Mid-Senior level</li><li><br><b>Industry</b></li><li>Pharmaceutical Manufacturing</li><li><br><b>Employment Type</b> <br>Full-time</li><li><br><b>Skills</b></li><li>Career Development</li><li>Analytical Skills</li><li>Coaching</li><li>Production Management</li><li>Change Control</li><li>Communication</li><li>Readiness</li><li>Master Plan</li><li>Regulatory Requirements</li><li>EP</li></ul>]]></description>
+    <salary><![CDATA[75000]]></salary>
+    <category><![CDATA[Quality Assurance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[53.3498053]]></latitude>
+    <longitude><![CDATA[-6.2603097]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Legal Counsel]]></title>
+    <date><![CDATA[Tue, 22 Sep 2026 11:05:04 +0000]]></date>
+    <referencenumber><![CDATA[9244]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/senior-legal-counsel-in-legal-jobs-1730982]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Dublin 1]]></city>
+    <state><![CDATA[Dublin]]></state>
+    <country><![CDATA[- None Specified -]]></country>
+    <postalcode><![CDATA[Dublin]]></postalcode>
+    <description><![CDATA[Our client, a Dublin based Asset Management Company is seeking to recruit a senior <strong>Legal Counsel</strong>.<br>
+<br>
+<strong><u>The Role</u></strong><br>
+We are looking to recruit a Legal Counsel to join our Legal Team. This role will report into the Head of Legal. We are looking for a candidate who not only is familiar with UCIT and AIFs and engaging with the Central Bank on Irish fund authorisations but who ideally also has experience with debt issuances and the relevant documents required to issue such securities.<br>
+<br>
+<strong>Main Responsibilities:</strong>
+<ul>
+	<li>Legislation and Regulation - Follow-up, analysis and implementation of new legislation or regulatory requirements impacting the Asset Manager and the funds under management (such as the UCITS Directives, AIFMD, MiFID II, EMIR, SFDR, CP86 and outsourcing requirements).
+	<li>Fund Approvals/Amendments – Complete Central Bank and CSSF applications for new sub-funds and manage all post authorisation fund amendments with the Central Bank or the CSSF. Generally assist with the Asset Manager’s product development right from idea stage through to fully managing the new product approval process with the regulator and internal and external stakeholders;
+	<li>Fund Documentation – Draft and maintain fund and management company documents (e.g.Prospectus, Supplements, KIIDs/KIDs and Business Plan) and other ancillary documents related to the investment funds under management;
+	<li>Contracts - Draft and review a range of commercial contracts impacting the Asset Manager and the funds under management (such as IMAs with third party managers, investment advisory agreements and licensing agreements);
+	<li>Transactional Documentation: Draft and review fund transactional documentation (such as ISDA Agreements, transaction confirmations, ISDA amendment agreements and give-up agreements);
+	<li>Legal Advice – Provide practical, business-oriented legal advice on issues that arise for the Asset Manager in the context of its Irish and Luxembourg fund umbrellas and in respect of the Asset Manager’s own management company governance requirements;
+	<li>Projects - Participation in ad-hoc regulatory and business projects;
+	<li>Board and the Asset Manager Committee Preparation and Attendance – Assist internal stakeholders and the Company Secretary in respect of preparing and organising quarterly and ad hoc board meetings and attend to present topics as needed; and
+	<li>Representation– Represent the Asset Manager at external conferences, industry events or fund association events.
+</ul>
+<strong>Key requirements:</strong>
+
+<ul>
+	<li>Qualified Irish Solicitor or a solicitor with equivalent qualification in another jurisdiction with 6+ years&apos; post qualification experience (gained working in Ireland specifically).
+	<li>Previous experience in investment funds is essential, with a demonstratable background in the understanding of investment strategies and subsequent drafting of fund product documentation.
+	<li>Highly motivated, pragmatic, solutions-oriented and a real business partner.
+	<li>Ability to conduct a thorough legal analysis of complex topics and translate this analysis into practical and succinct legal advice.
+	<li>Commitment to high standards and forensic attention to detail.
+	<li>Strong communication skills (oral and written) and ability to liaise with top management and other stakeholders.
+	<li>Independent worker, with the organisational and task management skills necessary to manage a large volume of tasks and meet deadlines.
+	<li>Ability to effectively prioritise work by understanding competing priorities and make appropriate judgments regarding relative importance.
+	<li>Team player, offers to help colleagues and share work.
+	<li>Familiar with MS-applications (Outlook, Word, Excel, PowerPoint).
+</ul>
+]]></description>
+    <salary><![CDATA[€-1 - €-1]]></salary>
+    <category><![CDATA[Legal]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[53.3513183]]></latitude>
+    <longitude><![CDATA[-6.246232]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Head of Financial Institution Sales (EMEA)]]></title>
+    <date><![CDATA[Wed, 09 Sep 2026 10:40:04 +0000]]></date>
+    <referencenumber><![CDATA[9205]]></referencenumber>
+    <url><![CDATA[https://www.masonalexander.ie/job-details/head-of-financial-institution-sales-emea-in-sales-jobs-1714023]]></url>
+    <company><![CDATA[Mason Alexander New]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[London]]></city>
+    <state><![CDATA[Dublin]]></state>
+    <country><![CDATA[United Kingdom]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>Regional Head of Financial Institution Sales – EMEA</strong></p>
+
+<p><strong>Location: </strong>London. However, candidates based elsewhere in the UK or Europe will also be considered</p>
+
+<p>The business is seeking a senior commercial leader to take ownership of Financial Institution sales and strategic partnerships across EMEA. Reporting directly to the CEO, this is a highly autonomous, hands-on role for an established commercial operator who can bring a strong network and convert relationships into significant, long-term revenue opportunities.</p>
+
+<p>This is not a high-volume or lead-generation-focused sales position. The successful candidate will originate, structure and close a small number of high-value partnerships across banking, payments, fintech, treasury services, cross-border FX and, potentially, digital assets.</p>
+
+<p><strong>Key responsibilities:</strong></p>
+
+<ul>
+	<li>Own the full commercial lifecycle, from origination and initial engagement through negotiation, implementation and revenue generation
+	<li>Build and convert a regional pipeline of large Financial Institution and B2B partnerships
+	<li>Develop senior relationships across banks, payment processors, fintechs, FX providers and large corporate treasury functions
+	<li>Present cross-border payments, FX and payment infrastructure solutions to C-suite stakeholders
+	<li>Lead complex commercial negotiations and structure tailored client propositions
+	<li>Work closely with Product, Risk, Compliance and Finance to bring partnerships live
+	<li>Take ownership of regional revenue, payment-volume and partnership-development targets
+	<li>Represent the business as a trusted adviser within the European payments and financial services ecosystem
+</ul>
+
+<p><strong>The successful candidate will likely have:</strong></p>
+
+<ul>
+	<li>Significant senior-level experience in institutional sales, treasury sales, payments, banking, fintech or strategic partnerships
+	<li>A strong and demonstrable network across Financial Institutions, payments, fintech or corporate treasury
+	<li>A track record of personally originating and closing large, complex commercial partnerships
+	<li>Strong knowledge of cross-border payments, FX, treasury services or payment infrastructure
+	<li>Credibility when engaging and negotiating with CFOs, treasurers and other C-suite decision-makers
+	<li>The ability to operate independently and establish a regional commercial presence
+	<li>Exposure to stablecoins or digital assets would be beneficial but is not essential
+</ul>
+
+<p>This is initially a senior individual-contributor position, with the opportunity to play a central role in establishing and developing the organisation’s EMEA commercial presence.</p>
+]]></description>
+    <salary><![CDATA[150000]]></salary>
+    <category><![CDATA[Sales]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[53.3498053]]></latitude>
+    <longitude><![CDATA[-6.2603097]]></longitude>
+  </job>
+</source>

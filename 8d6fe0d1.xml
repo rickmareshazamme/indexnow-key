@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sat, 31 Oct 2026 13:07:27 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[SAP Solution Architect]]></title>
+    <date><![CDATA[Thu, 29 Oct 2026 02:50:21 +0000]]></date>
+    <referencenumber><![CDATA[1884]]></referencenumber>
+    <url><![CDATA[https://www.naturalselectiongroup.com.au/job-details/sap-solution-architect-in-jobs-1774697]]></url>
+    <company><![CDATA[Natural Selection Group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne CBD & Inner Suburbs]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>This is: the job</strong><br>
+An opportunity for a Senior Solution Architect to take a key role in a complex enterprise transformation, shaping application architecture across Finance, Supply Chain, Retail, HR, Data and Integration.<br>
+<br>
+You will bring deep SAP architecture expertise while maintaining an enterprise-first perspective, helping drive clean-core, integration-led and cloud-aligned solutions. The environment spans large-scale ERP transformation, master data governance, integration rationalisation, identity and security modernisation, and retail and supply chain convergence.<br>
+<br>
+This is a 12 month contract based in Melbourne, suited to an experienced architect comfortable operating across complex multi-vendor, multi-cloud and regulated environments.<br>
+<br>
+<strong>This is: what you'll do</strong>
+<ul>
+	<li>Lead end-to-end solution architecture across Finance, Supply Chain, Retail, HR, Data and Integration.
+	<li>Design conceptual and logical architectures, integration patterns, data ownership models and security-aligned solutions.
+	<li>Drive clean-core architecture and appropriate SAP BTP and SaaS extensibility approaches.
+	<li>Lead API-first and event-driven integration design while reducing point-to-point dependencies.
+	<li>Define master data ownership and governance across product, supplier, customer and finance domains.
+	<li>Ensure solutions align with Microsoft Entra ID, SAP IAS/IPS, ServiceNow provisioning and privileged access controls where applicable.
+	<li>Present architecture proposals and structured option analysis to the Architecture Review Board.
+	<li>Assess solution options across risk, cost, complexity and technical debt.
+	<li>Drive alignment to target architecture while balancing commercial pragmatism with technical discipline.
+</ul>
+<strong>This is: what you'll need</strong>
+
+<ul>
+	<li>Significant enterprise solution architecture experience, with the role brief calling for 10+ years.
+	<li>Strong architecture experience across SAP S/4HANA and SAP Business Technology Platform.
+	<li>Experience with SAP Master Data Governance and SAP SuccessFactors.
+	<li>Demonstrated experience designing end-to-end SAP S/4HANA solutions at scale.
+	<li>Strong understanding of SAP clean-core, RISE and cloud deployment models.
+	<li>Experience leading architecture across major ERP or enterprise transformation programs.
+	<li>Knowledge of API-led integration, middleware governance and event-driven architecture.
+	<li>Strong understanding of enterprise data governance, IAM, role-based access and segregation of duties.
+	<li>Experience in regulated or high-volume retail or distribution environments.
+	<li>Ability to communicate complex architecture clearly and influence senior stakeholders, program leaders and vendors.
+</ul>
+<strong>This is: the perks</strong>
+
+<ul>
+	<li>Shape architecture across a broad, enterprise-scale transformation landscape.
+	<li>Work across SAP, cloud, integration, data, security and major business platforms rather than a single functional domain.
+	<li>Gain high visibility through architecture governance and strategic solution design.
+	<li>Deliver tangible simplification across technical debt, customisation, integration and enterprise application architecture.
+</ul>
+<strong>This is: for good</strong><br>
+Apply with purpose. Be part of a placement that gives back. For every role we fill, we donate to a charity of the client's choice. We've surpassed $1 million donated and we're just getting started.<br>
+<br>
+As a purpose-led recruitment business, NSG is committed to inclusive recruitment and welcomes applications from diverse backgrounds, including First Nations peoples and other underrepresented communities.<br>
+<br>
+<strong>This is: what's next</strong><br>
+Apply now or reach out to:<br>
+John Black Recruitment Consultant Natural Selection Group<br>
+M: 0421 711 887<br>
+E: john.black@naturalselectiongroup.com.au<br>
+<br>
+By applying for this role, you consent to Natural Selection Group collecting and using your personal information to assess your application and contact you about this and other relevant opportunities via phone, email or SMS. You can opt out at any time.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8123652]]></latitude>
+    <longitude><![CDATA[144.9623382]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Software Engineer (Melbourne - Remote)]]></title>
+    <date><![CDATA[Thu, 29 Oct 2026 23:40:21 +0000]]></date>
+    <referencenumber><![CDATA[1885]]></referencenumber>
+    <url><![CDATA[https://www.naturalselectiongroup.com.au/job-details/senior-software-engineer-melbourne-remote-in-jobs-1776288]]></url>
+    <company><![CDATA[Natural Selection Group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne CBD & Inner Suburbs]]></city>
+    <state><![CDATA[Victoria]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>This is: the job</strong><br>
+Join a global digital experience consultancy as its senior technical presence in the Melbourne time zone, supporting the established digital environment of a major enterprise client.<br>
+<br>
+This is not a greenfield build. You will take ownership of the ongoing development, enhancement and production support of a business-critical Sitefinity environment, working across backend functionality, integrations, widgets and templates.<br>
+<br>
+The position is fully remote within Melbourne and offered as an initial 12-month contract with potential for annual renewal. You will primarily work Melbourne business hours, with occasional meetings involving the US-based delivery team.<br>
+<br>
+<strong>This is: what you'll do</strong>
+<ul>
+	<li>Develop and support Sitefinity applications using .NET and C#.
+	<li>Deliver backend enhancements and new functionality across established enterprise websites.
+	<li>Build and modify widgets, page templates, integrations and supporting application components.
+	<li>Investigate and resolve website defects and business-critical production issues.
+	<li>Manage Azure DevOps tickets from initial investigation through to resolution.
+	<li>Support applications hosted in Microsoft Azure, including Azure App Services.
+	<li>Collaborate with US-based project managers, developers and digital specialists.
+	<li>Partner directly with Melbourne-based marketing and digital stakeholders to understand requirements.
+	<li>Participate in client stand-ups and communicate clearly across Australian and US time zones.
+	<li>Provide senior technical ownership as the consultancy expands its Melbourne development capability.
+</ul>
+<strong>This is: what you'll need</strong>
+
+<ul>
+	<li>Must have Progress Sitefinity experience
+	<li>Significant commercial experience developing backend applications with .NET and C#.
+	<li>Strong experience supporting enterprise web applications and established production environments.
+	<li>Hands-on experience with Microsoft Azure, particularly Azure App Services.
+	<li>Proven ability to troubleshoot unfamiliar systems and resolve complex production issues independently.
+	<li>Experience working with Azure DevOps or a comparable development workflow and ticketing platform.
+	<li>Strong stakeholder communication skills and confidence working directly with enterprise clients.
+	<li>Ability to work autonomously while remaining closely connected to a distributed delivery team.
+	<li>Experience with Kentico, Contentstack or Contentful will also be considered.
+	<li>Exposure to Marketo or Microsoft Dynamics would be beneficial.
+</ul>
+<strong>This is: the perks</strong>
+
+<ul>
+	<li>Become the senior Melbourne technical resource supporting a major global enterprise environment.
+	<li>Take genuine ownership of development and production issues rather than solely delivering backlog features.
+	<li>Work remotely during Melbourne business hours while collaborating with an experienced US digital delivery team.
+	<li>Build valuable enterprise experience across .NET, Sitefinity, Azure and digital experience technology.
+</ul>
+
+<p><strong>This is: for good</strong><br>
+Apply with purpose. Be part of a placement that gives back. For every role we fill, we donate to a charity of the client's choice. We've surpassed $1 million donated and we're just getting started.<br>
+<br>
+As a purpose-led recruitment business, NSG is committed to inclusive recruitment and welcomes applications from diverse backgrounds, including First Nations peoples and other underrepresented communities.<br>
+<br>
+<strong>This is: what's next</strong><br>
+Apply now or reach out to:<br>
+John Black - Recruitment Consultant - Natural Selection Group<br>
+M: 0421 711 887<br>
+E: john.black@naturalselectiongroup.com.au<br>
+<br>
+By applying for this role, you consent to Natural Selection Group collecting and using your personal information to assess your application and contact you about this and other relevant opportunities via phone, email or SMS. You can opt out at any time.</p>
+]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-25.274398]]></latitude>
+    <longitude><![CDATA[133.775136]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[SAP Deployment Lead]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 21:40:21 +0000]]></date>
+    <referencenumber><![CDATA[1876]]></referencenumber>
+    <url><![CDATA[https://www.naturalselectiongroup.com.au/job-details/sap-deployment-lead-in-jobs-1773834]]></url>
+    <company><![CDATA[Natural Selection Group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne CBD & Inner Suburbs]]></city>
+    <state><![CDATA[Victoria]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: the job</strong></span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">An opportunity for an experienced SAP Deployment Manager to take on a leading role in the delivery of a complex SAP S/4HANA transformation. Based in Melbourne, on a 12 month contract, with the opportunity to extend.</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">You’ll own deployment planning and execution, bringing together business and technology teams to ensure operational readiness and a controlled transition through go-live. From comprehensive deployment plans and dress rehearsals through to hypercare, risk management and performance tracking, you’ll be central to successful delivery.</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">This role will suit an accomplished SAP deployment professional who is comfortable operating at a senior level, managing complex dependencies and turning strategy into well-coordinated execution.</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: what you'll do</strong></span></span>
+<ul>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Lead end-to-end deployment planning and execution across multiple business areas</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Develop comprehensive deployment plans covering resources, timelines, budgets and key dependencies</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Plan, coordinate and execute dress rehearsals to validate deployment and operational readiness</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Develop and implement the hypercare support plan, coordinating support teams for rapid resolution of post-go-live issues</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Drive risk identification and mitigation to protect deployment milestones and outcomes</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Manage and mentor deployment teams while coordinating cross-functional delivery activities</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Collaborate with business, technology and leadership stakeholders to ensure seamless integration of new SAP S/4HANA systems and processes</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Monitor deployment performance, escalating issues and implementing corrective actions where required</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Provide clear progress, performance and risk reporting to senior leadership</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Ensure deployment activities meet organisational standards and compliance requirements</span></span>
+</ul>
+<br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: what you'll need</strong></span></span>
+
+<ul>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Extensive experience in SAP S/4HANA operations management, deployment or closely related delivery roles</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">A strong track record of successfully implementing complex SAP S/4HANA projects</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Demonstrated experience leading cross-functional teams in fast-paced transformation environments</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Strong deployment planning, resource allocation, process improvement and workflow management capability</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Experience planning deployment readiness activities, including dress rehearsals and post-go-live hypercare</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Strong risk, dependency and issue management skills</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Ability to interpret operational data and use insights to support delivery decisions</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Experience with SAP S/4HANA, project management tools and performance dashboards</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Excellent stakeholder management</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Project Management, PMP or Lean Six Sigma certification will be highly regarded</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Experience with global or multi-region deployments and change management will also be advantageous</span></span>
+</ul>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: the perks</strong></span></span>
+
+<ul>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Play a senior role in a significant SAP S/4HANA transformation</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Own critical deployment activities spanning readiness, go-live and hypercare</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Work across business, technology and senior leadership stakeholder groups</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Build further career value through complex, enterprise-scale SAP deployment experience</span></span>
+</ul>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: for good</strong></span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Apply with purpose. Be part of a placement that gives back. For every role we fill, we donate to a charity of the client's choice. We've surpassed $1 million donated and we're just getting started.</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">As a purpose-led recruitment business, NSG is committed to inclusive recruitment and welcomes applications from diverse backgrounds, including First Nations peoples and other underrepresented communities.</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: what's next</strong></span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Apply now or reach out to:</span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Bridget La Ragy</span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Principal Consultant Natural Selection Group</span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">M: 0448 299 600</span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">E: bridget.laragy@naturalselectiongroup.com.au</span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">By applying for this role, you consent to Natural Selection Group collecting and using your personal information to assess your application and contact you about this and other relevant opportunities via phone, email or SMS. You can opt out at any time.</span></span>]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8123652]]></latitude>
+    <longitude><![CDATA[144.9623382]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Data Analyst]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 21:40:21 +0000]]></date>
+    <referencenumber><![CDATA[1883]]></referencenumber>
+    <url><![CDATA[https://www.naturalselectiongroup.com.au/job-details/data-analyst-in-jobs-1773838]]></url>
+    <company><![CDATA[Natural Selection Group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne CBD & Inner Suburbs]]></city>
+    <state><![CDATA[Victoria]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>This is: the job</strong><br>
+<br>
+An opportunity for an experienced Data Analyst to step into an immediate 3-month contract and take ownership of digital analytics across a high-traffic online customer journey.<br>
+<br>
+You'll work hands-on with SQL and BigQuery alongside Google Analytics and Google Tag Manager, using data to understand checkout behaviour, identify conversion opportunities and provide actionable insights to stakeholders.<br>
+<br>
+The role can be performed remotely from anywhere in Australia, with Melbourne or Sydney preferred and optional office access. You'll need to be comfortable working autonomously and collaborating with stakeholders across Australian and US time zones.<br>
+<br>
+<strong>This is: what you'll do</strong>
+<ul>
+	<li>Analyse online checkout funnels to identify conversion trends, friction points and opportunities for improvement
+	<li>Deliver detailed analysis using SQL, with a strong focus on BigQuery
+	<li>Interpret digital behaviour and performance data through Google Analytics
+	<li>Support tracking, measurement and analysis using Google Tag Manager
+	<li>Translate complex datasets into clear, commercially relevant insights
+	<li>Collaborate with product, digital and go-to-market stakeholders to answer key business questions
+	<li>Drive data-led decision-making across online customer journeys
+	<li>Manage analysis independently in a fast-moving environment with minimal supervision
+	<li>Support stakeholders across Australian and US time zones as required
+</ul>
+<strong>This is: what you'll need</strong>
+
+<ul>
+	<li>Strong commercial experience as a Data Analyst or in a closely related analytics role
+	<li>Advanced SQL skills
+	<li>Hands-on experience with BigQuery or a comparable cloud data environment
+	<li>Strong Google Analytics experience
+	<li>Practical knowledge of Google Tag Manager
+	<li>Experience analysing digital funnels, checkout journeys, conversion rates or e-commerce behaviour
+	<li>Ability to turn digital data into actionable business insights
+	<li>Experience within technology businesses or technology teams in larger organisations
+	<li>Strong stakeholder communication skills
+	<li>Ability to work autonomously and become productive quickly in a short-term contract
+</ul>
+<strong>This is: the perks</strong>
+
+<ul>
+	<li>Own meaningful digital and checkout funnel analysis from day one
+	<li>Work with a modern analytics stack spanning BigQuery, Google Analytics and Google Tag Manager
+	<li>Gain exposure to stakeholders operating across Australian and US markets
+	<li>Work remotely from anywhere on the Eastern Seaboard, with optional office access and Melbourne or Sydney preferred
+</ul>
+<strong>This is: for good</strong><br>
+<br>
+Apply with purpose. Be part of a placement that gives back. For every role we fill, we donate to a charity of the client's choice. We've surpassed $1 million donated and we're just getting started.<br>
+<br>
+As a purpose-led recruitment business, NSG is committed to inclusive recruitment and welcomes applications from diverse backgrounds, including First Nations peoples and other underrepresented communities.<br>
+<br>
+<strong>This is: what's next</strong><br>
+<br>
+Apply now or reach out to:<br>
+<br>
+Hans Zimnoch<br>
+Principal Consultant Natural Selection Group<br>
+M: 0433 427 118 E: hans.zimnoch@naturalselectiongroup.com.au<br>
+<br>
+By applying for this role, you consent to Natural Selection Group collecting and using your personal information to assess your application and contact you about this and other relevant opportunities via phone, email or SMS. You can opt out at any time.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8123652]]></latitude>
+    <longitude><![CDATA[144.9623382]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Transportation Management System - Project Manager]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 21:40:21 +0000]]></date>
+    <referencenumber><![CDATA[1881]]></referencenumber>
+    <url><![CDATA[https://www.naturalselectiongroup.com.au/job-details/transportation-management-system-project-manager-in-jobs-1773835]]></url>
+    <company><![CDATA[Natural Selection Group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne CBD & Inner Suburbs]]></city>
+    <state><![CDATA[Victoria]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>This is: the job</strong><br>
+<br>
+An opportunity exists for an experienced Project Manager to lead the implementation of a large-scale Transport Management System across a complex supply chain and logistics environment. This role will take ownership of end-to-end delivery, bringing together business, technology, operational and vendor teams to deliver a critical transformation program.<br>
+<br>
+You'll play a key role in implementing a modern transport management platform that will enhance planning, visibility, optimisation, reporting and operational efficiency across Australia and New Zealand. Working within a broader transformation roadmap, you'll drive delivery outcomes while managing stakeholder engagement, governance, risk, budget and implementation readiness. <br>
+<br>
+This contract role is based in Burnley, Victoria, with flexibility and occasional travel to operational sites and partner locations as required.<br>
+<br>
+<strong>This is: what you'll do</strong>
+<ul>
+	<li>Lead end-to-end project delivery from mobilisation through to go-live and transition to support.
+	<li>Develop and maintain integrated project plans across business and technology workstreams.
+	<li>Manage delivery activities across vendors, implementation partners and internal teams.
+	<li>Drive governance, reporting, RAID management and executive stakeholder communication.
+	<li>Coordinate solution design, systems integration, data readiness and deployment planning.
+	<li>Oversee testing, operational readiness, cutover and hypercare activities.
+	<li>Collaborate with supply chain, transport, technology and analytics stakeholders.
+	<li>Manage budgets, forecasts, commercial obligations and vendor performance.
+	<li>Drive issue resolution, dependency management and risk mitigation activities.
+	<li>Support change management, communications, training and business adoption initiatives.
+</ul>
+<strong>This is: what you'll need</strong>
+
+<ul>
+	<li>Demonstrated experience delivering Transport Management System implementations.
+	<li>Experience with Manhattan Active Transport or comparable enterprise TMS platforms.
+	<li>Proven background leading large-scale technology and business transformation programs.
+	<li>Strong project governance, financial management and executive reporting capability.
+	<li>Experience managing complex integrations across ERP, WMS, carrier and supplier environments.
+	<li>Proven delivery experience across design, build, testing, deployment and support transition.
+	<li>Excellent stakeholder engagement, facilitation and vendor management skills.
+	<li>Experience using Jira or similar enterprise project delivery tools.
+	<li>Strong risk, issue and dependency management capability.
+	<li>Exposure to retail, logistics, transport or supply chain environments.
+</ul>
+<strong>This is: the perks</strong>
+
+<ul>
+	<li>Lead a highly visible enterprise transformation program with executive sponsorship.
+	<li>Deliver a business-critical platform that impacts end-to-end transport operations.
+	<li>Work across technology, operations and supply chain functions in a complex environment.
+	<li>Contribute to a broader transformation roadmap with significant future initiatives.
+</ul>
+<strong>This is: for good</strong><br>
+<br>
+Apply with purpose. Be part of a placement that gives back. For every role we fill, we donate to a charity of the client's choice. We've surpassed $1 million donated and we're just getting started.<br>
+<br>
+As a purpose-led recruitment business, NSG is committed to inclusive recruitment and welcomes applications from diverse backgrounds, including First Nations peoples and other underrepresented communities.<br>
+<br>
+<strong>This is: what's next</strong><br>
+<br>
+Apply now or reach out to:<br>
+<br>
+Hans Zimnoch<br>
+Principal Consultant<br>
+Natural Selection Group<br>
+M: 0433 427 118<br>
+E: hans.zimnoch@naturalselectiongroup.com.au<br>
+<br>
+By applying for this role, you consent to Natural Selection Group collecting and using your personal information to assess your application and contact you about this and other relevant opportunities via phone, email or SMS. You can opt out at any time.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8123652]]></latitude>
+    <longitude><![CDATA[144.9623382]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Salesforce Test Coordinator]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 05:02:18 +0000]]></date>
+    <referencenumber><![CDATA[ea179ee2-db84-4133-bf58-80560b5b6243]]></referencenumber>
+    <url><![CDATA[https://www.naturalselectiongroup.com.au/job-details/salesforce-test-coordinator-in-it-jobs-1772915]]></url>
+    <company><![CDATA[Natural Selection Group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div><b>This is: the job</b></div><div>Join a major enterprise transformation program integrating Salesforce, SAP S/4HANA and cloud-based business solutions. This hands-on Test Coordinator role will help ensure testing is effectively planned, traceable and delivered across a complex, multi-system environment.</div><div><br></div><div>You will work closely with testing teams, business users, architects, developers and other stakeholders across sales, distribution, supply chain, logistics, procurement, inventory and finance. The role requires someone who can combine practical test execution with strong coordination, reporting and quality assurance oversight.</div><div><br></div><div>This Melbourne-based contract is expected to commence in November 2026 and run through to 31 March 2027. The hybrid arrangement requires four days per week onsite.&nbsp;</div><div><br></div><div><b>This is: what you'll do</b></div><ul><li>Coordinate testing activities across technical teams, business users, architects, developers and end users</li><li>Define testing scope by identifying relevant business processes and required delta changes</li><li>Oversee test case administration and maintain traceability to agreed scope items</li><li>Monitor test coverage across planning, test case authoring and execution</li><li>Deliver clear testing progress, risk and status reporting to program stakeholders</li><li>Support the development of test plans, schedules and protocols for each testing phase</li><li>Execute test cases when required to support the broader testing team</li><li>Identify test data requirements for test preparation and execution</li><li>Manage, resolve and escalate issues arising during testing</li><li>Review test results and provide feedback on the validity and effectiveness of test designs</li></ul><div><br></div><div><b>This is: what you'll need</b></div><ul><li>Demonstrated experience coordinating testing across Salesforce and SAP S/4HANA environments</li><li>Strong understanding of Salesforce as an integrated CRM platform</li><li>Practical SAP S/4HANA testing experience across relevant business areas</li><li>Experience working with complex, large-scale and multi-system integration programs</li><li>Strong capability in test planning, test case design, execution and defect management</li><li>Hands-on experience with Jira, qTest and Confluence</li><li>Clear communication and confident stakeholder engagement skills</li><li>Ability to work collaboratively across business and technology teams</li><li>A practical, delivery-focused approach to identifying and resolving testing issues</li><li>Previous experience within a retail environment is highly regarded</li></ul><div><br></div><div><b>This is: the perks</b></div><ul><li>Contribute to a high-visibility enterprise transformation spanning Salesforce, SAP S/4HANA and cloud platforms</li><li>Work across critical business functions, including supply chain, procurement, inventory and finance</li><li>Gain valuable experience coordinating testing within a complex integration environment</li><li>Secure a Melbourne-based hybrid contract through to 31 March 2027</li></ul><div><br></div><div><b>﻿This is: for good</b></div><div>Apply with purpose. Be part of a placement that gives back. For every role we fill, we donate to a charity of the client's choice. We've surpassed $1 million donated and we're just getting started.</div><div><br></div><div>As a purpose-led recruitment business, NSG is committed to inclusive recruitment and welcomes applications from diverse backgrounds, including First Nations peoples and other underrepresented communities.</div><div><br></div><div><b>This is: what's next</b></div><div>Apply now or reach out to:</div><div><br></div><div>Hans Zimnoch</div><div>Principal Consultant</div><div>Natural Selection Group</div><div>E: hans.zimnoch@naturalselectiongroup.com.au</div><div><br></div><div>By applying for this role, you consent to Natural Selection Group collecting and using your personal information to assess your application and contact you about this and other relevant opportunities via phone, email or SMS. You can opt out at any time.</div>]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[IT]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[SAP Deployment Lead]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 05:29:10 +0000]]></date>
+    <referencenumber><![CDATA[3dc619fb-1d3a-4ee3-a4c0-85a43b6d4c0a]]></referencenumber>
+    <url><![CDATA[https://www.naturalselectiongroup.com.au/job-details/sap-deployment-lead-in-it-jobs-1773034]]></url>
+    <company><![CDATA[Natural Selection Group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div><strong style="color: rgb(40, 40, 40);">This is: the job</b></div><div><span style="color: rgb(40, 40, 40);">An opportunity for an experienced SAP Deployment Manager to take on a leading role in the delivery of a complex SAP S/4HANA transformation. Based in Melbourne, on a 12 month contract, with the opportunity to extend.</span></div><div><br></div><div><span style="color: rgb(40, 40, 40);">You’ll own deployment planning and execution, bringing together business and technology teams to ensure operational readiness and a controlled transition through go-live. From comprehensive deployment plans and dress rehearsals through to hypercare, risk management and performance tracking, you’ll be central to successful delivery.</span></div><div><br></div><div><span style="color: rgb(40, 40, 40);">This role will suit an accomplished SAP deployment professional who is comfortable operating at a senior level, managing complex dependencies and turning strategy into well-coordinated execution.</span></div><div><br></div><div><strong style="color: rgb(40, 40, 40);">This is: what you'll do</b></div><ul><li>Lead end-to-end deployment planning and execution across multiple business areas</li><li>Develop comprehensive deployment plans covering resources, timelines, budgets and key dependencies</li><li>Plan, coordinate and execute dress rehearsals to validate deployment and operational readiness</li><li>Develop and implement the hypercare support plan, coordinating support teams for rapid resolution of post-go-live issues</li><li>Drive risk identification and mitigation to protect deployment milestones and outcomes</li><li>Manage and mentor deployment teams while coordinating cross-functional delivery activities</li><li>Collaborate with business, technology and leadership stakeholders to ensure seamless integration of new SAP S/4HANA systems and processes</li><li>Monitor deployment performance, escalating issues and implementing corrective actions where required</li><li>Provide clear progress, performance and risk reporting to senior leadership</li><li>Ensure deployment activities meet organisational standards and compliance requirements</li></ul><div><br></div><div><strong style="color: rgb(40, 40, 40);">This is: what you'll need</b></div><ul><li>Extensive experience in SAP S/4HANA operations management, deployment or closely related delivery roles</li><li>A strong track record of successfully implementing complex SAP S/4HANA projects</li><li>Demonstrated experience leading cross-functional teams in fast-paced transformation environments</li><li>Strong deployment planning, resource allocation, process improvement and workflow management capability</li><li>Experience planning deployment readiness activities, including dress rehearsals and post-go-live hypercare</li><li>Strong risk, dependency and issue management skills</li><li>Ability to interpret operational data and use insights to support delivery decisions</li><li>Experience with SAP S/4HANA, project management tools and performance dashboards</li><li>Excellent stakeholder management</li><li>Project Management, PMP or Lean Six Sigma certification will be highly regarded</li><li>Experience with global or multi-region deployments and change management will also be advantageous</li></ul><div><br></div><div><strong style="color: rgb(40, 40, 40);">This is: the perks</b></div><ul><li>Play a senior role in a significant SAP S/4HANA transformation</li><li>Own critical deployment activities spanning readiness, go-live and hypercare</li><li>Work across business, technology and senior leadership stakeholder groups</li><li>Build further career value through complex, enterprise-scale SAP deployment experience</li></ul><div><br></div><div><strong style="color: rgb(40, 40, 40);">This is: for good</b></div><div><span style="color: rgb(40, 40, 40);">Apply with purpose. Be part of a placement that gives back. For every role we fill, we donate to a charity of the client's choice. We've surpassed $1 million donated and we're just getting started.</span></div><div><br></div><div><span style="color: rgb(40, 40, 40);">As a purpose-led recruitment business, NSG is committed to inclusive recruitment and welcomes applications from diverse backgrounds, including First Nations peoples and other underrepresented communities.</span></div><div><br></div><div><strong style="color: rgb(40, 40, 40);">This is: what's next</b></div><div><span style="color: rgb(40, 40, 40);">Apply now or reach out to:</span></div><div><span style="color: rgb(40, 40, 40);">Bridget La Ragy</span></div><div><span style="color: rgb(40, 40, 40);">Principal Consultant Natural Selection Group</span></div><div><span style="color: rgb(40, 40, 40);">M: 0448 299 600</span></div><div><span style="color: rgb(40, 40, 40);">E: bridget.laragy@naturalselectiongroup.com.au</span></div><div><br></div><div><span style="color: rgb(40, 40, 40);">By applying for this role, you consent to Natural Selection Group collecting and using your personal information to assess your application and contact you about this and other relevant opportunities via phone, email or SMS. You can opt out at any time.</span></div>]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[IT]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+  </job>
+  <job>
+    <title><![CDATA[Salesforce Test Coordinator]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 21:40:21 +0000]]></date>
+    <referencenumber><![CDATA[1878]]></referencenumber>
+    <url><![CDATA[https://www.naturalselectiongroup.com.au/job-details/salesforce-test-coordinator-in-jobs-1773836]]></url>
+    <company><![CDATA[Natural Selection Group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Eastern Suburbs Melbourne]]></city>
+    <state><![CDATA[Victoria]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>This is: the job</strong><br>
+<br>
+Join a major enterprise transformation program integrating Salesforce, SAP S/4HANA and cloud-based business solutions. This hands-on Test Coordinator role will help ensure testing is effectively planned, traceable and delivered across a complex, multi-system environment.<br>
+<br>
+You will work closely with testing teams, business users, architects, developers and other stakeholders across sales, distribution, supply chain, logistics, procurement, inventory and finance. The role requires someone who can combine practical test execution with strong coordination, reporting and quality assurance oversight.<br>
+<br>
+This Melbourne-based contract is expected to commence in November 2026 and run through to 31 March 2027. The hybrid arrangement requires four days per week onsite. <br>
+<br>
+<strong>This is: what you'll do</strong>
+<ul>
+	<li>Coordinate testing activities across technical teams, business users, architects, developers and end users
+	<li>Define testing scope by identifying relevant business processes and required delta changes
+	<li>Oversee test case administration and maintain traceability to agreed scope items
+	<li>Monitor test coverage across planning, test case authoring and execution
+	<li>Deliver clear testing progress, risk and status reporting to program stakeholders
+	<li>Support the development of test plans, schedules and protocols for each testing phase
+	<li>Execute test cases when required to support the broader testing team
+	<li>Identify test data requirements for test preparation and execution
+	<li>Manage, resolve and escalate issues arising during testing
+	<li>Review test results and provide feedback on the validity and effectiveness of test designs
+</ul>
+<strong>This is: what you'll need</strong>
+
+<ul>
+	<li>Demonstrated experience coordinating testing across Salesforce and SAP S/4HANA environments
+	<li>Strong understanding of Salesforce as an integrated CRM platform
+	<li>Practical SAP S/4HANA testing experience across relevant business areas
+	<li>Experience working with complex, large-scale and multi-system integration programs
+	<li>Strong capability in test planning, test case design, execution and defect management
+	<li>Hands-on experience with Jira, qTest and Confluence
+	<li>Clear communication and confident stakeholder engagement skills
+	<li>Ability to work collaboratively across business and technology teams
+	<li>A practical, delivery-focused approach to identifying and resolving testing issues
+	<li>Previous experience within a retail environment is highly regarded
+</ul>
+<strong>This is: the perks</strong>
+
+<ul>
+	<li>Contribute to a high-visibility enterprise transformation spanning Salesforce, SAP S/4HANA and cloud platforms
+	<li>Work across critical business functions, including supply chain, procurement, inventory and finance
+	<li>Gain valuable experience coordinating testing within a complex integration environment
+	<li>Secure a Melbourne-based hybrid contract through to 31 March 2027
+</ul>
+<strong>This is: for good</strong><br>
+<br>
+Apply with purpose. Be part of a placement that gives back. For every role we fill, we donate to a charity of the client's choice. We've surpassed $1 million donated and we're just getting started.<br>
+<br>
+As a purpose-led recruitment business, NSG is committed to inclusive recruitment and welcomes applications from diverse backgrounds, including First Nations peoples and other underrepresented communities.<br>
+<br>
+<strong>This is: what's next</strong><br>
+<br>
+Apply now or reach out to:<br>
+<br>
+Hans Zimnoch<br>
+Principal Consultant<br>
+Natural Selection Group<br>
+E: hans.zimnoch@naturalselectiongroup.com.au<br>
+<br>
+By applying for this role, you consent to Natural Selection Group collecting and using your personal information to assess your application and contact you about this and other relevant opportunities via phone, email or SMS. You can opt out at any time.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.7930134]]></latitude>
+    <longitude><![CDATA[145.1817407]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[SAP S/4HANA E2E Integration Test Coordinator]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 21:40:21 +0000]]></date>
+    <referencenumber><![CDATA[1879]]></referencenumber>
+    <url><![CDATA[https://www.naturalselectiongroup.com.au/job-details/sap-s4hana-e2e-integration-test-coordinator-in-jobs-1773837]]></url>
+    <company><![CDATA[Natural Selection Group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Eastern Suburbs Melbourne]]></city>
+    <state><![CDATA[Victoria]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>This is: the job</strong><br>
+<br>
+Join a major enterprise transformation program delivering SAP S/4HANA and other cloud-based solutions across a complex retail environment.<br>
+<br>
+This hands-on Test Coordinator role will support testing across sales and distribution, supply chain and logistics, procurement, materials and inventory management, and financials and controlling. You will coordinate internal teams, external partners and vendors while maintaining strong testing governance, traceability and quality assurance.<br>
+<br>
+The contract is expected to commence in November 2026 and run through to 31 March 2027. The role is Melbourne-based, with four days per week onsite under the hybrid working arrangement.<br>
+<br>
+<strong>This is: what you'll do</strong>
+<ul>
+	<li>Coordinate testing activities across business users, architects, developers, end users, external partners and vendors
+	<li>Identify relevant business processes and define the delta changes included within the testing scope
+	<li>Oversee test case administration and maintain complete traceability to agreed scope items
+	<li>Monitor test coverage throughout planning, test case authoring and execution
+	<li>Deliver clear progress reporting and testing updates to program stakeholders
+	<li>Support the creation of test plans, schedules and protocols for different testing phases
+	<li>Execute test cases when required to support the broader testing team
+	<li>Identify the data requirements needed for test preparation and execution
+	<li>Manage, resolve and escalate issues arising during testing
+	<li>Review test results and provide constructive feedback on the validity of test designs
+</ul>
+<strong>This is: what you'll need</strong>
+
+<ul>
+	<li>Demonstrated experience as a Test Coordinator within SAP S/4HANA transformation or integration programs
+	<li>Strong SAP testing experience across multiple retail business functions
+	<li>Experience coordinating internal teams, external partners and vendors
+	<li>Proven experience working across large-scale, multi-system integration environments
+	<li>Strong capability in test planning, test case design, execution and defect management
+	<li>Hands-on experience with Jira, qTest and Confluence
+	<li>Clear communication and confident stakeholder engagement skills
+	<li>Ability to collaborate effectively across business and technology teams
+	<li>A practical, delivery-focused approach to identifying and resolving testing issues
+	<li>Previous experience within a retail environment is highly regarded
+</ul>
+<strong>This is: the perks</strong>
+
+<ul>
+	<li>Contribute to a major SAP S/4HANA and cloud transformation program
+	<li>Work across critical retail functions, including supply chain, procurement, inventory and finance
+	<li>Build valuable experience coordinating complex, multi-system integration testing
+	<li>Secure a Melbourne-based hybrid contract through to 31 March 2027
+</ul>
+<strong>This is: for good</strong><br>
+<br>
+Apply with purpose. Be part of a placement that gives back. For every role we fill, we donate to a charity of the client's choice. We've surpassed $1 million donated and we're just getting started.<br>
+As a purpose-led recruitment business, NSG is committed to inclusive recruitment and welcomes applications from diverse backgrounds, including First Nations peoples and other underrepresented communities.<br>
+<br>
+<strong>This is: what's next</strong><br>
+<br>
+Apply now or reach out to:<br>
+<br>
+Hans Zimnoch<br>
+Principal Consultant<br>
+Natural Selection Group<br>
+E: hans.zimnoch@naturalselectiongroup.com.au<br>
+<br>
+By applying for this role, you consent to Natural Selection Group collecting and using your personal information to assess your application and contact you about this and other relevant opportunities via phone, email or SMS. You can opt out at any time.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.7930134]]></latitude>
+    <longitude><![CDATA[145.1817407]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[SAP Finance Consultant]]></title>
+    <date><![CDATA[Wed, 14 Oct 2026 00:05:21 +0000]]></date>
+    <referencenumber><![CDATA[1873]]></referencenumber>
+    <url><![CDATA[https://www.naturalselectiongroup.com.au/job-details/sap-finance-consultant-in-jobs-1757196]]></url>
+    <company><![CDATA[Natural Selection Group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne CBD & Inner Suburbs]]></city>
+    <state><![CDATA[Victoria]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: the job</strong></span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">An opportunity for an experienced SAP Finance Consultant to join a complex enterprise technology environment on an initial 6-month contract.</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">You’ll work across SAP S/4HANA Finance, providing hands-on functional expertise while delivering enhancements, supporting projects and helping shape scalable, integrated finance solutions. The role has a strong focus on SAP Finance, OpenText VIM and indirect procurement, with significant interaction across the broader SAP and application landscape.</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">This will suit a senior SAP Finance specialist who is equally comfortable getting into configuration and testing, working through complex requirements and partnering with business and technology stakeholders.</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: what you'll do</strong></span></span>
+<ul>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Deliver functional and cross-functional expertise across SAP Finance, OpenText VIM and indirect procurement</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Configure and maintain SAP Finance components and contribute to testing activities</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Drive enhancements across the SAP Finance solution landscape</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Collaborate with stakeholders to gather, analyse and document functional requirements</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Support SAP projects across scoping, estimation, blueprinting and implementation</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Design solutions that integrate effectively across SAP modules and third-party platforms</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Develop functional specifications and work with technical teams through configuration, testing and implementation</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Drive process improvement and standardisation across finance-related business processes</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Support documentation, governance, change management, security and quality standards</span></span>
+</ul>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: what you'll need</strong></span></span>
+
+<ul>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">7+ years of SAP functional experience</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">At least three full SAP implementation lifecycles</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Strong SAP S/4HANA Finance experience, including Fiori-based functionality</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Broad expertise across GL, AP, AR, Banking, Fixed Assets, Lease Accounting, Project Systems, Inventory Accounting, Tax, Controlling, CO-PA, Cost Centre Accounting and Profit Centre Accounting</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Hands-on experience with OpenText VIM or equivalent</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Strong experience with indirect procurement for non-stock purchasing and services</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Experience with Delegations of Authority workflow rules, SAP Flexible Workflow and invoice approvals</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Integration experience across SAP S/4HANA, OpenText VIM, SuccessFactors, Ariba and related platforms</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Strong configuration, requirements gathering, process re-engineering and functional specification skills</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Excellent stakeholder communication, analytical and problem-solving capability</span></span>
+</ul>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Experience with SAP FSCM, Group Reporting, Analytics Cloud, Materials Management, Sales & Distribution, Ariba Supplier Onboarding or SAP BTP will be highly regarded.</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: the perks</strong></span></span>
+
+<ul>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Work across a broad and sophisticated SAP S/4HANA finance landscape</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Take ownership of meaningful finance enhancements and solution design</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Gain exposure to a highly integrated enterprise technology environment</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Bring your expertise to a 6-month contract with tangible business impact</span></span>
+</ul>
+
+<p><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: for good</strong></span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Apply with purpose. Be part of a placement that gives back. For every role we fill, we donate to a charity of the client's choice.<br>
+<br>
+We've surpassed $1 million donated and we're just getting started.</span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">As a purpose-led recruitment business, NSG is committed to inclusive recruitment and welcomes applications from diverse backgrounds, including First Nations peoples and other underrepresented communities.</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: what's next</strong></span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Apply now or reach out to:</span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">John Black<br>
+Recruitment Consultant<br>
+Natural Selection Group </span></span></p>
+
+<p><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">M: 0421 711 887 </span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">E: john.black@naturalselectiongroup.com.au</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">By applying for this role, you consent to Natural Selection Group collecting and using your personal information to assess your application and contact you about this and other relevant opportunities via phone, email or SMS. You can opt out at any time.</span></span></p>
+]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8123652]]></latitude>
+    <longitude><![CDATA[144.9623382]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Master Scheduler]]></title>
+    <date><![CDATA[Sun, 11 Oct 2026 22:00:20 +0000]]></date>
+    <referencenumber><![CDATA[1868]]></referencenumber>
+    <url><![CDATA[https://www.naturalselectiongroup.com.au/job-details/master-scheduler-in-jobs-1753777]]></url>
+    <company><![CDATA[Natural Selection Group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne CBD & Inner Suburbs]]></city>
+    <state><![CDATA[Victoria]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><strong>This is: the job</strong><br>
+<br>
+An experienced Master Scheduler / Business Cutover Lead is required to support a major SAP S/4HANA transformation delivering a large-scale enterprise deployment across Australia. This is a highly visible role sitting on the business side of the program, focused on orchestrating business readiness activities and leading the end-to-end cutover approach for a significant enterprise-wide go-live.<br>
+Working closely with the Business PMO, Change team, System Integrator and senior business stakeholders, you will play a critical role in ensuring operational readiness, managing complex business dependencies and driving successful transition outcomes. This role will suit a proven delivery professional who thrives in large-scale ERP programs and can confidently coordinate across multiple business functions.<br>
+<br>
+FMCG industry experience is strongly preferred and will be a key consideration for this opportunity. Candidates who have delivered SAP transformations within complex manufacturing, supply chain or consumer goods environments will be highly regarded.<br>
+<br>
+Based in Australia with hybrid flexibility, this engagement will run through a critical go-live period commencing in January.<br>
+<br>
+<strong>This is: what you'll do</strong></p>
+
+<ul>
+	<li>Lead the development, maintenance and governance of the integrated master schedule across business and project workstreams
+	<li>Drive end-to-end business cutover planning, coordination and execution activities
+	<li>Manage business readiness activities to support a successful SAP S/4HANA deployment
+	<li>Identify, track and mitigate critical business dependencies, risks and milestones
+	<li>Collaborate with stakeholders across operations, supply chain, customer, supplier and vendor groups
+	<li>Coordinate closely with Business PMO, Change Management and delivery teams to maintain alignment
+	<li>Facilitate governance forums, readiness reviews and cutover checkpoints
+	<li>Deliver executive-level status reporting on readiness progress, key risks and mitigation strategies
+	<li>Support transition planning and operational stabilisation activities through go-live
+	<li>Oversee cross-functional coordination to ensure business continuity throughout deployment
+</ul>
+<strong>This is: what you'll need</strong>
+
+<ul>
+	<li>Proven experience as a Master Scheduler, Cutover Lead, Business Readiness Lead or similar on large-scale ERP transformation programs
+	<li>Demonstrated SAP S/4HANA implementation or major SAP transformation delivery experience
+	<li>Strong expertise in business cutover planning, integrated scheduling and readiness management
+	<li>Experience working across complex stakeholder environments involving multiple delivery partners
+	<li>Strongly preferred FMCG industry experience with a proven track record delivering in consumer goods environments
+	<li>Dairy industry experience highly regarded
+	<li>Background across supply chain, manufacturing, procurement or operations functions
+	<li>Strong understanding of enterprise business transformation and change delivery principles
+	<li>Excellent stakeholder engagement, planning and communication skills
+	<li>Ability to influence and engage senior business and project stakeholders
+</ul>
+<strong>This is: the perks</strong>
+
+<ul>
+	<li>Lead business cutover and readiness activities for a major SAP S/4HANA transformation
+	<li>Play a pivotal role in a high-profile enterprise-wide go-live program
+	<li>Work within a complex business and technology landscape with significant organisational impact
+	<li>Influence readiness strategy, operational transition planning and deployment success
+</ul>
+
+<p><strong>This is: for good</strong><br>
+Apply with purpose. Be part of a placement that gives back. For every role we fill, we donate to a charity of the client's choice. We've surpassed $1 million donated and we're just getting started.<br>
+As a purpose-led recruitment business, NSG is committed to inclusive recruitment and welcomes applications from diverse backgrounds, including First Nations peoples and other underrepresented communities.<br>
+<br>
+<strong>This is: what's next</strong><br>
+<br>
+Apply now or reach out to:<br>
+<br>
+Hans Zimnoch<br>
+Principal Consultant<br>
+Natural Selection Group<br>
+M: 0433 427 118<br>
+E: hans.zimnoch@naturalselectiongroup.com.au<br>
+<br>
+By applying for this role, you consent to Natural Selection Group collecting and using your personal information to assess your application and contact you about this and other relevant opportunities via phone, email or SMS. You can opt out at any time.</p>
+]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8123652]]></latitude>
+    <longitude><![CDATA[144.9623382]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[SAP PMO Analyst ]]></title>
+    <date><![CDATA[Tue, 06 Oct 2026 03:30:21 +0000]]></date>
+    <referencenumber><![CDATA[1870]]></referencenumber>
+    <url><![CDATA[https://www.naturalselectiongroup.com.au/job-details/sap-pmo-analyst-in-jobs-1747051]]></url>
+    <company><![CDATA[Natural Selection Group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne CBD & Inner Suburbs]]></city>
+    <state><![CDATA[Victoria]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: the job</strong></span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">A major transformation program is seeking a hands-on SAP PMO Analyst to support the successful delivery of a complex ERP implementation.<br>
+<br>
+Working closely with the Project Director, you'll play a pivotal role in maintaining delivery momentum, ensuring project disciplines are embedded, and providing the governance and coordination required to keep a large-scale program on track.</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">You'll be expected to understand how projects are planned, governed and executed, with the ability to interpret project schedules, manage dependencies, identify delivery risks, and proactively drive actions through to completion. You'll be equally comfortable facilitating governance forums, coordinating stakeholders, maintaining project artefacts, and rolling up your sleeves to assist wherever needed.</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">This is an excellent opportunity for someone who enjoys variety, thrives in project environments, and wants to be deeply involved in the day-to-day delivery of a significant SAP transformation. Offered as an initial 6-month contract, there is strong potential for extension as the program continues to evolve.</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: what you'll do</strong></span></span>
+<ul>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Manage and maintain the integrated project schedule using Microsoft Project</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Drive project governance activities across Risks, Issues, Actions and Dependencies (RAID)</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Lead regular RAID review meetings and ensure actions are assigned, tracked and delivered</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Monitor project plans, milestones, dependencies and critical path activities to support successful delivery</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Coordinate project meetings, workshops, stand-ups and governance forums across multiple workstreams</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Prepare meeting minutes, action registers, status updates and project documentation</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Support the Project Director with reporting, stakeholder communications and executive-level presentations</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Follow up project team members, vendors and stakeholders to ensure commitments and deliverables are met</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Analyse project progress and highlight emerging risks, issues and delivery impacts</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Facilitate project stand-up meetings and governance activities in the absence of the Project Director</span></span>
+</ul>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: what you'll need</strong></span></span>
+
+<ul>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Experience as a PMO Analyst, Project Analyst, Project Coordinator or similar project delivery support role</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Strong understanding of project delivery lifecycles, governance frameworks and PMO disciplines</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Demonstrated experience maintaining project schedules within Microsoft Project (MS)</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Proven experience managing RAID registers and project action tracking</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Ability to understand project plans, dependencies, milestones and delivery timelines</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Experience supporting large-scale transformation, ERP or enterprise technology programs</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Strong stakeholder engagement skills and confidence working with delivery teams and senior leaders</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Excellent organisational skills with the ability to manage competing priorities</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Advanced PowerPoint, Excel and reporting capabilities</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">SAP ERP implementation experience will be highly regarded but is not essential</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">A proactive, hands-on approach with a willingness to take ownership and drive outcomes</span></span>
+</ul>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: the perks</strong></span></span>
+
+<ul>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Join a high-profile SAP transformation program with significant organisational visibility</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Work directly alongside an experienced Project Director and senior business stakeholders</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Gain broad exposure across governance, planning, scheduling, reporting and project delivery</span></span>
+	<li style="margin: 0.0cm 0.0cm 8.0pt;"><span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Initial 6-month contract with strong extension potential</span></span>
+</ul>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: for good</strong></span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Apply with purpose. Be part of a placement that gives back. For every role we fill, we donate to a charity of the client's choice. We've surpassed $1 million donated and we're just getting started.</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">As a purpose-led recruitment business, NSG is committed to inclusive recruitment and welcomes applications from diverse backgrounds, including First Nations peoples and other underrepresented communities.</span></span><br>
+<br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;"><strong>This is: what's next</strong></span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Apply now or reach out to:</span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">Bridget La Ragy Principal Consultant Natural Selection Group<br>
+M: 0448 299 600<br>
+E: bridget.laragy@naturalselectiongroup.com.au</span></span><br>
+<span style="font-size: 12.0pt;"><span style="font-family: Aptos , sans-serif;">By applying for this role, you consent to Natural Selection Group collecting and using your personal information to assess your application and contact you about this and other relevant opportunities via phone, email or SMS. You can opt out at any time.</span></span>]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8123652]]></latitude>
+    <longitude><![CDATA[144.9623382]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[SAP BASIS Lead]]></title>
+    <date><![CDATA[Mon, 21 Sep 2026 08:19:54 +0000]]></date>
+    <referencenumber><![CDATA[1864]]></referencenumber>
+    <url><![CDATA[https://www.naturalselectiongroup.com.au/job-details/sap-basis-lead-in-jobs-1729114]]></url>
+    <company><![CDATA[Natural Selection Group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Northern Suburbs Melbourne]]></city>
+    <state><![CDATA[Victoria]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>This is: the job</strong><br>
+An exciting opportunity exists for an experienced SAP Basis Lead to join a major enterprise transformation program delivering SAP S/4HANA, SAP EWM and a broad suite of SAP cloud solutions.<br>
+This role will play a critical part in ensuring the SAP platform remains stable, secure, high-performing and ready to support a complex transformation.<br>
+<br>
+You'll act as the senior hands-on SAP Technical Specialist, providing leadership across SAP Basis architecture, environment management, technical governance, releases and platform operations.<br>
+<br>
+This is a 12-month Melbourne based contract, offering the opportunity to shape a large-scale SAP transformation while influencing technical direction, platform strategy and operational readiness across a sophisticated SAP ecosystem.<br>
+<br>
+<strong>This is: what you'll do</strong>
+<ul>
+	<li>Lead SAP Basis governance, architecture and landscape strategy across S/4HANA, EWM and associated SAP platforms
+	<li>Manage environment planning, provisioning, refreshes and readiness activities throughout the project lifecycle
+	<li>Oversee SAP upgrades, migrations, platform changes and technical remediation activities
+	<li>Drive release, transport and change management processes across multiple SAP environments
+	<li>Collaborate with implementation partners, support providers and project stakeholders to deliver technical outcomes
+	<li>Lead resolution of complex SAP technical issues, risks and environment challenges
+	<li>Support testing, cutover, deployment and hypercare activities during key program phases
+	<li>Coordinate disaster recovery, resilience and business continuity testing activities
+	<li>Maintain technical standards, architecture documentation and operational readiness artefacts
+</ul>
+<strong>This is: what you'll need</strong>
+
+<ul>
+	<li>Extensive SAP Basis experience supporting large-scale SAP landscapes
+	<li>Proven delivery experience across SAP S/4HANA implementations, upgrades, migrations or transformation programs
+	<li>Strong knowledge of SAP RISE and SAP Enterprise Cloud Services (ECS) operating models
+	<li>Hands-on expertise with SAP HANA Database administration and performance optimisation
+	<li>Experience supporting SAP Fiori, SAP BTP, SAP Integration Suite/CPI and Cloud Identity Services
+	<li>Exposure to SAP EWM, SAP Analytics Cloud, Ariba, Concur and SuccessFactors environments
+	<li>Experience coordinating technical activities across vendors, partners and support teams
+	<li>Excellent troubleshooting, stakeholder engagement and technical leadership capability
+	<li>Strong documentation, governance and BAU transition experience
+</ul>
+<strong>This is: the perks</strong>
+
+<ul>
+	<li>Join a high-profile SAP transformation program with significant enterprise impact
+	<li>Influence SAP platform strategy, architecture and operational readiness decisions
+	<li>Work across a modern SAP ecosystem including S/4HANA, EWM, BTP and cloud technologies
+	<li>Play a critical leadership role during delivery, cutover and transition into BAU operations
+</ul>
+<strong>This is: for good</strong><br>
+Apply with purpose. Be part of a placement that gives back. For every role we fill, we donate to a charity of the client's choice. We've surpassed $1 million donated and we're just getting started.<br>
+<br>
+As a purpose-led recruitment business, NSG is committed to inclusive recruitment and welcomes applications from diverse backgrounds, including First Nations peoples and other underrepresented communities.<br>
+<br>
+<strong>This is: what's next</strong><br>
+Apply now or reach out to:<br>
+Bridget La Ragy<br>
+Principal Consultant<br>
+Natural Selection Group<br>
+M: 0448 299 600<br>
+E: bridget.laragy@naturalselectiongroup.com.au<br>
+<br>
+By applying for this role, you consent to Natural Selection Group collecting and using your personal information to assess your application and contact you about this and other relevant opportunities via phone, email or SMS. You can opt out at any time.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.7034927]]></latitude>
+    <longitude><![CDATA[144.9171412]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[SAP Instructional Designer / Trainer]]></title>
+    <date><![CDATA[Thu, 17 Sep 2026 04:04:52 +0000]]></date>
+    <referencenumber><![CDATA[1861]]></referencenumber>
+    <url><![CDATA[https://www.naturalselectiongroup.com.au/job-details/sap-instructional-designer-trainer-in-jobs-1725369]]></url>
+    <company><![CDATA[Natural Selection Group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne CBD & Inner Suburbs]]></city>
+    <state><![CDATA[Victoria]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>This is: the job</strong><br>
+We're seeking an experienced SAP Instructional Designer / Trainer to play a key role in a large-scale ERP transformation program delivering SAP S/4HANA Public Cloud across Finance, Supply Chain, Asset Management and Service Operations. This is a Melbourne based, 9 month contract working within a nationally significant program.<br>
+<br>
+You'll be responsible for designing, developing and delivering end-to-end learning solutions that support business readiness, capability uplift and successful adoption of new SAP business processes. This is a hands-on role suited to someone who enjoys creating engaging learning experiences and confidently facilitating training across a diverse stakeholder group.<br>
+<br>
+You'll work closely with change, project and business teams to develop learning content, deliver training, support super user networks and contribute to go-live readiness and hypercare activities.<br>
+<br>
+<strong>This is: what you'll do</strong>
+<ul>
+	<li>Design and develop SAP-focused learning solutions aligned to business processes and user roles
+	<li>Create engaging instructor-led, virtual and eLearning content using modern instructional design principles
+	<li>Develop learning pathways, curricula, job aids, quick reference guides and performance support materials
+	<li>Deliver end-user training across classroom and virtual environments using SAP training systems
+	<li>Collaborate with Change Managers, Business Analysts, Functional Consultants and Solution Architects
+	<li>Build and maintain high-quality training content repositories and governance standards
+	<li>Support Train-the-Trainer and Super User networks to enable scalable business readiness
+	<li>Contribute to go-live readiness activities, hypercare support and continuous improvement initiatives
+	<li>Design and develop WalkMe digital adoption content including guided walkthroughs and task support tools
+	<li>Measure learning effectiveness and implement improvements across phased deployments
+</ul>
+<strong>This is: what you'll need</strong>
+
+<ul>
+	<li>5+ years' experience as an Instructional Designer supporting SAP ERP implementations
+	<li>5+ years' SAP training delivery experience, ideally within SAP S/4HANA environments
+	<li>Strong understanding of Finance, Supply Chain, Asset Management and/or Service Management business processes
+	<li>Experience developing training materials using Articulate Rise or similar authoring tools
+	<li>Proven ability to translate complex system processes into practical, role-based learning experiences
+	<li>Experience working within large-scale ERP, digital transformation or enterprise change programs
+	<li>Strong stakeholder engagement, facilitation and communication skills
+	<li>Experience designing Digital Adoption Platform solutions such as WalkMe highly regarded
+	<li>SAP S/4HANA Public Cloud experience advantageous
+	<li>Relevant qualifications in Learning & Development, Education, Business, Information Systems or a related discipline
+</ul>
+<strong>This is: the perks</strong>
+
+<ul>
+	<li>Join a major SAP S/4HANA transformation program with national business impact
+	<li>Influence user adoption, capability uplift and organisational change outcomes
+	<li>Work across multiple business functions and stakeholder groups
+	<li>Opportunity to shape learning and digital adoption practices for future deployment phases
+</ul>
+<strong>This is: for good</strong><br>
+Apply with purpose. Be part of a placement that gives back. For every role we fill, we donate to a charity of the client's choice. We've surpassed $1 million donated and we're just getting started.<br>
+<br>
+As a purpose-led recruitment business, NSG is committed to inclusive recruitment and welcomes applications from diverse backgrounds, including First Nations peoples and other underrepresented communities.<br>
+<br>
+<strong>This is: what's next</strong><br>
+Apply now or reach out to:<br>
+Bridget La Ragy<br>
+Principal Consultant<br>
+Natural Selection Group<br>
+M: 0448 299 600<br>
+E: bridget.laragy@naturalselectiongroup.com.au<br>
+<br>
+By applying for this role, you consent to Natural Selection Group collecting and using your personal information to assess your application and contact you about this and other relevant opportunities via phone, email or SMS. You can opt out at any time.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8123652]]></latitude>
+    <longitude><![CDATA[144.9623382]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[SAP Reporting and Analytics Lead ]]></title>
+    <date><![CDATA[Tue, 21 Jul 2026 06:19:54 +0000]]></date>
+    <referencenumber><![CDATA[1813]]></referencenumber>
+    <url><![CDATA[https://www.naturalselectiongroup.com.au/job-details/sap-reporting-and-analytics-lead-in-information-and-communication-technology-jobs-1649114]]></url>
+    <company><![CDATA[Natural Selection Group]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[Victoria]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[3000]]></postalcode>
+    <description><![CDATA[<b>This is: the job</b>
+
+<p>An opportunity exists for an experienced SAP Reporting and Analytics Lead to join a major SAP S/4HANA transformation program in Melbourne. This is a 12 month contract in a hybrid environment, suited to a hands-on leader who can shape reporting strategy while staying close to design, delivery and quality.<br>
+<br>
+You will lead the reporting and analytics workstream across the SAP analytics landscape, including SAP Analytics Cloud, SAP Datasphere, embedded analytics and Fiori-based reporting. The role will translate business reporting needs into a clear, governed analytics architecture and ensure dashboards, reports, KPIs and data models are trusted from go-live.<br>
+<br>
+This is a high-impact role working across data, functional, technical and business teams. You will partner with senior stakeholders, guide delivery resources, challenge legacy reporting habits and help build a reporting capability that supports better decisions across a complex enterprise environment.</p>
+
+<b>This is: what you'll do</b>
+
+<ul>
+	<li>Lead the reporting and analytics workstream across SAP S/4HANA, SAP Analytics Cloud, SAP Datasphere and embedded analytics
+	<li>Define the target-state analytics architecture, reporting strategy, standards and roadmap
+	<li>Drive requirements workshops with business stakeholders and functional leads across statutory, operational, management and self-service reporting
+	<li>Oversee the design and build of reports, dashboards, KPIs, semantic models, CDS views and analytical data model.
+	<li>Manage reporting governance, including naming conventions, KPI definitions, version control, lineage and business glossary alignment
+	<li>Drive report rationalisation by challenging legacy lift-and-shift requests and promoting standardisation
+	<li>Collaborate with data migration, master data, security, integration and technical architecture teams to ensure reporting is secure, scalable and supportable
+	<li>Manage reporting test strategy across SIT, UAT and reconciliation against source and legacy systems
+	<li>Lead reporting developers, analysts and partner resources to deliver the reporting backlog
+	<li>Support transition to operations, including hypercare, support processes, knowledge transfer and documentation
+</li></li></li></li></li></li></li></li></li></li></ul>
+
+<b>This is: what you'll need</b>
+
+<ul>
+	<li>Proven experience leading reporting or analytics workstreams on a full-lifecycle SAP S/4HANA implementation
+	<li>Strong working knowledge of SAP Analytics Cloud, SAP Datasphere, SAP Data Products and S/4HANA embedded analytics
+	<li>Experience with CDS views, Fiori analytical apps, semantic models, dashboards and SAP reporting architecture
+	<li>Solid understanding of SAP data models and reporting-relevant modules such as FI/CO, MM, SD, PP or similar
+	<li>Experience defining data governance standards, KPI definitions, reconciliation controls and reporting quality frameworks
+	<li>Strong stakeholder engagement skills, with the ability to manage senior business, technology and delivery stakeholders
+	<li>Demonstrated ability to lead mixed teams of analysts, developers and implementation partner resources
+	<li>Strong analytical judgement, with the confidence to balance standardisation against genuine business need
+	<li>Clear written and verbal communication skills, including the ability to present to technical and executive audiences
+	<li>A degree in business, technology or a related field, or equivalent practical experience
+</li></li></li></li></li></li></li></li></li></li></ul>
+
+<b>This is: the perks</b>
+
+<ul>
+	<li>Lead a critical analytics workstream on a major SAP S/4HANA transformation
+	<li>Shape the reporting architecture, governance model and Day 1 decision-support capability
+	<li>Work with senior stakeholders across data, technology, functional teams and business reporting ownership
+</li></li></li></ul>
+
+<b>This is: for good</b>
+
+<p>Apply with purpose. Be part of a placement that gives back. For every role we fill, we donate to a charity of the client’s choice. We’ve surpassed $1 million donated and we’re just getting started.</p>
+
+<b>This is: what's next</b>
+
+<p>Apply now or reach out to:<br>
+<b>Leanne O'Connor</b><br>
+Director, Natural Selection Group<br>
+M: 0402 145 774<br>
+E: leanne.oconnor@naturalselectiongroup.com.au<br>
+<br>
+By applying for this role, you consent to Natural Selection Group collecting and using your personal information to assess your application and contact you about this and other relevant opportunities via phone, email or SMS. You can opt out at any time.</p>
+]]></description>
+    <salary><![CDATA[0.00]]></salary>
+    <category><![CDATA[Information and Communication Technology]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8152065]]></latitude>
+    <longitude><![CDATA[144.963937]]></longitude>
+  </job>
+</source>

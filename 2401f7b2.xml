@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sat, 31 Oct 2026 13:16:44 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Senior Full Stack Data Engineer]]></title>
+    <date><![CDATA[Fri, 30 Oct 2026 00:14:26 +0000]]></date>
+    <referencenumber><![CDATA[1703613]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/senior-full-stack-data-engineer-in-it-telecomms-jobs-1776406]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney]]></city>
+    <state><![CDATA[NSW]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[Senior Full Stack Data Engineer &ndash; Big Data &amp; Agentic AI <br>Up to $165k + Super<br>Sydney CBD | Hybrid working<br>Permanent, full-time<br><br> An exciting opportunity to join a growing global technology consultancy at the forefront of Big Data, Full Stack Engineering and Agentic AI.<br><br> This is a fantastic opportunity for a hands-on Senior Engineer looking to work with cutting-edge technologies, solve complex technical challenges and play a key role in delivering modern, scalable data and AI solutions.<br><br> You'll work across the full technology stack, combining large-scale data engineering, application development and emerging AI capabilities. Ideal for someone who thrives on technical variety, enjoys building solutions from the ground up and wants to be part of the rapidly evolving AI landscape.<br><br> What you'll do:<br> <ul> <li>Design and build scalable, high-performance Big Data pipelines and processing solutions</li> <li>Develop modern frontend and backend applications using leading technologies</li> <li>Build and integrate APIs across complex applications and data environments</li> <li>Leverage AI coding assistants and agents to accelerate software development</li> <li>Develop production-ready solutions across data engineering and application development</li> <li>Drive technical improvements across performance, scalability and code quality</li> </ul> What you'll need:<br> <ul> <li>Strong experience with Big Data technologies including Spark/PySpark, Flink, Hadoop or Apache Beam</li> <li>Hands-on Full Stack Development experience across frontend and backend applications</li> <li>Strong Python programming skills</li> <li>Frontend experience with React, Angular, Vue.js or similar</li> <li>Backend experience with Python, Java, Node.js or equivalent</li> <li>Practical experience using AI-assisted coding tools or coding agents</li> <li>Proven experience developing and supporting production-ready applications</li> </ul> Nice to have:<br> <ul> <li>Agentic AI frameworks such as LangChain, LangGraph, Google ADK or MCP</li> <li>Experience with LLMs, RAG or multi-agent systems</li> <li>Cloud platforms including AWS, Azure or GCP</li> <li>Streaming data and distributed systems</li> <li>Docker, Git, CI/CD and automated testing</li> </ul> Why consider this opportunity?<br> <ul> <li>Work at the intersection of Big Data, Full Stack Development and Agentic AI</li> <li>Join an established global technology consultancy with a growing Australian presence</li> <li>Gain exposure to emerging AI technologies and modern engineering practices</li> <li>Enjoy a diverse technical role with opportunities to work across multiple technologies</li> </ul> If you're an experienced engineer looking to broaden your technical expertise, work with emerging AI technologies and take on an exciting new challenge, this is an opportunity worth exploring.<br><br> Apply now or contact liam.griffiths@halcyonknights.com.au for a confidential discussion.]]></description>
+    <salary><![CDATA[$150,000 - $165,000 Year]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-33.8727409]]></latitude>
+    <longitude><![CDATA[151.2057136]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior AI Engineer / Forward Deployed Engineer]]></title>
+    <date><![CDATA[Thu, 29 Oct 2026 03:54:37 +0000]]></date>
+    <referencenumber><![CDATA[1703113]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/senior-ai-engineer-forward-deployed-engineer-in-it-telecomms-jobs-1774726]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>Senior AI Engineer / AI Architect</strong><br> Melbourne | 3 Month Contract + Possible Extension | Daily Rate | Hybrid<br> An Australian travel technology startup is building AI-powered booking tools that make travel planning faster and more personal. They&rsquo;ve closed their seed round, are targeting Series A in about six months, and need a senior applied AI engineer to design and ship the agent systems the product runs on.<br> This isn&rsquo;t a research or traditional ML role. You&rsquo;ll work in a forward-deployed way: close to the product, building agents that run for long periods, execute real transactions and need to hold up as volume grows. In three months you&rsquo;ll move the agent platform from where it is today to production-ready.<br> <strong>What you&rsquo;ll be doing</strong><br> <ul> <li>Designing the architecture for long-running, transactional AI agents</li> <li>Taking agent features from prototype to reliable production</li> <li>Making framework and tooling calls with a clear view of the trade-offs</li> <li>Building in reliability, observability and failure handling as scale increases</li> <li>Leaving a solid foundation the team can build on toward Series A</li> </ul> <strong>Must Have</strong><br> <ul> <li>Production experience building and shipping LLM agent systems</li> <li>Deep knowledge of agent frameworks such as LangChain or LangGraph, including how they work underneath</li> <li>Experience with agents that take real actions or execute transactions</li> <li>Strong systems and architecture skills at product scale</li> <li>The ability to be productive from day one with modern AI tools</li> <li>Availability to start at short notice</li> </ul> If you have the right skillset, please get in contact with Jack or send me your resume to jack.winters@halcyonknights.com.au<br><br> Halcyon Knights is an equal opportunities employment agency, valuing the contributions made by all people and welcomes applications from people with disability, Aboriginal Australians, people of all ages and from culturally diverse backgrounds.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8136276]]></latitude>
+    <longitude><![CDATA[144.9630576]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Graduate -  Data Analyst Data Economics & Agriculture Focus]]></title>
+    <date><![CDATA[Thu, 29 Oct 2026 05:39:38 +0000]]></date>
+    <referencenumber><![CDATA[1702813]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/graduate-data-analyst-data-economics-agriculture-focus-in-agribusiness-farming-jobs-1774831]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney]]></city>
+    <state><![CDATA[NSW]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[2000]]></postalcode>
+    <description><![CDATA[Are you a data-driven graduate or early-career analyst looking to build your career in a role where your insights can genuinely influence business outcomes?<br><br> We're partnering with a respected organisation seeking a Junior Data Analyst to support reporting, performance measurement, dashboard development, and data-driven decision making. This role is ideal for someone with a passion for data and analytics, particularly those with an interest in agriculture, economics, research, market trends, or industry performance analysis.&nbsp;<br><br> <strong>The Opportunity</strong> Working closely with experienced analysts and business stakeholders, you'll assist with the collection, management, analysis and reporting of data from a variety of sources. You'll help transform complex information into meaningful insights that support strategic and operational decision making.&nbsp;<br> <br><strong>Key Responsibilities</strong> <ul> <li>Analyse and interpret data to identify trends, patterns and business insights.</li> <li>Develop and maintain dashboards and reporting solutions.</li> <li>Assist with data collection, validation and management activities.</li> <li>Support the preparation of reports and presentations for stakeholders.</li> <li>Contribute to performance measurement and reporting frameworks.</li> <li>Work with project teams to gather and analyse business data.</li> <li>Assist with survey coordination, data analysis and reporting.</li> <li>Support enhancements to reporting systems, processes and tools.&nbsp;</li> </ul> About You We're keen to hear from graduates and junior professionals with a genuine interest in Economics analytics, and business performance.<br> <br><strong>You'll ideally have:</strong><br> <ul> <li>A degree in Data Analytics, Data Science, Statistics, Computer Science, Economics, Agricultural Economics, Agriculture or a related discipline.</li> <li>1 years internship exp&nbsp;</li> <li>1-2 years' experience in a Data Analyst or similar analytical role&nbsp;</li> <li>Experience working with large or complex data sets.</li> <li>Strong analytical and problem-solving skills.</li> <li>Experience building reports or dashboards using BI and reporting tools.</li> <li>Excellent written and verbal communication skills.</li> <li>High attention to detail and strong organisational skills.</li> <li>Exposure to agriculture, agribusiness, research, economics, market analysis, survey data or primary industries will be highly regarded.</li> <li>Experience with Python or Jupyter Notebooks would be advantageous.</li> </ul> <strong>What's On Offer</strong> <ul> <li>Excellent opportunity to develop your analytics career.</li> <li>Exposure to modern reporting and dashboard technologies.</li> <li>Work alongside experienced stakeholders and business leaders.</li> <li>Supportive team culture with ongoing learning opportunities.</li> <li>Hybrid working environment.</li> <li>Competitive salary package and career progression opportunities.</li> </ul>]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[Agribusiness & Farming]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-33.8708464]]></latitude>
+    <longitude><![CDATA[151.20733]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Engineer]]></title>
+    <date><![CDATA[Thu, 29 Oct 2026 03:59:26 +0000]]></date>
+    <referencenumber><![CDATA[1703114]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/senior-engineer-in-it-telecomms-jobs-1774733]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>Senior Software Engineer - Python / Travel Technology</strong><br> Melbourne | Hybrid | Permanent<br> An Australian travel technology startup is building AI-powered booking tools that make travel planning faster, smarter and more personalised. They&rsquo;ve secured seed funding and are targeting a Series A in the next six months. This role exists to strengthen the core engineering team as the platform scales, with real ownership over how the product is built.<br> <strong>What you&rsquo;ll be doing:</strong><br> <ul> <li>Building and owning backend services in Python that power the booking experience</li> <li>Shipping features across the stack, with React on the frontend</li> <li>Integrating with travel supplier and partner systems so bookings work reliably</li> <li>Shaping engineering standards and architecture as the team grows</li> <li>Keeping delivery moving through a simple, no-fuss CI/CD process</li> </ul> <strong>Must have:</strong><br> <ul> <li>Strong commercial experience building Python backends</li> <li>Experience with React</li> <li>Background in corporate travel technology or booking/reservation platforms</li> <li>Experience designing and integrating APIs</li> <li>Comfortable owning work end to end in a small team</li> </ul> If you have the right skillset, please get in contact with Jack or send me your resume to jack.winters@halcyonknights.com.au<br><br> Halcyon Knights is an equal opportunities employment agency, valuing the contributions made by all people and welcomes applications from people with disability, Aboriginal Australians, people of all ages and from culturally diverse backgrounds.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8136276]]></latitude>
+    <longitude><![CDATA[144.9630576]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Stakeholder Engagement Advisor]]></title>
+    <date><![CDATA[Thu, 29 Oct 2026 06:04:26 +0000]]></date>
+    <referencenumber><![CDATA[1703382]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/stakeholder-engagement-advisor-in-government-local-government-jobs-1774860]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Brisbane]]></city>
+    <state><![CDATA[QLD]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[4211]]></postalcode>
+    <description><![CDATA[<strong>Advisor (Stakeholder Engagement)</strong><br><strong>Nerang, QLD</strong><br><strong>$72.50 - $78.57 per hour + Super</strong><br><strong>AO5 Contract Opportunity | 37.5 Hours Per Week</strong><br><strong>2 x 12 Month Extension Options</strong><br><br>We are seeking an experienced Advisor (Stakeholder Engagement) to support the delivery of major road infrastructure projects across the South Coast Region. This role will see you working closely with project teams, community groups and key stakeholders to deliver communication and engagement strategies, manage stakeholder relationships and support successful project outcomes.<br> &nbsp;<br> <strong>Key Responsibilities</strong><br> <ul> <li>Coordinate stakeholder and community engagement activities for infrastructure projects.</li> <li>Develop and implement communication and stakeholder engagement strategies.</li> <li>Provide strategic communications advice to project teams and managers.</li> <li>Prepare media releases, ministerial briefings, newsletters, flyers, display materials and speech notes.</li> <li>Support stakeholder management, issues management and crisis communications activities.</li> <li>Consult with community groups, stakeholders and industry representatives.</li> <li>Coordinate launches, media opportunities and engagement events.</li> <li>Coach and support project teams in stakeholder engagement best practice.</li> <li>Ensure compliance with governance, legislative and WHS requirements.</li> </ul> <strong>About You</strong><br> <ul> <li>Experience in stakeholder engagement, community engagement, communications, public relations or corporate affairs.</li> <li>Strong written communication skills, including preparation of briefing notes and media content.</li> <li>Ability to build relationships with diverse stakeholder groups.</li> <li>Experience managing competing priorities within a project environment.</li> <li>Confidence handling sensitive issues and difficult stakeholder conversations.</li> <li>Infrastructure, transport, construction or government experience will be highly regarded.</li> </ul> <strong>Mandatory Requirements</strong><br> <ul> <li>Current Class C Driver Licence and access to a vehicle.</li> <li>Criminal History Check.</li> <li>White Card, or ability to obtain within six months.</li> <li>Ability to attend project sites and stakeholder meetings as required.</li> </ul> <strong>Highly Regarded</strong><br> <ul> <li>Degree in Communications, Public Relations, Marketing or similar.</li> <li>IAP2 or equivalent community engagement training.</li> <li>Experience on major infrastructure projects.</li> <li>Knowledge of the infrastructure project lifecycle.</li> </ul> <strong>The Opportunity</strong><br><br><strong>Location:</strong> Nerang, QLD<br><strong>Classification:</strong> AO5<br><strong>Rate:</strong> $72.50 - $78.57 per hour + Super<br><strong>Hours:</strong> 37.5 hours per week<br><strong>Extensions:</strong> 2 x 12 Month Extension Options<br> &nbsp;<br> Email zoe.eagles@halcyonknights.com.au&nbsp;for more infomation.<br><br>If you're an experienced communications or stakeholder engagement professional looking to contribute to significant infrastructure projects, we'd love to hear from you.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[Government / Local Government]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-27.995579]]></latitude>
+    <longitude><![CDATA[153.3222261]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Business Analyst - Super - 12 month day rate contract]]></title>
+    <date><![CDATA[Thu, 29 Oct 2026 05:34:31 +0000]]></date>
+    <referencenumber><![CDATA[170285832]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/senior-business-analyst-super-12-month-day-rate-contract-in-it-telecomms-jobs-1774827]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[My client, one of Australia's leading Financial Services companies, is currently seeking an experienced Senior Business Analyst to join them for an initial 12 month daily rate contract, with the view for long term extension. The role will be for a large-scale transformation program, with a focus on super operating model and operational servicing. Candidates must have excellent super domain experience, and strong operating model &amp; process design experience.<strong><br><br>The benefits:</strong>&nbsp;<br><br>&middot;&nbsp; &nbsp; &nbsp; 12 month day rate contract with strong possibility for extension<br>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASAP start<br>&middot;&nbsp; &nbsp; &nbsp; Hybrid working arrangements - Melbourne CBD offices<br>&middot;&nbsp; &nbsp; &nbsp; Supportive culture with focus on training &amp; development<br>&middot;&nbsp; &nbsp; &nbsp; Strong opportunities for progression into different projects<br>&middot;&nbsp; &nbsp; &nbsp; Access Contractor Benefits Program: Enjoy discounts at hundreds of retail outlets, department stores, activities, novated lease, travel and restaurants nationwide<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Get gym membership discounts with our partners<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Enjoy Health Insurance discounts off all NIB retail health insurance products<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Access EAP for wellbeing and mental health support<br><br><strong>The requirements:</strong><br>&nbsp; &nbsp; &nbsp;&nbsp;<br>&middot;&nbsp; &nbsp; &nbsp; Strong Business Analysis experience on large-scale, complex transformation programs<br>&middot;&nbsp; &nbsp; &nbsp;Expertise in superannuation domain, including&nbsp;strong member/operational servicing knowledge<br>&middot;&nbsp; &nbsp; &nbsp;Excellent operating model/process design experience<br>&middot;&nbsp; &nbsp; &nbsp; Excellent communication and stakeholder management skills, both business and technical stakeholders<br>&middot;&nbsp; &nbsp; &nbsp; Strong experience in JIRA &amp; Confluence<br><br>If you have the right&nbsp;skillset,&nbsp;please get in contact with&nbsp;<strong>Cat&nbsp;</strong>or send me your resume to&nbsp;cat.john@halcyonknights.com.au<br><br>#SCR-catrin-john]]></description>
+    <salary><![CDATA[$900 - $930 Day]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[parttime]]></jobtype>
+    <latitude><![CDATA[-37.8136276]]></latitude>
+    <longitude><![CDATA[144.9630576]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Executive Coordinator]]></title>
+    <date><![CDATA[Tue, 27 Oct 2026 02:14:26 +0000]]></date>
+    <referencenumber><![CDATA[1701952]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/executive-coordinator-in-admin-secretarial-office-support-jobs-1771077]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Adelaide]]></city>
+    <state><![CDATA[SA]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<ul> <li>$52.70 Per Hour Plus Super</li> <li>CBD Location</li> <li>3-4 Month Opportunity - Full Time Hours</li> </ul> An exciting opportunity is available for an experienced <strong>Executive Coordinator</strong> to provide high-level executive and business support within a purpose-driven public sector environment focused on improving community health and wellbeing.<br> <br>Reporting directly to a senior Director, you will play a key role in coordinating executive activities, supporting effective decision-making and ensuring the smooth day-to-day operation of a busy division.<br> <br>You will work closely with senior leaders, colleagues, government stakeholders and external partners, handling sensitive information with professionalism and maintaining a high standard of service.<br><br> <strong>Key responsibilities</strong><br> <ul> <li>Provide high-level executive support, including complex diary management, appointment scheduling and meeting coordination.</li> <li>Prepare and edit correspondence, reports, presentations, minutes, briefing papers and other formal documentation.</li> <li>Coordinate executive meetings, committees and conferences, including agendas, meeting papers, minutes and follow-up actions.</li> <li>Manage incoming correspondence and enquiries, identifying urgent or sensitive matters and ensuring timely responses.</li> <li>Maintain accurate records, document registers, workflows and information management systems.</li> <li>Coordinate travel, accommodation, procurement, office resources and facilities requirements.</li> <li>Process requisitions, invoices, credit card reconciliations and financial documentation in accordance with relevant procedures.</li> <li>Support recruitment and vacancy management processes, including interview coordination, employment documentation and liaison with human resources.</li> <li>Assist with project coordination, governance reporting, contract administration and grant-related processes.</li> <li>Build effective working relationships across teams and external stakeholders while contributing to continuous improvement initiatives.</li> </ul> <strong>About you</strong><br>To be successful in this role, you will bring:<br> <ul> <li>A current police check (within 6 months of issued)&nbsp;</li> <li>Demonstrated experience providing executive coordination or executive assistant support to senior management.</li> <li>Strong diary management, meeting coordination, minute-taking and correspondence preparation skills.</li> <li>Experience preparing high-quality reports, presentations, briefings and formal documentation.</li> <li>Experience with financial administration, invoice processing, reconciliations and procurement activities.</li> <li>Experience supporting recruitment, human resources administration and employment documentation.</li> <li>Strong organisational skills, with the ability to manage competing priorities and meet demanding deadlines.</li> <li>Excellent written and verbal communication skills, with the confidence to liaise professionally with senior stakeholders.</li> <li>A high level of discretion, integrity and the ability to manage confidential and sensitive information.</li> <li>A proactive, solutions-focused approach and the ability to work independently while contributing positively to a team.</li> </ul>]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[Admin / Secretarial / Office Support]]></category>
+    <jobtype><![CDATA[parttime]]></jobtype>
+    <latitude><![CDATA[-34.9284989]]></latitude>
+    <longitude><![CDATA[138.6007456]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[AI & Automation Engineer - Investment Technology]]></title>
+    <date><![CDATA[Tue, 27 Oct 2026 03:59:26 +0000]]></date>
+    <referencenumber><![CDATA[1699394]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/ai-automation-engineer-investment-technology-in-it-telecomms-jobs-1771129]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney]]></city>
+    <state><![CDATA[NSW]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[2000]]></postalcode>
+    <description><![CDATA[We&rsquo;re partnering with an imprerssive investment organisation looking for a hands-on AI and Automation specialist to help modernise its investment technology platform and reporting functionalities.&nbsp;<br><br> This is an opportunity to take ownership of AI and automation initiatives from concept through to implementation, using technology to simplify complex processes, unlock value from trading and investment data, and improve operational efficiency.<br><br> <strong>The focus is on delivery, not just strategy.</strong> We&rsquo;re looking for someone with proven experience delivering similar AI, automation or technology transformation initiatives who can combine architecture, engineering and business analysis to turn business challenges into practical solutions.<br><br> <strong>Key responsibilities</strong> <ul> <li>Deliver AI and automation initiatives end to end, from requirements gathering and solution design through to development, testing and implementation.</li> <li>Build AI-enabled applications, intelligent workflows and automation solutions that address real business problems.</li> <li>Leverage trading, portfolio and operational data to improve insights, streamline processes and support better decision-making.</li> <li>Develop and integrate solutions using technologies such as Python, APIs, data pipelines and AI platforms.</li> <li>Analyse existing workflows, identify inefficiencies and implement solutions that reduce manual effort and improve productivity.</li> <li>Work closely with investment, business and technology stakeholders to translate requirements into technical solutions.</li> <li>Design scalable, secure solutions that integrate with existing investment platforms and enterprise systems.</li> </ul> <strong>About you</strong> <ul> <li>Experience within investment management, superannuation, wealth management, capital markets or trading technology will be required.</li> <li>Proven experience delivering AI, intelligent automation or comparable technology transformation initiatives into production.</li> <li>Strong hands-on technical capability across software engineering, data integration and applied AI.</li> <li>Experience building AI-enabled applications, LLM-powered solutions, AI agents or automated workflows.</li> <li>Understanding of solution architecture, systems integration and end-to-end technical delivery.</li> <li>Ability to bridge business analysis and engineering, translating complex requirements into working solutions.</li> <li>A pragmatic, delivery-focused mindset, with demonstrable examples of solutions built and business outcomes achieved.</li> </ul> <br> This is an opportunity to apply your AI and engineering expertise to meaningful investment technology challenges and help shape the next generation of intelligent, automated solutions.]]></description>
+    <salary><![CDATA[$1,100 - $1,500 Day]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-33.8708464]]></latitude>
+    <longitude><![CDATA[151.20733]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Go-Live Coordinator]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 05:54:26 +0000]]></date>
+    <referencenumber><![CDATA[1701532]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/go-live-coordinator-in-government-local-government-jobs-1769773]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>Go-Live Coordinator</strong><br> Melbourne (Docklands) | Contract | Hybrid | Australian Citizenship + Baseline clearance (or eligibility)<br> A federal government agency responsible for Australia&rsquo;s weather, climate and water observations is replacing its national network of automatic weather stations. These stations feed the forecasts and warnings that emergency services, industry and communities rely on every day.<br> This role exists to make sure every upgraded site goes live cleanly. You&rsquo;ll be the link between the IT implementation team and the field installation crews, making sure equipment, comms, system config and data integrations are all ready at the same time.<br> <strong>What you&rsquo;ll be doing</strong><br> <ul> <li>Owning integrated go-live and cutover plans across IT, field install, connectivity, testing and handover</li> <li>Closing the gaps between what&rsquo;s been installed in the field and what IT needs to go live</li> <li>Running a single register of site readiness, install status and outstanding actions</li> <li>Getting changes through CAB and coordinating change windows on the day</li> <li>Leading hypercare, incident triage and handover to BAU teams</li> </ul> <strong>Must Have</strong><br> <ul> <li>Go-live, deployment or commissioning coordination on technical rollouts</li> <li>Experience bridging IT delivery and field, engineering or infrastructure teams</li> <li>Multi-site or multi-workstream rollout experience</li> <li>Solid grasp of change and release management, integration testing and acceptance</li> <li>Hypercare and incident coordination experience</li> <li>Australian Citizenship and ability to obtain Baseline clearance</li> </ul> If you have the right skillset, please get in contact with Jack or send me your resume to jack.winters@halcyonknights.com.au<br> <br>Halcyon Knights is an equal opportunities employment agency, valuing the contributions made by all people and welcomes applications from people with disability, Aboriginal Australians, people of all ages and from culturally diverse backgrounds.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[Government / Local Government]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8136276]]></latitude>
+    <longitude><![CDATA[144.9630576]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Payroll Officer]]></title>
+    <date><![CDATA[Tue, 27 Oct 2026 03:34:29 +0000]]></date>
+    <referencenumber><![CDATA[1639964]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/payroll-officer-in-accounting-jobs-1771113]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Adelaide]]></city>
+    <state><![CDATA[SA]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<div>Immediate start for an experienced Payroll Officer to be based in the Northern suburbs for approximately 3-6 months working full time hours.</div> <div> <div><br>Reporting to the Finance Manager, you will take ownership of the end-to-end payroll function, ensuring accurate and timely processing for employees across the business.<br>&nbsp;<br><strong>Key Responsibilities</strong><br> <ul> <li>End-to-end payroll processing on a weekly/fortnightly basis for up to 460 staff.</li> <li>Maintaining employee payroll records and ensuring data integrity</li> <li>Interpreting relevant awards, agreements, and legislation</li> <li>Managing superannuation, PAYG, and payroll tax obligations</li> <li>Processing new starters, terminations, and leave entitlements</li> <li>Responding to payroll queries in a timely and professional manner</li> <li>Assisting with payroll reporting and audits as required</li> </ul> <strong>About You</strong><br> <ul> <li>Proven experience in end-to-end payroll processing (essential)</li> <li>Strong knowledge of Australian payroll legislation and compliance requirements</li> <li>High level of accuracy and attention to detail</li> <li>Excellent organisational and time management skills</li> <li>Strong communication skills and ability to liaise with stakeholders</li> <li>Ability to work autonomously and manage deadlines effectively</li> <li>Police check required</li> </ul> </div> </div>]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[Accounting]]></category>
+    <jobtype><![CDATA[parttime]]></jobtype>
+    <latitude><![CDATA[-34.9284989]]></latitude>
+    <longitude><![CDATA[138.6007456]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Communications Officer]]></title>
+    <date><![CDATA[Wed, 21 Oct 2026 03:34:26 +0000]]></date>
+    <referencenumber><![CDATA[1699557]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/communications-officer-in-marketing-pr-events-jobs-1764244]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Brisbane]]></city>
+    <state><![CDATA[QLD]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>Communications Officer (Design Support) </strong><br><strong>Gold Coast | State Government Agency</strong><br><strong>$62.00 &ndash; $68.93 per hour + Super</strong><br><strong>Full-time | 9 November 2026 &ndash; May 2027</strong><br><strong>Possible extension</strong><br> We are seeking an experienced Communications Officer (Design Support) to join a large State Government agency based on the Gold Coast.<br> This is a fantastic opportunity for someone with a strong mix of communications, graphic design and administrative skills who enjoys working across varied projects and managing competing priorities. You will support the delivery of engaging, professional and accessible communication materials while working closely with a broad range of internal and external stakeholders.<br> Key Responsibilities <ul> <li>Provide communication, design and administrative support across a range of stakeholder engagement activities.</li> <li>Design and produce professional communication materials including project maps, flyers, fact sheets, newsletters, infographics, plans, reports and presentations.</li> <li>Ensure communication materials are consistent with corporate branding, visual identity and style guidelines.</li> <li>Provide administrative support including note taking, document and records management, database maintenance and coordination of communication collateral.</li> <li>Manage multiple priorities and shared workloads using relevant systems, processes and project management tools.</li> <li>Coordinate the procurement of communication and design products and services from external contractors and suppliers.</li> <li>Research, source and coordinate imagery for use across communication materials.</li> <li>Keep up to date with emerging trends in visual design and communications to help produce contemporary and accessible content.</li> <li>Build and maintain positive working relationships with a broad range of internal and external stakeholders.</li> <li>Provide responsive, customer-focused communication and design support.</li> </ul> About You To be successful in this role, you will ideally have:<br> <ul> <li>Previous experience in a <strong>communications, design or similar role</strong>, ideally within a large or complex organisation.</li> <li>Strong graphic design and document layout skills, with the ability to create polished and engaging communication materials.</li> <li>Excellent written and verbal communication skills.</li> <li>Strong attention to detail and the ability to work within established branding and style guidelines.</li> <li>Excellent organisation skills with the ability to manage competing deadlines and priorities.</li> <li>Confidence working with a range of stakeholders at different levels.</li> <li>Strong administrative and records management skills.</li> <li>A proactive and collaborative approach with a strong focus on customer service.</li> <li>An understanding of contemporary, accessible and audience-focused communication practices.</li> </ul> The Opportunity This is a <strong>full-time contract commencing 9 November 2026 through to May 2027</strong>, with the possibility of extension.<br> <strong>Location:</strong> Gold Coast<br><strong>Pay Rate:</strong> $62.00 &ndash; $68.93 per hour + Super<br><strong>Hours:</strong> Full-time<br><strong>Contract:</strong> 9 November 2026 &ndash; May 2027, with possible extension<br> If you are an experienced communications professional with strong design capabilities and are looking for your next opportunity within State Government, we would love to hear from you.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[Marketing / PR / Events]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-27.4704528]]></latitude>
+    <longitude><![CDATA[153.0260341]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Service Delivery Manager]]></title>
+    <date><![CDATA[Wed, 21 Oct 2026 01:24:26 +0000]]></date>
+    <referencenumber><![CDATA[1699259]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/service-delivery-manager-in-it-telecomms-jobs-1764183]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[3143]]></postalcode>
+    <description><![CDATA[We're partnering with a global technology organisation to recruit a Service Delivery Manager supporting a major Australian retail customer.<br><br> This is an opportunity to take ownership of the ongoing service delivery of a business-critical retail platform as it transitions from project deployment into steady-state operations.<br><br> Working closely with the customer and internal technical teams, you'll be responsible for establishing effective service delivery processes, managing application support operations and ensuring the platform continues to perform reliably as it scales.<br> <br><strong>What You'll Be Doing</strong><br> <ul> <li>Own end-to-end application managed services, ensuring SLA and KPI performance.</li> <li>Lead technical support teams across application support, DevOps and engineering.</li> <li>Manage major incidents, escalations, root cause analysis and problem resolution.</li> <li>Coordinate software releases, hotfixes, change requests and ongoing platform improvements.</li> <li>Establish and refine service delivery frameworks as the platform transitions into BAU.</li> <li>Work closely with customer stakeholders, technical teams and international product teams.</li> <li>Oversee service reporting, governance, support arrangements and continuous improvement initiatives.</li> <li>Coordinate vendors and third parties to ensure effective service delivery.</li> </ul> <strong>What We're Looking For</strong><br> <ul> <li>5+ years' experience in Service Delivery Management, Application Support Management or a similar role.</li> <li>Strong background supporting business-critical software applications or managed services.</li> <li>Experience leading technical support teams and managing major incidents.</li> <li>Solid understanding of ITIL, including incident, problem, change and release management.</li> <li>Experience transitioning software platforms or technology projects into BAU operations.</li> <li>Strong customer-facing stakeholder management and communication skills.</li> <li>Familiarity with Agile delivery environments and ITSM tools such as ServiceNow.</li> <li>Exposure to retail POS, payments, commerce platforms or multi-site retail technology would be highly regarded.</li> <li>Understanding of cloud environments, integrations or modern application architectures would be beneficial.</li> </ul> <strong>Why Consider This Opportunity?</strong><br> You'll have genuine ownership of a critical technology service, working across technical delivery, customer engagement and operational improvement.<br><br> This is an opportunity to join an established global technology business and play a key role in supporting a large-scale retail technology transformation.<br><strong><br></strong>]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-37.857253]]></latitude>
+    <longitude><![CDATA[145.0190242]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Executive Assistant]]></title>
+    <date><![CDATA[Tue, 20 Oct 2026 23:49:26 +0000]]></date>
+    <referencenumber><![CDATA[1699357]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/executive-assistant-in-admin-secretarial-office-support-jobs-1764023]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Adelaide]]></city>
+    <state><![CDATA[SA]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>Executive Assistant </strong><br><strong>Adelaide CBD | Full Time | Short-Term Contract</strong><br><strong>5 November 2026 &ndash; 11 December 2026</strong><br><strong>$60 per hour + Super</strong><br> We are seeking an experienced and highly organised Executive Assistant to provide high-level support to a General Manager within a large, fast-paced organisation.<br> This is a great opportunity for a confident EA who enjoys working in a busy environment, can manage competing priorities and thrives when working as part of a collaborative and cohesive team.<br> The Role Working closely with the General Manager, you will provide professional and efficient executive support to ensure the smooth day-to-day running of their office.<br> Your responsibilities will include:<br> <ul> <li>Providing high-level administrative and executive support to the General Manager</li> <li>Diary and calendar management, including coordinating meetings and appointments</li> <li>Preparing correspondence, reports, presentations and other documentation</li> <li>Developing and formatting professional PowerPoint presentations</li> <li>Coordinating meetings and assisting with agendas and relevant documentation</li> <li>Managing competing priorities and responding to changing requirements</li> <li>Liaising professionally with internal and external stakeholders</li> <li>Providing general administrative support as required</li> </ul> About You To be successful in this role, you will have:<br> <ul> <li>Previous experience as an Executive Assistant or in a similar senior administrative support role</li> <li>Strong Microsoft Office skills, particularly PowerPoint, Outlook, Word and Excel</li> <li>Excellent written and verbal communication skills</li> <li>Strong organisational and time-management skills</li> <li>The ability to work confidently under pressure and manage multiple priorities</li> <li>A professional, proactive and adaptable approach</li> <li>Strong attention to detail</li> <li>The ability to work effectively within a busy and cohesive team environment</li> <li>Previous experience working within a large or complex organisation is highly desirable</li> </ul> The Details Location: Adelaide CBD<br>Hours: Full time<br>Contract: 5 November 2026 &ndash; 11 December 2026<br>Rate: $60 per hour + Super<br> This is an excellent short-term opportunity for an experienced Executive Assistant who can step into a busy environment, quickly build relationships and provide reliable support to senior management.<br> Apply now with your current resume for immediate consideration.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[Admin / Secretarial / Office Support]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-34.9284989]]></latitude>
+    <longitude><![CDATA[138.6007456]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Clinician - Intake and Triage - Counselling and Mental Health]]></title>
+    <date><![CDATA[Tue, 20 Oct 2026 05:44:26 +0000]]></date>
+    <referencenumber><![CDATA[1699111]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/clinician-intake-and-triage-counselling-and-mental-health-in-healthcare-medicine-jobs-1763234]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Brisbane]]></city>
+    <state><![CDATA[QLD]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[4000]]></postalcode>
+    <description><![CDATA[<strong>About the company:</strong><br> Our client is a large government department tasked with improving the lives of Australians.&nbsp; Our client is looking for experienced Counsellors or Psychologists (including Social Workers with previous counselling experience) to join their team for on a temporary casual assignment until May 2027, with potential for a further 12-month extension&nbsp;<br> &nbsp;<br> <br><strong>About the role:</strong><br> Working in a call centre environment, you will be providing high-quality clinical services including risk assessment and intervention<br> Clinical intake, triage, and referrals<br> Individual single session counselling sessions&nbsp;<br> Providing escalation pathway support<br> Updating internal CRM/database accordingly&nbsp;&nbsp;<br> Liaise with families and coordinate with relevant treatment providers&nbsp;<br> Participate in community development and projects as required<br> &nbsp;<br> <br><strong>About you:</strong><br> You will have previous experience working in a counselling environment, providing trauma informed, holistic, and client centred care<br> You will have previous experience completing intake and risk assessments<br> You will have strong written and verbal communicate skills<br> You will have the ability to respond to critical incidents in a calm and timely manner<br> You will be flexible to work in a phone based mental health/counselling environment&nbsp;<br> You will have intermediate to advanced IT skills, and previously used databases and relevant MS packages.&nbsp;<br><br> &nbsp;<br> <strong>Mandatory Requirements for the role:</strong><br> You must currently hold, or be willing to obtain, either Working with Vulnerable People (WWVP) registration, or Working with Children Check (WWCC)<br> You must hold APHRA Registration as a Psychologist, Occupational Therapist&nbsp;<br> Or you will be a Social Worker with membership of the Australian Association of Social Workers (AASW) upon commencement<br> Or you will be a Counsellor with Master's-level counselling qualification with Registered Clinical Counsellor with PACFA, or<br> Or you will be Counsellor with Master's-level counselling qualification with ACA Level 3 or Level 4<br> &nbsp;<br> <br><strong>Benefits:</strong><br> ASAP start<br> 6-month casual temporary assignment with potential for a further 12-month extension<br> Working 37.5 hours per week, or 9 day fortnight, on a rostered 24/7 basis.&nbsp;&nbsp;<br> Brisbane CBD location + hybrid working from home&nbsp;<br> $67.24 - $76.36 per hour + super + shift penalties for evenings and weekends.&nbsp;<br> &nbsp;<br> &nbsp;<br> <strong>*** Please note the successful candidate for the role must hold Australian Citizenship.&nbsp; You will also be required to complete a Federal Police Check, as well as a Working with Children Check ***</strong>]]></description>
+    <salary><![CDATA[$67.24 - $76.36 per hour + super + shift penalties]]></salary>
+    <category><![CDATA[Healthcare & Medicine]]></category>
+    <jobtype><![CDATA[parttime]]></jobtype>
+    <latitude><![CDATA[-27.4660994]]></latitude>
+    <longitude><![CDATA[153.023588]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Payroll Officer]]></title>
+    <date><![CDATA[Mon, 19 Oct 2026 00:34:26 +0000]]></date>
+    <referencenumber><![CDATA[1698016]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/payroll-officer-in-accounting-jobs-1762609]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Brisbane]]></city>
+    <state><![CDATA[QLD]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[Payroll Officer &ndash; Q<strong>ueensland State Government Department</strong><br><strong>Gold Coast | Full-Time</strong><br><strong>$53&ndash;$59 per hour + Super</strong><br><strong>ASAP Start &ndash; June 2027</strong><br> We are currently seeking an experienced Project Costing Officer &ndash; Payroll to join a busy Queensland State Government department based on the Gold Coast.<br> This is a fantastic long-term contract opportunity through to June 2027, offering full-time hours and an attractive hourly rate of $53&ndash;$59 per hour + Super.<br> The role would suit someone with strong payroll experience who enjoys variety and takes pride in accuracy and getting the details right. You will be responsible for ensuring employees and labour hire contractors are paid correctly and on time, while also supporting broader project costing and finance activities.<br> The Role Your responsibilities will include:<br> <ul> <li>Processing and reviewing employee and contractor timesheets and Daily Dissection Sheets</li> <li>Ensuring wages, overtime, allowances and other entitlements are calculated and paid correctly</li> <li>Monitoring outstanding timesheets and following up with employees and managers</li> <li>Processing leave applications, work schedule changes and substitutions</li> <li>Completing payroll reconciliations, reporting and compliance checks</li> <li>Investigating and resolving payroll discrepancies and employee enquiries</li> <li>Maintaining accurate payroll records and documentation for audit purposes</li> <li>Providing payroll advice and guidance to employees and management</li> <li>Supporting payroll compliance reviews and audits</li> <li>Assisting with accounts payable, accounts receivable and procurement activities</li> <li>Supporting daily project-related expense accruals and other finance activities as required</li> </ul> About You To be successful in this position, you will ideally have previous experience within payroll, project costing, finance administration or a similar high-volume environment.<br> You will bring:<br> <ul> <li>Strong payroll processing experience and excellent attention to detail</li> <li>Knowledge of awards, allowances, employee entitlements and timekeeping processes</li> <li>Experience using payroll or workforce management systems</li> <li>Strong reconciliation and data analysis skills</li> <li>The ability to identify discrepancies and resolve payroll issues efficiently</li> <li>Excellent organisational and record-management skills</li> <li>Confident communication skills and the ability to work with a range of stakeholders</li> <li>A high level of discretion when handling confidential employee information</li> <li>The ability to manage competing priorities and deadlines</li> <li>Previous Government or complex payroll experience will be highly regarded</li> </ul> The Opportunity This is an excellent opportunity to secure a long-term State Government contract on the Gold Coast, working full-time through to June 2027.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[Accounting]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-27.4704528]]></latitude>
+    <longitude><![CDATA[153.0260341]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Project Manager - Tech Transformation - Day Rate Contract]]></title>
+    <date><![CDATA[Fri, 16 Oct 2026 01:59:28 +0000]]></date>
+    <referencenumber><![CDATA[169738241]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/senior-project-manager-tech-transformation-day-rate-contract-in-it-telecomms-jobs-1760722]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Adelaide]]></city>
+    <state><![CDATA[SA]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[5000]]></postalcode>
+    <description><![CDATA[My client, a leader in the Australian retail &amp; eCommerce space, is seeking an experienced Senior Project Manager to join them for a daily rate contract, with the view for long term extension.&nbsp;The role is for a large-scale technology transformation, leading end-to-end delivery of initiatives to bring multiple businesses into a common future-state technology environment. The projects will cover EUC, networking, infra, apps and technology delivery, and requires strong stakeholder management skills.<br><br>Experience leading transformation, migration or tech change across distributed or complex environments is highly regarded.<br><strong><br>The benefits:</strong>&nbsp;<br><br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Day rate contract with strong possibility for extension<br>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASAP start<br>&middot;&nbsp; &nbsp; &nbsp; Adelaide offices with flexible hybrid working arrangements<br>&middot;&nbsp; &nbsp; &nbsp; Supportive culture with focus on training &amp; development<br>&middot;&nbsp; &nbsp; &nbsp; Strong opportunities for progression into different projects<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Access Contractor Benefits Program: Enjoy discounts at hundreds of retail outlets, department stores, activities, novated lease, travel and restaurants nationwide<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Get gym membership discounts with our partners<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Enjoy Health Insurance discounts off all NIB retail health insurance products<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Access EAP for wellbeing and mental health support<br><br><strong>The requirements:</strong><br>&nbsp; &nbsp; &nbsp;&nbsp;<br>&middot;&nbsp; &nbsp; &nbsp; Strong experienc leading complex technoloy projects/programs at an enterprise level<br>&middot;&nbsp; &nbsp; &nbsp; Experience leading transformation, migration or tech change across distributed environments is highly regarded<br>&middot;&nbsp; &nbsp; &nbsp; Delivery experience across EUC,networking, infra and applications<br>&middot;&nbsp; &nbsp; &nbsp; Excellent stakeholder management skills across technical, business and external stakeholders<br>&middot;&nbsp; &nbsp; &nbsp; Ability to work in fast-paced environments whilst remaining hands-on<br>&middot;&nbsp; &nbsp; &nbsp; Retail/Loyalty/ecommerce domain experience is highly advantageous<br>&middot;&nbsp; &nbsp; &nbsp; Strong experience in agile methodologies, JIRA &amp; Confluence<br><br>If you have the right&nbsp;skillset,&nbsp;please get in contact with&nbsp;<strong>Cat&nbsp;</strong>or send me your resume to&nbsp;cat.john@halcyonknights.com.au<br><br>#SCR-catrin-john]]></description>
+    <salary><![CDATA[$850 - $940 Day]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-34.9328294]]></latitude>
+    <longitude><![CDATA[138.6038129]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Technical Delivery Lead/Solution Lead - Transformation - Day Rate Contract]]></title>
+    <date><![CDATA[Fri, 16 Oct 2026 02:09:26 +0000]]></date>
+    <referencenumber><![CDATA[169738241411]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/technical-delivery-leadsolution-lead-transformation-day-rate-contract-in-it-telecomms-jobs-1760723]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Adelaide]]></city>
+    <state><![CDATA[SA]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[5000]]></postalcode>
+    <description><![CDATA[My client, a leader in the Australian retail &amp; eCommerce space, is seeking an experienced Technical Delivery Lead/Technical Manager/Solution Lead to join them for a daily rate contract, with the view for long term extension.&nbsp;The role is for a large-scale technology transformation, and will be responsible for leading design and delivery of the technology landscape, across multiple business units and technology platforms.&nbsp;<br><br>The ideal candidate will have experience leading technical delivery at an enterprise level for large-scale transformation, migration or technology modernisation programs.&nbsp;<br><strong><br>The benefits:</strong>&nbsp;<br><br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Day rate contract with strong possibility for extension<br>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASAP start<br>&middot;&nbsp; &nbsp; &nbsp; Adelaide offices with flexible hybrid working arrangements<br>&middot;&nbsp; &nbsp; &nbsp; Supportive culture with focus on training &amp; development<br>&middot;&nbsp; &nbsp; &nbsp; Strong opportunities for progression into different projects<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Access Contractor Benefits Program: Enjoy discounts at hundreds of retail outlets, department stores, activities, novated lease, travel and restaurants nationwide<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Get gym membership discounts with our partners<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Enjoy Health Insurance discounts off all NIB retail health insurance products<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Access EAP for wellbeing and mental health support<br><br><strong>The requirements:</strong><br>&nbsp; &nbsp; &nbsp;&nbsp;<br>&middot;&nbsp; &nbsp; &nbsp; Strong experience leading technical delivery across multiple business functions and technology platforms<br>&middot;&nbsp; &nbsp; &nbsp; Strong understanding of enterprise technology environments, including&nbsp;applications, integrations, infrastructure, networking, cloud, identity and security<br>&middot;&nbsp; &nbsp; &nbsp; Experience in Retail, multi-site operation, POS, store technology, systems migrations or complex transformations is highly regarded<br>&middot;&nbsp; &nbsp; &nbsp; Must have experience owning technical decisions and proven ability coordinating multiple stakeholders<br>&middot;&nbsp; &nbsp; &nbsp; Ability to work in fast-paced environments whilst remaining hands-on<br>&middot;&nbsp; &nbsp; &nbsp; Experience in evaluating solutions, taking into account technical, commercial and operational considerations<br>&middot;&nbsp; &nbsp; &nbsp; Strong experience in agile methodologies, JIRA &amp; Confluence<br><br>If you have the right&nbsp;skillset,&nbsp;please get in contact with&nbsp;<strong>Cat&nbsp;</strong>or send me your resume to&nbsp;cat.john@halcyonknights.com.au<br><br>#SCR-catrin-john]]></description>
+    <salary><![CDATA[$850 - $940 Day]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-34.9328294]]></latitude>
+    <longitude><![CDATA[138.6038129]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Taxation Officer]]></title>
+    <date><![CDATA[Fri, 16 Oct 2026 07:04:26 +0000]]></date>
+    <referencenumber><![CDATA[1697681]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/taxation-officer-in-government-local-government-jobs-1761007]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Adelaide]]></city>
+    <state><![CDATA[SA]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[An excellent opportunity for an experienced taxation professional to apply their technical expertise, strengthen compliance and deliver high-quality financial services within a collaborative public sector environment.<br><br> We are seeking a detail-oriented and customer-focused <strong>Taxation Accountant</strong> to prepare and review complex taxation returns, provide specialist advice and support continuous improvement across financial processes and systems.<br> This role is ideal for an accountant with strong taxation knowledge, analytical capability and a commitment to delivering accurate, timely and customer-focused outcomes.<br> <br><strong>About the Role</strong><br> As a Taxation Accountant, you will play a key role in delivering professional taxation services to a diverse range of government clients, ensuring compliance with relevant legislation, regulatory requirements and established service standards.<br><br> Working collaboratively with colleagues, client agencies and external taxation authorities, you will prepare statutory returns, undertake reconciliations, research legislative requirements and provide practical advice on complex taxation matters.<br><br> You will also contribute to the development of policies and procedures, identify opportunities to improve financial systems and processes, and support quality assurance and risk management initiatives.<br> Key Responsibilities<br> <ul> <li>Prepare and review complex statutory taxation returns, including Fringe Benefits Tax (FBT), Goods and Services Tax (GST) and Payroll Tax (PRT), along with supporting working papers, reconciliations and reports.</li> <li>Provide taxation advice and guidance to client agencies, ensuring compliance with relevant legislation, rulings, case law and regulatory requirements.</li> <li>Liaise with clients and external taxation authorities to resolve enquiries, clarify requirements and support accurate and timely reporting.</li> <li>Promote high standards of customer service by responding to enquiries professionally, building strong stakeholder relationships and meeting agreed service delivery targets.</li> <li>Research changes to taxation legislation and rulings, communicate their implications and identify training needs to support ongoing compliance.</li> <li>Contribute to the development, review and implementation of taxation policies, procedures and financial management practices.</li> <li>Identify and implement opportunities to improve reporting, quality assurance, risk management and business processes.</li> <li>Support colleagues in delivering consistent, accurate and professional taxation services across a broad client base.</li> <li>Analyse financial data and prepare reconciliations, reports and supporting documentation to inform decision-making and maintain compliance.</li> <li>Maintain accurate records in accordance with relevant records management legislation, policies and procedures.</li> <li>Contribute to a culture of continuous improvement, collaboration, workplace safety, inclusion and professional integrity.</li> </ul> <strong>About You</strong><br> You are a technically capable taxation professional who combines strong analytical skills with a customer-focused approach. You are confident interpreting complex legislation, managing competing priorities and providing clear, practical advice to a range of stakeholders.<br> You will bring:<br> <ul> <li>Demonstrated experience preparing and reviewing complex taxation returns, particularly GST, FBT and payroll tax.</li> <li>A sound understanding of taxation legislation, relevant rulings, compliance obligations and applicable governance frameworks.</li> <li>Experience undertaking financial reconciliations, analysing financial data and preparing accurate reports and supporting documentation.</li> <li>The ability to research complex taxation matters and translate technical information into clear, practical advice.</li> <li>Strong written and verbal communication skills, with the ability to build effective working relationships across diverse stakeholder groups.</li> <li>A commitment to delivering high-quality customer service, resolving enquiries and achieving timely outcomes.</li> <li>Well-developed organisational and time management skills, with the ability to prioritise workloads and meet competing deadlines.</li> <li>The flexibility and adaptability to respond positively to changing priorities, processes and business requirements.</li> <li>Experience identifying and implementing improvements to financial management, reporting and compliance processes.</li> <li>Proficiency in Microsoft Excel and financial management systems, including experience using spreadsheets for reconciliations, financial modelling and reporting.</li> <li>A commitment to maintaining accurate records and working in accordance with legislative requirements, professional standards and workplace policies.</li> <li>National Police check</li> </ul> Please apply through the link provided.&nbsp; Any questions, please email sheridan.catt@halcyonknights.com.au]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[Government / Local Government]]></category>
+    <jobtype><![CDATA[parttime]]></jobtype>
+    <latitude><![CDATA[-34.9284989]]></latitude>
+    <longitude><![CDATA[138.6007456]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Embedded Software Engineer]]></title>
+    <date><![CDATA[Thu, 15 Oct 2026 02:29:28 +0000]]></date>
+    <referencenumber><![CDATA[NK]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/embedded-software-engineer-in-it-telecomms-jobs-1758842]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[3000]]></postalcode>
+    <description><![CDATA[<strong>Senior Embedded Software Engineer &ndash; C/C++ | Linux | MedTech</strong><br> &nbsp;&nbsp;<br> An innovative, venture-backed Australian MedTech company is developing next-generation monitoring technology designed to improve clinical decision-making and patient outcomes during childbirth.<br> &nbsp;&nbsp;<br> Bringing together specialists across software, hardware, electronics, clinical research and data science, the business is continuing to develop and advance its innovative medical technology.<br> &nbsp;&nbsp;<br> They are now looking for a Software Engineer to join their multidisciplinary engineering team.<br> &nbsp;&nbsp;<br> <strong>The Opportunity</strong><br> &nbsp;&nbsp;<br> This is a hands-on engineering role working across embedded software, hardware and regulated medical-device development.<br> &nbsp;&nbsp;<br> You will design, develop and test reliable software using C/C++ within Linux and embedded environments. Working alongside firmware, hardware, clinical and regulatory specialists, you will support the development and integration of a complex connected medical device.<br> &nbsp;&nbsp;<br> <strong>What You&rsquo;ll Be Doing</strong><br> &nbsp;&nbsp;<br> <ul> <li>Designing and developing embedded software using C/C++.</li> <li>Working across Linux, RTOS and embedded-device environments.</li> <li>Integrating software with hardware and connected devices.</li> <li>Supporting BLE, NFC and other device communication workflows.</li> <li>Developing unit, integration and system-level tests.</li> <li>Debugging complex software, hardware and connectivity issues.</li> <li>Supporting secure OTA updates, rollback and recovery.</li> <li>Producing documentation and traceability for a regulated medical-device environment.</li> <li>Contributing to software verification and validation activities.</li> </ul> &nbsp;&nbsp;<br> <strong>What We&rsquo;re Looking For</strong><br> &nbsp;&nbsp;<br> <ul> <li>Strong commercial C/C++ development experience.</li> <li>Experience working with Linux and embedded systems.</li> <li>Experience integrating software with hardware or connected devices.</li> <li>Knowledge of communication protocols such as BLE, NFC, I2C, SPI or UART.</li> <li>Experience within MedTech, embedded systems or another regulated or safety-critical environment.</li> <li>Experience with IEC 62304, ISO 13485, IEC 60601, Qt/QML, RTOS or secure OTA updates would be advantageous but is not essential.</li> </ul> &nbsp;&nbsp;<br> <strong>Next steps</strong><br> &nbsp;&nbsp;<br> For more information and/or to be considered, apply now!]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-37.8152065]]></latitude>
+    <longitude><![CDATA[144.963937]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Data Analytics Engineer]]></title>
+    <date><![CDATA[Wed, 14 Oct 2026 01:14:27 +0000]]></date>
+    <referencenumber><![CDATA[1696002]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/data-analytics-engineer-in-it-telecomms-jobs-1757242]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney]]></city>
+    <state><![CDATA[NSW]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[Data Analytics Engineer<br>Up to $150k + Super, pro rata<br>Sydney | Primarily onsite, ad hoc WFH flexibility<br>6-month fixed-term contract | ASAP start<br><br> An opportunity for a hands-on data professional to take ownership of data quality improvements across a Microsoft data environment.<br><br> You&rsquo;ll investigate issues, troubleshoot SQL and pipelines, and work with business stakeholders to deliver practical solutions. Suited to someone with a BI, analytics engineering or consulting background who enjoys delivering work end to end.<br><br> What you&rsquo;ll do:<br> <ul> <li>Investigate and resolve data quality issues across datasets and pipelines</li> <li>Review SQL and transformation logic to identify underlying problems</li> <li>Implement data profiling, validation and quality monitoring</li> <li>Support Microsoft Purview implementation and governance activities</li> <li>Develop Power BI reports and dashboards</li> <li>Gather business requirements and document solutions for handover</li> </ul> What you&rsquo;ll need:<br> <ul> <li>Strong hands-on SQL and pipeline troubleshooting skills</li> <li>Practical experience in data quality, profiling and validation</li> <li>Power BI experience, including DAX and data modelling</li> <li>Proven end-to-end delivery and strong stakeholder communication</li> <li>Ability to work independently and manage competing priorities</li> <li>Driver&rsquo;s licence and access to a car</li> </ul> Nice to have:<br> <ul> <li>Microsoft Purview experience</li> <li>Exposure to Azure Synapse, Azure SQL or Microsoft Fabric</li> <li>Data migration experience</li> </ul> Candidates available immediately or within two weeks are encouraged to apply.<br><br> Apply now or contact liam.griffiths@halcyonknights.com.au for a confidential discussion.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-33.8727409]]></latitude>
+    <longitude><![CDATA[151.2057136]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Data Analyst]]></title>
+    <date><![CDATA[Wed, 14 Oct 2026 03:59:26 +0000]]></date>
+    <referencenumber><![CDATA[1696262]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/data-analyst-in-it-telecomms-jobs-1757348]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>Data Analyst - Insights</strong><br> Melbourne | Contract to June 2027 | [rate] | Hybrid<br> Our client is a large hospitality group running over 200 venues across Australia and New Zealand, supported by a central head office in Melbourne. They&rsquo;re building out a forecasting capability and need a contract analyst who can dig into the numbers and turn them into insights the business acts on. This isn&rsquo;t a reporting seat. You&rsquo;ll find what&rsquo;s driving venue performance and make a clear case for what should change.<br> <strong>What you&rsquo;ll be doing</strong><br> <ul> <li>Supporting the forecasting project with analysis that explains drivers, trends and variances</li> <li>Investigating customer behaviour, marketing, product and operational performance across the venue network</li> <li>Turning findings into clear recommendations for head office and operations teams</li> <li>Building Power BI views that track the impact of those changes</li> <li>Working closely with the forecasting lead and insights team</li> </ul> <strong>Must have</strong><br> <ul> <li>Strong SQL, comfortable with large, messy datasets</li> <li>Solid Power BI experience</li> <li>Proven examples of insights you identified that improved business performance</li> <li>Ability to explain analysis simply to non-technical stakeholders</li> <li>Background in customer, marketing, product or operational analytics</li> </ul> <strong>Interview process</strong><br> <ul> <li>1st stage with the Insights Manager and Forecasting Lead</li> <li>2nd stage with a senior leader</li> </ul> If you have the right skillset, please get in contact with Jack or send me your resume to jack.winters@halcyonknights.com.au<br> Halcyon Knights is an equal opportunities employment agency, valuing the contributions made by all people and welcomes applications from people with disability, Aboriginal Australians, people of all ages and from culturally diverse backgrounds.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8136276]]></latitude>
+    <longitude><![CDATA[144.9630576]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Data Scientist]]></title>
+    <date><![CDATA[Wed, 14 Oct 2026 03:54:27 +0000]]></date>
+    <referencenumber><![CDATA[1696252]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/senior-data-scientist-in-it-telecomms-jobs-1757344]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[Our client is one of Australia's largest hospitality groups, operating a national portfolio of pubs, bars and event venues.<br> The business has grown largely through acquisition. Each venue is run with a local-first approach, tailored to its community rather than following a single template.<br> About the role <br>The business needs a demand forecasting model for the venues it has acquired in the last 12 months. You will own that build, from approach through to production.<br> The core challenge is limited history. These venues have only a short trading record in the company's systems, and earlier data may sit in different point-of-sale systems or be incomplete. You will need to forecast reliably by drawing on patterns from comparable venues across the wider network, then improve the model as each site's own data builds up.<br> Your forecasts will feed directly into how venues roster staff, order stock and plan trading.<br> Key responsibilities <ul> <li>Design and build a demand forecasting model for recently acquired venues, covering revenue, covers and product demand at daily and intraday levels</li> <li>Solve the cold-start problem by using data from comparable venues, hierarchical approaches and pre-trained time series models where they help</li> <li>Bring in external drivers such as weather, public holidays, school holidays, local events, sport and promotions</li> <li>Clean, align and integrate venue data from different point-of-sale and operational systems</li> <li>Deploy the model to production with automated retraining, monitoring and drift detection</li> <li>Set clear accuracy measures and report performance by venue, region and venue type</li> <li>Work with operations, finance and venue managers so forecasts are understood, trusted and used</li> <li>Document the approach so the model can be maintained and extended to future acquisitions</li> </ul> Essential skills and experience <ul> <li>5+ years in data science, with demand or sales forecasting models built and run in production</li> <li>Strong Python and SQL</li> <li>Hands-on experience with forecasting and ML methods such as LightGBM, XGBoost, Prophet or ARIMA</li> <li>Experience forecasting with sparse, short or patchy history, such as new stores or sites</li> <li>Experience deploying and monitoring models on a cloud platform (Azure, AWS or Databricks)</li> <li>Ability to explain model outputs and limitations to non-technical stakeholders</li> <li>Tertiary qualification in data science, statistics, mathematics, engineering or a related field</li> </ul> Desirable skills <ul> <li>Hospitality, retail, QSR or other multi-site business experience</li> <li>Hierarchical forecasting (for example network, region, venue, product)</li> <li>Experience with foundation time series models such as Chronos or TimeGPT</li> <li>Databricks, PySpark and MLflow</li> <li>Weather and event-driven demand modelling</li> <li>Promotional uplift or causal impact analysis</li> </ul> How to apply If you have the right skillset, please get in contact with Jack or send your resume to jack.winters@halcyonknights.com.au<br> Halcyon Knights is an equal opportunities employment agency, valuing the contributions made by all people and welcomes applications from people with disability, Aboriginal Australians, people of all ages and from culturally diverse backgrounds.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8136276]]></latitude>
+    <longitude><![CDATA[144.9630576]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Full Stack Engineer]]></title>
+    <date><![CDATA[Tue, 13 Oct 2026 03:54:27 +0000]]></date>
+    <referencenumber><![CDATA[1695554]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/full-stack-engineer-in-it-telecomms-jobs-1755654]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[3000]]></postalcode>
+    <description><![CDATA[<strong>Full Stack Developer (PHP / React)</strong><br> <strong>Melbourne | Permanent | Hybrid</strong><br> &nbsp;&nbsp;<br> <strong>Who They Are</strong><br> &nbsp;&nbsp;<br> Working across property, media, technology and data, this established Australian business develops innovative digital platforms that are transforming how the commercial property industry operates, making processes more efficient, improving access to information and creating smarter digital experiences.<br> &nbsp;&nbsp;<br> With multiple successful platforms already in market, the business is continuing to invest in its technology, with exciting projects spanning new feature development, platform modernisation and AI-driven innovation.<br> &nbsp;&nbsp;<br> The business has a fantastic reputation for its culture, with great employee retention, a close-knit team and plenty of opportunity to learn, develop and make a genuine impact.<br> &nbsp;&nbsp;<br> <strong>The Tech</strong><br> &nbsp;&nbsp;<br> The core technology stack includes <strong>PHP, React and MySQL</strong>, supported by AWS infrastructure. There's a strong focus on modernising existing applications, improving architecture and introducing new technologies, including AI-powered features and automation.<br> &nbsp;&nbsp;<br> You'll work alongside experienced Engineers and collaborate with teams, gaining experience with different systems, technical challenges and projects.<br> &nbsp;&nbsp;<br> <strong>We're looking for someone with a mix of the following:</strong><br> <ul> <li>Strong commercial experience developing applications using <strong>PHP</strong></li> <li>Full stack development experience with <strong>React, JavaScript and MySQL</strong></li> <li>Experience working with <strong>Linux, NGINX and the LEMP stack</strong></li> <li>Experience building and integrating REST APIs</li> <li>Exposure to <strong>AWS</strong>, ideally including EC2, RDS and S3</li> <li>Familiarity with Git, CI/CD pipelines and modern development practices</li> <li>A genuine interest in emerging technologies and continuous learning</li> </ul> &nbsp;&nbsp;<br> Experience with AI integrations or platform modernisation would be advantageous, but isn't essential.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-37.8152065]]></latitude>
+    <longitude><![CDATA[144.963937]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Software Engineer]]></title>
+    <date><![CDATA[Tue, 13 Oct 2026 23:29:26 +0000]]></date>
+    <referencenumber><![CDATA[1694882]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/software-engineer-in-it-telecomms-jobs-1757083]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney]]></city>
+    <state><![CDATA[NSW]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[Join the Advice Technology team at a leading financial services organisation, building the software that powers its financial advice platform. You'll work in the Advice Automation squad, developing full-stack features with Java on the back end and Angular on the front end.<br> The focus is on user-friendly, reliable applications for advisers and their clients. You'll work in an Agile team across new feature delivery, BAU enhancements and continuous improvement.<br> Key responsibilities <ul> <li>Design, build and test back-end services and APIs in Java</li> <li>Develop responsive, user-friendly front-end features in Angular</li> <li>Deliver significant technical enhancements from design and analysis through to release</li> <li>Write unit and automated tests to keep code quality high</li> <li>Carry out root cause analysis and resolve production issues</li> <li>Contribute to discovery sessions, stand-ups and other Agile ceremonies</li> <li>Follow and help improve team standards, practices and code reviews</li> </ul> Skills and experience <strong>Essential</strong><br> <ul> <li>Strong commercial experience building back-end applications in Java</li> <li>Strong commercial experience building single-page applications in Angular</li> <li>Solid grasp of object-oriented principles and full-stack development</li> <li>Experience with unit testing, test automation and CI/CD pipelines</li> <li>Experience working in Agile delivery teams</li> <li>Clear communication and a collaborative, quality-first approach</li> </ul> <strong>Desirable</strong><br> <ul> <li>Experience in financial services, wealth or advice platforms</li> <li>Relational database experience (e.g. PostgreSQL, MySQL)</li> <li>Tertiary qualification in Computer Science, IT or Software Engineering, or equivalent experience</li> </ul> How to apply To apply, send your CV to Jack Winters at Halcyon Knights: Jack.Winters@halcyonknights.com.au. For a confidential chat about the role, get in touch directly.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-33.8727409]]></latitude>
+    <longitude><![CDATA[151.2057136]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Embedded Software Developer]]></title>
+    <date><![CDATA[Fri, 09 Oct 2026 01:19:33 +0000]]></date>
+    <referencenumber><![CDATA[1694059]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/embedded-software-developer-in-it-telecomms-jobs-1752223]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[Senior Embedded Software Engineer, Medical Devices <strong>Location:</strong> Melbourne (South-East suburbs), hybrid<br> <strong>Type:</strong>&nbsp;Contractor, full-time<br> About the company An established Australian product development and engineering firm with more than 20 years of experience bringing complex technology to market. The team builds products for medical, industrial and defence clients in regulated environments where safety and reliability are critical.<br> Their medical work covers Class II and Class III devices, including advanced cardiovascular technology, medical robotics and AI-enabled treatment platforms. You&rsquo;ll work with electronics, mechanical, software, human factors and regulatory specialists on products that directly affect patient outcomes.<br> The role A senior, hands-on role designing and building embedded software for life-critical medical devices, from hardware bring-up through to the user interface. You&rsquo;ll shape software architecture, set engineering standards and mentor others, while staying close to the code.<br> What you&rsquo;ll do <ul> <li>Architect and develop embedded software in modern C/C++ across microcontroller, RTOS and embedded Linux platforms</li> <li>Build device user interfaces and HMIs for touchscreen medical products</li> <li>Design layered, reusable software platforms with clean hardware abstraction</li> <li>Lead board bring-up and hardware/software integration with electronics engineers</li> <li>Develop communication interfaces (BLE, Wi-Fi, TCP/IP, serial, CAN, USB)</li> <li>Deliver under a formal medical software lifecycle, including requirements, architecture, risk analysis and verification</li> <li>Set up and improve CI/CD, static analysis and automated testing</li> <li>Lead design and code reviews and mentor engineers</li> <li>Work directly with clients to shape requirements and present technical progress</li> </ul> What you&rsquo;ll bring <ul> <li>Degree in Software, Electrical, Computer or Mechatronics Engineering (or similar)</li> <li>8+ years of commercial embedded software development in C and modern C++ (C++14/17)</li> <li>Delivery of software for regulated medical devices under IEC 62304 and ISO 13485</li> <li>Experience with RTOS (e.g. FreeRTOS, Zephyr, QNX) and embedded Linux</li> <li>Embedded UI development with frameworks such as Qt/QML, LVGL or similar</li> <li>Strong software architecture skills, including design patterns and platform abstraction</li> <li>Comfort with schematics, debuggers and lab tools during bring-up</li> <li>Experience leading or mentoring engineers in a small, high-ownership team</li> </ul> Highly regarded <ul> <li>Safety-critical experience beyond medical (e.g. IEC 61508, aerospace, ATM, automotive)</li> <li>ISO 14971 risk management and medical device cybersecurity</li> <li>CI/CD with Docker and GitHub Actions, plus static analysis (PC-lint, cppcheck) and TDD</li> <li>Simulation, automated UI or screenshot regression testing</li> <li>Practical use of AI-assisted and agentic coding tools in development</li> <li>Python for test automation and tooling</li> </ul> Why apply <ul> <li>Build Class II and III devices that directly affect patient lives</li> <li>Variety across clients, from start-ups to global medtech</li> <li>Influence architecture and engineering practice, not just deliver tickets</li> <li>Collaborative, engineering-led culture</li> <li>Hybrid working in a growing team</li> </ul>]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8136276]]></latitude>
+    <longitude><![CDATA[144.9630576]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Site Reliability Engineer]]></title>
+    <date><![CDATA[Thu, 08 Oct 2026 23:24:26 +0000]]></date>
+    <referencenumber><![CDATA[1693640]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/site-reliability-engineer-in-engineering-jobs-1752031]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>The Opportunity</strong><br> We're looking for a Site Reliability Engineer to join a team responsible for the reliability, performance and scalability of a large-scale SaaS platform used by organisations across Australia and internationally.<br><br> This is a hands-on role combining cloud infrastructure, DevOps, automation and software engineering. You'll play a key part in keeping the platform running smoothly, improving existing systems and introducing new technologies and processes to make things more efficient.<br><br> Working closely with engineering and product teams, you'll have the opportunity to take ownership of technical challenges, reduce manual work through automation and contribute to the ongoing development of a critical platform.<br><br> <strong>What You'll Be Doing</strong><br> <ul> <li>Maintaining and improving the reliability, availability, performance and security of SaaS platforms.</li> <li>Developing automation and writing code to reduce manual tasks and improve operational efficiency.</li> <li>Managing and optimising cloud infrastructure and serverless services within Google Cloud Platform (GCP).</li> <li>Building, maintaining and improving CI/CD pipelines and deployment processes.</li> <li>Troubleshooting technical issues and contributing to incident response and root cause analysis.</li> <li>Supporting platform scalability, capacity planning and disaster recovery.</li> <li>Working with engineering teams to understand technical requirements and deliver practical solutions.</li> <li>Identifying opportunities to improve platform performance, infrastructure and engineering practices.</li> </ul> <strong>What We're Looking For</strong><br> <ul> <li>Experience in Site Reliability Engineering, DevOps, Cloud Engineering or Platform Engineering.</li> <li>An understanding of cloud infrastructure and serverless technologies, ideally within Google Cloud Platform.</li> <li>Experience with Linux operating systems and troubleshooting.</li> <li>Exposure to Docker and containerisation technologies.</li> <li>Experience with infrastructure automation and scripting using Bash, Python or similar languages.</li> <li>Experience building or maintaining CI/CD pipelines using tools such as Jenkins, CircleCI or Travis CI.</li> <li>Familiarity with infrastructure as code tools such as Terraform.</li> <li>Experience working with MySQL databases and basic SQL.</li> </ul> <strong>Why Consider This Opportunity?</strong><br> <ul> <li>Work on a SaaS platform supporting large organisations nationally and internationally.</li> <li>Gain exposure to Google Cloud technologies and modern serverless architecture.</li> <li>Access company-supported Google Cloud training and certifications to support your professional development.</li> </ul>]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[Engineering]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-37.8136276]]></latitude>
+    <longitude><![CDATA[144.9630576]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Power Platform Service Coordinator]]></title>
+    <date><![CDATA[Wed, 07 Oct 2026 23:04:31 +0000]]></date>
+    <referencenumber><![CDATA[1693317]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/power-platform-service-coordinator-in-government-local-government-jobs-1750097]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Brisbane]]></city>
+    <state><![CDATA[QLD]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>Power Platform Service Coordinator</strong><br> <ul> <li><strong>Own governance for Power Platform, Copilot Studio and Dynamics 365</strong> across the whole organisation</li> <li><strong>Build the Power BI reporting</strong> that leadership uses to track adoption, compliance and risk</li> <li><strong>Coordination, not delivery</strong>, no project deadlines, just a well-run platform</li> </ul> <strong>Power Platform Service Coordinator</strong><br>Brisbane (Carseldine) AO5 Criminal History Check required<br>Microsoft Power Platform, Copilot Studio and Dynamics 365 to let business teams build their own solutions. With that growth comes a need for strong governance. This role sits in the central Power Platform Team and is the go-to person for business users, makers and vendors, making sure solutions are onboarded, deployed and supported the right way. You'll free up the technical specialists to focus on strategy and security, while you run the operational side.<br> <strong>What you'll be doing</strong><br> <ul> <li>Guiding business teams and vendors through onboarding, governance reviews and production readiness</li> <li>Keeping the Solution Catalogue, approvals and support arrangements accurate and complete</li> <li>Running audits, compliance reviews and remediation actions through to close</li> <li>Building Power BI dashboards on adoption, compliance, environment health and service performance</li> <li>Coordinating governance forums and stakeholder meetings</li> <li>Spotting and driving improvements to governance processes and automation</li> </ul> <strong>Must Have</strong><br> <ul> <li>Governance, compliance, audit or operational coordination experience in a technology environment</li> <li>Power BI reporting and dashboard development</li> <li>Strong stakeholder engagement with business users and vendors</li> <li>Clear written communication and meeting facilitation</li> <li>Ability to juggle multiple priorities without dropping detail</li> <li>Exposure to Microsoft Power Platform (highly regarded)</li> </ul> If you have the right skillset, please get in contact with Jack or send me your resume to jack.winters@halcyonknights.com.au<br> <br>Halcyon Knights is an equal opportunities employment agency, valuing the contributions made by all people and welcomes applications from people with disability, Aboriginal Australians, people of all ages and from culturally diverse backgrounds.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[Government / Local Government]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-27.4704528]]></latitude>
+    <longitude><![CDATA[153.0260341]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Project Manager - Retail Technology]]></title>
+    <date><![CDATA[Tue, 06 Oct 2026 22:54:26 +0000]]></date>
+    <referencenumber><![CDATA[1692626]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/senior-project-manager-retail-technology-in-it-telecomms-jobs-1748479]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[3143]]></postalcode>
+    <description><![CDATA[We're looking for an experienced Senior Project Manager / Delivery Lead to lead a major enterprise retail technology program in Melbourne.<br><br> You'll take ownership of the end-to-end delivery of a next-generation Point of Sale and unified commerce platform, acting as the key link between the customer, technology delivery teams and third-party partners.<br><br> The program will progress from discovery and solution definition through build, pilot and implementation, giving you ownership across the full delivery lifecycle.<br> <br><strong>What you'll be doing</strong> <ul> <li>Own delivery across scope, schedule, budget, quality and resourcing</li> <li>Establish and manage project governance, SteerCos, reporting, RAID and change control</li> <li>Coordinate structured discovery, requirements and solution design workshops</li> <li>Manage senior customer stakeholders and executive-level communications</li> <li>Build and maintain integrated delivery plans, milestones and dependencies</li> <li>Coordinate internal technical teams, third-party vendors and implementation partners</li> <li>Manage project financials, SOW deliverables and commercial change requests</li> <li>Lead delivery through solution definition, build, configuration, UAT and pilot deployment</li> <li>Manage risks, issues and escalation pathways</li> <li>Coordinate transition into ongoing support following implementation</li> </ul> <strong>What we're looking for</strong> <ul> <li>8+ years' experience delivering large-scale enterprise technology programs</li> <li>Strong end-to-end project or program delivery experience</li> <li>Experience delivering customer-facing professional services or complex technology implementations</li> <li>Strong governance, RAID, executive reporting and stakeholder management capability</li> <li>Commercial experience managing budgets, SOWs and change requests</li> <li>Experience coordinating third-party vendors and multidisciplinary technology teams</li> <li>Excellent written and verbal communication skills</li> <li>PMP, PRINCE2 or equivalent experience/certification</li> </ul> Experience delivering POS, store systems, unified commerce or broader retail technology programs would be highly regarded.<br><br> You'll be joining a highly visible program requiring someone who can bring structure to complexity, confidently manage senior stakeholders and maintain strong commercial and delivery discipline throughout.]]></description>
+    <salary><![CDATA[$160,000 - $180,000 Year]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-37.857253]]></latitude>
+    <longitude><![CDATA[145.0190242]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Business Analyst - Retail Technology]]></title>
+    <date><![CDATA[Tue, 06 Oct 2026 22:54:26 +0000]]></date>
+    <referencenumber><![CDATA[1692624]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/senior-business-analyst-retail-technology-in-it-telecomms-jobs-1748480]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[3143]]></postalcode>
+    <description><![CDATA[We're looking for an experienced Business Analyst to join a major retail technology program delivering a next-generation Point of Sale and unified commerce platform.<br><br> You'll sit at the intersection of retail operations and technology, working closely with client stakeholders, product owners, architects, developers and testers to translate complex store and customer requirements into practical technology solutions.<br><br> This is a hands-on BA role suited to someone who understands how technology operates within a complex retail environment &ndash; from checkout and payments through to promotions, loyalty, inventory and integration with surrounding enterprise platforms.<br> <br><strong>What you'll be doing</strong> <ul> <li>Lead requirements workshops and discovery sessions with business, store operations and technology stakeholders</li> <li>Translate requirements into user stories, functional specifications, process flows and acceptance criteria</li> <li>Map current and future-state processes and identify gaps, configuration requirements and potential customisation</li> <li>Work closely with architects and engineering teams throughout solution design</li> <li>Manage requirements traceability from discovery through build, testing and go-live</li> <li>Support SIT and UAT, including test scenarios, acceptance criteria and defect triage</li> <li>Manage and refine requirements within an Agile delivery environment</li> <li>Support business readiness, training and change activities</li> <li>Build strong relationships across both technical and non-technical stakeholder groups</li> </ul> <strong>What we're looking for</strong> <ul> <li>5+ years' experience as a Business Analyst delivering enterprise technology projects</li> <li>Strong retail technology experience, ideally across POS, checkout or store systems</li> <li>Understanding of retail processes including payments, promotions, loyalty and inventory</li> <li>Strong requirements elicitation, workshop facilitation and process mapping skills</li> <li>Experience producing user stories, functional specifications and acceptance criteria</li> <li>Experience supporting SIT/UAT and working closely with engineering and QA teams</li> <li>Agile delivery experience and familiarity with Jira, Confluence or Azure DevOps</li> <li>Excellent communication and stakeholder management skills</li> </ul> This is an opportunity to work on a significant enterprise retail technology transformation with exposure across the full lifecycle from requirements and solution design through to implementation.]]></description>
+    <salary><![CDATA[$140,000 - $150,000 Year]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-37.857253]]></latitude>
+    <longitude><![CDATA[145.0190242]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Engineering Manager]]></title>
+    <date><![CDATA[Mon, 05 Oct 2026 23:09:26 +0000]]></date>
+    <referencenumber><![CDATA[1691530]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/engineering-manager-in-engineering-jobs-1746818]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>Engineering Manager&nbsp;</strong><br><br>Our client builds commerce technology used by major retailers around the world, point of sale, mobile, self-service and back-of-store operations. It's an established, well-resourced global technology company with a strong footprint in the retail tech space.<br><br> We're hiring Engineering Managers to lead teams building the next chapter of the platform: AI-native development tooling, an agentic platform layer, and a genuinely engineering-owned delivery model. There's no PMO running the schedule here, the engineering chain owns outcomes end to end, with Technical Program Managers, QA and DevOps supporting delivery rather than owning it.<br><br> <strong>What you'll own:</strong><br> <ul> <li>Delivery, quality and team health for one or more product areas</li> <li>Hiring, performance, coaching and the hard conversations for your team</li> <li>Enough technical depth to be useful in design reviews, debug production issues, and partner with Principal Engineers on standards</li> <li>Customer escalations and SLAs affecting your scope</li> </ul> <strong>Must have:</strong><br> <ul> <li>A strong engineering background with a track record of shipping production systems at scale</li> <li>Demonstrated leadership of engineers, as a manager, tech lead or staff/senior IC who's owned end-to-end delivery</li> <li>Comfort moving between architecture and the debugger, and between an exec review and a sprint standup, in the same day</li> <li>Working knowledge of modern Agile delivery, SDLC and CI/CD in a continuous-deployment environment</li> <li>A track record of owning a missed commitment without deflection, and recovering from a production incident</li> </ul> This role spans a wide seniority range, matched to your experience, team size and product complexity. Strong tech leads looking to move into management for the first time are just as welcome to apply as experienced managers leading larger groups.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[Engineering]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-37.8136276]]></latitude>
+    <longitude><![CDATA[144.9630576]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Project Manager - Super/Wealth - 12 month day rate]]></title>
+    <date><![CDATA[Mon, 05 Oct 2026 23:29:26 +0000]]></date>
+    <referencenumber><![CDATA[16919962]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/senior-project-manager-superwealth-12-month-day-rate-in-it-telecomms-jobs-1746837]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Brisbane]]></city>
+    <state><![CDATA[QLD]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[My client, one of Australia's leading Wealth Management companies, is currently seeking an experienced Senior Project Manager to join them for an initial 12 month daily rate contract, with the view for long term extension. The role will be responsible for leading a large-scale, multi-stream technology program, covering various initiatives across Architecture, Cloud, Infra, Cyber, Data &amp; Apps related projects. They are seeking a Senior PM with strong technical literacy, including being able to understand solution designs and manage technical dependencies.<br><strong><br>The benefits:</strong>&nbsp;<br><br>&middot;&nbsp; &nbsp; &nbsp; 12 month day rate contract with strong possibility for extension<br>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASAP start<br>&middot;&nbsp; &nbsp; &nbsp; Hybrid working arrangements - Brisbane CBD offices<br>&middot;&nbsp; &nbsp; &nbsp; Supportive culture with focus on training &amp; development<br>&middot;&nbsp; &nbsp; &nbsp; Strong opportunities for progression into different projects<br>&middot;&nbsp; &nbsp; &nbsp; Access Contractor Benefits Program: Enjoy discounts at hundreds of retail outlets, department stores, activities, novated lease, travel and restaurants nationwide<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Get gym membership discounts with our partners<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Enjoy Health Insurance discounts off all NIB retail health insurance products<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Access EAP for wellbeing and mental health support<br><br><strong>The requirements:</strong><br>&nbsp; &nbsp; &nbsp;&nbsp;<br>&middot;&nbsp; &nbsp; &nbsp; Strong Project Management experience leading large-scale, complex technology programs with multiple streams<br>&middot;&nbsp; &nbsp; &nbsp;Strong experience in Superannuation/wealth/investments/banking<br>&middot;&nbsp; &nbsp; &nbsp;Ability to translate technical requirements and solution designs into delivery plans<br>&middot;&nbsp; &nbsp; &nbsp; Proven experience managing technical dependencies and delivery across&nbsp;Architecture, Cloud, Infrastructure, Networks, Cyber Security, Data, Applications&nbsp;<br>&middot;&nbsp; &nbsp; &nbsp; Strong vendor management/third-party vendor communication skills<br>&middot;&nbsp; &nbsp; &nbsp; Strong program change experience (Not just BAU)<br>&middot;&nbsp; &nbsp; &nbsp; Excellent communication and stakeholder management skills, both business and technical stakeholders<br>&middot;&nbsp; &nbsp; &nbsp; Strong experience in JIRA &amp; Confluence<br>&middot;&nbsp; &nbsp; &nbsp; Project Management certifications highly advantageous (PMP, PRINCE2, SAFe)<br><br>If you have the right&nbsp;skillset,&nbsp;please get in contact with&nbsp;<strong>Cat&nbsp;</strong>or send me your resume to&nbsp;cat.john@halcyonknights.com.au<br><br>#SCR-catrin-john]]></description>
+    <salary><![CDATA[$1,050 - $1,150 Day]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-27.4704528]]></latitude>
+    <longitude><![CDATA[153.0260341]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[CIAM Engineer]]></title>
+    <date><![CDATA[Mon, 05 Oct 2026 00:09:26 +0000]]></date>
+    <referencenumber><![CDATA[1687246]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/ciam-engineer-in-it-telecomms-jobs-1745363]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney]]></city>
+    <state><![CDATA[NSW]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>CIAM Engineer (Ping Identity)&nbsp;</strong><br>Sydney - Hybrid | Permanent&nbsp;<br><br> My client is a specialist identity and access management consultancy working with customers across regulated industries. Their work covers workforce identity, privileged access and customer identity.<br><br> They're growing their customer identity work, starting with a banking customer, and need a hands-on Ping engineer to help deliver it.<br><br> <strong>What you'll be doing</strong><br> <ul> <li>Building and integrating Ping solutions for a banking customer</li> <li>Connecting applications securely using modern sign-in standards (SAML, OIDC, OAuth)</li> <li>Troubleshooting and improving existing identity setups</li> <li>Working directly with customer teams on site</li> <li>Helping shape how the business delivers customer identity work</li> </ul> <strong>Must have</strong><br> <ul> <li>Hands-on experience with PingFederate, PingAccess, PingOne or ForgeRock</li> <li>Solid understanding of SAML, OIDC and OAuth</li> <li>Experience integrating applications into an identity platform</li> <li>Comfortable working directly with customers</li> </ul> Customer identity or financial services experience is highly regarded.<br><br> If you have the right skillset, please get in contact with<strong> Lainey</strong> or send me your resume to <strong>lainey.macdonald@halcyonknights.com.au</strong><br><br> <strong>#SCR-lainey-macdonald-1</strong><br><br> Halcyon Knights is an equal opportunities employment agency, valuing the contributions made by all people and welcomes applications from people with disability, Aboriginal Australians, people of all ages and from culturally diverse backgrounds.]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-33.8727409]]></latitude>
+    <longitude><![CDATA[151.2057136]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Project Manager - Super/Wealth - 12 month day rate]]></title>
+    <date><![CDATA[Mon, 05 Oct 2026 23:34:26 +0000]]></date>
+    <referencenumber><![CDATA[16919963671]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/senior-project-manager-superwealth-12-month-day-rate-in-it-telecomms-jobs-1746841]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[3000]]></postalcode>
+    <description><![CDATA[My client, one of Australia's leading Wealth Management companies, is currently seeking an experienced Senior Project Manager to join them for an initial 12 month daily rate contract, with the view for long term extension. The role will be responsible for leading a large-scale, multi-stream technology program, covering various initiatives across Architecture, Cloud, Infra, Cyber, Data &amp; Apps related projects. They are seeking a Senior PM with strong technical literacy, including being able to understand solution designs and manage technical dependencies.<br><strong><br>The benefits:</strong>&nbsp;<br><br>&middot;&nbsp; &nbsp; &nbsp; 12 month day rate contract with strong possibility for extension<br>&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASAP start<br>&middot;&nbsp; &nbsp; &nbsp; Hybrid working arrangements - Melbourne CBD offices<br>&middot;&nbsp; &nbsp; &nbsp; Supportive culture with focus on training &amp; development<br>&middot;&nbsp; &nbsp; &nbsp; Strong opportunities for progression into different projects<br>&middot;&nbsp; &nbsp; &nbsp; Access Contractor Benefits Program: Enjoy discounts at hundreds of retail outlets, department stores, activities, novated lease, travel and restaurants nationwide<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Get gym membership discounts with our partners<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Enjoy Health Insurance discounts off all NIB retail health insurance products<br>&middot;&nbsp; &nbsp; &nbsp;&nbsp;Access EAP for wellbeing and mental health support<br><br><strong>The requirements:</strong><br>&nbsp; &nbsp; &nbsp;&nbsp;<br>&middot;&nbsp; &nbsp; &nbsp; Strong Project Management experience leading large-scale, complex technology programs with multiple streams<br>&middot;&nbsp; &nbsp; &nbsp;Strong experience in Superannuation/wealth/investments/banking<br>&middot;&nbsp; &nbsp; &nbsp;Ability to translate technical requirements and solution designs into delivery plans<br>&middot;&nbsp; &nbsp; &nbsp; Proven experience managing technical dependencies and delivery across&nbsp;Architecture, Cloud, Infrastructure, Networks, Cyber Security, Data, Applications&nbsp;<br>&middot;&nbsp; &nbsp; &nbsp; Strong vendor management/third-party vendor communication skills<br>&middot;&nbsp; &nbsp; &nbsp; Strong program change experience (Not just BAU)<br>&middot;&nbsp; &nbsp; &nbsp; Excellent communication and stakeholder management skills, both business and technical stakeholders<br>&middot;&nbsp; &nbsp; &nbsp; Strong experience in JIRA &amp; Confluence<br>&middot;&nbsp; &nbsp; &nbsp; Project Management certifications highly advantageous (PMP, PRINCE2, SAFe)<br><br>If you have the right&nbsp;skillset,&nbsp;please get in contact with&nbsp;<strong>Cat&nbsp;</strong>or send me your resume to&nbsp;cat.john@halcyonknights.com.au<br><br>#SCR-catrin-john]]></description>
+    <salary><![CDATA[$1,000 - $1,150 Day]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8152065]]></latitude>
+    <longitude><![CDATA[144.963937]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Data and AI Architect]]></title>
+    <date><![CDATA[Sun, 04 Oct 2026 22:54:26 +0000]]></date>
+    <referencenumber><![CDATA[1691552]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/data-and-ai-architect-in-it-telecomms-jobs-1745344]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[Enterprise platform strategy and readiness <ul> <li>Experienced Data &amp; AI Architect with a track record of designing and delivering enterprise-scale data, machine learning, generative AI and agentic-AI solutions.</li> <li>Assesses enterprise platform readiness across the full data and AI landscape, including data foundations, ML and LLM services, enterprise knowledge, integration, AI controls, user experience, runtime orchestration and platform engineering.</li> <li>Identifies platform gaps, constraints and technical risks; develops practical, prioritised recommendations to strengthen the client&rsquo;s data and AI platform.</li> </ul> Solution architecture and design <ul> <li>Defines end-to-end solution architectures for specific data, ML and AI use cases, balancing functional needs with the client&rsquo;s existing technology environment, architecture standards, security requirements and delivery constraints.</li> <li>Designs reusable patterns for data access, retrieval and knowledge grounding, model and agent execution, enterprise integration, identity and access controls, observability, evaluation, resilience and operational support.</li> <li>Works closely with client enterprise architects, platform teams, security and risk stakeholders, product owners and delivery teams to align solution designs with target-state architecture and roadmaps.</li> </ul> Delivery and engineering leadership <ul> <li>Understands the client&rsquo;s engineering practices, delivery lifecycle and maturity; guides teams to adopt appropriate development, testing, release, documentation, operational-readiness and governance practices.</li> <li>Provides hands-on technical leadership throughout delivery, including architecture decisions, design assurance, technical troubleshooting, and transition of solutions into production support.</li> <li>Communicates complex technical choices clearly to both senior business stakeholders and engineering teams, articulating trade-offs, dependencies, risks and recommended decisions.</li> </ul>]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8136276]]></latitude>
+    <longitude><![CDATA[144.9630576]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[AI Technology Manager]]></title>
+    <date><![CDATA[Sun, 04 Oct 2026 21:49:27 +0000]]></date>
+    <referencenumber><![CDATA[1691528]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/ai-technology-manager-in-it-telecomms-jobs-1745331]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<ul> <li>Senior Manager-level technology practitioner with hands-on experience implementing data and AI solutions.</li><li>Owns end-to-end technical delivery, from technical solution design through development, integration, testing, deployment and transition into production.</li> <li>Translates business requirements into technical designs, solution requirements and delivery plans, while managing diverse stakeholders, including senior client stakeholders, business owners and technical teams.</li> <li>Develops practical data and AI solutions, including agentic AI applications and workflows, while ensuring adherence to relevant risk, security, governance and responsible AI requirements.</li> <li>Leads small, high-performing teams of data and AI engineers to deliver scalable, production-ready solutions</li> <li>Melbourne office- 2 days per week on-site</li> <li>Consultancy</li> </ul>]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[-37.8136276]]></latitude>
+    <longitude><![CDATA[144.9630576]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Systems Engineer]]></title>
+    <date><![CDATA[Sun, 04 Oct 2026 22:54:26 +0000]]></date>
+    <referencenumber><![CDATA[1690593]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/systems-engineer-in-engineering-jobs-1745343]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Melbourne]]></city>
+    <state><![CDATA[VIC]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>System Engineer<br></strong>Melbourne | Permanent, hybrid | up to $130K + super<br><br> Our client is a leading global provider of retail point-of-sale technology, supplying the hardware and software behind checkouts in major retailers. Their Melbourne Professional Services team is standing up a new rollout of their retail commerce platform for a customer, and needs a hands-on engineer to make it happen.<br><br> You'll build the environments, get stores connected and support the rollout through pilot and hypercare.<br><br> <strong>What you'll be doing</strong><br> <ul> <li>Building application, database and infrastructure environments across dev, test, pilot and production</li> <li>Getting in-store POS hardware, peripherals, OS images and store networks ready for rollout</li> <li>Connecting the platform to back-end systems, payments and third-party services</li> <li>Automating builds and deployments so the rollout scales across stores</li> <li>Setting up monitoring and providing L2/L3 support through pilot and hypercare</li> <li>Keeping environments hardened, patched and PCI-aligned, with clear runbooks for handover</li> </ul> <strong>Must Have</strong><br> <ul> <li>Windows and Linux server administration</li> <li>Retail POS, store infrastructure or peripheral experience</li> <li>Azure or AWS, plus solid networking (TCP/IP, DNS, VLANs, firewalls)</li> <li>Scripting in PowerShell, Bash or Python, with CI/CD and IaC exposure (Terraform, Ansible)</li> <li>SQL Server or PostgreSQL fundamentals</li> <li>Confident working directly with customers</li> </ul> If you have the right skillset, please get in contact with <strong>Lainey</strong> or send me your resume to <strong>lainey.macdonald@halcyonknights.com.au</strong><br><br> <strong>#SCR-lainey-macdonald-1</strong><br><br> Halcyon Knights is an equal opportunities employment agency, valuing the contributions made by all people and welcomes applications from people with disability, Aboriginal Australians, people of all ages and from culturally diverse backgrounds.]]></description>
+    <salary><![CDATA[$110,000 - $130,000 Year]]></salary>
+    <category><![CDATA[Engineering]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-37.8136276]]></latitude>
+    <longitude><![CDATA[144.9630576]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Principal Identity Architect]]></title>
+    <date><![CDATA[Sun, 04 Oct 2026 23:19:27 +0000]]></date>
+    <referencenumber><![CDATA[1689095]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/principal-identity-architect-in-it-telecomms-jobs-1745350]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Adelaide]]></city>
+    <state><![CDATA[SA]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<strong>Principal Identity Architect&nbsp;<br></strong>South Australia - Hybrid working&nbsp;<strong><br></strong>&nbsp;<br>Our client is a specialist security consultancy. IAM, PAM and identity governance is their bread and butter, and they're growing quickly with clients across Australia. <br><br>They're looking for a senior/principal architect who sits between hands-on delivery and leadership: owning complex identity designs for clients, leading the technical support team and helping shape how the practice grows.<br><br> <strong>What you'll be doing</strong><br> <ul> <li>Designing and delivering IAM, PAM and IGA solutions for a range of clients, from strategy and architecture through to configuration, testing and deployment</li> <li>Being the trusted technical voice for client stakeholders and explaining complex ideas clearly</li> <li>Leading and developing the support team, including work allocation, training plans and performance reviews</li> <li>Writing the documents that win and land work: designs, architecture, options analysis and tender responses</li> <li>Evaluating new technologies alongside key vendors</li> </ul> <strong>Must Have</strong><br> <ul> <li>7+ years in identity, security or infrastructure</li> <li>hands-on experience with at least one of these: Entra ID, Ping, Saviynt, Delinea,CyberArk, Okta&nbsp;</li> <li>Hands-on experience across access management, PAM and IGA&nbsp;</li> <li>Strong recent experience with, Entra ID, AAD Connect and M365 experience</li> <li>Integration experience with systems like HCM or HRIS systems, alongside SIEM or SCIM</li> <li>previous client-facing experience, with a strong track record of written design documentation</li> <li>Experience leading and mentoring a team</li> </ul> If you have the right skillset, please get in contact with<strong> Lainey</strong> or send me your resume to <strong>lainey.macdonald@halcyonknights.com.au</strong><br><br> <strong>#SCR-lainey-macdonald-1</strong><br><br> Halcyon Knights is an equal opportunities employment agency, valuing the contributions made by all people and welcomes applications from people with disability, Aboriginal Australians, people of all ages and from culturally diverse backgrounds.]]></description>
+    <salary><![CDATA[$200,000 - $225,000 Year]]></salary>
+    <category><![CDATA[IT & Telecomms]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-34.9284989]]></latitude>
+    <longitude><![CDATA[138.6007456]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Facilities Manager]]></title>
+    <date><![CDATA[Fri, 02 Oct 2026 01:44:26 +0000]]></date>
+    <referencenumber><![CDATA[1688569]]></referencenumber>
+    <url><![CDATA[https://www.halcyonknights.com.au/job-details/facilities-manager-in-building-construction-jobs-1743694]]></url>
+    <company><![CDATA[Halcyon Knights]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Adelaide]]></city>
+    <state><![CDATA[SA]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[Facilities Manager &ndash; SA State Government <br><strong>Location:</strong> Mawson Lakes, SA<br><strong>Employment:</strong> Full-time<br><strong>Contract:</strong>&nbsp;ASAP - June 2027<br><strong>Rate:</strong> $69&ndash;$71 per hour + superannuation<br> An exciting opportunity is available for an experienced <strong>Facilities Manager</strong> to join a South Australian State Government department based in Mawson Lakes.<br> This is a hands-on facilities and asset management role where you will play an important part in ensuring facilities are safe, well-maintained, compliant and operating effectively. You will work closely with contractors, suppliers, internal stakeholders and other government agencies to deliver high-quality facilities services and maintenance outcomes.<br> About the role As Facilities Manager, you will be responsible for the day-to-day management of facilities services, maintenance programs and external service providers across a portfolio of assets.<br> Your responsibilities will include:<br> <ul> <li>Managing facilities maintenance, including preventative maintenance, repairs, upgrades and improvement works.</li> <li>Developing and managing facilities budgets, monitoring expenditure and identifying opportunities for cost efficiencies.</li> <li>Managing relationships with contractors, suppliers and service providers to ensure quality, timely and compliant delivery.</li> <li>Monitoring contractor performance against contracts, KPIs and service level expectations.</li> <li>Conducting regular inspections and coordinating corrective actions to ensure facilities meet relevant building, safety and industry requirements.</li> <li>Monitoring the condition and performance of buildings, plant and equipment and developing appropriate maintenance and replacement strategies.</li> <li>Working with internal teams and external partners to plan and deliver facilities improvement projects.</li> <li>Responding to and resolving facilities-related issues, complaints and stakeholder concerns.</li> <li>Building strong relationships with a broad range of stakeholders and providing practical advice on facilities matters.</li> <li>Identifying opportunities to improve facilities processes, systems and service delivery.</li> </ul> About you We are looking for an experienced facilities or property professional who can confidently manage competing priorities, contractors and stakeholder expectations.<br> You will ideally have:<br> <ul> <li>Demonstrated experience in facilities, property or asset management.</li> <li>Strong experience managing contractors, suppliers and service providers.</li> <li>Excellent communication and stakeholder management skills.</li> <li>Experience managing budgets and monitoring expenditure.</li> <li>Strong knowledge of facilities maintenance, compliance and building requirements.</li> <li>The ability to identify issues, assess options and implement practical solutions.</li> <li>Strong organisational skills and the ability to manage multiple priorities in a busy environment.</li> <li>Relevant tertiary qualifications in property or a related discipline are highly desirable, or equivalent professional experience.</li> <li>Property Manager Registration is required.</li> </ul> What&rsquo;s on offer? <ul> <li>Full-time opportunity with a South Australian State Government department.</li> <li>Based in <strong>Mawson Lakes</strong>.</li> <li>Attractive hourly rate of <strong>$69&ndash;$71 per hour + superannuation</strong>.</li> <li>Opportunity to work across a varied property and facilities portfolio.</li> <li>A role with significant stakeholder engagement and responsibility.</li> <li>The opportunity to contribute to the effective management and improvement of government assets.</li> </ul> A current satisfactory <strong>National Police Clearance</strong> will be required for the successful candidate. Some out-of-hours work and interstate/intrastate travel may also be required.<br> <strong>If you are an experienced Facilities Manager looking for your next opportunity within South Australian Government, we would love to hear from you.</strong>]]></description>
+    <salary><![CDATA[$-1 - $-1]]></salary>
+    <category><![CDATA[Building & Construction]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-34.9284989]]></latitude>
+    <longitude><![CDATA[138.6007456]]></longitude>
+  </job>
+</source>
