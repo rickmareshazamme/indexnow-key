@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sat, 07 Nov 2026 12:32:02 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Senior Data Engineer]]></title>
+    <date><![CDATA[Wed, 04 Nov 2026 10:02:15 +0000]]></date>
+    <referencenumber><![CDATA[73388]]></referencenumber>
+    <url><![CDATA[https://www.coxpurtell.com.au/job-details/senior-data-engineer-in-jobs-1785660]]></url>
+    <company><![CDATA[Cox Purtell]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney]]></city>
+    <state><![CDATA[New South Wales]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[2000]]></postalcode>
+    <description><![CDATA[<p dir="ltr"><strong>Lead Data Engineer - Databricks, Snowflake &amp; AWS</strong></p>
+<p dir="ltr"><strong>Sydney | Permanent | $150k - $220k + super | Global consulting firm - Data Infrastructure, Platform &amp; Analytics</strong></p>
+<p dir="ltr">If you’ve ever lost an afternoon to a Spark job that should have run in four minutes, or rebuilt a pipeline because the first version bugged you - keep reading.</p>
+<p dir="ltr">Our client’s Data Infrastructure, Platform &amp; Analytics team is growing in Sydney. It’s a chance to take your thinking about how data platforms should be built and apply it to large, complex programs of work - where it shapes the outcome, not just the ticket in front of you.</p>
+<p dir="ltr"><strong>The work</strong></p>
+<p dir="ltr">You’ll design and deliver data platforms for government, financial services and enterprise clients, on programs big enough that the architecture decisions matter.</p>
+<p dir="ltr">This is consulting, so expect variety - different clients, different data estates, different problems. The upside is influence. You’ll be in the room when platform direction gets set, working alongside client technology leaders, and accountable for whether it works.</p>
+<p dir="ltr">The team works AI-accelerated - AI tooling is built into how platforms are designed, built and delivered, so you spend less time on boilerplate and more on the problems worth solving.</p>
+<p dir="ltr"><strong>Where you fit</strong></p>
+<p dir="ltr">Every role is at technical leadership level. That doesn’t mean you stop building.</p>
+<ul dir="ltr">
+<li><strong>Technical Lead</strong> - you own platform components end to end and make the design calls. Prior people leadership isn’t required - strong individual contributors who set the technical standard for others are exactly who we’d like to hear from.</li>
+<li><strong>Principal Engineer</strong> - you lead delivery across a domain, mentor engineers and shape how a client’s platform is built.</li>
+<li><strong>Hands-on Architect</strong> - you design target-state architecture, own the cost, governance and scalability tradeoffs, and still get your hands dirty.</li>
+</ul>
+<p dir="ltr"><strong>What you’ll bring</strong></p>
+<ul dir="ltr">
+<li>Real depth in <strong>Databricks</strong> - Spark/PySpark, Delta Lake, Unity Catalog, Workflows - and/or <strong>Snowflake</strong> - warehouse sizing, Snowpipe, Streams &amp; Tasks, Snowpark. Strength in one with working knowledge of the other is the sweet spot.</li>
+<li>Hands-on <strong>AWS</strong> data platform experience - <strong>Glue and/or Redshift</strong> in particular, plus the surrounding services (S3, Lambda, Step Functions, IAM)</li>
+<li>Strong SQL and data modelling, with dbt experience valued</li>
+<li>Infrastructure-as-code (Terraform) and CI/CD for data platforms</li>
+<li>Hands-on use of AI tools in your own engineering workflow - for code, testing, documentation or pipeline build - and a view on where they help and where they don’t</li>
+<li>Opinions on partitioning, cluster sizing and warehouse cost - and the results to back them up</li>
+<li>Experience leading or influencing technical direction on large programs, whether through a title or through being the person everyone asks</li>
+<li>Comfort in front of clients - explaining tradeoffs to technical and non-technical stakeholders, and keeping delivery on track</li>
+</ul>
+<p dir="ltr">Databricks, Snowflake or AWS certifications will strengthen your application. Azure experience is welcome, but this role leans AWS.</p>
+<p dir="ltr"><strong>Interested?</strong></p>
+<p dir="ltr">Apply here, or connect with me on LinkedIn and send your CV through: <a href="https://www.linkedin.com/in/jasonpretorius/">https://www.linkedin.com/in/jasonpretorius/</a></p>
+<p dir="ltr">Our client can only consider Australian citizens or permanent residents for these roles.</p>]]></description>
+    <salary><![CDATA[+ Super + Bonuses]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[-33.8708464]]></latitude>
+    <longitude><![CDATA[151.20733]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Azure Integration Developer - NV1]]></title>
+    <date><![CDATA[Wed, 04 Nov 2026 09:39:22 +0000]]></date>
+    <referencenumber><![CDATA[76018]]></referencenumber>
+    <url><![CDATA[https://www.coxpurtell.com.au/job-details/senior-azure-integration-developer-nv1-in-jobs-1785652]]></url>
+    <company><![CDATA[Cox Purtell]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney]]></city>
+    <state><![CDATA[New South Wales]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[2000]]></postalcode>
+    <description><![CDATA[<p dir="ltr"><strong>Senior Azure Integration Developer - NV1 - Sydney, Canberra or Brisbane</strong></p>
+<ul dir="ltr">
+<li>Own integration architecture for ERP, data platform and AI programs</li>
+<li>Hands-on Azure Integration Services: APIM, Logic Apps, Service Bus, Event Hub</li>
+<li>12-month contract + 12-month extension, hybrid in Canberra, Sydney or Brisbane</li>
+</ul>
+<p dir="ltr"><strong>About the client</strong></p>
+<p dir="ltr">Our client is a federal government agency in the middle of a significant digital uplift. Integration sits at the centre of it, connecting business applications, enterprise platforms, data services, external partners and, increasingly, AI services. The program of work spans ERP modernisation, Azure platform uplift, enterprise data platform enhancements, Microsoft Foundry adoption and digital service delivery.</p>
+<p dir="ltr"><strong>About the role</strong></p>
+<p dir="ltr">Sitting within the Architecture team, you’ll own the design and ongoing evolution of the agency’s enterprise integration capability, including the uplift and governance of its iPaaS platform. It’s a genuine mix of architecture leadership, design assurance and hands-on delivery, working across project and operational teams to make sure what gets built is secure, scalable and reusable. A meaningful part of the role is AI transformation, which is why commercial AI experience is highly desirable. This is an initial 12-month contract with a 12-month extension option, starting late December, at a daily rate of $[ ]. The role is hybrid with a minimum of three days a week in the office, and the client will consider candidates based in Canberra, Sydney or Brisbane.</p>
+<p dir="ltr"><strong>Duties</strong></p>
+<ul dir="ltr">
+<li>Define and evolve the integration architecture, standards, patterns and roadmap.</li>
+<li>Lead the uplift of the iPaaS platform and its supporting technologies.</li>
+<li>Design and implement API, event-driven and service-oriented integration solutions supporting ERP, data platform, analytics and AI initiatives.</li>
+<li>Design integration approaches for AI services, agent-based systems, MCP servers and machine-to-machine communication.</li>
+<li>Establish DevOps, automation and CI/CD practices for integration services, alongside API management and governance capability.</li>
+</ul>
+<p dir="ltr"><strong>Requirements</strong></p>
+<ul dir="ltr">
+<li>Australian Citizen with a current NV1 security clearance (essential).</li>
+<li>Senior experience designing, implementing and supporting enterprise integration solutions in complex environments.</li>
+<li>Strong hands-on experience with Azure Integration Services, including API Management, Logic Apps, Service Bus, Event Hub, Function Apps and Data Factory.</li>
+<li>Experience developing integration standards, patterns and governance, and providing design assurance across technology initiatives.</li>
+<li>Experience supporting large programs such as ERP modernisation, enterprise data platforms, cloud transformation or digital services.</li>
+<li>The ability to work independently, manage competing priorities and deliver with minimal supervision.</li>
+<li>Highly desirable: commercial AI experience, such as AI platforms, agent-based architectures, MCP servers or API ecosystems.</li>
+<li>Desirable: experience integrating data warehouses, data lakes or analytics environments.</li>
+</ul>
+<p dir="ltr"><strong>How to apply</strong></p>
+<p dir="ltr">If this is the integration work you’ve been wanting to get your hands on, apply now and we’ll be in touch for a confidential conversation.</p>
+<p><br /> </p>]]></description>
+    <salary><![CDATA[$-1 - $-1 Daily]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[-33.8708464]]></latitude>
+    <longitude><![CDATA[151.20733]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Lead Observability Platform Engineer]]></title>
+    <date><![CDATA[Wed, 04 Nov 2026 10:14:42 +0000]]></date>
+    <referencenumber><![CDATA[74876]]></referencenumber>
+    <url><![CDATA[https://www.coxpurtell.com.au/job-details/lead-observability-platform-engineer-in-jobs-1785666]]></url>
+    <company><![CDATA[Cox Purtell]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney]]></city>
+    <state><![CDATA[New South Wales]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[2000]]></postalcode>
+    <description><![CDATA[<h1>Lead Observability Platform Engineer</h1>
+<p><em>Sydney | Full-time </em><br /> </p>
+<h2>Seek Selling Points</h2>
+<ul>
+<li>You already know when the telemetry is lying before the dashboard ever admits it</li>
+<li>Attractive salary, real bonus, and a rewards package built for someone this good</li>
+<li>High-frequency, low-latency, mission-critical work, built for genuinely serious minds</li>
+</ul>
+<h2>About the Client</h2>
+<p>You'll be joining an organisation operating at the sharp end of technology: high-frequency, high-throughput, low-latency systems where speed, precision and reliability aren't aspirations, they're the job. Here, downtime or delay has a real, measurable cost, not just reputational noise. It's the kind of environment that suits people who've worked across high-stakes sectors, from finance, trading and gaming through to telecommunications and mission-critical government and defence technology, and who already know the difference between a system that's fast and one that's actually trustworthy. Sydney based, corporate, well-resourced, and built for people who want the hardest version of this job, not the easiest.<br /> </p>
+<h2>About the Role</h2>
+<p>You're the one who gets pulled into the incident channel first, not last. You've already built or fixed the observability platform other engineers rely on without thinking about it, and you know that's the whole point: it should be invisible until the moment it isn't. This role puts you in charge of that platform end to end, metrics, logs, traces, events, alerting and diagnostics, the layer that tells everyone else what's actually happening under load. You already treat observability as a trust problem, not a tooling problem. That instinct is exactly why this role exists.<br /> </p>
+<h2>Duties</h2>
+<ul>
+<li>You'll design, build and operate a shared observability platform spanning telemetry collection, ingestion, storage, query, visualisation, alerting and diagnostics.</li>
+<li>You'll build the services, APIs, integrations and dashboards that make observability easier to adopt and more reliable to operate.</li>
+<li>You'll improve the scalability, reliability, performance and cost-effectiveness of high-volume telemetry systems.</li>
+<li>You'll improve developer and operator experience through self-service workflows, golden paths and practical platform abstractions.</li>
+<li>You'll own the reliability of what you build, including failure modes, monitoring, incident learnings and continuous improvement.</li>
+</ul>
+<h2>Requirements</h2>
+<ul>
+<li>You've got strong engineering experience in SRE, platform engineering, infrastructure, observability, developer tooling or distributed systems.</li>
+<li>You already reason about failure modes, debugging workflows and service reliability under pressure, because you've had to.</li>
+<li>You have technical depth across logs, metrics, traces, events, alerting, dashboards and telemetry pipelines, not just familiarity.</li>
+<li>You've designed, built or operated services, pipelines or tools that other engineering teams depend on.</li>
+<li>You're comfortable with modern observability and telemetry tooling across metrics, logging, tracing and time-series systems, and you keep up with where it's heading.</li>
+</ul>
+<h2>How to Apply</h2>
+<p>If most of this reads like a description of how you already work, not what you're hoping to grow into, we should talk.<br /> </p>]]></description>
+    <salary><![CDATA[+ Super + Bonuses]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[-33.8708464]]></latitude>
+    <longitude><![CDATA[151.20733]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Linux Systems Engineer (Bare Metal & Kubernetes)]]></title>
+    <date><![CDATA[Mon, 02 Nov 2026 23:10:49 +0000]]></date>
+    <referencenumber><![CDATA[74873]]></referencenumber>
+    <url><![CDATA[https://www.coxpurtell.com.au/job-details/linux-systems-engineer-bare-metal-kubernetes-in-jobs-1783072]]></url>
+    <company><![CDATA[Cox Purtell]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney]]></city>
+    <state><![CDATA[New South Wales]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[2000]]></postalcode>
+    <description><![CDATA[<p><strong>About the Role</strong></p>
+<p>As Linux Systems Engineer, you'll join the Global Linux team responsible for the infrastructure that powers a live trading environment, spanning large-scale bare-metal Linux platforms and on-prem Kubernetes clusters. You'll design, build and operate systems the business depends on every day, from hardware provisioning through to orchestration and automation. This is ownership of foundational infrastructure, not managed cloud abstraction, in a setting where reliability and performance matter.</p>
+<p><strong>Duties</strong></p>
+<ul>
+<li>Design, deploy and operate on-prem Kubernetes clusters in a bare-metal environment.</li>
+<li>Maintain and improve bare-metal Linux infrastructure, including provisioning, lifecycle management and performance tuning.</li>
+<li>Own and operate core Kubernetes components such as the CNI, GitOps tooling and cluster management layer (currently Cilium, ArgoCD and Rancher).</li>
+<li>Build and maintain CI/CD workflows and infrastructure as code for infrastructure and cluster deployments.</li>
+<li>Take part in an on-call rotation, drive post-incident improvements, and document runbooks so the wider team can support the platforms.</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>Strong Linux systems engineering experience in a production environment.</li>
+<li>Hands-on experience running Kubernetes or comparable infrastructure on-prem, not solely through managed cloud offerings.</li>
+<li>Experience with infrastructure as code and CI/CD or GitOps workflows. Terraform, ArgoCD, Rancher, Cilium and GitHub Actions are all useful, and depth in the specific stack can be built on the job.</li>
+<li>Solid understanding of networking fundamentals, including L2/L3, routing, firewalls and load balancing.</li>
+<li>Experience troubleshooting performance issues across the kernel, container and network layers.</li>
+<li>A production mindset, with experience in incident response and post-mortem-driven improvement.</li>
+<li>Experience with Prometheus, Grafana, Kubernetes security controls, or low-latency and high-performance environments will be highly regarded.</li>
+</ul>
+<p>If this sounds like the kind of infrastructure challenge you're after, we'd love to hear from you.<br /> <br /> <br /> <br /> <br /> </p>]]></description>
+    <salary><![CDATA[(Package incl Bonuses & Super)]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[-33.8688197]]></latitude>
+    <longitude><![CDATA[151.2092955]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Operations & Membership Officer]]></title>
+    <date><![CDATA[Wed, 28 Oct 2026 00:37:18 +0000]]></date>
+    <referencenumber><![CDATA[74944]]></referencenumber>
+    <url><![CDATA[https://www.coxpurtell.com.au/job-details/operations-membership-officer-in-administration-office-support-jobs-1772718]]></url>
+    <company><![CDATA[Cox Purtell]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Chirnside Park]]></city>
+    <state><![CDATA[Victoria]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[3138]]></postalcode>
+    <description><![CDATA[<div><strong>Operations &amp; Membership Officer</strong><br /> <br /> <strong>Chirnside Park, VIC</strong><br /> <br /> <strong>Full time</strong><br /> <br /> <strong>Interstate and occasional international travel a few times a year</strong><br /> <br /> <br /> <br /> Whether your background is in events, marketing, account management or B2B partnerships, this role is a chance to take your skills into a national peak industry body. You'll coordinate trade shows (with international travel), drive member growth, manage sponsor relationships and deliver marketing campaigns, with a lot of variety from one week to the next. No association experience is needed, just the energy to get stuck in.<br /> <br /> The organisation runs industry-leading events, including a flagship triennial trade exhibition, alongside a strong member services and partnerships program. With over 150 Australian-based company members, this is a genuinely varied role working closely with the General Manager, CEO and business partners across the full operations of the association.<br /> <br /> <br /> <br /> <strong>What you'll be doing:</strong><br /> <br />
+<ul>
+<li>Delivering clear, timely reporting on acquisition, sponsorship revenue, event performance and marketing engagement.</li>
+<li>Proactively identifying, targeting and converting new member companies to drive satisfaction, retention and growth.</li>
+<li>Coordinating the association's presence at domestic and international trade events, from stand design and staffing through to marketing and lead follow-up.</li>
+<li>Building and nurturing relationships with sponsors and service partners, and pitching new partners that resonate with the membership.</li>
+<li>Driving member communications across newsletters, LinkedIn, forums and other digital channels, including publications and member content.</li>
+<li>Managing the association's recurring events calendar, including its flagship exhibition, an annual awards program, and other member gatherings.</li>
+</ul>
+<br /> <br /> <strong>What we're looking for:</strong><br /> <br />
+<ul>
+<li>5+ years' experience in a customer-facing, coordination or business operations role (association, events or B2B environment preferred).</li>
+<li>Marketing experience (mainly social media and EDM creation).</li>
+<li>Strong relationship management and communication skills.</li>
+<li>Ability to work autonomously and manage multiple projects simultaneously.</li>
+<li>Excellent written and verbal communication skills in a professional context.</li>
+</ul>
+<br /> <br /> <strong>Great to have (not essential):</strong><br /> <br />
+<ul>
+<li>Background in events coordination or trade exhibition delivery.</li>
+<li>Exposure to sponsorship or partnership management.</li>
+<li>Familiarity with the packaging, processing or broader manufacturing sector.</li>
+</ul>
+<br /> <br /> This is a fantastic opportunity for a relationship-driven operator who wants genuine variety, autonomy and the chance to play a key role in the continued success of a peak industry body.<br /> <br /> <br /> <br /> Salary is competitive and commensurate with experience, circa $90,000 to $100,000 plus superannuation, with interstate and occasional international travel a few times a year.<br /> </div>
+<div> </div>]]></description>
+    <salary><![CDATA[$90,000 - $100,000 Annual]]></salary>
+    <category><![CDATA[Administration & Office Support]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-37.7822365]]></latitude>
+    <longitude><![CDATA[145.3309395]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Insurance and Disputes Specialist | Legal + Insurance]]></title>
+    <date><![CDATA[Tue, 27 Oct 2026 05:42:03 +0000]]></date>
+    <referencenumber><![CDATA[75820]]></referencenumber>
+    <url><![CDATA[https://www.coxpurtell.com.au/job-details/senior-insurance-and-disputes-specialist-legal-insurance-in-insurance-superannuation-jobs-1771198]]></url>
+    <company><![CDATA[Cox Purtell]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[North Sydney]]></city>
+    <state><![CDATA[New South Wales]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[2000]]></postalcode>
+    <description><![CDATA[<p><strong>Insurance Disputes Specialist | Legal and Insurance Background</strong></p>
+<p> </p>
+<p> </p>
+<p><strong>About the client</strong></p>
+<p>Our client is a Tier 1 global general insurer with a long-standing presence across Australia and New Zealand, writing a broad range of policies through retail and wholesale channels. They are known for technical excellence, strong governance and a genuine commitment to fair customer outcomes. You will join a specialist Complaints and Customer Resolution team that is respected across the business for its expertise.</p>
+<p> </p>
+<p><strong>About the role</strong></p>
+<p>You will investigate and resolve complex customer complaints and disputes across retail and wholesale policies in Australia and New Zealand. This is work built for legally minded people: interpreting policy wordings, weighing evidence, drafting reasoned determinations and negotiating outcomes with customers and the external dispute bodies. You will work closely with claims, underwriting and legal, and your findings will directly shape how the business treats its customers. It is a temp contract starting ASAP through to the end of February initially.</p>
+<p> </p>
+<p><strong>Duties</strong></p>
+<ul>
+<li>Investigate and analyse internal disputes across a range of business lines and prepare clear, well-reasoned responses.</li>
+<li>Prepare external dispute responses to AFCA in Australia and FSCL in New Zealand, and liaise directly with both bodies.</li>
+<li>Manage complex property and indemnity disputes, including attending conciliation conferences to negotiate settlements.</li>
+<li>Draft IDR determinations for referral to the internal Disputes Resolution Committee.</li>
+<li>Identify themes, root causes and potential compliance breaches, and escalate matters that carry legal or media risk.</li>
+</ul>
+<p> </p>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>Both legal and insurance experience: a law degree with experience as a practising lawyer in Australia or overseas, plus experience in general insurance, ideally in complaints, IDR/EDR, claims or insurance litigation.</li>
+<li>Strong legal reasoning, with the ability to interpret policy wordings and apply them to the facts of a matter.</li>
+<li>Excellent written skills, with experience drafting determinations, legal advice or formal correspondence.</li>
+<li>Knowledge of AFCA, the General Insurance Code of Practice and ASIC RG 271 is highly regarded. Overseas-qualified lawyers who can get across the Australian framework quickly are encouraged to apply.</li>
+<li>Candidates with temporary work rights (Working Holiday Visa's) as well as candidates with full work rights are both welcome to apply</li>
+</ul>
+<p> </p>
+<p><strong>How to apply</strong></p>
+<p>If you have a legal and insurance background and you are ready to start, apply now and we will be in touch for a confidential chat.</p>
+<p><br /> </p>]]></description>
+    <salary><![CDATA[Super]]></salary>
+    <category><![CDATA[Insurance & Superannuation]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[-33.8708464]]></latitude>
+    <longitude><![CDATA[151.20733]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Customer Success Program Manager (Fortune 500 SaaS)]]></title>
+    <date><![CDATA[Tue, 20 Oct 2026 00:11:11 +0000]]></date>
+    <referencenumber><![CDATA[75717]]></referencenumber>
+    <url><![CDATA[https://www.coxpurtell.com.au/job-details/customer-success-program-manager-fortune-500-saas-in-jobs-1763064]]></url>
+    <company><![CDATA[Cox Purtell]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Sydney CBD]]></city>
+    <state><![CDATA[New South Wales]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[2000]]></postalcode>
+    <description><![CDATA[<p style="margin-top: 0pt; margin-bottom: 10pt; font-family: Arial; font-size: 16.0pt;"><strong>Customer Success Program Manager</strong></p>
+<p style="margin-top: 0pt; margin-bottom: 6pt; font-family: Arial; font-size: 11.0pt;">$126.6k + Super | 9 month contract | Flexible Hybrid Role | Sydney CBD Based</p>
+<p style="margin-top: 0pt; margin-bottom: 6pt; font-family: Arial; font-size: 11.0pt;"> </p>
+<p style="margin-top: 0pt; margin-bottom: 6pt; font-family: Arial; font-size: 11.0pt;"><strong>About the client</strong></p>
+<p style="margin-top: 0pt; margin-bottom: 6pt; font-family: Arial; font-size: 11.0pt;">Our client is a global Fortune 500 SaaS company whose software platforms is a leader in the Fintech space. With an established presence in Australia, the business works closely with international teams to deliver for its local customers. It values practical problem solving, clear communication and continuous improvement in how work gets done.</p>
+<p style="margin-top: 0pt; margin-bottom: 6pt; font-family: Arial; font-size: 11.0pt;"><strong>About the role</strong></p>
+<p style="margin-top: 0pt; margin-bottom: 6pt; font-family: Arial; font-size: 11.0pt;">This is a 9-month contract, hands-on individual contributor role delivering Customer Success programs on the ground in Australia. You will take agreed priorities and turn them into practical plans, coordinate the people involved and keep work moving through to completion. Reporting into a UK-based team while working closely with Australian stakeholders, you will be the local driver of delivery. It suits someone who enjoys organising work, solving problems and improving how a business operates.</p>
+<p style="margin-top: 0pt; margin-bottom: 6pt; font-family: Arial; font-size: 11.0pt;"><strong>Duties</strong></p>
+<ul style="direction: ltr; unicode-bidi: embed; margin-top: 0in; margin-bottom: 0in;" type="disc">
+<li style="margin-top: 0pt; margin-bottom: 3pt; vertical-align: middle;"><span style="font-family: Arial; font-size: 11.0pt;">Plan and deliver local Customer Success projects and program activities from start to finish.</span></li>
+<li style="margin-top: 0pt; margin-bottom: 3pt; vertical-align: middle;"><span style="font-family: Arial; font-size: 11.0pt;">Build clear project plans with tasks, owners, deadlines and key milestones.</span></li>
+<li style="margin-top: 0pt; margin-bottom: 3pt; vertical-align: middle;"><span style="font-family: Arial; font-size: 11.0pt;">Work with Australian and UK teams to agree priorities and follow up on actions.</span></li>
+<li style="margin-top: 0pt; margin-bottom: 3pt; vertical-align: middle;"><span style="font-family: Arial; font-size: 11.0pt;">Track progress, identify delays or risks early and help resolve issues before they escalate.</span></li>
+<li style="margin-top: 0pt; margin-bottom: 3pt; vertical-align: middle;"><span style="font-family: Arial; font-size: 11.0pt;">Prepare updates and business reports, and use feedback and data to recommend practical improvements.</span></li>
+</ul>
+<p style="margin-top: 12pt; margin-bottom: 6pt; font-family: Arial; font-size: 12.0pt;"> </p>
+<p style="margin-top: 12pt; margin-bottom: 6pt; font-family: Arial; font-size: 12.0pt;"><strong>Requirements</strong></p>
+<ul style="direction: ltr; unicode-bidi: embed; margin-top: 0in; margin-bottom: 0in;" type="disc">
+<li style="margin-top: 0pt; margin-bottom: 3pt; vertical-align: middle;"><span style="font-family: Arial; font-size: 11.0pt;">Around 3 to 5 years of experience in project management, program delivery or business operations.</span></li>
+<li style="margin-top: 0pt; margin-bottom: 3pt; vertical-align: middle;"><span style="font-family: Arial; font-size: 11.0pt;">Industry experience within large SaaS or Fintech is highly desirable</span></li>
+<li style="margin-top: 0pt; margin-bottom: 3pt; vertical-align: middle;"><span style="font-family: Arial; font-size: 11.0pt;">A proven track record of taking projects from planning through to completion.</span></li>
+<li style="margin-top: 0pt; margin-bottom: 3pt; vertical-align: middle;"><span style="font-family: Arial; font-size: 11.0pt;">Strong organisation skills and the ability to manage several priorities at once.</span></li>
+<li style="margin-top: 0pt; margin-bottom: 3pt; vertical-align: middle;"><span style="font-family: Arial; font-size: 11.0pt;">Confidence working across different teams and adapting when requirements are unclear or priorities change.</span></li>
+<li style="margin-top: 0pt; margin-bottom: 3pt; vertical-align: middle;"><span style="font-family: Arial; font-size: 11.0pt;">Working ability with spreadsheets and presentations for reporting and updates.</span></li>
+<li style="margin-top: 0pt; margin-bottom: 3pt; vertical-align: middle;"><span style="font-family: Arial; font-size: 11.0pt;">Basic familiarity with AI tools and a willingness to learn how to use approved tools responsibly.</span></li>
+<li style="margin-top: 0pt; margin-bottom: 3pt; vertical-align: middle;"><span style="font-family: Arial; font-size: 11.0pt;">Flexibility to attend agreed meetings across Australian and UK time zones.</span></li>
+<li style="margin-top: 0pt; margin-bottom: 3pt; vertical-align: middle;"><span style="font-family: Arial; font-size: 11.0pt;">Experience in Customer Success, customer operations or a software or technology business is advantageous, but not essential.</span></li>
+</ul>
+<p style="margin-top: 12pt; margin-bottom: 6pt; font-family: Arial; font-size: 12.0pt;"> </p>
+<p style="margin-top: 12pt; margin-bottom: 6pt; font-family: Arial; font-size: 12.0pt;"><strong>How to apply</strong></p>
+<p style="margin-top: 0pt; margin-bottom: 6pt; font-family: Arial; font-size: 11.0pt;">If this sounds like the next step for you, we would love to hear from you, hit APPLY NOW for immediate consideration.</p>
+<p> </p>]]></description>
+    <salary><![CDATA[Super]]></salary>
+    <category><![CDATA[]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[-33.8708464]]></latitude>
+    <longitude><![CDATA[151.20733]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Finance Manager ]]></title>
+    <date><![CDATA[Mon, 12 Oct 2026 22:28:42 +0000]]></date>
+    <referencenumber><![CDATA[75584]]></referencenumber>
+    <url><![CDATA[https://www.coxpurtell.com.au/job-details/finance-manager-in-accounting-jobs-1755264]]></url>
+    <company><![CDATA[Cox Purtell]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Broadmeadows]]></city>
+    <state><![CDATA[Victoria]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[3047]]></postalcode>
+    <description><![CDATA[<p><strong>Finance Manager</strong><br /><strong>Permanent full-time role</strong><br /><strong>$120k+super</strong><br /><strong>Broadmeadows, Melbourne</strong></p>
+<ul>
+<li>Lead the full finance function, including AP, AR, payroll and managing the accounts team</li>
+<li>Own budgeting, company and project cashflow forecasting, and profit and tax planning</li>
+<li>Clear scope to improve financial systems, reporting dashboards and job management tools</li>
+</ul>
+<p><strong>About the Client</strong></p>
+<p>Our client is a growing, project-based business in the Industrial sector with a strong focus on commercial performance and compliance. They manage an active pipeline of projects and rely on accurate job costing, cashflow management and reporting to support their growth. The business values proactive, commercially minded people who take ownership and bring ideas for improvement.</p>
+<p><strong>About the Role</strong></p>
+<p>As Finance Manager, you will lead the end-to-end finance function, from day-to-day accounts through to month-end, reporting and strategic analysis. You will manage the accounts team and own budgeting, forecasting and cashflow at both company and project level. This is a hands-on leadership role where your insights will directly inform decisions on profitability, growth and risk.</p>
+<p><strong>Duties</strong></p>
+<ul>
+<li>Lead the finance function, including accounts payable, accounts receivable and payroll, and manage the accounts team.</li>
+<li>Deliver the month-end close, accurate financial reporting and performance insights to support decision-making.</li>
+<li>Manage budgeting, forecasting, project pipeline forecasting and company and project cashflow.</li>
+<li>Oversee WIP reporting and project financial performance, including revenue recognition and cost control.</li>
+<li>Ensure compliance with financial and statutory obligations, including payroll, superannuation, payroll tax and WorkCover.</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>Proven experience in a Finance Manager or similar role, including managing accounts payable and receivable.</li>
+<li>Strong communication skills and the ability to build credibility with stakeholders at all levels</li>
+<li>CA, CPA, or equivalent qualification is highly regarded</li>
+<li>Experience in project-based, construction, engineering, infrastructure, or contracting environments is highly desirable</li>
+<li>Strong knowledge of accounting principles, financial reporting and compliance requirements.</li>
+<li>Advanced financial modelling, forecasting and analytical skills.</li>
+<li>Demonstrated leadership and team management experience.</li>
+<li>Experience with financial systems, job management software and dashboards.</li>
+<li>Experience implementing financial systems or process improvements is highly regarded.</li>
+</ul>]]></description>
+    <salary><![CDATA[$115,000 - $130,000 Annual]]></salary>
+    <category><![CDATA[Accounting]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[-37.6763574]]></latitude>
+    <longitude><![CDATA[144.9336544]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Project Manager]]></title>
+    <date><![CDATA[Mon, 12 Oct 2026 00:56:47 +0000]]></date>
+    <referencenumber><![CDATA[75550]]></referencenumber>
+    <url><![CDATA[https://www.coxpurtell.com.au/job-details/project-manager-in-information-communication-technology-jobs-1753848]]></url>
+    <company><![CDATA[Cox Purtell]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[Canberra]]></city>
+    <state><![CDATA[Australian Capital Territory]]></state>
+    <country><![CDATA[Australia]]></country>
+    <postalcode><![CDATA[2600]]></postalcode>
+    <description><![CDATA[<p><strong>About the client</strong><br /> <br /> Our client is a large Commonwealth government agency delivering essential services to millions of Australians. Its ICT environment supports some of the most significant service delivery systems in the country, and its technology programs have a direct impact on how people access support. The agency works to an established project management framework and places a strong emphasis on governance, quality and stakeholder partnership.<br /> <br /> <strong>About the role</strong><br /> <br /> As Project Manager, you will plan and lead the delivery of complex ICT projects, some with organisation-wide impact, working under the broad direction of senior staff. You will own projects end to end, from design and planning through to implementation and evaluation, while managing budgets, risks and stakeholder expectations. Alongside delivery, you will lead and develop staff and provide expert advice to stakeholders and the agency’s executive. This is a 12 month contract starting in January 2027, with extension options of up to 24 months.<br /> <br /> <strong>Duties</strong><br /> </p>
+<ul>
+<li>Plan, manage and deliver complex ICT projects in line with the agency’s project management framework, ensuring milestones are met on time and within budget.</li>
+<li>Develop and maintain Project Management Plans, schedules, status reports and exception reports, and prepare business cases and executive briefs.</li>
+<li>Manage project budgets, monitor expenditure and oversee related procurement and contract management.</li>
+<li>Identify, assess, escalate and treat project risks and issues, and track the realisation of project benefits.</li>
+<li>Build strong relationships with internal and external stakeholders at all levels, and lead, coach and manage the performance of project staff.</li>
+</ul>
+<p> </p>
+<p><strong>Requirements</strong><br /> </p>
+<ul>
+<li>Demonstrated experience delivering complex ICT projects, ideally within government or a large enterprise environment.</li>
+<li>Proven experience managing a project budget, including monitoring expenditure and reporting against it.</li>
+<li>Strong written communication skills, with a track record of producing Project Management Plans, status reports and schedules.</li>
+<li>Experience engaging and managing internal and external stakeholders, from frontline staff through to executive level.</li>
+<li>Strong organisational and time management skills, with the ability to balance competing priorities and meet tight deadlines.</li>
+<li>A current Negative Vetting Level 1 (NV1) security clearance or higher is essential and must be held at the time of application.</li>
+<li>You must be based in Canberra, as regular onsite attendance is required.</li>
+</ul>
+<p> </p>
+<p><strong>How to apply</strong><br /> <br /> If this sounds like the right next contract for you, we would love to hear from you, so please apply now.<br /> </p>]]></description>
+    <salary><![CDATA[incl Super]]></salary>
+    <category><![CDATA[Information & Communication Technology]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <remotetype><![CDATA[hybrid]]></remotetype>
+    <latitude><![CDATA[-35.3075699]]></latitude>
+    <longitude><![CDATA[149.1099161]]></longitude>
+  </job>
+</source>
