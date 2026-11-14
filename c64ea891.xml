@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>Shazamme</publisher>
+  <publisherurl>https://shazamme.com</publisherurl>
+  <lastBuildDate>Sat, 14 Nov 2026 11:23:37 +0000</lastBuildDate>
+  <job>
+    <title><![CDATA[Software Engineer]]></title>
+    <date><![CDATA[Tue, 10 Nov 2026 19:40:47 +0000]]></date>
+    <referencenumber><![CDATA[17421]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/software-engineer-in-information-technology-jobs-1795397]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>We are recruiting on behalf of a leading Cayman Islands organisation for a Software Engineer to join its Innovation Team. This is an exciting opportunity for an experienced developer to design, build and support secure digital solutions spanning artificial intelligence, workflow automation, full-stack web development, cloud technologies, reporting and analytics.</p><p>You will work across a varied technology stack, helping to develop AI-enabled and cloud-native solutions while collaborating with both technical and business teams in an Agile environment.</p><p><b>Company Information</b></p><p>This opportunity is with an established and highly regarded Cayman Islands-based organisation with a diverse business portfolio and a strong focus on technology, innovation and digital transformation.</p><p>You will join a collaborative Innovation Team responsible for developing modern digital solutions that improve business processes and support wider organisational objectives. The environment offers exposure to enterprise-scale technology, AI, Microsoft platforms and Azure, with an emphasis on continuous learning and professional development.</p><p><b>Responsibilities and Duties</b></p><p>In this role, you will:</p><ul><li>Design, build, test and deploy AI agents, workflow automations, full-stack web applications, reporting and analytics solutions.</li><li>Develop enterprise AI solutions using Microsoft Copilot Studio, Microsoft Foundry and other AI technologies, following responsible AI principles.</li><li>Build cloud-native web applications and REST APIs using C#, TypeScript, Node.js, React and Microsoft Azure services.</li><li>Automate business processes using Power Automate, integrating solutions with Microsoft 365, Dataverse, Dynamics 365 and other enterprise systems.</li><li>Evaluate, test and monitor AI solutions for accuracy, grounding, safety, performance and cost, resolving issues within production environments.</li><li>Deploy and operate solutions on Azure using DevSecOps practices, including CI/CD pipelines, infrastructure as code, automated testing and monitoring.</li><li>Collaborate with business and technology stakeholders to understand requirements and translate them into effective technical solutions.</li><li>Work within Agile teams to refine requirements and deliver high-quality solutions iteratively.</li></ul><p><b>Qualifications and Skills</b></p><p>You should have:</p><ul><li>A Bachelor's degree in Computer Science, Software Engineering or a related discipline, or equivalent relevant professional experience.</li><li>A minimum of three years' progressive software engineering experience, including experience across the full software development lifecycle.</li><li>Experience developing AI-enabled solutions using Microsoft Copilot Studio and Microsoft Foundry, alongside Power Automate development and integration.</li><li>Strong full-stack development experience using C#, .NET Core, REST APIs, TypeScript, Node.js and React.</li><li>A good understanding of object-oriented design patterns and SOLID principles, with experience working with layered, service-based or hexagonal architectures.</li><li>Experience with relational databases such as SQL Server, Azure SQL, Oracle, PostgreSQL or MySQL; exposure to NoSQL solutions such as Azure Cosmos DB would be advantageous.</li><li>Experience with Azure cloud services, DevSecOps, CI/CD pipelines, automated testing and monitoring.</li><li>Strong analytical, problem-solving and communication skills, with the ability to explain technical concepts and decisions to non-technical stakeholders.</li></ul><p><b>Benefits and Perks</b></p><p>The successful candidate will receive a competitive package designed to support your wellbeing, career development and long-term growth, including:</p><ul><li>100% employer-paid medical insurance premium for the employee.</li><li>Employee and employer pension contributions.</li><li>Life insurance and long-term disability coverage, subject to applicable conditions.</li><li>Enhanced annual leave provisions, including vacation and personal days.</li><li>Maternity and paternity leave benefits.</li><li>A dedicated wellness screening day.</li><li>Continuing professional development opportunities following successful completion of the six-month probationary period.</li></ul><p>This is a full-time, 40-hour-per-week position offering the opportunity to work with modern AI, cloud and Microsoft technologies while contributing to meaningful digital transformation projects in the Cayman Islands.</p>]]></description>
+    <salary><![CDATA[$72,000 - $105,000 Per Annum]]></salary>
+    <category><![CDATA[Information Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Software Engineer]]></title>
+    <date><![CDATA[Mon, 26 Oct 2026 04:10:48 +0000]]></date>
+    <referencenumber><![CDATA[17394]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/software-engineer-in-information-technology-jobs-1766309]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>We are recruiting on behalf of a leading international financial and legal services organisation seeking an experienced Software Engineer to join its Cayman Islands team. You will use modern Microsoft technologies, including C#, .NET and Azure, to design, develop, test and maintain scalable applications, cloud services and CI/CD pipelines that support critical internal operations.</p><p><b>Company Information</b></p><p>This is an opportunity to join a well-established global organisation operating across major financial centres in the Americas, Asia, Europe and the Middle East. The company combines financial and legal services within a collaborative, high-performing and merit-based culture built around integrity, innovation and professional excellence.</p><p>You will join a talented Software Engineering team that works closely with product, engineering, operational and business services teams. The environment encourages knowledge-sharing, professional development and the adoption of new technologies and working practices.</p><p><b>Responsibilities and Duties</b></p><ul><li>Design and develop clean, testable, maintainable and scalable software solutions using C#, .NET and Microsoft Azure.</li><li>Build, test and maintain applications and services that support internal business operations.</li><li>Troubleshoot bugs and continuously improve the performance, security and reliability of existing applications.</li><li>Develop Web and RESTful APIs while integrating software components and third-party applications.</li><li>Use Azure cloud services to improve application performance, capacity and scalability.</li><li>Design and deploy Infrastructure as Code using Terraform.</li><li>Build and manage YAML-based CI/CD pipelines, following software development and deployment best practices.</li><li>Participate in Agile and Scrum ceremonies while collaborating closely with technical and non-technical stakeholders.</li></ul><p><b>Qualifications and Skills</b></p><ul><li>A minimum of five years’ professional software engineering or software development experience.</li><li>Strong knowledge of at least one server-side programming language, ideally C#.</li><li>Proven experience developing Web and RESTful APIs.</li><li>Practical experience with SQL and ORM tools such as Entity Framework.</li><li>Knowledge of front-end frameworks such as React or Angular.</li><li>Experience with Microsoft Azure, YAML-based CI/CD pipelines and production monitoring tools such as Application Insights.</li><li>Strong understanding of design patterns, SOLID principles, microservices and event-driven architecture.</li><li>A bachelor’s degree, ideally within a STEM discipline, or equivalent professional experience. Terraform experience is highly desirable.</li></ul><p><b>Benefits and Perks</b></p><ul><li>The opportunity to work with modern Microsoft technologies, including .NET and Azure.</li><li>Exposure to cloud development, automation, Infrastructure as Code and CI/CD best practices.</li><li>Career development opportunities within an established international organisation.</li><li>Collaboration with experienced technology, product and operational teams across an international business.</li><li>An inclusive, merit-based environment that values integrity, innovation and professional excellence.</li><li>Opportunities for interdisciplinary learning and exposure to both financial and legal services.</li></ul>]]></description>
+    <salary><![CDATA[$130,000 - $145,000 Per Annum]]></salary>
+    <category><![CDATA[Information Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Technical Coordinator]]></title>
+    <date><![CDATA[Fri, 16 Oct 2026 21:05:46 +0000]]></date>
+    <referencenumber><![CDATA[17388]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/technical-coordinator-in-information-technology-jobs-1761748]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Company:</b><br> Our client is seeking an experienced IT Technical Coordinator to support the delivery of key technology initiatives and ensure the effective operation of its systems and IT infrastructure.<br> <br> <br> <b>About the Opportunity:</b><br> As the IT Technical Coordinator, you will oversee the configuration, maintenance and troubleshooting of workplace technology, including end-user devices, business applications and audiovisual systems. Acting as a key point of contact between internal teams and external technology providers, you will help resolve technical challenges, coordinate system implementations and ensure technology solutions meet operational requirements.<br> <br> Beyond day-to-day technical support, you will contribute to technology procurement, system testing, vendor coordination and the rollout of new digital solutions. You will also identify opportunities to improve existing systems and processes, while maintaining strong standards of cybersecurity, data protection and technical compliance.<br> <br> <br> <b>About You: </b><br> You will hold a bachelor's degree in Information Technology, Computer Science, Information Systems or a related discipline, with a minimum of five years' relevant experience in IT support, systems implementation or business technology.<br> <br> You will be highly organised, proactive and technically proficient, with excellent problem-solving and communication skills. The ability to manage competing priorities, work independently and explain technical concepts clearly to both technical and non-technical stakeholders will be essential.<br></p>]]></description>
+    <salary><![CDATA[]]></salary>
+    <category><![CDATA[Information Technology]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Projects & Systems Officer]]></title>
+    <date><![CDATA[Fri, 16 Oct 2026 20:55:46 +0000]]></date>
+    <referencenumber><![CDATA[17387]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/projects-systems-officer-in-information-technology-jobs-1761737]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Company:</b><br> Our client is seeking a skilled Projects and Systems Officer to support the delivery of strategic initiatives and enhance the efficiency of its digital systems and operations.</p><p><b>About the Opportunity:</b><br> An exciting opportunity has arisen for a Projects and Systems Officer to play an integral role in the implementation, administration and ongoing support of digital systems, while contributing to a portfolio of strategic projects.</p><p>You will be responsible for day-to-day systems administration, user access management, troubleshooting and operational support, while developing a strong understanding of system functionality and business processes. A key aspect of the role will involve delivering training, providing user guidance and supporting the successful adoption of new technologies across the organisation.</p><p>Alongside these responsibilities, you will manage assigned projects from planning through to implementation, coordinating stakeholders, vendors, timelines and deliverables. You will also support system testing, process improvements, reporting and documentation, ensuring projects are delivered effectively and in line with established governance and security requirements.</p><p><b>About You:</b><br> You will hold a bachelor's degree in Business Administration, Project Management, Public Administration, Operations Management or a related discipline, with relevant experience in project coordination, systems administration or operational support.</p><p>Familiarity with data analysis, reporting, procurement, change management or business process improvement would be beneficial. You will be highly organised, adaptable and proactive, with excellent communication and problem-solving skills, strong attention to detail and the ability to build effective relationships with stakeholders at all levels.</p>]]></description>
+    <salary><![CDATA[]]></salary>
+    <category><![CDATA[Information Technology]]></category>
+    <jobtype><![CDATA[contract]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Audit Director - Digital Assets]]></title>
+    <date><![CDATA[Thu, 15 Oct 2026 15:20:46 +0000]]></date>
+    <referencenumber><![CDATA[17384]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/audit-director-digital-assets-in-accounting-and-finance-jobs-1759468]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Company:</b> <br> This firm has an excellent reputation on island and a growing digital assets practice. Clients include crypto and digital asset funds, virtual asset service providers (VASPs) and tokenised fund structures.<br></p><p><b>About the Opportunity:</b> <br> This is a standout Audit Director opportunity for an <b>existing Director working in digital assets</b>. You'll lead a portfolio of digital asset audits from planning through to sign-off, and you'll be the main point of contact for clients, fund administrators and regulators. CIMA now licenses virtual asset custodians and trading platforms, and stricter auditor approval rules start in January 2027. That means experienced digital asset audit leaders are in high demand on island. If you want senior responsibility in one of the fastest-growing areas of Cayman financial services, along with a genuine work-life balance, competitive salary and a supportive team culture, don't miss this role. Director roles in this niche are rare, so apply now for full details.</p><p><b>About You:</b></p><ul><li>Fully qualified auditor (CA, CPA, SAICA, ACCA, etc.) and <b>a current Audit Director with a specialism in digital assets (essential)</b></li><li>Ideally already licensed as a CIIPA practitioner member in Cayman, or eligible to get licensed on arrival</li><li>At least 5 years of management-level experience auditing regulated financial institutions, including digital asset funds, custodians, exchanges or trading platforms</li><li>Hands-on experience auditing:</li><li>existence and ownership of digital assets, including wallet and private key controls and blockchain confirmations</li><li>custody arrangements and SOC reports</li><li>valuation of illiquid tokens</li><li>IT and cyber controls</li><li>Good working knowledge of the Virtual Asset (Service Providers) Act, CIMA's VASP regime and AML/CFT requirements, plus audit obligations under the Mutual Funds and Private Funds Acts</li><li>Great interpersonal skills with clients and internal stakeholders, and a proven track record of training and developing your team in a positive, fun culture</li></ul>]]></description>
+    <salary><![CDATA[$160,000 - $210,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Treasury Manager]]></title>
+    <date><![CDATA[Tue, 06 Oct 2026 18:45:46 +0000]]></date>
+    <referencenumber><![CDATA[17372]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/treasury-manager-in-accounting-and-finance-jobs-1748081]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Company </b><br> <br> Our client is a highly successful private family office with a global reach, offering a collaborative environment, long-term stability, and exposure to a sophisticated operation. <br> <br> <b>About the Opportunity </b><br> <br> An exciting opportunity for an experienced Treasury professional to join a growing team in Cayman. This is a broad, high-visibility role with exposure to treasury operations, cash management, banking relationships, governance, and process improvement initiatives across an international platform.<br> <br> This position offers the chance to play a key role within a dynamic organization while working closely with senior stakeholders and external partners. <br> <br> <b>About You</b><br> <br> You will have minimum 6-7 years experience within Treasury, Banking Operations, Cash Management, or a related field, ideally within a complex or multi-entity environment. You are detail-oriented, proactive, and confident managing relationships, controls, and operational processes in a fast-paced setting. <br> <br> To learn more about this opportunity, please contact Cayleigh Fourie at CML. <br></p>]]></description>
+    <salary><![CDATA[$120,000 - $170,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Senior Manager (Insolvency)]]></title>
+    <date><![CDATA[Fri, 02 Oct 2026 00:05:47 +0000]]></date>
+    <referencenumber><![CDATA[17365]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/senior-manager-insolvency-in-accounting-and-finance-jobs-1743621]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Bermuda]]></state>
+    <country><![CDATA[Bermuda]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Company</b><br> An exciting opportunity to join a leading professional services firm in Bermuda with a highly regarded restructuring and insolvency practice. The firm offers an international working environment, access to best-in-class technology and methodologies, and ongoing professional development, with regular exposure to senior industry leaders and complex, high-profile engagements.</p><p><b>About the Opportunity</b><br> As Senior Manager, you will take a leading role in managing a diverse portfolio of liquidations, formal insolvency matters and corporate restructuring engagements. You will oversee cases from planning through execution, work closely with clients and key stakeholders, and contribute to the day-to-day management and continued growth of the practice.</p><p>This is an excellent opportunity for an experienced insolvency professional looking to take on greater leadership responsibility while continuing to develop their technical and commercial expertise within a sophisticated offshore market.</p><p><b>About You</b><br> You will be an experienced insolvency, restructuring or related professional with a strong track record of managing complex engagements and working with multiple stakeholders.</p><p>You will hold a Bachelor's degree or higher in Accounting, Law or a related discipline, together with an internationally recognised professional qualification such as CPA, CA, ACA, ACCA, JIEB, CFE, LLM or ICSA.</p>]]></description>
+    <salary><![CDATA[$130,000 - $180,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[32.3078]]></latitude>
+    <longitude><![CDATA[-64.7505]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Management Accountant (two days per week remote working)]]></title>
+    <date><![CDATA[Fri, 25 Sep 2026 16:25:03 +0000]]></date>
+    <referencenumber><![CDATA[17360]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/management-accountant-two-days-per-week-remote-working-in-accounting-and-finance-jobs-1736416]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Company</b><br> A well-established business in Cayman is looking for an ambitious Management Accountant to join its finance team. This is a hands-on role working closely with Senior Management and teams across the business, with responsibility for the day-to-day management accounting and financial reporting activities of the company.</p><p><b>About the Opportunity</b><br> This is an excellent opportunity for an accounting professional looking to build their career within a commercial, internal finance environment and gain exposure to the operations of a busy and growing business.</p><p>Day-to-day responsibilities will include preparing journal entries, accruals and balance sheet reconciliations; supporting month-end, quarter-end and year-end close; preparing and analyzing financial and management reports; and investigating variances, trends and potential financial risks.</p><p>This is a varied position offering the opportunity to take real ownership of key accounting activities while developing a strong understanding of the commercial operations behind the numbers.</p><p><b>About You</b><br> You’ll be an ambitious and commercially minded accounting professional with at least 4 years of progressive accounting or financial reporting experience and strong experience with month-end close, reconciliations and financial reporting. A full professional accounting qualification such as CPA, ACCA, ACA, CA is required.</p><p><b>Only Caymanian or Status Holder candidates are encouraged to apply.</b></p>]]></description>
+    <salary><![CDATA[$80,000 - $90,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Systems Analyst]]></title>
+    <date><![CDATA[Fri, 11 Sep 2026 21:10:06 +0000]]></date>
+    <referencenumber><![CDATA[17332]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/systems-analyst-in-information-technology-jobs-1718453]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>We are recruiting on behalf of a leading international organisation for an experienced Financial Systems Analyst to join its Cayman Islands team. This is an excellent opportunity for a technically skilled professional to support, enhance and optimise critical financial systems while working closely with finance, technology and business teams. You will play a key role in ensuring financial applications operate efficiently, reliably and in line with business needs.</p><p><b>Company Information</b><br> This opportunity is with a well-established organisation operating within the professional services and financial services sector, supporting a global client base across multiple jurisdictions. Known for its commitment to excellence, innovation and continuous improvement, the company offers a collaborative and inclusive environment where employees are encouraged to grow and develop their careers.<br> You will join a highly skilled Finance Systems team that works closely with stakeholders across finance, operations and technology functions. The organisation values teamwork, professional development and the effective use of technology to drive business success.</p><p><b>Responsibilities and Duties</b><br> As a Systems Analyst, you will:</p><ul><li>Provide advanced support for finance systems, applications and integrations.</li><li>Act as a subject matter expert for assigned financial platforms and related processes.</li><li>Analyse business requirements and translate them into effective technical solutions.</li><li>Design, develop and implement system enhancements and process improvements.</li><li>Investigate, troubleshoot and resolve complex application and integration issues.</li><li>Collaborate with internal stakeholders and third-party vendors on projects and upgrades.</li><li>Support system testing, user acceptance testing and change management activities.</li><li>Maintain technical documentation and contribute to ongoing knowledge sharing within the team.</li></ul><p><b>Qualifications and Skills</b><br> To be successful in this role, you should have:</p><ul><li>A Bachelor's degree in Information Technology, Computer Science or a related field.</li><li>A minimum of 3 years' experience in a Financial Systems Analyst, Systems Analyst or similar role.</li><li>Strong experience supporting and maintaining ERP or financial management systems.</li><li>Hands-on experience with Aderant Expert and related financial system integrations.</li><li>Advanced SQL skills and experience working with relational databases.</li><li>Knowledge of C#, APIs, web services and systems integration technologies.</li><li>Excellent analytical, problem-solving and troubleshooting abilities.</li><li>Strong communication and stakeholder management skills, with the ability to work effectively in a collaborative environment.</li></ul><p><b>Benefits and Perks</b><br> In return, you can expect a competitive package and a supportive working environment, including:</p><ul><li>Competitive salary and benefits package.</li><li>Hybrid working opportunities.</li><li>Comprehensive medical, dental and vision insurance.</li><li>Generous annual leave entitlement.</li><li>Professional development and training support.</li><li>Retirement savings plan.</li><li>Life and travel insurance coverage.</li><li>Wellness initiatives and employee engagement programmes.</li></ul>]]></description>
+    <salary><![CDATA[$100,000 - $120,000 Per Annum]]></salary>
+    <category><![CDATA[Information Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Audit Senior]]></title>
+    <date><![CDATA[Wed, 02 Sep 2026 11:35:03 +0000]]></date>
+    <referencenumber><![CDATA[17316]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/audit-senior-in-accounting-and-finance-jobs-1707181]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Company:</b><br> Our client is an accounting firm in the Cayman Islands with a global presence. This firm offers excellent work life balance, a positive environment and favourable working hours.<br> <br> <br> <b>About the Opportunity:</b><br> We are looking for newly qualified Audit Seniors. This is an exciting opportunity to progress your career and gain offshore financial services experience. <br> <br> <br> <b>About You:</b><br> You’ll be a fully qualified accountant (ACCA, ACA, CPA, etc.) with at least 2-3 years of experience working at a Big 4 or Top 10 firm. Prior financial services audit experience will be advantageous.</p>]]></description>
+    <salary><![CDATA[$75,000 - $75,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Q4 2026 Start - Audit Opportunities for Seniors, Assistant Managers & Managers]]></title>
+    <date><![CDATA[Wed, 02 Sep 2026 11:35:03 +0000]]></date>
+    <referencenumber><![CDATA[17321]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/q4-2026-start-audit-opportunities-for-seniors-assistant-managers-managers-in-accounting-and-finance-jobs-1707186]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Opportunity</b>:<br> Are you an experienced audit professional planning your next career move for the second half of 2026? I work closely with leading international audit firms and boutique practices across the Cayman Islands, offering early access to upcoming vacancies and market insights to support your transition.<br> <br> Whether you're currently on island or overseas and considering relocation later this year, apply to this advert to arrange a confidential, exploratory consultation tailored to your experience and long?term career goals.</p><p><b>About You:</b><br> I’m keen to speak with <b>Audit Seniors, Assistant Managers, and Managers</b> with strong external audit experience, ideally from Big 4 or top-tier firms. If you’re used to leading engagements, supervising teams, and delivering high?quality client service, I can guide you through roles expected to open for the next September 2026 intake, salary expectations and potential relocation packages as well as market insights on culture, team structures and progression.</p><p><b>All conversations are strictly confidential. Apply now to start planning your next career step in the Cayman Islands.</b></p>]]></description>
+    <salary><![CDATA[$75,000 - $120,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[onsite]]></remotetype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Account Manager / Senior Account Manager ]]></title>
+    <date><![CDATA[Wed, 02 Sep 2026 11:35:03 +0000]]></date>
+    <referencenumber><![CDATA[17318]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/account-manager-senior-account-manager-in-accounting-and-finance-jobs-1707183]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Opportunity</b></p><p>We are hiring<b> Account Managers and Senior Account Managers</b> to support a diverse portfolio of insurance and reinsurance captives. These roles sit within an established captive management team and involve end-to-end responsibility for client relationships, financial reporting, regulatory filings, and coordination with auditors, regulators, and service providers.</p><p>At Senior Account Manager level, you’ll take ownership of larger, more complex captives, act as a trusted client advisor, and mentor junior team members, while playing a key role in service delivery, governance, and strategic oversight.</p><p><b>About You</b></p><p>You might be an <b>Audit Senior</b> with a <b>predominantly insurance or captive portfolio</b>, now looking to move into industry and build deeper client ownership, or an <b>experienced Captive Account Manager</b> ready to step up into a <b>Senior Account Manager</b> role.</p><p>You bring a strong understanding of <b>insurance accounting</b>, financial statements, and regulatory reporting, along with excellent stakeholder management skills. You’re confident liaising with auditors and regulators, highly organized, and comfortable managing multiple client relationships. Experience with captives, reinsurance structures, or international insurance programs is highly regarded, as is a recognized accounting qualification (ACA, ACCA, CPA).</p>]]></description>
+    <salary><![CDATA[$80,000 - $120,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Ongoing Investment Analyst & Accounting opportunities]]></title>
+    <date><![CDATA[Wed, 02 Sep 2026 11:35:03 +0000]]></date>
+    <referencenumber><![CDATA[17319]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/ongoing-investment-analyst-accounting-opportunities-in-accounting-and-finance-jobs-1707184]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Opportunity:</b><br> Are you a qualified Accountant considering a move into the investment management industry in the Cayman Islands? I work closely with the family offices, investment managers and hedge funds on-island consistently supporting their recruitment needs and searches for top talent at the <b>Investment Analyst</b> and <b>Investment Accountant </b>levels.<br> <br> Whether you're currently on island or overseas and considering relocation, apply to this advert to arrange a confidential, exploratory consultation tailored to your experience and long?term career goals.</p><p><b>About You: </b><br> I’m looking to speak with aspiring CFA candidates or CFA qualified Accountants with experience auditing funds at a Big 4 or Top 10 accounting firm or existing experience in a similar role offshore as an <b>Investment Analyst</b> or <b>Investment Accountant.</b><br> <br> I can guide you through the market and support with live and upcoming roles at the family offices as well as discuss salary expectations, career progression prospects and why working in a family office can be one of the most sought-after positions on-island.</p><p><b>All conversations remain strictly confidential. Apply now to register for future opportunities and take the next step in your career in the Cayman Islands.</b></p>]]></description>
+    <salary><![CDATA[$90,000 - $140,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[onsite]]></remotetype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Insolvency Senior]]></title>
+    <date><![CDATA[Wed, 02 Sep 2026 11:35:03 +0000]]></date>
+    <referencenumber><![CDATA[17322]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/insolvency-senior-in-accounting-and-finance-jobs-1707187]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Company:</b><br> A well regarded firm on island is looking for an Insolvency Senior or Assistant Manager to join their growing team.<br></p><p><b>About the Opportunity:</b><br> A well regarded firm on island is looking for an Insolvency Senior or Assistant Manager to join their growing team. This role will allow you the opportunity to be involved in contentious liquidations and corporate restructuring as well as forensics and investigations.</p><p><br><b>About You:</b><br> You must be a fully qualified accountant with at least 2 years experience in a similar role. Although prior insolvency and restructuring is preferable, high performing individuals with previous funds audit or other transferrable experience may be considered.</p>]]></description>
+    <salary><![CDATA[$75,000 - $90,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Ongoing Insolvency & Restructuring Opportunities – Seniors, Assistant Managers & Managers]]></title>
+    <date><![CDATA[Wed, 02 Sep 2026 11:35:03 +0000]]></date>
+    <referencenumber><![CDATA[17320]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/ongoing-insolvency-restructuring-opportunities-–-seniors-assistant-managers-managers-in-accounting-and-finance-jobs-1707185]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Opportunity: </b><br> Are you an experienced insolvency or restructuring professional considering your next move in the Cayman Islands? I work closely with leading insolvency practices, specialist advisory firms, and international financial services organisations that are consistently seeking strong talent at a range of levels.<br> <br> Whether you're already on island and exploring progression, or overseas and curious about relocating, apply to this advert to arrange a confidential consultation. I can guide you through current openings as well as future opportunities that align with your experience and career goals.</p><p><b>About You: </b><br> I’m keen to speak with <b>Insolvency Seniors, Assistant Managers, and Managers</b> with experience in insolvency, restructuring, liquidation, or financial advisory—ideally from a Big 4, top-tier advisory firms, or specialist insolvency practices.<br> <br> If you’re used to managing cases, handling complex files, and working in a dynamic environment, I can support you with live and upcoming roles across the insolvency and restructuring market, offer guidance around salary expectations, potential relocation support and genuine market insight.</p><p><b>All conversations remain strictly confidential. Apply now to explore ongoing opportunities and take the next step in your insolvency career in the Cayman Islands.</b></p>]]></description>
+    <salary><![CDATA[$80,000 - $130,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[onsite]]></remotetype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Junior IT Officer]]></title>
+    <date><![CDATA[Mon, 31 Aug 2026 14:05:30 +0000]]></date>
+    <referencenumber><![CDATA[17312]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/junior-it-officer-in-information-technology-jobs-1703959]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>Job Summary</b></p><p>An exciting opportunity has arisen for a Junior IT Solutions Officer on behalf of a well-established organisation within the financial services sector. This role is ideally suited to an early-career IT professional or recent graduate looking to build technical expertise in a fast-paced, professional environment. You will support business applications, technology systems, digital initiatives, and end users while contributing to the smooth operation and continuous improvement of IT services.</p><p><b>Company Information</b></p><p>Join a respected and growing organisation operating within the banking and financial services industry. The business is committed to innovation, collaboration, and operational excellence, with a strong focus on leveraging technology to enhance customer experience and business performance.</p><p>You will become part of a supportive technology team that works closely with stakeholders across the organisation to deliver reliable IT solutions, drive digital transformation, and maintain high service standards. This is an excellent opportunity to develop your career while working alongside experienced professionals in a collaborative environment.</p><p><b>Responsibilities and Duties</b></p><p>As the Junior IT Solutions Officer, you will:</p><ul><li>Provide first-line support for business applications and technology systems.</li><li>Troubleshoot and assist with resolving software, application, and system-related issues.</li><li>Support system testing, upgrades, implementations, and technology enhancements.</li><li>Assist with user account administration and access management activities.</li><li>Deliver technical support and guidance to employees across the organisation.</li><li>Maintain accurate IT documentation, procedures, and system records.</li><li>Contribute to IT projects, digital transformation initiatives, and process improvement activities.</li><li>Liaise with external vendors and support cybersecurity, compliance, business continuity, and onboarding activities.</li></ul><p><b>Qualifications and Skills</b></p><p>To be successful in this role, you should have:</p><ul><li>An Associate's Degree or Bachelor's Degree in Information Technology, Computer Science, Information Systems, or a related field.</li><li>Between 1 and 3 years of IT experience, or be a recent graduate with relevant internships or project experience.</li><li>Experience supporting Microsoft 365 applications and business systems would be advantageous.</li><li>Strong problem-solving and analytical skills.</li><li>A good understanding of business applications and technology systems.</li><li>Excellent communication and customer service skills.</li><li>Strong organisational and time-management abilities.</li><li>The ability to work independently, collaborate within a team, and demonstrate a willingness to learn and develop new technical skills.</li></ul><p><b>Benefits and Perks</b></p><p>In return, you will have the opportunity to:</p><ul><li>Join a forward-thinking organisation undergoing an exciting period of growth and transformation.</li><li>Develop your IT career within the financial services sector.</li><li>Gain exposure to enterprise technology systems, digital initiatives, and business-critical applications.</li><li>Work alongside experienced professionals in a supportive and collaborative environment.</li><li>Contribute directly to technology improvements and operational excellence initiatives.</li><li>Expand your technical knowledge through hands-on project involvement and continuous learning opportunities.</li><li>Be part of a culture that values innovation, teamwork, and professional development.</li></ul><p><i>This role is only open to Caymanian candidates and only suitable applications will be considered and contacted.</i></p>]]></description>
+    <salary><![CDATA[$66,000 - $84,000 Per Annum]]></salary>
+    <category><![CDATA[Information Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Cloud Developer]]></title>
+    <date><![CDATA[Tue, 18 Aug 2026 22:50:04 +0000]]></date>
+    <referencenumber><![CDATA[17300]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/cloud-developer-in-information-technology-jobs-1689674]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>We are recruiting on behalf of a well-established organisation seeking a talented Cloud Microservices Developer to join its growing technology team. This is an exciting opportunity for an experienced software developer who is passionate about cloud computing, microservices architecture, API development, and scalable application design. You will play a key role in designing, developing, and maintaining modern cloud-native solutions that support critical business operations and digital innovation.</p><p><b>Company Information</b></p><p>Join a forward-thinking organisation operating within a technology-driven environment that places a strong emphasis on innovation, collaboration, and continuous improvement. The company is investing heavily in modern cloud technologies and digital transformation initiatives, creating an exciting landscape for skilled software professionals.</p><p>You will become part of a highly collaborative team of developers, engineers, and technical specialists who are committed to delivering secure, scalable, and high-performing cloud solutions. The culture encourages knowledge sharing, professional development, and the adoption of industry best practices.</p><p><b>Responsibilities and Duties</b></p><p>As a Cloud Microservices Developer, you will:</p><ul><li>Design, develop, and maintain scalable microservices using modern development frameworks and best practices.</li><li>Build and integrate RESTful APIs, with exposure to GraphQL or gRPC where required.</li><li>Develop and deploy cloud-native applications across AWS, Azure, or Google Cloud Platform environments.</li><li>Create and manage containerised applications using Docker and orchestration technologies such as Kubernetes or managed cloud services.</li><li>Implement event-driven architectures and integrate systems using messaging and streaming technologies including Kafka, RabbitMQ, Amazon SQS/SNS, or EventBridge.</li><li>Collaborate with DevOps teams to implement and enhance CI/CD pipelines, improving deployment efficiency and reliability.</li><li>Monitor, troubleshoot, and optimise application performance, scalability, availability, and resource utilisation.</li><li>Produce technical documentation, participate in code reviews, and support ongoing platform enhancement and incident resolution.</li></ul><p><b>Qualifications and Skills</b></p><p>To be successful in this role, you should have:</p><ul><li>A Bachelor's degree in Computer Science, Information Technology, Software Engineering, Computer Systems, or a related discipline.</li><li>2 to 5 years of experience developing enterprise-level software applications.</li><li>At least 2 years of hands-on experience building and implementing microservices-based solutions.</li><li>Strong experience with Java (Spring Boot), .NET, Node.js, Go, Python, or similar modern programming languages.</li><li>Practical knowledge of cloud platforms, particularly AWS, Azure, or Google Cloud Platform.</li><li>Experience with Docker, Kubernetes, Git, CI/CD tools, and automated testing methodologies.</li><li>Strong understanding of API security standards including OAuth 2.0, OpenID Connect, and JWT authentication.</li><li>Excellent problem-solving, communication, teamwork, and analytical skills, with experience working in Agile environments such as Scrum or Kanban.</li></ul><p><b>Desirable Skills</b></p><p>The following would be advantageous:</p><ul><li>Domain-Driven Design (DDD), Hexagonal Architecture, or Clean Architecture.</li><li>Apache Kafka and event-driven architecture experience.</li><li>Service Mesh technologies such as Istio or Linkerd.</li><li>Observability and monitoring tools including Prometheus, Grafana, ELK, or OpenTelemetry.</li><li>Infrastructure as Code tools such as Terraform.</li><li>AWS, Azure, Google Cloud, or Kubernetes certifications.</li></ul><p><b>Benefits and Perks</b></p><p>In return for your expertise, you can expect:</p><ul><li>Competitive salary package.</li><li>Opportunity to work with cutting-edge cloud and microservices technologies.</li><li>Exposure to large-scale, business-critical cloud platforms and distributed systems.</li><li>Collaborative and supportive team environment.</li><li>Ongoing professional development and training opportunities.</li><li>Career progression within a growing technology function.</li><li>Participation in innovative projects that drive digital transformation.</li><li>A culture that values continuous learning, technical excellence, and employee growth.</li></ul>]]></description>
+    <salary><![CDATA[$70,000 - $90,000 Per Annum]]></salary>
+    <category><![CDATA[Information Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Technical Lead]]></title>
+    <date><![CDATA[Tue, 18 Aug 2026 22:45:04 +0000]]></date>
+    <referencenumber><![CDATA[17299]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/technical-lead-in-information-technology-jobs-1689672]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>We are recruiting on behalf of a well-established organisation for an experienced Technical Lead to join its growing technology team. This is an excellent opportunity for a technology professional with strong leadership skills, software development expertise, and a strategic mindset to lead technical projects, manage development teams, and help shape the future direction of technology initiatives.</p><p><b>Company Information</b></p><p>This opportunity is with a forward-thinking organisation operating within the technology and software development sector. The company is known for delivering innovative digital solutions, maintaining high technical standards, and fostering long-term relationships with clients and technology partners.</p><p>You will be joining a collaborative and ambitious team that values innovation, continuous improvement, and professional development. The culture encourages knowledge sharing, teamwork, and a proactive approach to solving complex technical challenges while delivering outstanding results for clients.</p><p><b>Responsibilities and Duties</b></p><p>As the Technical Lead, you will:</p><ul><li>Lead the planning, execution, and successful delivery of software development projects.</li><li>Oversee day-to-day technology operations and drive operational efficiency across the development function.</li><li>Manage relationships with technology vendors and external development partners.</li><li>Monitor key performance indicators (KPIs) and implement continuous improvement initiatives.</li><li>Supervise, mentor, and motivate software development and support teams.</li><li>Foster a culture of collaboration, innovation, accountability, and continuous learning.</li><li>Define development priorities and contribute to the technology roadmap based on business and client requirements.</li><li>Ensure software solutions meet quality, security, and cloud infrastructure best practice standards.</li></ul><p><b>Qualifications and Skills</b></p><p>To be successful in this role, you should have:</p><ul><li>A degree in Computer Science, Information Technology, Systems Engineering, or a related discipline.</li><li>At least 3 years' experience leading operations or technical teams within a technology-focused environment.</li><li>Strong knowledge of cloud platforms such as AWS, Microsoft Azure, or Google Cloud Platform (GCP).</li><li>Experience leading software development projects and managing cross-functional technical teams.</li><li>Knowledge of Agile methodologies and project management principles.</li><li>Excellent leadership, communication, and stakeholder management skills.</li><li>Strong strategic thinking abilities with a results-driven approach.</li><li>Experience with cybersecurity best practices and secure cloud environments would be advantageous.</li></ul><p><b>Benefits and Perks</b></p><p>In return, you can expect:</p><ul><li>Competitive salary package.</li><li>Opportunity to lead impactful software development and technology projects.</li><li>Exposure to modern cloud technologies and innovative solutions.</li><li>A collaborative and supportive working environment.</li><li>Professional development and career growth opportunities.</li><li>The chance to influence technology strategy and business outcomes.</li><li>A culture that values innovation, continuous improvement, and employee contributions.</li><li>Engagement with clients, vendors, and industry-leading technology partners.</li></ul>]]></description>
+    <salary><![CDATA[$120,000 - $140,000 Per Annum]]></salary>
+    <category><![CDATA[Information Technology]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Valuations Manager]]></title>
+    <date><![CDATA[Sat, 20 Jun 2026 09:25:03 +0000]]></date>
+    <referencenumber><![CDATA[17224]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/valuations-manager-in-accounting-and-finance-jobs-1607216]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Company</b><br> A leading professional services firm in the Cayman Islands is seeking an experienced Valuations Manager to join its growing consulting practice.</p><p><b>About the Opportunity</b><br> This is an excellent opportunity for an experienced valuation professional who enjoys working on complex engagements and managing a diverse client portfolio. As a Manager, you will oversee and mentor staff and be responsible for a portfolio of valuation and financial modeling assignments across financial services clients.</p><p><b>About You</b><br> You will be a fully qualified accountant (ACA, CPA, CA) or Chartered Financial Analyst (CFA) and bring a minimum of five years experience in valuations, financial modeling, or related advisory services.</p>]]></description>
+    <salary><![CDATA[$90,000 - $115,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Advisory Senior Associate]]></title>
+    <date><![CDATA[Wed, 17 Jun 2026 22:00:03 +0000]]></date>
+    <referencenumber><![CDATA[17221]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/advisory-senior-associate-in-accounting-and-finance-jobs-1603337]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Company</b><br> A consulting firm in the Cayman Islands are looking for a Risk Advisory Senior Associate to join their growing global team.<br> <br> <br> <b>About the Opportunity</b><br> This is an exciting opportunity to join a forward-thinking and expanding professional services firm, working alongside experienced professionals on a diverse portfolio of client engagements. The successful candidate will have the opportunity to work with organisations across a range of industries, helping them navigate evolving regulatory requirements, strengthen governance frameworks, and enhance their risk management practices.<br> <br> <br> <b>About You</b><br> You will be a qualified Accountant with a minimum 2-3 years’ experience in advisory, risk consulting or compliance in a similar professional services firm environment. Experience with financial services clients is highly regarded.<br></p>]]></description>
+    <salary><![CDATA[$75,000 - $85,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Insolvency Manager]]></title>
+    <date><![CDATA[Wed, 11 Mar 2026 00:00:00 +0000]]></date>
+    <referencenumber><![CDATA[17086]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/insolvency-manager-in-accounting-and-finance-jobs-1461954]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Company</b><br> You will have the opportunity to join a well-known insolvency and advisory firm in the Cayman Islands.<br></p><p><b>About the Opportunity</b><br> You will build on your formal insolvency, forensics and corporate restructuring experience whilst managing a portfolio of high-profile cases from initial engagement to dissolution.</p><p><b>About You</b><br> You should demonstrate a minimum of three to five years insolvency case management experience and hold an internationally recognized accounting designation. Experience with funds or investment structures is preferable.</p>]]></description>
+    <salary><![CDATA[$90,000 - $115,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[US Tax Senior]]></title>
+    <date><![CDATA[Tue, 10 Mar 2026 00:00:00 +0000]]></date>
+    <referencenumber><![CDATA[17085]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/us-tax-senior-in-accounting-and-finance-jobs-1460126]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Company: </b><br> A Big 4 Consulting firm on island in Cayman are looking for a US Tax Senior with client facing experience to join their team.<br> <br> <br> <b>About the Opportunity: </b><br> An exciting opportunity for a US Tax professional to join a Big 4 Consulting firm in the Cayman Islands. You will work on a range of US tax compliance and advisory engagements for corporate clients, gain valuable experience and have the opportunity to progress your career in the Cayman Islands<br> <br> <br> <b>About You:</b><br> You will be CPA qualified with a minimum of 2 years client facing corporate US tax experience at a public accounting or advisory firm. Experience with hedge funds or corporate insurance clients is preferable.</p>]]></description>
+    <salary><![CDATA[$75,000 - $85,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Account Manager]]></title>
+    <date><![CDATA[Mon, 02 Feb 2026 20:42:38 +0000]]></date>
+    <referencenumber><![CDATA[17035]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/account-manager-in-accounting-and-finance-jobs-1409578]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Opportunity</b></p><p>In this role based in the Cayman Islands, you will manage a portfolio of insurance clients and support all aspects of financial reporting, regulatory compliance, and day-to-day account oversight. This opportunity offers exposure to a fast-paced environment within the captive insurance sector and the chance to develop deep industry expertise while working closely with a collaborative team.<br> <br> <b>About You</b><br> <br> You’ll likely be an Audit Senior with at least 2 years' experience auditing insurance, captive managers, or reinsurance portfolios, now looking to transition into a client-facing industry role. You hold an internationally recognised professional accounting designation (CPA, ACA, ACCA, CA, etc.). <br></p>]]></description>
+    <salary><![CDATA[$90,000 - $105,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Industry Accountant]]></title>
+    <date><![CDATA[Tue, 25 Feb 2025 20:46:23 +0000]]></date>
+    <referencenumber><![CDATA[16548]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/industry-accountant-in-accounting-and-finance-jobs-1147992]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the company:</b><br> A well known company on-island is looking for an Accountant to join their team.<br> <br> <b>About the opportunity:</b><br> This role is a stand out opportunity for a qualified accountant and will include the autonomous management of the accounts department, ensuring reporting deadlines are met and reporting to a Financial Controller. <br> <br> <b>About you:</b><br> This role is ideal for a fully qualified accountant (CPA, ACCA, ACA, etc.) with previous experience managing a small team. Experience in stock and inventory is an advantage but not essential. A strong leader who is 'hands on' with experience in leading all levels of accounting staff.</p>]]></description>
+    <salary><![CDATA[$75,000 - $85,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Fund Accountant]]></title>
+    <date><![CDATA[Tue, 25 Feb 2025 20:46:23 +0000]]></date>
+    <referencenumber><![CDATA[16546]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/fund-accountant-in-accounting-and-finance-jobs-1147995]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the company:</b><br> A large international fund administrator is looking for a Fund Accountant to join their growing team. <br> <br> <b>About the opportunity:</b><br> You will be responsible for the fund administration of a group of complex alternative investment funds including private equity, private debt and hedge funds. This company is one of the best places on-island to work with strong opportunities for progression, competitive salaries and benefits and great work life balance.<br> <br> <b>About you:</b><br> You will be a fully qualified accountant with strong technical knowledge of alternative investments. Whilst funds audit experience is preferred, general industry audit experience may also be considered.</p>]]></description>
+    <salary><![CDATA[$90,000 - $95,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Tax Senior]]></title>
+    <date><![CDATA[Tue, 25 Feb 2025 20:46:23 +0000]]></date>
+    <referencenumber><![CDATA[16549]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/tax-senior-in-accounting-and-finance-jobs-1147993]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p>This is an extremely unique opportunity to practice US taxation in the Cayman Islands. You’ll get the opportunity to work on some of the most interesting partnerships, individual and corporate structures imaginable and gain invaluable experience. Whilst working at a global, market leading firm, you’ll get the benefits this affords, and enjoy a beach lifestyle, tax-free salary and no commute in the beautiful Cayman Islands.</p>]]></description>
+    <salary><![CDATA[$75,000 - $85,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[onsite]]></remotetype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Associate - Corporate]]></title>
+    <date><![CDATA[Wed, 31 Jul 2024 17:42:59 +0000]]></date>
+    <referencenumber><![CDATA[16237]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/associate-corporate-in-legal-jobs-979107]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the Company:</b><br> Join a premier global offshore law firm in the vibrant Cayman Islands, known for excellence in advising blue-chip corporate clients from all over the world. From M&amp;A, joint ventures, and VC to crypto and fintech regulatory, this law firm really handles everything you can imagine in the corporate space.</p><p><b>About the Position:</b><br> Our client is seeking a high-calibre Corporate Associate to join their dynamic Cayman Islands team. Your role will involve supporting corporate clients in transactions across key jurisdictions and complex deals within tight deadlines.</p><p><b>About the Candidate:</b><br> We're seeking an experienced Corporate Associate with expertise in cross-border transactions from a recognised onshore or offshore firm. Join our client’s global firm in the Cayman Islands for a challenging yet balanced professional environment, and enjoy the unique lifestyle this desirable location offers.</p>]]></description>
+    <salary><![CDATA[$160,000 - $200,000 Per Annum]]></salary>
+    <category><![CDATA[Legal]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Associate - Trust & Private Wealth ]]></title>
+    <date><![CDATA[Wed, 15 Nov 2023 20:49:07 +0000]]></date>
+    <referencenumber><![CDATA[15674]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/associate-trust-private-wealth-in-legal-jobs-707760]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About our client:</b><br> Our client is a leading, independent provider of specialised corporate, trust and fiduciary services with a wide network that allows them to provide reliable service. Their international client base includes some of the world’s top law firms, investment funds, financial institutions and high-net-worth individuals.</p><p><b>About the position: </b><br> As an Associate, you will be working as a part of a dynamic team, acting as a point of contact in both contentious and non-contentious private client work, including trust and supplemental deed drafting, advisory work, will drafting, family office planning, wealth structuring, probate applications, trust applications and trust related disputes.</p><p><b>About you:</b></p><p>You must be a qualified associate within a relevant jurisdiction* with a minimum of 5 years post-qualification experience in all aspects of private client work. Desired skills include an ability to provide accurate, focused advice to clients and a proven ability to work both autonomously and as a part of a team.<br> <br> * Cayman Islands, UK, Ireland, Australia, New Zealand and Canada</p><p><i>For more information or to apply, contact <a href="mailto:graham.blyth@cml.ky">graham.blyth@cml.ky</a> for a confidential conversation.</i></p>]]></description>
+    <salary><![CDATA[$175,000 - $200,000 Per Annum]]></salary>
+    <category><![CDATA[Legal]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+  <job>
+    <title><![CDATA[Crypto Accountant]]></title>
+    <date><![CDATA[Wed, 15 Nov 2023 20:49:07 +0000]]></date>
+    <referencenumber><![CDATA[15004]]></referencenumber>
+    <url><![CDATA[https://www.cml.ky/job-details/crypto-accountant-in-accounting-and-finance-jobs-707744]]></url>
+    <company><![CDATA[CML Bullhorn]]></company>
+    <sourcename><![CDATA[Shazamme]]></sourcename>
+    <city><![CDATA[]]></city>
+    <state><![CDATA[Cayman Islands]]></state>
+    <country><![CDATA[Cayman Islands]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <description><![CDATA[<p><b>About the company:</b><br> Join the digital revolution! A crypto company on island is looking for a fully qualified accountant with a keen interest in cryptocurrencies to join their team.<br> <br> <b>About the opportunity:</b><br> You will be responsible for internal finance and helping interpret and set out the processes and audit procedures for the company. You will be working right at the leading edge of digital asset technology with close interaction with monitoring the markets, the mining facilities and new applications being built on the blockchain.<br> <br> <b>About you:</b><br> You must be a fully qualified accountant (CPA, CA, ACA, ACCA) with a Big4 / Top10 audit experience. You must have an agile mind and be able to work in a fast-paced environment where processes and procedures need to be established. They are rapidly expanding and so there is scope to get more involved with the technology, the operations and the overseas offices. This role is open to Caymanians, status holders and expats.</p>]]></description>
+    <salary><![CDATA[$80,000 - $90,000 Per Annum]]></salary>
+    <category><![CDATA[Accounting and Finance]]></category>
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <latitude><![CDATA[19.3133]]></latitude>
+    <longitude><![CDATA[-81.2546]]></longitude>
+  </job>
+</source>
